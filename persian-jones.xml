@@ -1,0 +1,8686 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Ab excessu divi Marci</title>
+            <author>Herodian</author>
+            <editor>Immanuel Bekker</editor>
+            <respStmt>
+               <orgName instant="false" full="yes">Perseus Project</orgName>
+               <resp>Keyboarding</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>University of Leipzig</authority>
+            <idno type="filename">pesian-jones.xml</idno>
+            <availability default="false" status="unknown">
+               <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Available under a Creative Commons Attribution-ShareAlike 4.0 International License</licence>
+            </availability>
+            <date instant="false">2017</date>
+            <publisher>University of Leipzig</publisher>
+            <pubPlace>Germany</pubPlace>
+         </publicationStmt>
+         <sourceDesc default="false">
+            <listBibl default="false">
+               <biblStruct default="false" status="draft">
+                  <monogr>
+                     <title>A Grammar of the Persian Language: sixth edition</title>
+                     <ref target="https://archive.org/details/grammarofpersian00joneiala">Internet Archive</ref>
+                     <author>William Jones</author>
+                     <editor>Elijah Cooke</editor>
+                     <editor>Franzi ...</editor>
+                     <editor>Gregory Crane</editor>
+                     <editor>Maryam Foradi</editor>
+                     <imprint>
+                        <pubPlace>London</pubPlace>
+                        <publisher>W. Bulmer and Co.</publisher>
+                        <date instant="false">1804</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <p>The following text is encoded in accordance with EpiDoc standards and with the
+            CTS/CITE Architecture. 
+         </p>
+         <refsDecl n="CTS">
+            <cRefPattern n="section" matchPattern="(\w+).(\w+).(\w+)" replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1']/tei:div[@n='$2']//tei:seg[@n='$3'])"/>
+            <cRefPattern n="chapter" matchPattern="(\w+).(\w+)" replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1']/tei:div[@n='$2'])"/>
+            <cRefPattern n="book" matchPattern="(\w+)" replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1'])"/>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage default="false">
+            <language ident="lat">Latin</language>
+            <language ident="grc">Greek</language>
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+ <p> 
+
+A
+
+GRAMMAR
+
+OF THE
+
+PERSIAN LANGUAGE.
+
+FELLOW OF UNIVERSITY COLLEGE, OXFORD, AND OF THE ROYAL
+SOCIETIES OF LONDON AND COPENHAGEN.
+
+PRINTED BY W. BULMER AND CO. CLEVELAND-ROW,
+
+FROM THE TYPES OF W. MARTIN, ORIENTAL TYPE FOUNDER AND PRINTER
+TO THE HONOURABLE THE EAST INDIA COMPANY,
+
+FOR LACKINGTON, ALLEN, AND CO.; CUTHELL AND MARTIN; S. BAGSTER;
+
+J. walker; j. asperne; and black and parry.
+
+1804.
+
+BY WILLIAM JONES, ESQ.
+
+THE SIXTH EDITION,
+
+WITH ADDITIONS AND IMPROVEMENTS.
+
+LONDON:
+<pb/>Digitized by the Internet Archive
+in 2007 with funding from
+Microsoft Corporation
+
+http://www.archive.org/details/grammarofpersianOOjoneiala
+<pb/>THE
+
+PREFACE.
+
+The Persian language is rich, melodious, and elegant;
+it has been spoken for many ages by the greatest princes
+in the politest courts of Asia; and a number of admirable
+works have been written in it by historians, philosophers,
+and poets, who found it capable of expressing with equal
+advantage the most beautiful and the most elevated
+sentiments.
+
+It must seem strange, therefore, that the study of this
+language should be so little cultivated at a time when a
+taste for general and diffusive learning seems universally
+to prevail; and that the fine productions of a celebrated
+nation should remain in manuscript upon the shelves of
+our public libraries, without a single admirer who might
+open their treasures to his countrymen, and display their
+beauties to the light; but if we consider the subject with a
+a
+
+( 'a r_«
+<pb/>PREFACE.
+
+ii
+
+proper attention, we shall discover a variety of causes
+which have concurred to obstruct the progress of Eastern
+literature.
+
+Some men never heard of the Asiatic writings, and others
+will not be convinced that there is any thing valuable in
+them ; some pretend to be busy, and others are really idle;
+some detest the Persians, because they believe in Mahomed,
+and others despise their language, because they do not
+understand it: we all love to excuse, or to conceal, our
+ignorance, and are seldom willing to allow any excellence
+beyond the limits of our own attainments: like the savages,
+who thought that the sun rose and set for them alone, and
+could not imagine that the waves, which surrounded their
+island, left coral and pearls upon any other shore.
+
+Another obvious reason for the neglect of the Persian
+language is the great scarcity of books, which are necessary
+to be read before it can be perfectly learned, the greater
+part of them are preserved in the different museums and
+libraries of Europe, where they are shewn more as objects
+of curiosity than as sources of information; and are ad-
+mired, like the characters on a Chinese screen, more for
+their gay colours than for their meaning.
+<pb/>PREFACE.
+
+iii
+
+Thus, while the excellent writings of Greece and Rome
+are studied by every man of a liberal education, and diffuse
+a general refinement through our part of the world, the
+works of the Persians, a nation equally distinguished in
+ancient history, are either wholly unknown to us, or con-
+sidered as entirely destitute of taste and invention.
+
+But if this branch of literature has met with so many
+obstructions from the ignorant, it has, certainly, been
+checked in its progress by the learned themselves; most of
+whom have confined their study to the minute researches of
+verbal criticism; like men who discover a precious mine,
+but instead of searching for the rich ore, or for gems, amuse
+themselves with collecting smooth pebbles and pieces of
+crystal. Others mistook reading for learning, which ought
+to be carefully distinguished by every man of sense, and
+were satisfied with running over a great number of manu-
+scripts in a superficial manner, without condescending to be
+stopped by their difficulty, or to dwell upon their beauty
+and elegance. The rest have left nothing more behind
+them than grammars and dictionaries; and though they
+deserve the praises due to unwearied pains and industry,
+yet they would, perhaps, have gained a more shining
+<pb/>]V
+
+PREFACE.
+
+reputation, if they had contributed to beautify and enlighten
+the vast temple of learning, instead of spending their lives
+in adorning only its porticos and avenues.
+
+There is nothing which has tended more to bring polite
+letters into discredit, than the total insensibility of commen-
+tators and critics to the beauties of the authors whom they
+profess to illustrate: few of them seem to have received
+the smallest pleasure from the most elegant compositions,
+unless they found some mistake of a transcriber to be cor-
+rected, or some established reading to be changed, some
+obscure expression to be explained, or some clear passage
+to be made obscure by their notes.
+
+It is a circumstance equally unfortunate that men of the
+most refined taste and the brightest parts are apt to look
+upon a close application to the study of languages as in-
+consistent with their spirit and genius: so that the state of
+letters seems to be divided into two classes, men of learn-
+ing who have no taste, and men of taste who have no
+learning.
+
+M. de Voltaire, who excels all writers of his age and
+country in the elegance of his style, and the wonderful
+variety of his talents, acknowledges the beauty of the Persian
+<pb/>PREFACE.
+
+v
+
+images and sentiments, and has versified a fine passage
+from Sadi, whom he compares to Petrarch: if that extra-
+ordinary man had added a knowledge of the Asiatic
+languages to his other acquisitions, we should by this time
+have seen the poems and histories of Persia in an European
+dress, and any other recommendation of them would have
+been unnecessary.
+
+But there is yet another cause which has operated more
+strongly than any before mentioned towards preventing the
+rise of Oriental literature ; I mean the small encouragement
+which the princes and nobles of Europe have given to men
+of letters. It is an indisputable truth, that learning will
+always flourish most where the amplest rewards are pro-
+posed to the industry of the learned; and that the most
+shining periods in the annals of literature are the reigns of
+wise and liberal princes, who know that fine writers are the
+oracles of the world, from whose testimony every king;
+statesman, and hero must expect the censure or approbation
+of posterity. In the old states of Greece the highest
+honours were given to poets, philosophers, and orators;
+and a single city (as an eminent writer * observes) in the
+
+* Aschara.
+<pb/>VI
+
+PREFACE.
+
+memory of one man, produced more numerous and splendid
+monuments of human genius than most other nations have
+afforded in a course of ages.
+
+The liberality of the Ptolemies in Egypt drew a number
+of learned men and poets to their court, whose works re-
+main to the present age the models of taste and elegance;
+and the writers, whom Augustus protected, brought their
+compositions to a degree of perfection, which the language
+of mortals cannot surpass. Whilst all the nations of Europe
+were covered with the deepest shade of ignorance, the
+Califs in Asia encouraged the Mahomedans to improve
+their talents, and cultivate the fine arts; and even the
+Turkish Sultan, who drove the Greeks from Constantinople,
+was a patron of literary merit, and was himself an elegant
+poet. The illustrious family of Medici invited to Florence
+the learned men whom the Turks had driven from their
+country; and a general light succeeded to the gloom which
+ignorance and superstition had spread through the western
+world. But that light has not continued to shine with equal
+splendour; and though some slight efforts have been made
+to restore it, yet it seems to have been gradually decaying
+for the last century: it grows very faint in Italy ; it seems
+<pb/>PREFACE.
+
+vii
+
+wholly extinguished in France, and whatever sparks of it
+remain in other countries are confined to the closets of
+humble and modest men, and are not general enough to
+have their proper influence.
+
+The nobles of our days consider learning as a subor-
+dinate acquisition, which would not be consistent with the
+dignity of their fortunes, and should be left to those who
+toil in a lower sphere of life : but they do not reflect on
+the many advantages which the study of polite letters
+would give peculiarly to persons of eminent rank and high
+employments; who, instead of relieving their fatigues by
+a series of unmanly pleasures, or useless diversions, might
+spend their leisure in improving their knowledge, and in
+conversing with the great statesmen, orators, and philoso-
+phers of antiquity.
+
+If learning in general has met with so little encourage-
+ment, still less can be expected for that branch of it, which
+lies so far removed from the common path, and which the
+greater part of mankind have hitherto considered as inca-
+pable of yielding either entertainment or instruction: if
+pains and want be the lot of a scholar, the life of an Orien-
+talist must certainly be attended with peculiar hardships.
+<pb/>PREFACE.
+
+viii
+
+Gentius, who published a beautiful Persian work called
+the Bed of Roses, with an useful but inelegant translation,
+lived obscurely in Holland, and died in misery. Hyde,
+who might have contributed greatly towards the progress
+of Eastern learning, formed a number of expensive projects
+with that view, but had not the support and assistance
+which they deserved and required. The labours of Meninski
+immortalized and ruined him : his Dictionary of the Asiatic
+languages is, perhaps, the most laborious compilation that
+was ever undertaken by any single man ; but he complains
+in his preface that his patrimony was exhausted by the
+great expense of employing and supporting a number of
+writers and printers, and of raising a new press for the
+Oriental characters. M. d’Herbelot, indeed, received the
+most splendid reward of his industry: he was invited to
+Italy by Ferdinand II. Duke of Tuscany, who entertained
+him with that striking munificence which always distin-
+guished the race of the Medici: after the death of Ferdi-
+nand, the illustrious Colbert recalled him to Paris, where
+he enjoyed the fruits of his labour, and spent the remainder
+of his days in an honourable and easy retirement. But this
+is a rare example: the other princes of Europe have not
+<pb/>PREFACE.
+
+iX
+
+imitated the duke of Tuscany; and Christian VII. was
+reserved to be the protector of the Eastern Muses in the
+present age.
+
+Since the literature of Asia was so much neglected, and
+the causes of that neglect were so various, we could not
+have expected that any slight power would rouze the nations
+of Europe from their inattention to it; and they would,
+perhaps, have persisted in despising it, if they had not been
+animated by the most powerful incentive that can influence
+the mind of man: interest was the magic wand which
+brought them all within one circle ; interest was the charm
+which gave the languages of the East a real and solid im-
+portance. By one of those revolutions, which no human
+prudence could have foreseen, the Persian language found
+its way into India; that rich and celebrated empire, which,
+by the flourishing state of our commerce, has been the
+source of incredible wealth to the merchants of Europe. A
+variety of causes, which need not be mentioned here,,gave
+the English nation a most extensive power in that kingdom:
+our India Company began to take under their protection
+the princes of the country, by whose protection they gained
+their first settlement; a number of important affairs were
+b
+<pb/>X
+
+PREFACE.
+
+to be transacted in peace and war between nations equally
+jealous of one another, who had not the common instru-
+ment of conveying their sentiments; the servants of the
+company received letters which they could not/read, and
+were ambitious of gaining titles of which they could not
+comprehend the meaning; it w'as found highly dangerous
+to employ the natives as interpreters, upon whose fidelity
+they could not depend ; and it was at last discovered, that
+they must apply themselves to the study of the Persian
+language, in which all the letters from the Indian princes
+were written. A few men of parts and taste, who resided
+in Bengal, have since amused themselves with the literature
+of the East, and have spent their leisure in reading the
+poems and histories of Persia; but they found a reason in
+every page to regret their ignorance of the Arabic language,
+without which their knowledge must be very circumscribed
+and imperfect. The languages of Asia will now, perhaps,
+be studied with uncommon ardour; they are known to be
+useful, and will soon be found instructive and entertaining;
+the valuable manuscripts that enrich our public libraries
+will be in a lew years elegantly printed; the manners and
+sentiments of the Eastern nations will be perfectly known;
+<pb/>PREFACE.
+
+XI
+
+and the limits of our knowledge will be no less extended
+than the bounds of our empire.
+
+It was with a view to facilitate the progress of this
+branch of literature, that I reduced to order the following
+instructions for the Persian language which I had collected
+several years ago; but I would not present my grammar
+to the public till I had considerably enlarged and improved
+it: I have, therefore; endeavoured to lay down the clearest
+and most accurate rules, which I have illustrated by select
+examples from the most elegant writers; I have carefully
+compared my work with every composition of the same
+nature that has fallen into my hands; and though on so
+general a subject 1 must have made several observations
+which are common to all, yet I Hatter myself that my own
+remarks, the disposition of the whole book, and the passages
+quoted in it, will sufficiently distinguish it as an original
+production. Though I am not conscious that there are
+any essential mistakes or omissions in it, yet I am sensible
+that it falls very short of perfection, which seeriis to with-
+draw itself Jrom the pursuit of mortals, in proportion to
+their endeavours of attaining it; like the talisman in the
+Arabian tales, which a bird carried from tree to tree as
+b %
+<pb/>often as its pursuer approached it. But it has been my
+chief care to avoid all the harsh and affected terms of art
+which render most didactic works so tedious and un-
+pleasant, and which only perplex the learner, without giving
+him any real knowledge: I have even refrained from
+making any inquiries into general grammar, or from enter-
+ing into those subjects which have already been so elegantly
+discussed by the most judicious philosopher,* the most
+learned divine,t and the most laborious scholar of the
+present age.t
+
+It was my first design to prefix to the grammar a history
+of the Persian language from the time of Xenophon to our
+days, and to have added a copious praxis of tales and
+poems extracted from the classical writers of Persia ; but
+as those additions would have delayed the publication of
+the grammar, which was principally wanted, I thought it
+advisable to reserve them for a separate volume, which the
+public may expect in the course of the ensuing winter. I
+have made a large collection of materials for a general
+history of Asia, and for an account of the geography, phi-
+
+* Sec Hermes.	+	A	short Introduction to English Grammar.
+
+I The grammar prefixed to the Dictionary of the English Language.
+<pb/>PREFACE.
+
+xiii
+
+Iosophy, and literature of’the Eastern nations, all which I
+propose to arrange in order, if my more solid and more im-
+portant studies will allow me any intervals of leisure.*
+
+I cannot forbear acknowledging in this place the signal
+marks of kindness and attention, which 1 have received
+from many learned and noble persons; but General Carnac
+has obliged me the most sensibly of them, by supplying
+me with a valuable collection of Persian manuscripts on
+every branch of Eastern learning, from which many of the
+best examples in the following grammar are extracted. A
+very learned Professori at Oxford has promoted my studies
+with that candour and benevolence which so eminently
+distinguish him; and many excellent men that are the
+principal ornaments of that University have conferred the
+highest favours on me, of which I shall everretain a grateful
+sense: but I take a singular pleasure in confessing that I
+am indebted to a foreign nobleman i for the little knowledge
+which I have happened to acquire of the Persian language;
+and that my zeal for the poetry and philology of the Asiatics
+
+See the History of the Persian Language a Description of Asia, and a
+Short History of Persia, published with my Life of Nader Shah in the year 1773.
+
++ Dr. Hunt..	X	Baron	Reviskj..
+<pb/>XIV
+
+PREFACE.
+
+was owing to his conversation, and to the agreeable cor-
+respondence with which he still honours me.
+
+Before I conclude this preface, it will be proper to add a
+few remarks upon the method of learning the Persian lan-
+guage, and upon the advantages which the learner may
+expect from it. When the student can read the characters
+with fluency, and has learned the true pronunciation of
+every letter from the mouth of a native, let him peruse the
+grammar with attention, and commit to memory the regular
+inflexions of the nouns and verbs: he need not burden his
+mind with those that deviate from the common form, as
+they will be insensibly learned in a short course of reading.
+By this time he will find a dictionary necessary, and I
+hope he will believe me, when I assert from a long expe-
+rience, that, whoever possesses the admirable work of
+Meninski,* will have no occasion for any other dictionary
+of the Persian tongue. He may proceed by the help of this
+work to analyse the passages quoted in the grammar, and
+to examine in what manner they illustrate the rules; in
+the mean time he must not neglect to converse with his
+living instructor, and to learn from him the phrases of
+
+* This was written before Richardsons's Dictionary was published.
+<pb/>PREFACE.
+
+xv
+
+common discourse, and the names of visible objects, which
+he will soon imprint on his memory, if he will take the
+trouble to look for them in the dictionary: and here I must
+caution him against condemning a work as defective,
+because he cannot lind in it every word which lie hears;
+for sounds in general are caught imperfectly: by. the ear,
+and many words are spelt and pronounced very differently.
+
+ThThe first book that I would recommend to him is the
+Gulistan, or Bed of Roses, a work which is highly esteemed
+in the East, and of which there are several translations in
+the languages of Europe: the manuscripts, of this book are
+very common; and ,by.comparing them with the printed
+edition of Gentius, he will soon learn the beautiful flowing
+hand used in Persia, which consists of bold strokes and
+flourishes, and cannot be imitated'by our types. It will
+then be a proper time for him to read some short and easy
+chapter in this work, and to translate it into his native
+language with the utmost exactness; Jet him then lay aside
+the original, and after a proper interval let him turn the
+same chapter,back into Persian by the assistance of the
+grammar and dictionary: let him afterwards compare his
+second translation with the original, and correct its faults
+<pb/>XVI
+
+p n e f a c e;
+
+according to that model. This is the exercise so often re-
+commended by the old rhetoricians, by which a student
+will gradually acquire the style and manner of any author,
+whom he desires to imitate, and by which almost any
+language may be learned in six months with ease and
+pleasure. When he can express his sentiments in Persian
+with tolerable facility, I would advise him to read some
+elegant history or poem with an intelligent native, who
+will explain to him in common words the refined expressions
+that occur in reading, and will point out the beauties of
+learned allusions and local images. The most excellent
+book in the language is, in my opinion, the collection of
+tales and fables called Anver Soheili by Hussein Vaes, sur-
+named Cashefi, who took the celebrated work of Bidpai or
+Pilpay for his text, and has comprised all the wisdom of the
+Eastern nations, in fourteen beautiful chapters. At some
+leisure hour he may desire his Munshi or writer to trans-
+cribe a section from the Gulistan, or a fable of Cashefi, in
+the common broken hand used in India, which he will learn
+perfectly in a few days by comparing all its turns and con-
+tractions with the more regular hands of the Arabs and
+Persians: he must not be discouraged by the difficulty of
+<pb/>PREFACE.
+
+XVII
+
+reading the Indian letters, for the characters are in reality
+the same with those in which our books are printed, and
+are only rendered difficult by the frequent omission of the
+diacritical points, and the want of regularity in the position
+of the words: but we all know that we are often at a loss to
+read letters which we receive in our native tongue ; and
+it has been proved that a man who has a perfect knowledge
+of any language, may with a proper attention decypher a
+letter in that idiom, though it be written in characters
+which he has never seen before, and of which he has no
+alphabet.
+
+In short, I am persuaded that whoever will study the
+Persian language according to my plan, will in less than a
+year be able to translate and to answer any letter from an
+Indian prince, and to converse with the natives of India,
+not only with fluency, but with elegance. But if he desires
+to distinguish himself as an eminent translator, and to un-
+derstand not only the general purport of a composition, but
+even the graces and ornaments of it, he must necessarily
+learn the Arabic tongue, which is blended with the Persian
+in so singular a manner, that one period often contains
+
+
+<pb/>PREFACE,
+
+xviii
+
+both languages wholly distinct from each other in ex-
+pression and idiom, but perfectly united in sense and con-
+struction. This must appear strange to an European
+reader; but he may form some idea of this uncommon
+mixture, when he is told that the two Asiatic languages are
+not always mixed like the words of Roman and Saxon origin
+in this period, “ The true law is right reason, conformable
+“ to the nature of things, which calls us to duty by com-
+“ manding, deters us from sin by forbidding but as we
+may suppose the Latin and English to be connected in the
+following sentence “ The true lex is recta ratio, conjor-
+mable naturae, which by commanding vocet ad officium, by
+forbidding a fraude deterreat.”
+
+A knowledge of these two languages will be attended
+with a variety of advantages to those who acquire it: the
+Hebrew, Chaldaic, Syriac, and Ethiopian tongues, are
+dialects of the Arabic, and bear as near a resemblance to
+it as the Ionic to the Attic Greek; the jargon of Indostan,
+very improperly called the language of the Moors, contains
+so great a number of Persian words, that I was able, with
+
+9 See Middleton’s Life of Cicero, vol. III. p. 351.
+<pb/>PREFAC E.
+
+XIX
+
+very little difficulty, to read the fables of Pilpai which are
+translated into that idiom; the Turkish contains ten Arabic
+or Persian words for one originally Scythian, by which it
+has been so refined that the modern kings of Persia were
+fond of speaking it in their courts: in short, there is scarce
+a country in Asia or Africa, from the source of the Nile to
+the wall of China, in which a man who understands Arabic,
+Persian, and Turkish, may not travel with satisfaction, or
+transact the most important affairs with advantage and
+security.
+
+As to the literature of Asia, it will not, perhaps, be
+essentially useful to the greater part of mankind, who have
+neither leisure nor inclination to cultivate so extensive a
+branch of learning; but the civil and natural history of
+such mighty empires as India, Persia, Arabia, and Tartary,
+cannot fail of delighting those who love to view the great
+picture of the universe, or to learn by what degrees the
+most obscure states have risen to glory, and the most flou-
+rishing kingdoms have sunk to decay; the philosopher
+will consider those works as highly valuable, by which he
+may trace the human mind in all its various appearances,
+from the rudest to the most cultivated state: and the man
+
+<pb/>XX
+
+PREFACE.
+
+of taste will undoubtedly be pleased to unlock the stores
+of native genius, and to gather the flowers of unrestrained
+
+and luxuriant fancy.*
+
+♦ Note to the Third Edition.
+
+My professional studies having wholly engaged my attention and induced me
+not only to abandon Oriental literature, but even to efface, as far as possible, the
+very traces of it from my memory, I committed the conduct and revisal of this
+edition of my grammar, and the composition of the index to Mr. Richardson, in
+whose skill I have a perfect confidence, and from whose application to the Eastern
+languages, 1 have hopes that the learned world will reap no small advantage.
+<pb/>[ xxi ]
+
+ADVERTISEMENT.
+
+In presenting this the sixth edition of Sir William Jones's
+inestimable Persian Grammar to the Public, the Editor
+thinks proper to apprize his readers of such improvements
+and alterations as he has found it expedient to make
+therein.
+
+The work has been carefully revised, and many errors,
+which had been accumulating with every former edition,
+have been attentively corrected.
+
+Great improvement has been made in the printing and
+paper; and it comes forth with an elegant new type, cut
+after the best examples of writing in the Niskhi character,
+and of which no specimen has before been published.
+
+The Persian Title, with which the work was originally
+published, has been given in an imitation of the Tadik,
+instead of the old type.
+<pb/>XXII
+
+ADVERTISEMENT.
+
+Some examples in Prose, designed for the exercise of
+the student, have been added, printed in types of two sizes,
+both entirely new.
+
+The Editors of Richardson's Persian and Arabic
+Dictionary, (as will more fully appear from the notice
+subjoined to this work), having caused great alterations,
+with numerous additions and improvements, to be made in
+the new and more convenient form it is about to assume ;
+and being of opinion that this Grammar, as a necessary
+companion, should be made to correspond with it, the same
+mode of spelling the Persian words in Roman characters
+has herein been adopted, as is pursuing in the revision of
+that Dictionary; and which being upon a plan at once
+both regular and simple, cannot, we think, but be of great
+use to beginners in particular, as an invariable guide to
+the pronunciation. The plan is developed in the body of
+this work in its proper place, the part which treats on
+the power of the letters. At the time the learned author
+of this truly elegant and useful Grammar composed it, he
+does not seem to have formed that system of orthography
+of Asiatic words in Roman letters which he afterwards
+    <pb n="xxiii"/>
+
+
+
+so ably explains in the opening of the first Volume of the
+Asiatic Researches, else but little occasion would have
+been found for the alterations it has been judged expedient
+to make.
+
+THE EDITOR.
+<pb/>
+<pb n="1"/>
+
+A Grammar of the Persian Language 
+
+
+
+
+
+OF LETTERS.
+
+The learner is supposed to be acquainted with the
+common terms of grammar, and to know that the Persians write their characters from the right hand to the
+left.
+
+There are thirty-two Persian letters.
+
+
+<pb n="2"/>
+
+
+
+J ^ z ••
+
+
+
+A GRAMMAR OF THE
+IV. III. II. I.
+
+FINALS.	INITIALS	and	MEDIALS.
+
+Connected. Unconnected. Connected. Unconnected.
+
+alif	V		1 r  \	J	a
+v~~be		L_>	J, +	w.  J	b
+pe	V	J  Li3  T	X  Y V	J  V	p *
+te	cu	o	**» *♦ Js	to  J	t
+si		d>	A 1	A	S
+jTm	t	z.	s.		j English
+che or chlm	i		5.'^  V/	r	cli
+he	t	c			h strong
+khe	-1	*	•  >		kh
+
+zal		3		3	z
+re			J		r
+ze	->	j	J	j	z
+zhe	A	A  J	A  J	A  J	*J French
+sin	u-				s
+shin			A  «WM		sh
+swad			.aA	-o.	s -
+zwad			•  -yS.		z
+to	k	k	\a.	k	t
+<pb/>PERSIAN LANGUAGE.
+
+o
+
+	IV.	III.	II.	1.	
+		FINALS.	initials and		MEDIALS.
+	Connected.	Unconnected.	Connected. Unconnected.		
+		A		-A..	
+zo	i  k	k	") f 	  k	„k	Z
+ain		t	* 	£■	£_or a guttural
+ghain		t	*		gh guttural
+fe	L-a	•  L-S'	i	3	f .
+kaf	3	H  L?	c H A	3	>  k hard
+caf			S"or	£-	k
+gaf			^ i	f	g hard
+lam	J	■ J	\	J	1
+mini	r	r		^0  t .	m *
+nun	 '	o '	A *A	k	n  r
+waav.-	J	J	J	J	u, v, w
+he		6		Jb	h weak
+ya	o		#-	J	7’ 1
+lam-alif		*1 'i	*		la
+
+The second-and fourth columns of these letters from
+the right hand are used only when they are connected with
+
+OJ	I
+
+a preceding letter; as	Muhammad.	Every	letter
+
+should be connected with that which follows it, except these
+seven; \ alif, 3 dal, h zal, j re, j ze, J je, and j waw,
+<pb/>4
+
+A GRAMMAR OF THE
+
+which are never joined to the following letter, as will
+appear from the words barg, a leaf,	davaii,	a
+
+dominion.
+
+Though the perfect pronunciation of these letters can be
+learned only from the mouth of a Persian or an Indian, yet
+it will be proper to add a few observations upon the most
+remarkable of them.
+
+OF CONSONANTS.
+
+It will be needless to say much of the three first conso-
+nants UUO since their sound is exactly the same as our
+b, /;, and /, in the words	peer,	and too, which would
+
+be written in Persian^bjty andy.
+
+*
+
+lL> s
+
+This letter, which the Arabs pronounce somewhat like
+a th, has in Persian the same sound with a (j*> or^, as
+cUJy\ Abu Lays, a proper name. It might, therefore,
+have been rejected from the Persian alphabet without any
+inconvenience; but it is useful in showing the origin of
+words, as it is seldom, or never, used in any that are not
+Arabic. The same may be observed of the following
+<pb/>PERSIAN LANGUAGE.
+
+5
+
+letters, ^ u° ^ ^ ^_^(J which rarely occur in
+words originally Persian.
+
+j and ^ch
+
+The first of these letters answers to our soft g in gem,
+which a Persian would write ^ or to our j in jg.rjW:
+the second of them sounds exactly like our ch in the
+words cherry, cheek; as	Chirkas,	Circassia.
+
+. c' ' )
+
+^is a very strong aspirate, and may be expressed'in our
+
+characters by h (with a dot under it to distinguish it.
+from 5), as (JU. hal, a condition.
+
+t_ kh
+
+^ is formed in the throat (and produces that kind of
+inarticulate vibration which is made in preparing to ex-
+pectorate). The Germans have the sound, and express it
+by ch. The sound does not exist in English; and having
+no simple character lor it, we use kh as its substitute; as
+khan, a lord. This is the word so variously and so
+erroneously written by the Europeans. The sovereign lord
+<pb/>6
+
+A GRAMMAR OF THE
+
+of Tartary is neither the cham, as our travellers call him,
+nor the han, as Voltaire will have it, but the khan,
+with a guttural aspirate on the first letter.
+
+3 d
+
+3 answers exactly to our d in deer
+5 z
+
+This letter, which the Arabs pronounce somewhat like
+dh, has in Persian the sound of j z, and is often confounded
+with it; thus they write	and	guzishtan,
+
+to pass: It is seldom used but in Arabick words; though
+it sometimes occurs in words purely Persian, as
+Azarbljan, the province of Media, so called fromj3\ azar,
+an old word for fire, because the adorers of fire, if we
+believe the Asiatick historians, first built their temples
+in that province.
+
+^r
+
+j and the three liquids	^ ^ are pronounced exactly
+
+like our r, /, m, n; as	aram, rest, lalah, a tulip,
+
+,Uc mar, a serpent,	nan, bread. But ^ before a cj
+<pb/>PERSIAN LANGUAGE.
+
+7
+
+has the sound of m, as	gumbad,	a	tower,
+
+tambar, ambergris.
+
+J 2
+
+j has the sound of our z, as	lalahzar,	a bed of
+
+tulips.
+
+J 5
+
+This letter has the sound of our s in the word pleasure,
+treasure; and corresponds precisely with the soft g of the
+French in gens, or their yin jour* It maybe expressed
+in our characters by j with two dots, as jalah, dew.
+
+U» 5 and O5» sh
+ij*> and are our s and sh, as	galTm	shah,
+
+king Selim.
+
+U° •?	^	t Is z
+
+These four letters are pronounced by the Arabs in a
+manner peculiar to themselves; but in Persian they are
+confounded with other letters, differs little from
+as saddar, the name of a Persian book ; and \s has
+nearly the same sound with O astatr, essence; a word
+often used in English, since our connexion with India, to
+<pb/>s
+
+A GRAMMAR OF THE
+
+denote the precious perfume called otter of roses. The word
+is Arabic, as the letters ^and W sufficiently prove.
+and differ very little fromj; as	NazamI, the
+
+name of a poet;Khazar, the name of a prophet in
+the Eastern romances.
+
+and ^gh
+
+These two letters are extremely harsh in the pronun-
+ciation of the Arabs. The sound of ^ says Meninski, est
+vox vituli matrem vocantis (It is considered as a conso-
+nant, and occasions any vowel, with which it is connected,
+to be pronounced as if from the chest; but as no letters
+can convey an idea of its force, in imitation of Mininski,
+we have used the Arabic form in combination with the
+Roman and Italic characters), as in the word ^arab,
+the Arabians; g-ayn, a fountain. As to ^it is pro-
+nounced something like our hard gh in the word ghost, as
+ghulam, a boy, a servant (The true sound of £/s
+that which is produced in gargling).
+
+c_?f
+
+lJ has the sound of/infall, as JU fal3 an omen.
+<pb/>PERSIAN LANGUAGE.
+
+9
+
+(J k and k
+
+fj is another harsh Arabic letter, but in Persian it is
+often confounded with which has the sound of our /q
+as	Karman^the province of Carmania; uiU Kaf,
+
+a fabulous mountain in the Oriental tales.
+
+
+
+When has a small stroke over its upper member, or
+three points above it, the Persians give it the sound of g
+in the word gaij, as	gulistan,	a	bed of roses; but
+
+these marks are very seldom written in the Persian manu-
+scripts ; so that the distinction between	k and	g
+
+can be learned only by use: thus they often write
+rose water, and pronounce it gulab (The letter g,
+without any mark, is its natural representative);
+
+J (* a
+
+See the remark on j These letters are the liquids
+
+/, m, n, r.
+
+* h
+
+6 is a slight aspiration, as in Jbahar, the springs
+Cj\fb Harat, a city in the province of Cor as an, which the
+
+c
+<pb/>10
+
+A GRAMMAR OF THE
+
+Greeks call Aria. At the end of a Persian word it gene-
+rally serves only to shew that it terminates in a vowel, as
+A^keh, which has the same pronunciation as the Italian
+che, what. (It may in European characters be represented
+•by h with two dots to distinguish it from ^h. Observe
+that when this character has two dots over it thus S it is
+pronounced as O t).
+
+OF VOWELS.
+
+The vowels are \ a, j u, i, as in the words
+khan, a lord, \jj\ ora, to him, nlz, also, where they
+are all long; but the short vowels are expressed by small
+marks, two of which are placed above the letter, and one
+below it, as cl* ba, L-> be or bi, L-> bo or bu; thus,
+
+"	O	O'"'	"	C /	O	C ' '
+
+jA* J-5 ^
+
+Agar an turki ShlrazI badast arad dili mara
+
+Bakhali hinduyash bakhsham Samarkand wa Bokharara.
+<pb/>PERSIAN LANGUAGE.
+
+l]
+
+(Note. \ alif, at the beginning of a word, not being
+distinguished by the mark mad over it, thus \ , is not only
+always short, but, occasionally pronounced as the short
+vowels a, T, u. In the middle or at the end of a word it is
+generally long by position, though-it have no mark over it.)
+
+The. mark ° placed above a consonant shows that the
+syllable ends with it, as	Sa-mar-kan-di, a na-
+
+tive of Samarcand; the first of which syllables is short,
+the second and third long by position, and the last long
+by nature : but this belofigs to the prosody. These short
+vowels are very seldom written in the Persian books; and
+the other orthographical marks are likewise usually sup-
+pressed, except MeddaHamza *, .and Tfeshdid *.
+
+Medda above an \ gives it a broad and long sound (like
+two alifs), as an, that; Hamza (with the mark of
+short i expressed or understood, and placed at the foot of
+the letter) supplies the place of L? in words that end in 6;
+it therefore sometimes represents the article, as
+namahi, a book, or denotes the former of two substantives,
+as	nafahi	mushk,	a	bag of musk; or, lastly,
+
+it occasionally marks the second person singular in the
+c %
+<pb/>12
+
+A GRAMMAR OF THE
+
+compound preterite of a verb, as	dadahi,	which
+
+would regularly be	thou	hast given. Tashdid
+
+shews a consonant to be doubled, as Zyo turrah, a lock of
+hair.
+
+The omission of the short vowels will at first perplex
+the student; since many words, that are compounded of
+the same letters, haye different senses, according to the
+difference pf the vowels omitted: but until he has learned
+the exact pronunciation of every word from a native, he
+may give every short vowel a kind of obscure sound very
+common in English, as in the words sun, bird, mother,
+which a Mahometan would write without any vowel, sn,
+brd, mlhr; thus the Persian word bd may be pro-
+nounced like our bud (This short obscure sound in the
+words sun, bird, kc. is the exact power which those who
+speak the Persian language in India give to the short
+vowel called Fatah, and which it is convenient to repre-
+sent by a. In this edition the short vowels are represented
+by a for ' , i and sometimes e for „, and u and occasionally
+o for ’ ; and the long vowels are distinguished from the
+short by the prosodial mark of a long syllable, thus a, I, e,
+6, u.)
+<pb/>PERSIAN LANGUAGE.
+
+13
+
+Wavv j and Ya L$ are often used as consonants, like our
+wand ij; thus, Wan, a town in Armenia ; jawan,
+juvenis, giovane, young; Yaman, that province of
+Arabia which we call the happy;	Khudayar,	a
+
+proper name, signifying the friend of God. j before
+\ often loses its sound, as kh an, a table, (j, when
+considered as a consonant, has a sound somewhat between
+wandv.) ,
+
+I would not advise the learner to study the parts of
+speech until he can read the Persian characters with tole-
+rable fluency; which he will soon be able to do, if he
+will spend a few hours in writing a page or two of Persian
+in English letters (following the system of orthography,,
+used in the following example), and restoring them after a
+short interval to their proper characters by the help of
+the alphabet. I shall close this section with a piece of
+Persian poetry written both in the Asiatick and European
+characters: it is an ode by the poet Hafiz, the first
+couplet of which has been already quoted; and a trans-
+lation of it shall be inserted in its proper place.
+<pb n="14"/>
+
+بده ساقي مي باقي که در جنٌت نکواهي يافت
+کسار آب رکناناد و گلگشت مصلٌارا
+
+Badeh sâkî may-î bâkî keḥ dar jannat nakh'âḥî yâft,
+Kasâr-i âb-i ruknâbâd wa gulgasht-i musallara.
+
+غغان کين لوليان شوخ شيرينگار   
+
+]^W*j	^	cx>^y
+
+Faghan kin luliyan-i shokh-i shlrlngar-i shahrashub
+Chunan burdand sabr az dil keh turkan kh’an-i yaghmara.
+
+C....C.,» \wcj\j	bo	^l+5U	jl£j:j
+
+1>W)^	5^.	j	jik	j	l-A}
+
+Za e.ishk-i natamam-i ma jamal-i yar-i mustaghnlst
+Ha ab wa rang, \va khal wa khatt cheh hajat royi zebara.
+
+OoOk^.
+
+Hadis az mutrib wa may go wa raz-i dahar kamtar jo
+Keh kas nak’shud wa nak’shayad ba hikmat In muammara*
+
++*—^	1^£rbx eA Lf*
+
+b^b b^	bi	3'	3-^	^
+<pb/>PERSIAN LANGUAGE.
+
+Man az an husn-i rozafzun keh Yusuf dasht danistam
+Keh ^ishk az pardah-i jismat berun arad zulikhara.
+
+oo
+
+Naslhat goshi kun jana keh az jan dostitar darand
+Jawanan-i sajadatmand-i pand-i plr-i danara.
+
+(jjf *li\ l£$Uc-	j	Jfjf	piSj
+
+^\jLy3	L-J	L>^Jy^C	^2*-
+
+Badam guftl wa khursandam ^afak allah neko gufti
+Jawab-i talkh-i mlzebad lab-i laj-i shakarkh’ara.
+
+u\yk? J L>	J	Jfif	Jy.
+
+Ghazal guftl wa durr suftl biya wa khush bakh’an hafiz
+Keh bar nazm-i to afshanad falak g^ikdi suriyara.
+
+In this specimen of Persian writing the learner will
+observe a few combinations of letters, which he must.by
+no means forget; as ^ lamalif, compounded of J I and
+\ a, in the word	musalla:	but	the	most	difficult
+<pb/>16
+
+A GRAMMAR OF THE
+
+combinations are formed with -------f* which have the
+
+singular property of causing all the preceding letters to
+rise above the line, as \J^s^ bokhara,^*^?^ nakhchlr,
+^ taslilh. The letters that precede * m are also
+sometimes raised (jVote. ft would greatly facilitate the
+art of printing with Arabic types if we were to introduce a
+method of joining all the letters on the same line; and
+which might be done without occasioning the least incon-
+venience to the reader. According to this idea we might
+print the three words, here given as an example, in this
+manner	It appears to have been the
+
+ancient practice of the Arabs themselves).
+
+The Arabic characters, like those of the Europeans,
+are written in a variety of different hands; but the most
+common of them are the .j Niskhi, the JlAxj Tajik,
+or hanging, and the	Shakastah, or broken. Our
+
+books are printed in the Niskhi hand, and all Arabic
+manuscripts, as well as many Persian and Turkish histo-
+ries, are written in it; but the Persians write their poetical
+works in the Tajik, which answers to the most elegant
+of our Italic hands. As to the Shakastah, it is very
+irregular and inelegant, and is chiefly used as the cursive
+<pb/>PERSIAN LANGUAGE.
+
+hand for business and correspondence; but this hand,
+however difficult and barbarous, must be learned by all
+men of business in India, as the letters from the princes
+of the country are seldom written in any other manner.
+A specimen of these different forms of writing is engraved,
+and inserted at the end of this Grammar.
+
+OF NOUNS,
+
+AND FIRST OF GENDERS.
+
+The reader will soon perceive with pleasure a great
+resemblance between the Persian and English languages, in
+the facility and simplicity of their form and construction :
+the former, as well as the latter, has no difference of
+termination to mark the gender, either in substantives or
+adjectives: all inanimate things are neuter, and animals
+of different sexes either have different names, as^-j pisar,
+a son, a boij,\j£ kanlz, a girl% or are distinguished by
+the words^y nar, male^ and 5^lmadah,/e/?z«/e: as
+shlri nar, a lion,	shlri madah, a lioness.
+
+D
+<pb/>18
+
+A GRAMMAR OF THE
+
+Sometimes, indeed, a word is made feminine, after the
+manner of the Arabians, by having 6 added to it, as
+(JjAJtso matshuk, a friend, amicus, J)j*Lxso matshukah, a
+mistress, arnica, as in this verse:
+
+Flowers are in my bosom, ,\Yine in my hand; and my
+mistress yields to my desire.
+
+But in general, when the Persians adopt an Arabic noun
+of the feminine gender, they make it neuter, and change
+the final  into O; thus X+xj ni^mat, a benefit, is written
+
+,	fV
+
+: and almost all the Persian nouns ending in O,
+which are very numerous, are borrowed from the Arabs.
+
+OF CASES.
+
+The Persian substantives, like ours, have but one varia-
+tion of case, which is formed by adding the syllable \j to
+the nominative in both numbers; and answers often to
+the dative, but generally to the accusative case in other
+languages; as,
+
+Nominative,	J	pisar,	a	child.
+
+Dative and Acc. pisarra, to a child or the child.
+<pb/>PERSIAN LANGUAGE.
+
+19
+
+When the accusative is used indefinitely, the syllable Vj is
+omitted, as	gul	clridan,	to gather a flower,
+
+that is, awj flower; but when the noun is definite or
+limited, that syllable is added to it, as Xx gulra
+chid, he gathered the flower, that is, the particular flower.
+There is no genitive case in Persian, but when two sub-
+stantives of different meanings come together, a kasra or
+short i [,) is added in reading to the former of them, and
+the latter remains unaltered, as	the	mush	oj
+
+Tartarij, \yhich must be read mushki Khotan. The same
+rule must be observed before a pronoun possessive; as
+(jjsopisari man, my child: and before an adjective;
+as	shamshiri	tabnag,	a	bright	scymitar.	If
+
+the first words ends in \ or j the letter L? is affixed to it;
+as ItXj pasha, a basha,	pasha-i	Musal,	the
+
+basha of Mousel,	mlwaha,	fruits,	Lf^js^o
+
+mlwaha-i shlrin, sweet fruits: if nouns ending in 6 come
+before other nouns or adjectives, the mark Hamza * is
+added to them, as	**-»£;*»	chashmahi hay wan, the
+
+fountain of life.
+
+i
+
+The other cases are expressed for the most part, as in
+d 2
+<pb/>20
+
+A GRAMMAR OF THE
+
+our language, by particles placed before the nominative,
+
+as,
+
+Vocative,	j lf\ ay pisar, 0 child.
+
+Ablative,	az	pisar,	from	a child.
+
+The poets, indeed, often form a vocative case by adding
+\ to the nominative, as Lib sakiya, 0 cup-bearer, \jb\jL>
+shaha, 0 king; thus Sadi uses bulbula as the vocative
+of bulbul, a nightingale.
+
+Bring, O nightingale, the tidings of spring; leave all
+unpleasant news to the owl.
+
+In some old compositions the particlej*c mar is prefixed
+to the accusative case; as	\jj\j* mar ora didam,
+
+I saw him; but this is either obsolete or inelegant, and is
+seldom used by the moderns.
+
+The reader, who has been used to the inflexions of
+European languages, will, perhaps, be pleased to see an
+<pb/>PERSIAN LANGUAGE.
+
+21
+
+example of Persian nouns, as they answer to the cases in
+Latin:
+
+lK gul . a rose, rosa.
+
+Singular.	Plural.
+
+Nom. jf a rose, rosa.	roses,	rosae.
+
+Gen.	f of a rose, rosae.	of roses, rosarum.
+
+Dat. j^lf /o a rose, rosae.	roses,	rosis. *
+
+Acc.	the rose, rosam.	the roses, rosas.
+
+Voc.Jft/\ 1	*	*	i	if	CW)
+
+^ \Urose, orosa. U5 LSI roses, o rosae.
+
+Poet.'if J	T	“
+
+Abl. (Jf)^ from a rose, rosa. l^lfj\ from / oses, rosis.
+
+bulbul, o nightingale.
+
+Singular.
+
+Nom. and	Gen.	a nightingale.
+
+Dat. and Acc.	/o « nightingale.
+
+Voc. l£\ (Poet. \Lb) 0 nightingale.
+
+Abl.	from a nightingale.
+
+Plural.
+
+Nom. and	Gen.	nightingales.
+
+Dat. and Acc.	to	nightingales.
+
+Voc.	u0 nightingales.
+
+Abl.	from nightingales.
+<pb/>A GRAMMAR OF THE
+
+22
+
+^3^ V 3^yS^3 C^yi	\j
+
+a^Lb	,J^Jloj
+
+Jf aLi.U	c^lk	UW
+
+Boy, bring the wine,, for the season of the rose ap-
+proaches;. let us again break our vows of repentance
+in the midst of the roses. O Hafiz, thou desirest, like
+the nightingales, the presence of the rose : let thy very
+soul be a ransom for the earth where the keeper of the
+rose-garden walks!
+
+I shall in this manner quote a few Persian couplets, as
+examples of the principal rules in this grammar; such
+quotations will give some variety to a subject naturally
+barren and unpleasant; will serve as a specimen of the
+Oriental style; and will be more easily retained in the
+memory than rules delivered in mere prose.
+<pb/>PERSIAN LANGUAGE.
+
+23
+
+OF THE ARTICLE.
+
+Our article a is supplied in Persian by adding the letter
+to a noun, which restrains it to the singular number;
+as ^ gull, a single rose ;
+
+One morning I went into the garden to gather a rose, when
+on a sudden the voice of a nightingale struck my ear.
+Without this termination gul would signify roses or
+Jlowers collectively, as ■
+
+^,1^3 30	^
+
+Call for wine, and scatter flowers around.
+
+When a noun ends in * the idea of unity is expressed by
+the mark Hamza, as	chashmahi, a single fountain.
+
+OF NUMBERS.
+
+From the two examples in a preceding section it appears
+that the Persian plural is formed by adding ^ or ^ t0
+the singular: but these terminations are not, as in many
+languages, wholly arbitrary; on the contrary, they - are
+<pb/>A GRAMMAR OF THE
+
+24
+
+regulated with the utmost precision. The names of animals
+form their plural in as
+
+gurg, a wolf.	gurgan,	wolves.
+
+CiSlij palang, a hjger.	CiI£lL	palangan,	tijgers.
+
+but words which signify things without life make their
+plurals by the addition of the syllable as
+
+bal, a wing.	balha, wings.
+
+saliil, a shore.	sahilha,.,y/t0ry.
+
+Both these plurals occur in the following elegant distich:
+
+The night is dark; the fear of the waves oppress us, and
+the whirlpool is dreadful! How should those, who bear
+light burdens on the shores, know the misery of our
+situation ?
+
+There are, however, a few exceptions to these rules:
+the names of animals sometimes make their plurals in
+as well as in J, asj^ shutur, a camel,	shuturha
+
+and	shuturan,	camels; and on the other side the
+
+names of things sometimes have plurals in (j\, as L-J lab,
+a lip,	laban, lips.
+<pb/>PERSIAN LANGUAGE.
+
+25
+
+Names of persons ending in \ or j form their plurals in
+a\j, as Ub dana, a learned man, wUib da, layan, learned
+men; and those that end in 6 are made plural by changing
+the last letter intoas bachah, an infant,
+bachagan, infants; and sometimes by adding as a se'
+parate syllable; thus,	farishtah,	an	angel,
+
+farishtah gan, angels.
+
+If the name of a thing ends in X, the final letter is ab-
+sorbed in the plural before the syllable l, as khanah,
+a house, khanaha, houses.
+
+In some modern Persian books, as the Life of Nader
+Shah and others, the plural often ends in ol or in oU
+if the singular has a final X.
+
+Sing.	Plur.
+
+nuwazish, a favour.	\mwdzhhid,	favours.
+
+xjj kaltat, a castle. oUxii kaltajat, castles.
+But these must be considered as barbarous, and are a proof
+that the late dreadful commotions which have ruined the
+empire'of the Persians, have begun to destroy even the
+beautiful'simplicity of their language.
+
+It must not be omitted, that the Arabic substantives
+frequently have two sorts of plurals, one formed according
+
+E
+<pb/>26
+
+A GRAMMAR OF THE
+
+to the analogy of the Persian nouns, and another after the
+irregular manner of the Arabians; as £.ayb, a vice,
+taybha and	tawayb,	vices;	kaltah,	a castle,
+
+kalhiha and kilat, castles; nayib, a viceroy,
+plur. lJ\y niiwab, which our countrymen have mistaken
+for the singular number, and say very improperly a nabob!''.
+This is one argument out of a great number to prove the
+impossibility of learning the Persian language accurately
+without a: moderate knowledge of the Arabic; and if the
+learner will follow my advice, he will peruse with atten-
+tion the Arabic grammar of Erpeniust before he attempts
+to translate a Persian manuscript.
+
+OF ADJECTIVES.
+
+The Persian adjectives admit of no variation, but in
+the degrees of comparison. The positive is made com-
+
+” It is no mistake. The plural is used in India as a respectful distinction.
+
++ There are two fine editions of this grammar, the first published by the very
+learned Golius, and the second by the late Albert Schultens; both these Orientalists
+have added a number of Arabic odes and elegies, which they have explained in excel-
+lent notes*, but these editions are scarce; and Meninski has inserted in his grammar
+the substance of Erpenius, with many new remarks.
+<pb/>PERSIAN LANGUAGE.
+
+21
+
+parative by adding to it and superlative by adding
+as
+
+CJyL khub, fair,	khubtar, fairer,
+
+khubtarin,fairest.
+
+Our than after a comparative is expressed by the prepo-
+sition j\ az, as
+
+jjj
+
+The brightness of thy face is more splendid than the cheek
+of day; the blackness of thy locks is darker than the
+hue of night.
+
+The moon is bright, but thy face is brighter than it; the
+cypress is graceful, but thy shape is more graceful than
+the cypress.
+
+An adjective is sometimes used substantively, and forms
+its plural like a noun,	haklman, the wise; if it be
+
+a compounded adjective, the syllables and^>, denoting
+the plural number and the oblique case, are placed at the
+e 2
+<pb/>28
+
+A GRAMMAR OF THE
+
+end of it, aSjyl 5j>pari-ro, angel face; oblique
+parlrorii; plural	parhoyan;	oblique
+
+pariroyfinra; as
+
+The damsels with faces like angels are dejected at the
+sight of that cheek ; the nymphs with the fragrance
+of jessamine are filled with envy when they view those
+curls.
+
+OF PRONOUNS.
+
+The personal pronouns are. these which follow ;
+
+man, /.
+
+Sing, man, I.	Oblique,	\yc mara, me.
+
+Plur. U ma, we (or	mara,	us	(or
+
+eAA* mayan).	\y\jUo mayanra).
+
+to, thou.
+
+Sing. j3to, thou. Obi. \y tora, thee.
+Plur. shuma, you or ye,*	shumara,	you	(or
+
+(or	shumayan).	\y\Jshumayanra).
+
+^ shuma is useh ^ you in English, in the singular number, for y.
+<pb/>PERSIAN LANGUAGE.
+
+29
+
+j\ o, he.
+
+Sing. j\ 6, he, she, or it. Obi. \jj\ ora, him, her} or it.
+Plur. eshan, they.	eshanra, them.
+
+The poets often use 1^ for	as
+
+I went, and bruised their helmets; I disfigured their
+beautiful faces.
+
+After a preposition j\ is often changed into	or j or
+
+lSj\, as
+
+J\
+
+When the king of the world showed his face, the general
+kissed the ground, and advanced before him. Ferdusi.
+
+Sometimes after the preposition (—> in, the letter 5 is
+inserted to prevent the hiatus, as j bado for jb ba-6, to
+him; the same may be observed of	badan	for
+
+ba-an, to that,	badin for to this*
+
+* In the same manner, and from the same motives, the old Romans added a d to
+many words followed by a vowel; thus Horace, if we adopt the reading of Muretus,
+uses tibid for tibi.
+
+Omne crede diem tibid illuxisse supremum.
+<pb/>30
+
+A GRAMMAR OF THE
+
+The possessives are the same with the personals, and arc
+distinguished by being'added to their substantives ; as
+
+Sing.	(j-^o dili man,	my heart. (> ,
+	y dili to.	thy heart.
+(L?j way or) 4dili 6,		his or her heart.
+Plur.	Uo dilhai ma,	our hearts.
+	dilhai shuma,	your hearts.
+Poet.	u\3	
+	dilhai eshan,	their hearts.
+Poet.		
+
+They are often expressed in the singufar number by these
+final letters (with the short a pronounced before them),
+I* am, o at, and ash, and after an \ or 6 by J am,
+at, and ash: but after nouns ending in \ alif or
+j waw the letter lS ya is inserted before the finals ^ O
+as
+
+^ dilam,
+cub dilat,
+
+(^3 dilash,
+p\	jamahi	am,
+
+jamahi at,
+Ch\	jamahi ash,
+
+my heart.
+
+thy heart.
+
+his or her heart.
+
+my robe.
+
+thy robe.
+
+his or her robe.
+<pb/>PERSIAN LANGUAGE.
+
+31
+
+moyam,	my hair.
+
+Cyyo moyat,	thy hair.
+
+U~yc moyash,	his or her	hair.
+
+In poetry, and sometimes in prosfe, the	oidique cases of the
+
+personal pronouns are also expressed by ^ O as
+
+Joy be to Shiraz ancf its charming-borders! O/heaven,
+preserve it from decay!
+
+These oblique cases are joined to any word in the sentence
+which the poet finds convenient; thus in the couplet just
+quoted the pronoun* i7, is added to (J^j ; so in the
+following distich, O the dative ofy lhou% is placed after
+the conjunction^ gar, if.
+
+(jr*
+
+\^j^o i*yjj
+
+Tinge the sacred carpet with wine, if the master of the
+feast orders thee; for he that travels is not ignorant of
+the ways and manners of banquet-houses.
+
+Our reciprocal pronouns own and self are expressed in
+<pb/>32
+
+A GRAMMAR OR THE
+
+Persian by the following, words, which are applicable to all
+persons and sexes; as' -v • .	*
+
+Nom.	or	Oblique, b^
+
+or u~}j^	\jiJt~Ljjk.
+
+' v or
+
+thus we may use *	•	^
+
+myself.	XL Uo ourselves,
+
+y thyself	[+£>	yourselves.
+
+^ j\ his or herself.	aLlj\ their selves*
+
+is also joined like the Latin ipse to every person of
+a verb, as
+
+Sing.	Plur.
+
+ipse veni.	ipsi	venimus,
+
+ipse venisti. j^c\ ipsi venistis.
+tVcl ipse venit. OJi^c\ ipsi venerunt.
+
+* I here use his self and their selves instead of the corrupted words himself and
+themselves; in which usage I am justified by the authority of Sidney, and of other
+writers in the reign of Elizabeth: self seems to have been originally a noun, and was,
+perhaps, a synonymous word for soul, according to Locke’s definition of it: “ Self is
+l> that conscious thinking thing, which is sensible or conscious of pleasure and pain,
+“ capable of happiness and miser)'.” If this observation be just, the Arabs have
+exactly the same idiom, for their	soul,	answers precisely to our self,	as
+
+jjj (J, L-JJ	“	a boy threw Aw self into a river.” .
+<pb/>PERSIAN LANGUAGE.
+
+* fi
+
+OO
+
+The word. seems to be redundant in the following
+beautiful lines of Sadi,
+
+\yo C
+
+iSjys^ (JLLs-jf i^o2\
+
+Dost thou know what the early nightingale said to me?
+“ What sort of man art thou, that canst be ignorant of
+“ love?”
+
+When is used as a pronoun possessive, it answers
+to the Greek o-(psrs^©o, and signifies my, thy, our, your, his
+or her, and their, according to the person and number of
+the principal verb in the sentence; as in this couplet of
+Hafiz, I
+
+J\J5j\j
+
+U^J f-W L5^
+
+I see no man, either among the nobles or the populace, to
+whom I can trust the secret of my afflicted heart.
+
+The demonstrative pronouns are the following :
+iy\ In, this.
+
+Sing.	this.	Oblique cases,
+
+Plur.	these.
+
+or \\	or
+
+F
+<pb/>34
+
+A GRAMMAR OF THE
+
+T an, that.
+
+Sing. aV that.	Oblique cases, Jyf
+
+Plur. those.
+
+or
+
+Vr
+
+or
+
+\yur
+
+l»Vr
+
+When In is prefixed to a noun, so as to form one
+word, it is frequently changed into im, as
+imshab, to-night;
+
+Lr^c\ cJy ^
+
+Heaven * how great is my happiness this night! for this
+night is my beloved come unexpectedly !
+and j .	imroz, to-day;
+
+US*'
+
+^ » k'C
+
+LM. JJJ
+
+This day is a day of mirth, and joy, and the feast of
+spring; this day my heart obtains its desires, and
+fortune is favourable.
+
+The words ^ and j\ prefixed to pronouns personal,
+change them into possessives, and are read with a short
+vowel, a\ ani to, ory j) az ani to, i. e. thine, as
+
+O my moon of Canaan (O Joseph), the throne of Egypt is
+
+thine!
+<pb/>%
+
+PERSIAN LANGUAGE.	35
+
+The relatives and interrogatives are supplied by the
+invariable pronouns keh and 6a. cheh, of which the
+former usually relates to persons, and the latter to things :
+in the oblique cases- of these pronouns the final 6 is
+absorbed before the syllable	as
+
+Nom. £ who.	Oblique,	\J> whom.
+
+6a. which.	ly-	which.
+
+kl and chi are interrogatives, and are very
+often joined to the verb C^w>\, as	who'is it?
+
+wi***». what is it?	> * t
+
+6j\5oLLjS
+O heaven! whose precious pearl, and whose inestimable
+jewel is that royal maid, with .a cheek like the moon,
+and a forehead like Venus ?
+
+:A
+
+kadam (properly which?) is also an interrogative
+pronoun, as
+
+t—'-tAp^
+
+We are fond of wine, wanton, dissolute, and with rolling
+eyes: but who is there in this city that has not the
+
+f 2
+
+same vices ?
+<pb/>36
+
+A GRAMMAR OF THE
+
+Our soever is expressed in Persian byhar or
+haran prefixed to the relatives, as
+
+and	whosoever.
+
+and 40]^ whatsoever.
+
+OF VERBS.
+
+The Persians have active and neuter verbs like other
+nations ; but many of their verbs have both an active and
+neuter sense, which can be determined only by the con-
+struction. These verbs have properly but one conjugation,
+and but three changes of tense; the imperative, the aorist,
+and the preterite';, all the other tenses being formed by the
+help of the particles ml and	haml, or of the
+
+auxiliary verbs	hastan or	budan, to be, and
+
+kh’astan, to want, will or be willing. The passive
+voice is formed by adding the tenses of the verb substan-
+tive	shudan	to	the	participle	preterite	of	the	active;
+
+L kh’andah shud, it was read: The inflexions of
+these auxiliaries must be here exhibited, and must be
+learned by heart, as they will be very useful in forming
+the compound tenses of the active verbs.
+<pb/>PERSIAN LANGUAGE.
+
+37
+
+budan, to be.
+
+The present tense of this verb is irregular, but very
+easy, and must be carefully remembered, as it is the model
+for the variations of person in all tenses.
+
+Indicative Mood, Present Tense.
+
+Sing.	Plur.
+
+am, lam.	^J\	em,	we	are.
+
+Lf\ i, thou art.	ed,	ye	are.
+
+ast, he is.	and,	they	are.
+
+This tense joined to nouns, pronouns, or adjectives, often
+coalesces with them, and loses the initial short \ alif; as
+with pronouns,
+
+Plur.
+
+jUc
+
+maim, nos surnus.
+shama-Id, vos estis.
+cMjUlJ eshan and, illi sunt.
+
+Sing,
+manam, ego sum.
+to yl, tu es.
+
+6 ast, ille est.
+
+With adjectives,
+
+shad am, lam glad.	shad	em,	we	are	glad.
+
+shad i, thou art glad.	shad Id, you are	glad.
+
+shad ast, he is glad. x	shad and, they are glad.
+<pb/>3 b
+
+A GRAMMAR OF THE
+
+The negatives are formed by prefixing nail or a na,
+as U / am not, See. but C^wj\  is commonly written
+nest, there is not, as
+
+The path of love is a path to wfych there is no end,
+in which there is no remedy for lovers, but to give
+up their souls.	Hafiz.
+
+Second Present from the defective	hastan,	to	be.
+
+Sing.	Plur.
+
+I am.	we are.
+
+thou art.
+CU-wjb he is.
+
+tXju-A you are.
+they are.
+
+Preterite.
+
+Sing.
+
+/ was.
+thou wasl.
+he was.
+
+Plur.
+
+we were.
+//0« Tre/'e.
+cXOy they were.
+
+Preterite Imperfect.
+
+
+
+
+
+
+
+^ ^ Sec.
+<pb/>PERSIAN LANGUAGE.
+
+30
+
+Compound Preterite.
+
+Sing.
+
+^\ bty I have been.
+
+Lf\ tty or Myi thou hast been.
+C^i\ he has been.
+
+Piur.
+bbyi we have been,
+you have been.
+oj\ teji they have been.
+
+Preterpluperfect.
+
+I had been.
+LfiXts tty thou had been,
+tty he had been.
+
+b5y} we had been,
+you had been,
+they had been.
+
+Future.
+
+Zjj I will 6e.	we	will	be.
+
+Zjj	thou wilt be.	Jb\yL. you will	be.
+
+bjj	he will be.	iXJb\jL. they will	be.
+
+Imperative.
+
+let us be.
+
+orj) be thou.	0*-^	be	ye.
+
+or 2>\j let him be.	let	them	be.
+<pb/>'10
+
+A GRAMMAR OF THE
+
+Subjunctive, or Aorist.
+
+Sing.
+
+or	I be.
+
+\	'	P7
+
+or	thou beest.
+
+Ow;U or he be.
+
+Potential.
+
+I would be.	we	would	be.
+
+thou wouldst be.	you	would be.
+
+he would be.	they	would be.
+
+Future Subjunctive.
+
+1 shall have been.	*3^	we	shall	have	been,
+
+thou shall have been	you shall have	been
+
+dib 2>2j) he shall have been. cM-tAj they shall have been
+
+Infinitive.
+
+Present,	by contraction 3^s /0
+
+Preterite,	.20^ to have been.
+
+Participles.
+
+\jtAi being.	been.
+
+shudan, to be,
+used in forming the Passive voice.
+
+Plur.
+
+or1	we be.
+
+or	you be.
+
+or oJjS they be.
+<pb/>PERSIAN LANGUAGE.
+
+41
+
+Sing.
+
+I am.
+up thou art.
+he is.
+
+I was.
+
+thou wast.	ootXii	you	were,
+
+he was.	Ow	they were.
+
+Preterite Imperfect.
+
+^o	iSJu)	8cc-
+
+Compound Preterite.
+
+■ j*\ ^ I have been.	we	have	been.
+
+or thou hast	been. co\	you have been.
+
+61^3 he has been.	j>\	they have been.
+
+Preterpluperfect.
+
+2Z31 had been.	we	had	been,
+
+thou hadst been.	you	had	been,
+
+he had been.	they	had	been.
+
+G
+
+idicative Present.
+
+PJur.
+
+^0 we are.
+^0 you are.
+C^JyL ^jo they are.
+
+Preterite.
+
++jxt3 we were.
+<pb/>42
+
+A GRAMMAR OF THE
+
+Future.
+
+Sing.
+
+X^	I will be.
+
+Ow	thou wilt be
+
+t5w Xfc\j2w he mil be.
+
+Plur.
+
+xSj	we will be.
+
+Xt>	you will be.
+
+Xt»	they will be.
+
+Imperative.
+
+---------------------------------	let us be.
+
+be thou.	be ye.
+
+let him be.	let them be.
+
+Subjunctive, or Aorist.
+
+(‘T-Jbe.
+
+thou beest.
+he be.
+
+we be.
+X^> you be.
+X^£> they be.
+
+Infinitive.
+
+X£ to be.
+
+*x£> to have been.
+
+Participles.
+
+\jts being.
+
+£X£> having been.
+<pb/>PERSIAN LANGUAGE.
+
+43
+
+kh’astan or	kh	ahldan,	to	be willing.
+
+Aorist,
+
+used in forming the Compound Future of verbs.
+
+Sing.
+
+I will,
+thou wilt,
+he will.
+
+The other tenses are formed like those of the regular verbs.
+
+OF TENSES.
+
+It will here be useful to exhibit an analysis of all the
+tenses of a Persian verb, and to show in what manner they
+are deduced from the infinitive, which is properly consi-
+dered by the Oriental grammarians as the spring and foun-
+tain of all the moods and tenses, and which, therefore, is*
+called in Arabico masdar or, the source.
+
+All regular infinitives end in	as	rasidan,
+
+to arrive,	nalldan, to grieve^ tarsldan, to
+
+fear.
+
+The third person of the preterite is formed by rejecting
+uj from the infinitive,	he	arrived, OyiU he grievedf
+
+he feared.
+
+g 2
+
+Plur.
+
+we will,
+you will.
+cXjMp they will.
+
+‘ *5
+<pb/>44
+
+A GRAMMAR OF THE
+
+\jj e.Ct.^c tjUj^
+
+I said, is the zephyr breathing from the garden? or is a
+caravan of musk comius; from Khoten?
+
+The letter l_j> prefixed to this tense is often redundant,
+as CUsyj	\jksc\^ he look the mantle,	and departed.
+
+From the preterite is formed the imperfect tense by pre-
+fixing the particles or as	or
+
+he was arriving.
+
+In the third persons the imperfect tense is sometimes
+expressed by adding L$ to the preterite, as LijsJU he
+was grieving^ L^txl'txJU they were grieving; this form is
+common in prose, as
+
+J	j\ bj\y J t/joio	LlijJ
+
+c/wCoj+j
+
+They were immersed in pleasure and delight, and -were
+constantly listening to the melody of the lute, and of
+the cymbal.
+
+The same letter L? added to the first and third persons
+of the past tense, forms the potential mood, as	/
+<pb/>PERSIAN LANGUAGE.
+
+45
+
+might, could, should, or would grieve,	we	might,
+
+*£. grieve; so Ferdusi in a love song,
+
+If I could sleep one night on thy bosom, I should seem to
+touch the sky with my exalted head.
+
+And Hafiz,
+
+tXo	zjb ^j\
+
+Those locks, each curl of which is worth a hundred musk-
+bags of China, would be sweet indeed if their scent
+proceeded from sweetness of temper.
+
+The participle preterite is formed from the infinitive by
+changing ^ into 6, as .arrived, £x*lb sprinkled,
+from which participle and the auxiliary verbs	and
+
+are made several compound tenses, and the passive
+voice; as	b	I	have	sprinkled, ^ ^ «sj^b I had
+
+sprinkled, ^b Sjs^b I shall have sprinkled,
+
+/	5/7/ inkled.
+<pb/>46
+
+A GRAMMAR OF THE
+
+We have given up all our souls to those two inchanting
+narcissuses (eyes), we have placed all our hearts on
+those two black hyacinths (locks of hair).
+
+The Persians are very fond of the participle preterite;
+and it is very often used by their elegant writers to con-
+nect the members of a sentence, and to suspend the sense
+till the close of a long period: in poetry it sometimes is
+used like the third person preterite of a verb, as in this
+fine couplet:
+
+A*jy	j'oy
+
+Ljjbif \j alSaJucjYm
+The brightness of the cup and the goblet obscures the
+light of the moon ; the cheeks of the young cup-bearers
+steal the splendour of the sun.
+
+In the ode from which this couplet is taken every distich
+ends with the word for he struck.
+
+In composition the infinitive is contracted by rejecting
+cj, as ^ I will he; so Hafiz,
+
+CiSCwi: Lo i\j (jJu
+<pb/>PERSIAN LANGUAGE.
+
+47
+
+The breath of the western gale will soon shed musk
+around; the old world will again be young.
+
+This short infinitive is likewise used after impersonal verbs,
+as	it	is	possible to do; Jj it is necessary to
+
+do ; thus Hafiz, the Anacreon of Persia,
+
+It is impossible to attain the jewel of thy wishes by thy
+own endeavours; it is a vain imagination to think that
+it will come to thee without assistance.
+
+And the poet quoted in the history of Cazvini,
+
+The life of man is a journal, in which he must write only
+good actions.
+
+The imperative is regularly formed by throwing away
+the termination	from	the	infinitive,	as	(jy	arrive
+
+thou, from	to arrive: the letter cj is often pre-
+
+fixed to the imperative, as say thou: (j»jb fear thou ;
+so Ferdusi in his noble satire against a king who had
+slighted him.
+<pb/>48
+
+A GRAMMAR OF THE
+
+U
+
+JOJc la- \j^.
+
+0 king Mahmud, thou conqueror of regions, if thou
+fearest not me, at least fear God! why hast thou in-
+flamed my wrathful temper? dost thou not dread my
+blood-dropping sword?
+
+It must here be observed, that the negatives j nah and
+cj na are changed in the imperative into mail and ^ ma,
+as 0*^0 do not ask;
+
+4'j^jj
+
+I have felt the pain of love; ask not of whom; 1 have
+tasted the poison of absence ; ask not from whom.
+
+Before verbs beginning with \ alif the letters u ^ and l_j
+are changed into J, and as before J\ are used
+_jW bring thou,J^sc do not bring;
+
+ji\~i \_JLj
+
+jW	Lr>\f^._y^J
+<pb/>PERSIAN LANGUAGE.
+
+49
+
+Boy, bring a cup of wine; bring a few more cups of
+pure wine.
+
+Say, bring no tapers into our assembly, for this night the
+moon of my beloved’s cheek is at its full in our banquet;
+sprinkle no perfume in our apartment, for to our minds
+the fragrance that constantly proceeds from thy locks is
+sufficiently pleasing.
+
+The contracted participle used in compound epithets is
+exactly the same with the imperative, as j>\ excite thou,
+CJjJLz mirth-exciting, jjji\ inflame thou, (JjU?
+world-inflaming, Getl-afroz, the name of a fairy in the
+Persian tales translated by Colonel Dow.
+
+The participles of the present tense are formed by add-
+ing (J, \ or sco to the imperative, as	^	and
+
+arriving; which last participle is often used for a
+noun of action, as a player.
+
+H
+<pb/>50
+
+A GRAMMAR OF THE
+
+From the imperative also is formed the conjunctive tense
+or aorist by adding to it the usual personal termination, as
+from c/f come thou, I may or will come.
+
+When the sun of the wine shall rise from the east of the
+cup, a thousand tulips will spring from the garden of
+the cup-bearer’s cheek.
+
+By this affected, yet lively allegory, the poet only means
+that “ the cup-bearer will blush when he shall present the
+“ wine to the guests.”
+
+For the most part this form of the Persian verb, which
+the grammarians properly call the aorist, or indefinite
+tense, answers to the potential mood of other languages,
+and is governed by conjunctions as in Latin and English :
+this will be seen more clearly in the following example
+taken from the life of Nader Shah;
+
+xJL
+
+3	j L-tihxsf0 ^	J
+<pb/>PERSIAN LANGUAGE.
+
+51
+
+j\ C-w\ te\scj	Lj-JUL* j	^\
+
+xd\	j£s.b*kOjZ,^ j tXJ^o	^Ck.
+
+^Ijj^JIj L~-*js\j^	5^*
+
+ci'JltXi tx^ij	jjj\^o\iCkL>	L^livf ^cx^c ^ yJiSjj
+
+It is evident to the discerning and intelligent part of
+mankind, that, whenever the affairs of the world are
+thrown into confusion, and fortune favours the desires
+of the unjust, the great Disposer of events, in the
+effusion of his endless mercy, selects some fortunate
+hero, whom he supports with his eternal favour; and
+whom he commands to heal with the balm of benevo-
+lence the wounds of the afflicted, and to sweeten the
+bitter draught of their misfortunes with the honey of
+justice.
+
+In which period the words	garcfad, X*T kunad.
+
+yj\5j± pardazad, and	sazad,	are	the	aorists	of
+
+gardldan,	Cardan,	pardakhtan,
+
+and	sakhtan,	governed	by	the	conjunction
+
+that,
+
+h 2
+<pb/>52
+
+A GRAMMAR OF THE
+
+The present tense is formed by prefixing or
+to the aorist, as	I	know,	j\owx)	thou	knowest,
+
+he knoweth:
+
+y	j'oSj Luo	LS\
+
+O gentle gale, pass by the place which thou knowest, and
+disclose the secrets of my heart which thou knowest.
+
+lJO ^ fj
+
+ySLrcjV^f Jf y La.
+
+With that sweet hue which thou bearest on the rose of
+thy cheek, thou drawest a line over the face of the
+garden-rose.
+
+The particles and j^A are sometimes joined to the
+verb, and sometimes separated from it, according to the
+pleasure of the writer, as
+
+^ty (J)yc U (jtjf
+
+^J^y j	J\y^
+
+Pursue thy pleasures eagerly, for while thou canst close
+thine eye, the autumn is approaching, and the fresh
+season is passing away.
+<pb/>PERSIAN LANGUAGE.
+
+53
+
+The letter — prefixed to the aorist restrains it to the
+future tense, as	I	will arrive; thus Nakshebi in
+
+his work called	or	the Tales of a Parrot»
+
+Night 35,
+
+OwJ^> s\ytC^JU
+0 Nakshebi, a man who desires to enjoy his beloved must
+be active and diligent: whoever labours diligently in
+his affairs, will at last attain the object of his wishes.
+
+After having given this analysis of the Persian verb, it
+will be necessary to add a table of’ the moods and tenses as
+they answer to those of European languages.
+
+Verb Active,	parsldan, to ask.
+
+Indicative Mood, Present Tense.
+
+Sing.	Plur.
+
+fjt I ask.	(jo	we ask.
+
+thou askest.	you ask.
+
+he asks.	they ask.
+<pb/>54
+
+A GRAMMAR OF THE
+
+Simple Preterite.
+
+Sing.	Plur.
+
+we asked.
+j you asked,
+then asked.
+
+I asked,
+thou askedst.
+>j he asked.
+
+Compound
+
+f>\	I have asked.
+
+Lf\	'i
+
+\thou hast asked.
+
+J
+
+"j
+
+/(. i	* \he has asked.
+
+orc_w\ J
+
+Preterite.
+
+j\	J
+
+£j\
+
+ive	asked.
+
+you have asked.
+
+they have asked.
+
+Preterite Imperfect.
+
+aw\--w^j	asking.	we	were	asking.
+
+-(^c tfiGu wast asking.	you	were	asking
+
+he was asking.	they were	asking
+
+Preterpluperfect.
+
+a	I had asked.	^sSji	we had asked
+
+///oa hadsl asked.	you had asked
+
+'ii	he had asked.	cX>3*j	they had asked
+<pb/>PERSIAN LANGUAGE.
+
+55
+
+Sing.
+
+First Future.
+
+Plur.
+
+I shall ask.
+thou shall ask.
+he shall ask.
+
+we shall ask.
+you shall ask.
+cXX-^-j they shall ask *
+
+Second Future.
+
+I will ask.	we	will	ask.
+
+thou wilt ask. cX-~^j	you	will	ask.
+
+cXb^L he will ask.	iXJb\j^	they	will	ask.
+
+Imperative.
+
+----------	^ us ask*
+
+or	as/r thou.	iX--~^j ask you.
+
+cX-^j let him ask.	tXX^j let them ask.
+
+Conjunctive or Aorist.
+
+I may ask.	we ma!J as^'
+
+thou may si ask.	cX~~	^	you may ask.
+
+he may ask.	^ieiJ maiJ as^-
+
+Potential.
+
+I might, c. ask.	we might, c. ask.
+
+thou mightst ask.	\j	you might ask.
+
+he might ask. ' (/cxxx~^j they might ask.
+
+
+
+let me ask, c.
+
+"• This fonn is also commonly used for the imperative, as
+<pb/>56
+
+A GRAMMAR OF THE
+
+Compound Future.
+
+Sing.	I shall have asked.
+
+thou shall have asked.
+OwjI>	he shall have asked.
+
+Plur.	we shall have asked.
+
+x-£>Xi	you shall have asked.
+
+they shall have asked.
+
+Infinitive.
+
+Present,	to ask, contracted
+
+Preterite,	to have asked.
+
+Participles.
+
+Present.	and	asking,	who	asks.
+
+Preterite,	asked or having asked.
+
+Passive Voice.
+
+Indicative Present.
+
+^	I am asked.
+
+thou art asked.
+iOu^J he is asked.
+
+^	we are asked.
+
+you are asked.
+
+^	they are asked.
+
+Sing.
+
+Plur.
+<pb/>PERSIAN LANGUAGE.
+
+57
+
+Preterite.
+
+Sing.	I was asked.
+
+thou wast asked.
+x£j	he was asked.
+
+Plur. *JtXio ^Tve were asked.
+jotxi?	you were asked.
+
+they were asked.
+
+Preterpluperfect.
+
+Sing. f ^	I	had	been	asked.
+
+LfSjj StX£j	thou	hadst	been	asked
+
+3^ xi>	he had been asked.
+
+Pliir.	we had been asked.
+
+tXDjj	you had been asked.
+
+they had been asked.
+
+Aorist.
+
+Sing.	I may be asked.
+
+thou may si be asked.
+SyZi	he may be asked.
+
+we may be asked.
+Oojli j you may be asked.
+
+they may be asked.
+
+Plur.
+<pb/>58
+
+A GRAMMAR OF THE
+
+Second Future.
+
+Sing. *x£}	I	shall	be	asked.
+
+thou, shall be asked.
+tJw	he shall be asked.
+
+Plur. c5wj	we	shall	be	asked.
+
+Xj\you shall be asked.
+
+they shall be asked.
+
+Infinitive.
+
+Present,	*j*-*j	tQ	be	asked*
+
+Preterite, ^>3^	/to	have	been	asked.
+
+Negative verb* are formed by prefixing U or ^ to the
+affirmative in all the tenses, as
+
+Sing.
+
+Plur.
+
+I do not know,
+
+jb ^ thou dost not know,
+job ^ he does not know,
+^ we do not know,v
+tX->b	do	not	know,.
+
+OC->b they do not know,
+
+nescio.
+
+nescis.	^
+
+nescit,
+nescimus,
+nescitis,
+nesciunt.
+
+> LJL) C^Soj L--V—J
+
+sbo pwX	LTV^3
+<pb/>PERSIAN LANGUAGE.
+
+59
+
+I know not why the damsels, tall as cypresses, with black
+eyes, bright as the moon, have not the colour of
+Jove.	Hafiz.
+
+OF IRREGULAR VERBS.
+
+In the ancient language of Persia there were very few
+or no irregularities: the imperative, which is often irre-
+gular in the modern Persian, was anciently formed from
+the infinitive by rejecting the termination	idan;
+
+for originally all infinitives ended in ^>3 dan, till the
+Arabs introduced their harsh consonants before that syl-
+lable, which obliged the Persians, who always affected a
+sweetness of pronunciation, to change the old termination
+of some verbs into tan, and by degrees the original
+infinitives grew quite obsolete; yet they still retain the
+ancient imperatives and the aorists which are formed from
+them. This little irregularity is the only anomalous part
+of the Persian language, which, nevertheless, far surpasses
+in simplicity all other languages, ancient or modern, of
+which I have any knowledge. This remark on the for-
+mation of the Persian imperatives from an obsolete verb,
+i2
+<pb/>60
+
+A GRAMMAR OF THE
+
+may be useful to those who are curious in ancient dialects;
+as it will enable them to trace out a considerable part of
+the old Persian language or Pehlevian	which	has
+
+the same relation to the modern or Persic, as the
+Icelandic has to the Danish, or the Saxon to the Eng-
+lish; and which was, perhaps, spoken in the age of
+Xenophon. This is the language in which the works of
+Zeratusht or Zoroaster are preserved, and into which the
+fables of Bidpai or Pilpai were first translated from the
+Indian: but as we rejected the Saxon alphabet to admit
+the Roman; so the Persians, when they embraced the
+religion of Mahomet, adopted the characters in which the
+Alcoran was written, and incorporated into their language
+a multitude of Arabic words and phrases.
+
+The Persian verbs that form their imperatives, and
+consequently their aorists, from obsolete infinitives, may
+be distributed into the following classes: the old infinitives
+may be found by adding	Idan	to the imperatives,
+
+and the aorists by adding to them the personal termi-
+nations.
+<pb/>PERSIAN LANGUAGE.
+
+G1
+
+gulars that form their	imperatives	by rejecting
+cP or		
+Infin.	Imper.	Aorist.
+(jjvaX to draw a sabre	tT	rr  i*j'
+to sow together	J'	
+aSj\jV to rebuke	JJ	eJJ
+to embrace		^y.\
+to cut		
+to speak idly	JjJ\	
+to sprinkle	wlli\	
+to press	JAA\	(V^'
+1  ^. f to throw down r uCk*Sj\ J		
+to Jill		
+to bring	jj\ andj\	f.jj\ and
+(jSiu to tinge, to weave $U		
+to bear	j	
+to feed, cherish	JlA	PiA
+t° wither		
+to be	Ji	P*
+<pb/>62
+
+A GRAMMAR OF THE
+
+Infin.
+
+to eat
+^J\j to drive
+^tLj) to buz
+
+to resign, give in charge
+
+Imper.
+
+ail
+
+u~i>
+
+and
+
+-j to shave
+i? to comb
+to cleave
+to hunt
+to number
+to hear
+^ 5jLs> to slumber
+3^5 to freeze
+
+for
+
+for
+
+to press
+
+
+
+j/o throw
+
+L° perform
+oif—to strow, spread
+/V-lTto kill
+
+to scatter
+
+jf~3
+
+eA-'
+
+lJ\Cl
+
+j^
+
+and ^Lii
+
+0
+
+Aorist.
+
+r^>
+
+and
+
+I
+
+r-M
+
+Izr*
+
+itr^
+
+pM*
+
+s'
+
+r*
+<pb/>PERSIAN	LANGUAGE.	63
+Infin.	Imper.	Aorist.
+to move	J	f5*
+^ 00U0 to remain	^jUo	i
+u jviLii to fix		i
+} to lay down d J		
+	II.	
+Irregulars that changej into Lf).		
+to try		
+to rest	jf	^jLj\
+1 . •  \ to increase		
+r	or	or^|>-
+to defile	i r	
+The participle of this verb, used in		compound
+adjectives is, , as $J)\ sleepy, drowned		
+in sleep.		
+to besmear	(J1^\	
+to strain	t^JU  .. ,f	
+tjjSjfj to measure	lSVj	
+to polish	b)	(*bJ
+ to praise		
+<pb/>64
+
+A GRAMMAR OF THE
+
+Infin.	Imper.	Aorist.
+to stroke	c5Lj	
+to command	ifVsoji	
+1° show		
+. y to open  l ^USJ	(AiT	
+III,		
+Irregulars that change cJ into lj or j.		i
+^ I to disturb  J	^r	f#y»f
+to inflame	lJ\3	Vu'
+to understand		
+to bore		
+This imperative is very	anomalous.	
+{1yi\to hasten	Ci fmdm+li	
+ijisiSiLi to blossom		
+to deceive	Lr^	
+to smite		
+to lie hid		
+I have never met with this strange imperative.		
+to find.	.u . h»	
+u* t)l° g°		P>
+<pb/>65
+
+PERSIAN L A N G U A G K:
+
+Infin.	Imper.	Aorist.
+lo dig	A	rA
+to say	/  and	i
+lo hear  IV.	♦ H	
+Irregulars that change ^	into j, * into	
+to exalt	W	rjir1'
+lo inflame	jjt'	rVj
+to learn	jyo\	\*jr
+to mix '	_jyo \	(jy°\
+to throw	jUit	
+to% gain		
+to excite		i»j£'
+lo hang	yf	
+to play	>	i*j^'
+to finish	Py	(v'i*
+(JabsojJ to beware	Ma	
+to boil	y	
+(fpisztl to sift	y	rjy.
+to take captive	jy	r>
+to twist  K		pu-
+<pb/>66
+
+A GRAMMAR OF THE
+
+Infin.	Imper.	Aorist.
+to colled	by	rP
+(JpK; to pour		(bi>
+to prepare, make	Jj\—;	
+lo prick	byr*	(by-*
+lo burn	by*	(by*
+to melt	j\*f	CM
+to Jlee	y/	S
+to soothe		(b\r
+^ lo understand		
+to sell	by	r*P
+y.		
+Irregulars that change intoj		
+to Jill	jy\	cM
+to think	JC\	
+to swallow	M	(di>\
+to raise	py	fPj
+to suppose		
+lo have	P	fP
+to leave		fp?
+lo pass	J*	rJof
+to loose% dismiss	M	(P?
+<pb/>PERSIAN LANGUAGE.	67
+
+VI.
+
+Irregulars that reject
+
+Inlin.	Imper.	Aorist.
+to plant		
+to adorn, arrange	C^f	
+to be necessary	tA>	f*
+to accept	d\	
+to deck		(4ry
+to seek		i*^
+to know		
+to grow		
+to live		
+to wash		
+to weep	k/	¥
+^.w>Lo to resemble	uU	bbo
+j£i to view  VII.		r_/i
+Irregulars in	ut	
+r to create	uir^	r^'
+to gather	LFt*'	
+^(XO to see		
+to choose		r
+<pb/>6.8
+
+A GRAMMAR OF THE
+
+VIII.
+
+Irregulars inj* that reject lJ
+
+Infin.	Imper.	Aorist.
+to accept		pji
+to take,	J	■t*
+IX.		
+Irregulars that change	(j- into 6	
+to leap		
+to be delivered	t>	r*
+to be willing, want		
+to lessen	x	JX
+X.		
+Irregulars that change *>	into u or	
+jji to ascend		
+to bind		
+U*~L to join		r
+to break		
+to cause to sit down	^Lu	pjlij
+to sit down		
+<pb/>PERSIAN LANGUAGE.	69
+
+XI.
+
+Irregulars that add (S.
+
+Infin.		Imper.	Aorist.
+to be born			r*
+to caress			
+to open	XII.	SIS'	
+Irregulars that reject			
+to fall		c~3\	_ri'
+to stand			pj—j\
+^ph-^3 to send		CL^sji	
+to place	XIII.		
+Irregulars not reducible to any class.			
+to prepare		jUc\	r>f
+(jtVor to come		SV	r^r
+ijljS to be			.t.
+to rise			r>^
+a3b to give		20 '	
+ijSjto strike		ci	fi>
+\ to take and J			
+<pb/>A GRAMMAR OF THE
+
+' 70
+
+Infin.	Imper.
+to mix, compose	
+to do	
+and *"“*	
+to rot	S  6U>
+to die	_jyo
+CJ^l	
+, .. . >/0 and J	(jrifi
+
+Aorist.
+
+r~ir*
+
+fur
+
+j.iXi'
+
+Example of an irregular verb.
+
+yaftan, to find. Contracted infinitive C-iU
+
+Present Tense.
+
+Sing.
+
+	I fi
+
+cjA? [_^c	tho
+
+/;e
+
+Plur.
+
+^0	^/zd.
+
+tXjjlj	ywz^z/zd.
+
+OCjIj	they find.
+
+Preterite.
+
+/found.
+
+//zozz Joundesl.
+he found.
+
+7ve found.
+tX-lilj yo/z found.
+o^ilj they found.
+<pb/>PERSIAN LANGUAGE.
+
+71
+
+Future, or Aorist.
+
+Sing.	Plur.
+
+I shall or may find.	^-j\j we shall or mayfind,
+
+thou shall or may si find. cX-j \j you shall or may find.
+pAj he shall or may find.	they shall ox may	find.
+
+Imperative,
+or cjU)find thou.	(xAjfind	you.
+
+Participles.
+
+Present,	rA>	or	XOcAjfinding.
+
+Preterite, «ciU having found.
+
+It is better for me not to turn my face from patience; it
+may happen that I may find what my heart desires.
+
+The contracted participles, as it has been before ob-
+served, are of great use in the composition of words, as
+y\	mirth-exciting,	from	ClyLc	which	in Arabic
+
+signifies mirth, and the participle of	to excite:
+
+but of these elegant compounds I shall speak at large in
+the next section.
+<pb/>72
+
+A GRAMMAR OF THE
+
+OF THE COMPOSITION
+
+AND
+
+DERIVATION OF WORDS.
+
+0XE of the chief beauties of the Persian language is the
+frequent use of compound adjectives; in the variety and
+elegance of which it surpasses not only the German and
+English, but even the Greek. These compounds may be
+multiplied without end according to the pleasure and taste
+of the writer; they are formed either by a noun and the
+contracted participle, as	or	heart-
+
+alluring; or by prefixing an adjective to a noun, as
+sweet-smelling; or lastly, by placing one sub-
+stantive before another, as	rose-cheeked.
+
+Since one of the nouns in a compound word is often
+borrowed from the Arabic, a man who wishes to read Ihe
+Persian books with satisfaction, ought to have a competent
+knowledge of both languages. I shall subjoin a list of
+the most elegant compounds that I can recollect; but I
+must express most of them in English by circumlocutions;
+for though we have some compound epithets which give a
+<pb/>PERSIAN LANGUAGE.
+
+73
+
+grace to our poetry, yet in general the genius of our lan-
+guage seems averse to them. Thus	fromj\
+
+a fawn, and	an	eye, a Persian epithet, which an-
+
+swers to the Greek eXiTtuntg, seems very harsh in English,
+if we translate it fawn-eyed; Lady Wortley Mountague’s
+translation stag-eyed* is not much better, and conveys a
+different idea from what the Eastern poets mean to express
+by this epithet.
+
+Adjectives compounded of nouns and participles.
+
+gul afshan,
+durr afshan,
+jf? goliar afshan,
+tegh afshan,
+khun afshan,
+Jsdil azar,
+jan azar,
+lj>\5 tab afgan,
+
+^ bekh afgan,
+sang afgan,
+koh afgan,
+
+shedding flowers,
+sprinkling pearls-
+shedding gems,
+brandishing a scymilar.
+dropping blood,
+afflicting the heart,
+wounding the soul.
+
+darting flames. .
+
+tearing up roots,
+casting stones,
+throwing down mountains-
+
+"■ See her Letters from Constantinople.
+
+L
+<pb/>74
+
+A GRAMMAR OF THE
+
+2>jsa mard afgan, jCs> tambar agin, surur agin, jj\ S\yo murad a war, jJ\ dil awar, ja!?Sn ara, and talam ara, majlis ara, dil ara,  |*1>^ (J^ dil aram,  nabard azma, ruh asa, oV jan a$a, khun alud, ghubar alud, \!bk. khata alud, ruh afza,  \yi\ Cbahjat afza, e^\^ shahr ashub,	overthrowing heroes. full of ambergris, full of pleasures, fulfilling our desires, stealing hearts.  |adorning the world.  gracing the banquet, rejoicing the heart, giving rest to Ihe heart, experienced in battle, appeasing the spirit, giving rest to the soul, sprinkled with blood, covered with dust, stained with crimes, refreshing the spirit. increasing cheerfulness, disturbing the city ;
+
+elegantly applied to beauty, to which likewise the
+poets give the following epithet,
+
+roz afzun,	increasing	daily.
+<pb/>PERSIAN LANGUAGE.
+
+75
+
+j\ff\sar afraz,	raising his head.
+j]ff\ tjjSjf gardan afraz,	exalting his neck.
+jjff\ ^£> fcalam afroz, |  oxJjff\ jat?an )	enlightening the world.
+gltl afroz,	enflaming the universe.
+matrikah afroz,	kindling the fight.
+bostan afroz,	inflaming the garden,
+a beautiful epithet for the anemone.	
+J_yc\ tj-ijb danish amoz,	skilled in science.
+jyJ\ kar amoz,	expert in affairs.
+2S$y* mujdah amez,	mixed with joyful tidings.
+This participle jycX is	used in a great variety of
+compounds.	V
+CUis.^ rah at amez,	giving rest.
+sitam amez,	full of threats.
+jy*\ sliahd amez,	mixed with honey.
+jyoX rang amez,	mixed with colours, that is,
+	deceitful.
+parto andaz,	darling rays.
+dahshat andaz,	striking with fear.
+(j£3\ atish andaz,	casting out fire.
+tlr andaz,	shooting arrows. -
+<pb/>76
+
+A GRAMMAR OF THE
+
+gathering darkness,
+
+zulmat andoz,
+an epithet of the night
+tibrat andoz,
+oUi3\ iltifat angez,
+
+J>\	khulus angez,
+
+JfcW fitnah angez,
+
+ClA^L khajlat angez,
+j\	khafakan angez,	making the heart beat.
+
+y\ Aijjl irshad angez,	producing safety.
+
+mardam obar,
+oV j^n afrln,
+jl dil bar,
+
+sayah parwar,
+
+attracting wonder,
+exciting respect,
+promoting sincerity,
+raising a tumult,
+causing blushes to rise.
+
+devouring men.
+that created the soul.
+
+' a ravisher of hearts.
+bred in the shade,
+ar* epithet for an ignorant young man who has n
+seen the world.
+
+cherishing learned men.
+nourishing the body,
+sporting with love,
+accepting an excuse.
+
+JJjj tulama parwar,
+!an parwar,
+(J-lx. tishk baz,
+
+pozish pazir,
+turanah pardaz, composing tunes,
+
+^ -J? sakhun pardaz,
+
+a musician.
+composing sentences,
+
+an orator.
+<pb/>PERSIAN LANGUAGE.
+
+77
+
+tMJ (Jib nakl band,
+
+tadu band,
+Jo cci fitnah bez,
+Jo^Lu: tatar bez,
+
+Jo spU nadarah plra,
+
+compiling narratives.
+
+an historian.
+that enslaves his enemies,
+spreading sedition,
+shedding perfume,
+collecting memorable events.
+
+asman paywand, reaching the sky.
+talam tab,
+
+dawJat joyi,
+
+(Jf gul chin,
+
+shagufah chin,
+sakhun chin,
+
+sahar khez,
+kliush kh’an,
+jahandar,
+noktah dan,
+
+LW	khurdah bln,
+
+uj	sakhun ran,
+
+k am ran,
+ft)	khun rez,
+
+inflaming the world.
+
+an epithet of the sun.
+wishing prosperity,
+gathering roses.
+cropping flowers,
+collecting words,
+an informer.
+rising in the morning.
+
+O	O
+
+sweetly singing,
+possessing the world,
+skilful in subtleties,
+seeing minute objects,
+lengthening his discourse,
+gaining his desires,
+shedding blood.
+<pb/>\jjj3 shakar rez,
+jkjj$ g°V rez,
+ashk rez,
+ghamzada,
+
+\Sj	zulmat zada,
+
+rahzan,
+j\—jsihr saz,
+dilsitan,
+dilsoz,
+
+JLi jan shikar,
+j+s- tumr shikaf,
+(jfe; lJlo saf shikan,
+
+A+-2*	anjum shumar,
+
+(j-Ai-t» X kar shinas,
+
+shakar farosh,
+O-jj-5 -'y^ khud farosh,
+nazar fareb,
+j\*£jigar gudaz,
+
+summa gudaz,
+jwfU zaya gustar,
+j+\s. talam glr,
+dilkusha,
+
+dropping sugar,
+scattering jewels.
+
+• shedding tears,
+dispersing care.
+dispelling darkness,
+infesting the way, a robber.
+preparing inchantments.
+ravishing hearts,
+inflaming the heart
+a hunter of souls,
+destroying life,
+breaking the ranks,
+equal to the stars in number,
+skilful in business,
+selling sugar,
+boasting of himself,
+deceiving the beholder,
+melting the heart,
+dispelling a calamity,
+spreading light,
+subduing the world,
+rejoicing the heart.
+<pb/>PERSIAN LANGUAGE.
+
+79
+
+kishwar kusha,
+awrang nashln,
+wayranah nashl
+\ibj rahnama,
+j\y lr+jj* gharlb nawaz,
+j\y	barbut nawaz,
+
+uU kamyab.
+
+conquering provinces.
+sitting on a throne.
+
+, inhabiting a desert,
+showing the way.
+kind to strangers,
+tuning a lute,
+who finds what he desires.
+
+II.
+
+Words compounded of adjectives and nouns.
+
+(Sjj khub royi,
+
+pakizah khoyi,
+khusli khoyi,
+pakdaman,
+j\j\ u^k. khub awaz,
+Ucw khub rayhah,
+khush alhan,
+
+with a beautiful face,
+having pure intentions,
+of a sweet disposition,
+with unblemished virtue,
+with a good voice.
+
+with a pleasing scent.
+
+\
+
+with sweet notes,
+
+an epithet of the nightingale, as in this elegant distich,
+
+VpiL\
+<pb/>so
+
+A GRAMMAR OF THE
+
+The brightness of youth again returns to the bowers;
+The rose sends joyful tidings to the nightingale with
+
+sweet notes.
+
+khush raftar,
+jyJti shlrlnkar,
+shlrln dahan,
+si yah chashm,
+The compounds of this
+may be invented at pie;
+
+walking gracefully,
+with gentle manners,
+with a sweet mouth,
+black-eyed.
+
+m are Very numerous, and
+re.
+
+III.
+
+Adjectives compounded of two nouns.
+Each of these epithets is a short simile.
+
+*4y,Pa>'* royi
+
+Ji	pan
+
+—pari rokhsar,
+
+»> Jamshid kulah,
+*	Dara	hashmat,
+
+cjy	simln sak,
+
+shakar lab,
+tut! guftar,
+
+j with the face of an angel.
+
+with the cheeks of an angel,
+with the diadem of Gems hid.
+with the troops of Darius,
+with legs like silver,
+with lips of sugar,
+talking like a parrot•
+<pb/>PERSIAN LANGUAGE.
+
+8
+
+with lips like rose-buds,
+with the scent of jessamine,
+with a bosom like jessamine,
+with cheeks like roses,
+with a rosy face,
+with the scent, of musk',
+with lips like rubies.,
+with the heart of a lion.
+
+When we consider the vast number of epithets that may
+be compounded after these three forms, and that those
+epithets are often used for substantives without a noun
+being expressed, we must allow that the Persian language
+is the richest in the world. These compounds are thought
+so beautiful by the Persian poets, that they sometimes fill
+a distich with''them, as
+
+A damsel with a face like the moon, scented like musk,
+a ravisher of hearts,-delighting the soul, seducing the
+senses, beautiful as the full moon. ^ ...	.*
+
+M
+
+L-J gunchah lab,
+saman boyi,
+saman bar,
+gulrokh,
+LfjJf gulroyi,
+
+muskh boyi,
+uJ Cj>j3Ij yakut Jab,
+sher dil,
+<pb/>A GRAMMAR OF THE
+
+The particle ^ ham, together, prefixed, to nouns, forms
+another elegant class of compounds implying society and
+
+intimacy, as
+
+hamas hi yan,
+hamahang,'
+liambazm,
+hambistar,
+hamkh abah,
+hamdam,
+
+of the same nest,
+of the same inclination,
+of the same banquet.'
+lying on the same pillow,
+sleeping together,
+breathing together, that is,
+very intimately connected.
+
+The particles U not, ^ little, and ^ without, *are
+placed before nouns to denote privation, as i^o\ U na
+anted, hopeless,	^ U na shanas, ignorant,	U
+
+na shagiiftah, a rose not yet blown; l^Tkambaha, of little
+value,	^kam takl, little sense; ^ bl bak,
+
+fearless, uLo\ ^ bi aman, merciless: this particle is
+often joined to Arabic verbs', as	^	bi tammul,
+
+inconsiderate, uXiy bi tartib, irregular.
+
+Example. *
+
+curtsy	tXJt-4
+
+% er1 °ir" cr1	LT>
+<pb/>PERSIAN LANGUAGE.
+
+83
+
+Henceforth, wherever I write thy name, I will write
+false, unkind, ancl faithless.
+
+Names of agents are generally participles active in
+as	sazandah, a composer; or they are formed by
+
+adding Js gar, gar,'or ban to a substantive, as
+jfjj a goldsmith,	a writer,	a	gardener.
+
+Nouns of action are often the same with the third person
+preterite of a verb, as	buying	and selling,
+
+Jwj j o^o\ coming and going.
+
+Adjectives implying possession or plenty are formed by
+adding to nouns the terminations sar,	gin,
+
+mand, nag,Jj wrar, orjj war, asbash-
+ful,	sorrowful,	learned,	veno-
+mous,	hopeful, jy\^ having life.
+
+The Arabic words jbzu,	sahib-	and^JM ahl
+
+prefixed to nouns form likewise adjectives of possession,
+as jh majestic, dignitate praeditus,
+beautiful, venustate praeditus,	Tme, sapientia
+
+praeditus. T^'e may here observe, that the Indians use a
+great variety of phrases purely Arabic,-,some as proper
+names and titles of chiefs and princes, and others as
+m 2
+<pb/>S4
+
+A GRAMMAR OF THE
+
+epithets or constant adjuncts to substantives; such are the
+names	Shujatud’dawlah,	Najmud'-
+
+dawlah,	Shamsud’dawlah,	Sa-
+
+rajiid’dawlah, which signify in Arabic the force, the star,
+the sun, and the lamp of the stale; such also is the title
+which they gave Lord Clive,	Zubdatu’lmulk,
+
+the flower of the kingdom; in the same manner they seldom
+mention the province of	Bangalah	without adding,
+
+by way of epithet, iiLM	jannatulbalad, the paradise
+
+of regions,. an Arabic title given to that province by
+Awrangzeb.
+
+Some adjectives are formed from nouns by adding ^ In,
+as	fiery,	golden,	made	of	emeralds.
+
+The termination anah added to substantives forms
+adverbs that imply a kind of similitude, as j.\jUbpru-
+dently, like a prudent man,	courageously,	like a
+
+man of courage.
+
+Adjectives ol similitude are formed by adding L^r asa,
+L, sa, or wash, to substantives, as Ld Lambar
+asa, like ambergris, Ld LzSjLsc like musk, Lf eLL like
+paradise; L>	like magic ; (JSj like a rose-
+bud,	or	like	the	moon.
+<pb/>PERSIAN LANGUAGE.
+
+85
+
+Some adjectives and adverbs are formed by nouns
+doubled with the letter I alif between them, asL-J \J up to
+the brim,from the beginning to the end,.i^faj or
+many-coloured,
+
+Example.
+
+iJtj ^j\ jj J-
+
+(jjJj
+
+A garden, in which were the clearest rivulets, an orchard
+in which the notes of the birds were melodious; the
+one was full of many-coloured tulips, the other full of
+fruits with various hues
+
+The two first lines of this tetrastich are in pure Arabic.
+
+The termination fam, as well as gun, denotes
+colour, as	f or	rose-coloured,	emerald-
+
+coloured.
+
+From the compounds above-mentioned, or any other
+adjectives, compounded or simple, may be formed abstract
+substantives by adding as
+<pb/>86
+
+A GRAMMAR OF THE
+
+bashful, r l£,L^obashfulness.
+tXl^ub learned,,	learning.
+
+blacky	blackness.
+
+If the adjective end in * the abstract is made by changing
+s into ^ as lO new,	novelty.
+
+Other abstracts are made either by addingJ\ ar to the
+third person of the past tense, assight,	speech,
+
+JcS, motion; or by; addingb to the^cpntracted participle,
+a	rest,	praise^ temptation.
+
+The letter \ alif added^ to sprpe adjectives makes them
+abstract nouns, as warm, warmth.
+
+Nouns denoting the place of any thing are formed by
+the terminations	istan,	^b	zar,	2fVS^gah, or
+
+b*ja, as
+
+nagaristan,* a gallery of pictures. •
+
+* The five first of these names are the titles of as many excellent books: the
+Baharislan anti Gulistan are poetical compositions by Janii and Sadi; the Naga-
+ristan is a very entertaining miscellany in prose and verse ; and the Shakarddn is
+a miscellaneous work in Arabic upon the history of Egypt: as to the Sambulislan,
+
+1 have seen it quoted, but recollect neither the subject, nor the name of its author.
+The Greeks sometimes gave these flowery titles to their books; thus Pamphilus
+published a treatiseon different subjects, which he called Atjfxuva meadozo ;
+
+and Apostolius compiled an ’Icon» iJJcj a garden of violets, or a collection of
+
+. •
+
+proverbs and sentences.
+<pb/>PERSIAN LANGUAGE.
+
+87
+
+baharistan,
+igulisfahy
+cshakardan, *’
+or (jlshakanstan,.
+
+sambulistSn,
+sheristan,
+ginistan>
+^jlfgulzar,
+J\j^^ lalahzar,
+*l£teLc, tibadatgah,
+U khab ja,
+
+the mansion of the spring.
+a bower of roses,
+
+a chest of sugar.
+
+a garden of hyacinths,
+the country of lions,
+fairy-land.
+a fod of roses,
+a border of tulips,
+a place of worship,
+the place of sleep,-a bed.
+
+The learner must remember, that when these compounds
+are used as distinct substantives, the termination of the
+plural, andJ\ of the oblique case, must be added to the end
+of them, as ‘	'	"	‘
+
+Sing. Nom.
+
+>a girl with sweet lips.
+
+Obi.	J
+
+Plur. Nom.	1	'
+
+'	\girls with sweet lips.
+
+Obi.
+
+The Persian verbs are compounded either with nouns
+and adjectives, or with prepositions and other particles.
+<pb/>ss
+
+A GRAMMAR OF THE
+
+The verbs chiefly used in the first sort of composition are
+to do,	to	bring,	to	have,	to
+
+make,	to	order,	^jy^.to devour,	to strike,
+
+/0 bear,	to show, ^pJL^.or	to become,
+
+to come,	to see,	to take, and	£0
+
+The most common of these is which is joined
+in all its inflexions to a multitude of Arabic gerunds or
+verbal nouns, as well as. to Persian adjectives and parti-
+ciples, as ,	..	.	.	,
+
+vj1lcr5r Cardan, to confess7"
+c,3^Wsij\ intizar kardan, to expect.
+
+rujut kardan, to return.
+tamam kardan, to complete.
+pur kardan,	/0fill.
+
+tark kardan,	to leave.
+
+tulut kardan, to rise (oriri).
+
+Thus Hafiz,
+
+• - • * ^	r',	t
+
+l/	L3L,
+<pb/>PERSIAN LANGUAGE.
+
+89
+
+It is morning; boy, fill the cup with wine: the rolling
+heaven makes no delay; therefore hasten. The sun of
+the wine rises from the east of the cup: if thou seekest
+the delights of mirth, leave thy sleep.
+
+hujum awardan,	to assault.
+2>\j yad awardan,	to remember.
+tajab dashtan,	to wonder.
+jtoo matziir dashtan,	to excuse
+hasad burdan,	to envy.
+ittikad burdan,	to believe.
+^ ghamm khurdan,	to grieve.
+sogand khurdan,	to swear.
+(jrikL? roshan sakhtan,	to enlighten.
+Jp tar saktan,	to moisten.
+cAfisJ\ iltifat namudan,	to esteem
+iX* madhosh gashtan,	to be astonished.
+at>j3^(^\i^ghamnaggardldan, to be afflicted	
+tXJJo padld amadan, -	to appear.
+(lAP ihsan didan,	to be benefited.
+- parwarish yaftan,	to be educated.
+karar griftan,	to be confirmed.
+
+N
+<pb/>90
+
+A GRAMMAR OF THE
+
+The verbs and ^ycy are very frequently used
+in composition, as ^3) natrah zadan to call aloud,
+^ycji filer farmudan to consider; thus Jalaluddln
+Rozbahar,
+
+\j
+
+AVhile the nightingale sings thy praises with a loud voice,
+I am all ear, like the rose-tree.
+
+And Hafiz,
+
+Consider attentively; where is a rose without a thorn?
+
+Some of the particles, with which verbs are compounded,
+are significant, and others redundant and ornamental, as
+
+dar amadan,
+dar award an,
+(darkh’astan,
+dar yaftan,
+J> bar amadan,
+bar gashtan,
+bar asudan,
+
+to enter,
+to bring in.
+to require*
+to understand,
+to ascend,
+to return.
+to rest.
+<pb/>PERSIAN LANGUAGE.
+
+91
+
+baz dashtan, to with-hold.
+fardel amadan, to descend.
+wapas dashtan, to detain.
+
+^pbj~> sar dadan,	to banish, to confine to a place.
+
+In the present tense of a compound verb the particle
+^o is inserted between the two words of which it is com-
+posed, as y> to fill.
+
+Sing.	Plur.
+
+!fdl	^°Ji wefilL
+
+L5^ji dtou.fillet'	)youfill*
+
+CsSjj he Jills.	^o y> they Jill.
+
+Sometimes the two words of which a verb is compounded
+are placed at a great distance from each other, as
+
+^bc^)	L—slsJj bo
+
+\jU	y aUbj ^
+
+O western breeze, say thus to yon tender fawn, thou
+hast confined us to the hills and deserts,
+
+where -JOb the preterite of pb j~*to confine, rele-
+guer, is separated by three words. The nounhas a
+number of different senses, and is therefore the most
+n 2
+<pb/>92
+
+A GRAMMAR OF THE
+
+difficult word in the Persian language; it signifies the heady
+the top, the point, the principal thing, the air, desire, /ove,
+will, intention, 6-c. and sometimes its meaning is so vague
+that it seems a mere expletive, though the Persians un-
+doubtedly feel its force.
+
+There are derivative verbs in Persian, as in Hebrew and
+Arabic, which may be called causals; they are formed
+from the transitive verbs by changing into^cX-^, and
+sometimes into	as
+
+to shine.	]
+
+" ’	>	to	cause	to	shine.
+
+and uuu J
+
+to arrive.	to	cause	to	arrive, to
+
+conduct, bring.
+
+d-Z) alft*
+
+O heaven! bring that musky fawn back to Khoten;
+bring back that tall waving cypress to its native
+garden.
+<pb/>PERSIAN LANGUAGE.
+
+93
+
+OF PERSIAN NUMBERS.
+
+The numerals and invariable parts of speech belong more
+properly to a vocabularly than to a grammar; but for the
+use of such as will* take the trouble to learn them by heart,
+I will here subjoin the most common of them :
+
+I	\	yak	one.
+r		j3 do,	two.
+r	ZL	seh,	three. v
+p		chahar,	four.
+6	5	panj*	Jive.
+1	J	shash,	six.
+v	J	CUA haft,	seven.
+-	c	CJtii hasht,	eight.
+	b:	 nuh,	nine.
+1 .	Lf	53 dah,	ten.
+1 1	u.	53^U yazdah,	eleven..
+ir		53]>\j3 dowazdah, twelve.	
+i r		53yx-j sezdah,	thirteen.
+n*	tXJ	53^1^. chahardah,/bwrto*.	
+u		53y\j panzdah,	fifteen-
+<pb/>A GRAMMAR OF THE
+
+94
+
+M		shanzdah,	sixteen.
+1 V	y	hafdah,	seventeen.
+1 A		JJLA hashdah,	eighteen.
+n		nuzdah,	nineteen.
+r.		bist,	twenty.
+r i	^ j Cu-j bist vva yak		, twenty-one.
+r,	J	cr* sJ>	thirty.
+p.	r	chehal,	forty.
+e «	a	panjah,	My-
+1 ,	u-	shast,	sixty.
+v •	t	3lx£-£ haftad,	seventy.
+A.	lJ	^tjLA hashtad,	eighty.
+c		2>y nawad,	ninety.
+1..	6	Owus sad,	a hundr ed.
+r..	j	dosad,	two hundred.
+r .		sesad.	three hundred.
+.	Cj>	chaharsad,	four hundred.
+£ * .	Cd	4X^3\j pansad,	five hundred. _
+1 . •		shashsad,	hundred.
+V • «	3	haftsad,	seven hundred.
+A » *	L>	hashtsad,	eight hundred.
+ . .		nuhsad,	nine hundred.
+<pb/>PERSIAN LANGUAGE.
+
+95
+
+1 • • •	^	j\\	hazar,	a	thousand.
+
+1 . . . . jo j\j dah hazar, ten thousand.
+
+I....	J\j	Owo	sad	hazar,	a	hundred	thousand.
+
+or lak
+
+ORDINALS.
+
+Cnukhustln,	first,
+
+^ dovvum,	second.
+
+sewum,	third.
+
+chaharum,	fourth.
+
+panjum,	fifth-
+
+All the other ordinals are formed in the same manner by
+adding ^ to the cardinal numbers.
+
+ADVERBS.
+
+jLj bisyar, much.	andak, little.
+
+Inja, here.	anja, there.
+
+(XtXi j+cZlsC0
+If I could send my very soul to that place, how trifling a
+present would it be i
+<pb/>96
+
+A GRAMMAR OF THE
+
+az Inja, hence.	j\	az iinja, thence.
+
+J—insQ, hither.	ansu, thither.
+
+kuja, where or whither. \£j\ az kuja, whence.
+har kuj.t keh, wheresoever.
+
+Ojberun, without.	darun,
+
+or	andarun,
+
+| wil
+
+within.
+
+ZjjVf
+
+The nightingales were warbling in the garden, and the
+fawns were sporting on the hills.
+
+\below.	bala, above.
+
+or Zjji farod, J
+
+j\	Sj* j
+
+That evil which comes from above is not evil,
+b’amdad,
+
+sahargah, >in the morning.
+or sahar, J
+
+alCclti shamgah, in the evening.
+dl,	yesterday.	farda, to-morrow.
+
+uLrj> pesh, before.	pas, after.
+<pb/>	PERSIAN LANGUAGE,		97
+aknun,	now.	angah,	then.
+cliun,	when.	hamandam, directly.	
+hargiz,	ever.	tjjfjJb hargiznah,	never.
+hanuz,	yet.	^ batd az an,	aftenvard.
+la ta,	until.	hamlshah,	always.
+k£,\a bari,	once.	j\dlgarbar,	again.
+ham,	also.	Jfo niz,	even.
+
+The following six adverbs are nearly synonymous, and
+signify, as, like, in the same manner as ;
+
+hamchu,	hamchun,
+
+chunin,	hamchunm,
+
+chunancheh,	chunankeh.
+
+£ku, where?	chara, wherefore?
+
+Os^- chand, how many?
+
+^^ j\ az bahr cheh, on what account?
+cjff- cliun, how?	chegunah, how or what.
+
+Ci£-j\lnak, behold!	kash, would!
+
+jf>so magar, perhaps. bL*o mabada, lest by chance.
+
+ham,
+and ^ baham,
+
+)l0S'
+
+ether.
+
+tanha, alone.
+
+o
+<pb/>A GRAMMAR OF THE
+
+CONJ UNCTIONS.
+
+j 6, va, or wa, and. ham, otj-j niz, also.
+
+U ya, or.	.	J*	\ agar, or ’gar,
+
+agarcheh, ’garcheh, though.
+u amma, lekan, (Jj bal, balkeh, but.
+harchand,	harchandkeh,	although.
+
+banabarln, therefore.	pas, then, moreover.
+
+£ keh, since.	\jS) zera, because.
+
+jZs* magar, unless.	y-	juz, except.
+
+PREPOSITIONS.
+
+j\ az orj 'zjrom, by, of. y\ abar, orbar,
+pas, after.	~j pesh, befare.
+
+ bah, or ba, joined to the noun, to.
+
+b ba, with.	bl, without.
+
+pahlawl, near.	dar, in.
+
+iS\y baray,	bajehat,for.
+
+j\ az jehat^j^ j\ az bahr, on account of
+\rsc miyan, between.	suwl, toward.
+
+^y fa rod, beneath.	zir, under,
+
+yj zabar, above.	yf nazd, near.
+<pb/>PERSIAN LANGUAGE.
+
+00
+
+INTERJECTIONS.
+
+\>\ aya, ayha, oh!	^ ah, ah!
+
+or Ixjp daregha. alas!
+
+Thus in the tale of the merchant and the parrot by
+Jalaluddln RumI,
+
+{bji L$\j l*J,3 LS\ j l*jp Lf\
+
+jJj
+
+Alas ! alas ! that so bright a moon should be hidden by
+the clouds!
+
+fighan and	\	afsos	are	likewise interjections
+
+that express grief: thus in a tetrastich by the sultan Togrul
+Ben Erslan,
+
+Yesterday the presence of my beloved delighted my soul;
+and to-day her absence fills me with bitterness ; alas!
+that the hand of fortune should write joy and grief
+alternately in the book of my life !
+
+o 2
+<pb/>100
+
+A GRAMMAR OF THE
+
+This great hero and poet was the last king of the Sel-
+jukian race: he was extremely fond of Fardo;Ts poetry,
+and in the battle in which he lost his life, he was heard
+to repeat alotid the following verses from the Shahnamah:
+
+Vr-
+
+yrijA
+
+* J=j	^	vy°j
+
+When the dust arose from the approaching army, the
+cheeks of our heroes turned pale; but I raised my battle-
+ax, and with a single stroke opened a passage for my
+troops: my steed raged like a furious elephant, and the
+plain was agitated like the waves of the Nile. *
+
+* These lines are quoted by d’Herbelot, p. 1029, but they are written differently
+in ray manuscript of Farddsj, which I have here followed.
+<pb/>PERSIAN LANGUAGE.
+
+101
+
+OF THE PERSIAN SYNTAX.
+
+The construction of the Persian tongue is very easy,
+and may be reduced to a few rules, most of which it has in
+common with other languages. The nominative is usually
+placed before the verb, with which it agrees in number and
+person, as in this pious sentence of a Persian philosopher,
+
+b* b^S Lf'i/y |*^	isb^
+
+Wherefore art thou come ? if thou art come to learn the
+science of ancient and modem times, thou hast not
+taken the right path: the Creator knoweth all this;
+and if thou art come to seek him, know that where
+thou first wast fixed, there he was present.
+
+See the Bibliotheque Orientale, p* 950.
+<pb/>102
+
+A GRAMMAR OF THE
+
+yet it is remarkable, that many Arabic plurals are con-
+sidered in Persian as nouns of the singular number, and
+agree as such with verbs and adjectives, as
+l£5	j\
+
+By the approach of spring, and the return of December,
+the leaves of our life are continually folded,
+where the plural of	a leaf \ governs	in	the
+
+singular.
+
+There is another strange irregularity in the Persian
+syntax ; the cardinal numbers are usually joined to nouns
+and verbs in the singular, as jj*,j	j j\j a thousand
+
+and one days.
+
+iXo
+
+If the gale shall waft the fragrance of thy locks over the
+tomb of Hafiz, a hundred thousand flowers will spring
+from the earth that hides his corse.
+
+These idioms, however, are by no means natural to
+the Persian, but seem borrowed from the Arabs, who say,
+*U j	(—k)\	a thousand and one nights. In Arabic
+<pb/>PERSIAN LANGUAGE.
+
+103
+
+too a noun of the plural number, if it signify a thing
+without life, requires a verb in the singular, and that of
+the feminine gender, for the Arabic verbs have distinct
+genders like nouns, as
+
+The rivers murmured, and the branches were bent to adore
+their Maker.
+
+Their cups overflowed with wine, and my eyes with tears.
+
+Most active verbs require the oblique case in \j after
+them, as
+
+\JU 5j\	uf^ \
+
+If that fair damsel of Shiraz would accept my heart, I
+would give for the black mole on her cheek the cities of
+Samarcand and Bokhara,
+
+It has before been observed (see page 19) that the^, is
+omitted if the noun be indefinite or general,
+
+Jill a cup; but that it is inserted, if the thing be particular
+and limited, y>	he	Jilled	the	cup;	examples	of
+
+this occur in almost every page.
+<pb/>10-1
+
+A GRAMMAR OF THE
+
+All nouns or verbs by which any profit or acquisition is
+implied govern the oblique case, as
+
+Yes! whenever the sun appears, what advantage can
+there be to Solia,* but his being hidden?
+
+The following remark relates to the position rather than
+to the syntax: in a period of two or more members, each
+of which might end with an auxiliary verb, the first of
+them commonly contains the verb, which is understood in
+the rest, as
+
+The disadvantages of haste are many, and the advantages
+of patience and deliberation (are) innumerable.
+
+The adjective is placed after its substantive, and the
+governing noun is prefixed to that which it governs, as
+lfjj a beautiful face, (LSym the scent of a rose;
+but if this order be inverted a compound adjective is formed,
+as lSjj Uik fair-faced,	rose-scenied.
+
+*" Soha is the Arabic name fora very small and obscure star in the constellation of
+the Great Bear.
+<pb/>PERSIAN LANGUAGE.
+
+105
+
+Conjunctions which express conjecture, condition, will,
+motive, 8cc. require the conjunctive or potential mood, as
+
+y Cyy	jZ
+
+jjjfa
+
+If I had known that thy absence would have been so
+sorrowful and afflicting, I would not have departed from
+thee a single day ; I would not have left thee a single
+moment.
+
+Prepositions and interjections are fixed to nouns in the
+nominative case, as
+
+C-*Ls?° j\  j	y
+
+lSZjS JaJfjjj
+
+I have heard that two doves lived together in one nest,
+and whispered their secrets in one chamber; the dust
+of jealousy had never sullied their minds, and the anguish
+of misfortune had never pierced their hearts,
+
+p
+<pb/>106
+
+A GRAMMAR OF THE
+
+Ojlio (Jj\5
+
+The spider holds the veil in the palace of Csesar; the owl
+stands sentinel on the watcl\-tp\ver of Afrasiab.
+
+These are the principal rules that I have collected for
+the Persian language; but rules alone will avail but little,
+unless the learner will exemplify them in his own re-
+searches: the only office of a grammarian is to open the
+mhie of literature, but they who wish to possess the gems
+must endeavour to find them by their own labours.
+
+*	*s an Arabic word signifying a turn, a change, a zcalch, excubiae :
+
+hence	in	Persian,	and	in	Turkish,	signify	to	relieve the
+
+guards by the sounds of drums and trumpets. This office is given by the poet to
+the owl, as that of J\ j iOy or chamberlain is elegantly assigned to the spider. Some
+copies have t^^o-y instead of c^yy which reading would make very good sense,
+but destroys the beauty, of the allusion.
+<pb/>PERSIAN LANGUAGE.
+<pb/>A GRAMMAR OF THE
+
+* os
+
+J)\j to	tos>	L--Jy
+
+^ C5°°
+
+LfXtX^J 2>yfsc 03^^y l£\. , ^Llb
+
+^	^	JU	^	Jf	l^,	aTjJSU
+
+CUk-~-l ^j^Cij\y5
+
+JjJ*3
+
+\. * , 
+
+
+-■> j' ui;
+
+tir"
+
+(yb	33)	eSW	L->^b\	c-woo
+
+LJ^r5	j	CL^bjf	3j>*	JW	^\-*^5o3
+
+jjl;
+
+=%)P
+
+3U	^^cy/3^3
+
+3-1)>jUl/« Ctoy^ fj*~>jjj
+<pb/>PERSIAN LANGUAGE.
+
+lOfj
+tX-o \jj\
+
+\	objjb	(j^j^
+
+O^c C-Oj£*_> LrYw3 Aa. j\	^r^-y0 ^f. ]y°	yy,
+
+~L^	CU*x>	£b~>\	jJj\^
+
+^\^?\ ^ ;U( ^sr ^ C-—>	^yo	,L^
+
+^°j' ir°	JU^ _/p (j^c\ j c—5 a\^jf
+
+£^£\yo	c^JiT	^
+
+uJ*	j ^ J*
+
+^b^j_jtajVy *S" ^ jj\y cjs+a olilCo j^j 0W af
+c^ a\c\j)	z±> jy^° b»U5 j 'ZJ^ j\j
+
+W^M“?>-	^pj 3cX-li>	^	Ll^10	J
+
+>w -	e^10	ub^	’■t-^S'	^
+
+/•5
+
+'' c^5
+
+C^j,\j^ C^) 3\ J-b Jb>
+
+c^wj^tVj bojlS^ ^j,Vj	j3	U	a£
+
+(^e	^vi_'u\j^	J	(*^°	(JJj
+
+^>> cry^0	b(J^^
+
+^	c^_y JW l£>L ^ al^j U J-
+<pb/>no
+
+A GRAMMAR OF THE
+
+Lfjjj SJsJlj?
+
+e£j CL-v***^
+
+—^
+
+cX-~> o-^b) ^ cibo
+
+jJ-i)	s\f ^(JJj ZO*J\ J>J£ JbS J->	C^'
+
+(Ji* l£j^ i^s* b ci^ C-j j jbi.rS^VjV lIV)
+
+^j3 $^ ^JO 3^" Job ^j\ ob\jC«
+
+J	V wT'\ lAj\^3\ i^3bwwwj\ 'm^~j5^jS)
+
+g~-*P JJj ooj'^j u^ o^° u^*r°
+
+^ C^5)^)_j^ b»j»j	Lj^s:-0 (JJj l£\	cuaf	euib
+
+,*i-J\iXi \y\ >> cuif JJj c/jojb	j*bj
+
+V
+
+jbJj J5^j*ii)\ Jy b\
+
+t
+
+^	bc»3 b
+
+^U U^ b> i^ojwo ,*Jo3 job J^y ^ ^U3 o^
+jjL^ jij 3y^jJOJO «b J
+<pb/>PERSIAN LANGUAGE.
+
+ill
+
+A literal Translation of the foregoing Fable
+The GARDENER and the NIGHTINGALE.
+
+It is related that a husbandman had a sweet and pleasant
+orchard, and a garden more fresh than the bower of Irem.
+The air ol it gave mildness to the gales of the spring, and
+the scent of its herbs that refreshed the spirits, conveyed
+perfume to the very soul.
+
+VERSES.
+
+A bower like the garden of youth, a bed of roses bathed in
+the waters of life; the notes of its nightingales raising
+delight; its fragrant gale shedding perfume.
+
+And in one corner of his garden there was a rose-bush
+fresher than the shrub of desire, and more lofty than the
+branch of the tree of mirth. Every morning on the top
+of the rose-bush the roses blossomed, coloured like the
+cheek of heart-alluring damsels with gentle minds, and the
+face of lily-bosomed rriaids scented like jessamine. The
+<pb/>112
+
+A GRAMMAR OF THE
+
+gardener began to show an extreme fondness for these ex-
+
+0	o
+
+cellent roses, and said,
+
+A DISTICH.
+
+1	know not what the rose says under his lips, that he brings
+
+back the helpless nightingales with their mournful
+notes.
+
+One day the gardener according to his established custom
+went to view the roses; he saw a plaintive nightingale,
+who was rubbing his head on the leaves of the roses, and
+was tearing asunder with his sharp bill that volume adorned
+with gold.
+
+A DISTICH.
+
+The nightingale, if he see the rose, becomes intoxicated;
+he lets go from his hand the reins of prudence.
+
+The gardener viewing the scattered condition of the rose-
+leaves, tore with the hand of confusion the collar of pa-
+tience, and rent the mantle of his heart with the piercing
+thorn of uneasiness. The next day he found the same
+action repeated, and the flames of wrath occasioned by the
+loss of his roses,
+<pb/>PERSIAN LANGUAGE.
+
+115
+
+me this service, according to the sentence (in the Alcoran)
+Is there any recompense for benefits, but benefits? it is
+necessary to reward thee for it. Know, that under the
+tree where thou standest there is a coffer full of gold; take
+it, and spend it to supply thy wants.
+
+The gardener searched the place, and found the words
+of the nightingale to be true ; he then said, O nightingale !
+what a wonder it is, that thou couldst see the coffer of
+gold beneath the earth, and not discover the springe upon
+the ground !
+
+The nightingale said, Dost thou not know that (an
+Arabic sentence) when fate descends, caution is vain ?
+
+AN HEMISTICH.
+
+It is impossible to contend with fate.
+
+When the decrees of heaven are fulfilled, no light re-
+mains to the eye of understanding, and neither prudence
+nor wisdom bring any advantage.
+
+Q 2
+<pb/>16
+
+A GRAMMAR OF THE
+
+OF VERSIFICATION:
+
+Th e modern Persians borrowed their poetical measures
+from the Arabs: they are too various and complicated to
+be fully explained in this Grammar; but when the learner
+can read the Persian poetry with tolerable ease, he may
+receive further information from a treatise written pro-
+fessedly upon versification by	Wahldl,	who	was
+
+himself no contemptible poet.*
+
+There are nineteen sorts of metre which are used by the
+Persians, but the most common of them are	or
+
+the iambic measure,	or	the trochaic measure,
+
+and	a	metre	that consists chiefly of those com-
+
+pounded feet which the ancients called ''Evitatus j and
+which are composed of iambic feet and spondees alter-
+nately, as if nuit ores puellarum. In lyric poetry these
+verses are generally of twelve or sixteen syllables, as
+
+a
+
+* See also Dissertations on the Rhetoric, Prosody* and Rhyme of the Persians, by
+francis Gladwin. Calcutta, 1798.
+<pb/>PERSIAN LANGUAGE.
+
+117
+
+Baba I na | fa hi k’akhar | saba zan tur | rah bak’shayad
+
+Zajafcdi zul | fi mushklnash | cheh tab uftad | a dar dilha
+
+When the zephyr disperses the fragrance of those musky
+locks, what ardent desire inflames the hearts of thy
+admirers !
+
+They sometimes consist of fourteen syllables in this form,
+
+as
+
+
+
+Ta ghuncha | hi khandanat | dawlat ba | keh kh’ahacl dad
+
+Ay shakhi | guli ratna | az bahri | keh mlroyi
+
+Ah! to whom will the smiling rose-bud of thy lips give
+delight? 0 sweet branch of a tender plant! for whose
+use dost thou grow ?
+
+or in this,
+
+as
+
+3 (Jjyy
+<pb/>118
+
+A GRAMMAR OF THE
+
+Gosham ha | mah bar kuli | nay 6 nagma | ti changast
+
+Chashmam ha | mah bar latli | to 6 garda, | shi jamast
+
+My ear is continually intent upon the melody of the pipe,
+and the soft notes of the lute: my eye is continually
+fixed upon thy rubied lip, and the circling cup.
+
+This kind of measure is not unlike that which Sappho uses
+in those elegant lines quoted by Hephestion,
+
+TXvyuTa pccreg vtoi Suvotfiou xpeasiv tov Igov
+rioS’w £x[u.eia Ts-cuSoq (2pa$tvav	*A(ppoTuv.
+
+which he scans thus,
+
+FXvxeioi pea | Tt(>> VTOi $6 j vapcai xptKZiv j tcv Igov
+rT(^w SctpiT J ca 'tfcciOcg (2pa. | Xivccv A { (ppoStrav.
+
+Other lyric verses contain thirteen syllables in this form,
+
+as
+
+Saba bah tali | niati pi | ri mayfarosh | amad
+
+Keh.mawsimi | tarbo tlsli | wa naz wa nosh | amad
+<pb/>PERSIAN LANGUAGE.
+
+121
+
+common letters written in the Persian language, which are
+not interspersed with fragments of poetry; and because all
+the Persian verses must be read according to the pauses of
+scansion: thus the following elegant couplet quoted by
+Meninski,
+
+cXo \jj	£>0jJh	kJ
+
+must be pronounced,
+
+Tabadar chi | na har tari j buwad zulfi | tara sad chin
+Keh sazl bar | guli surl | zasumbul pu | dah chin bar chin
+with a strong accent upon every fourth syllable; and it
+may here be observed, that the Persians, like the French,
+usually accent the last syllables of their words.
+
+As to their prosody, nothing can be more easy and
+simple; their vowels \ alif, j waw, and Lf ya are long by
+nature ; the points, or signs for these short vowels which
+they commonly suppress, are naturally short; and every
+short syllable that ends with a consonant is long by position;
+asjVfti; Shiraz,	sumbul,	dahan,	(j-^saman:
+
+but the Persians, like other poets, have many licences;
+
+R
+<pb/>122
+
+A GRAMMAR OF THE
+
+they often add a vowel which does not properly belong to
+the word, as in the first ode of Hafiz,
+
+(Jj wall uftada mushkilha,
+
+and Uo (JW Osljb Is^kuja danandi hali ma.
+
+They also shorten some long syllables at pleasure by
+omitting the vowels \ alif, j wavv, and lS ya ; thus {jjJ#
+berun, which is a spondee, becomes an iambic foot when
+it is written	berun: in the same manneris used
+
+forand	for	The omission of \	alif is more
+
+common; so Xj is put for \j, and	for	as	in
+
+this beautiful couplet,
+
+^ y JA>
+
+“ Call for wine, and scatter flowers around; what favour
+“ canst thou expect from fortune?” so spake the rose
+this morning; O nightingale ! what sayst thou to her
+maxim?
+
+In which lines	is	used	for	shedding	flowers,
+
+and iSjE?* for is^jssr the morning.
+<pb/>PERSIAN LANGUAGE.
+
+123
+
+I shall close this section with some examples of Persian
+verses from the	o	or	hemistich, to the or ode,
+
+which differs from the	or	elegy	m	nothing	but	the
+
+number of the dislichs, of whicji the qde seldom contains
+fewer than five, and the elegy seldom fewer than twenty.
+I shall not set down these examples at random, but shall
+select such as are remarkable for beauty of sentiment or
+delicacy of expression.
+
+AN HEMISTICH.
+
+He who plants thorns will not gather roses.
+
+CU-J a distich.
+
+j	j
+
+c	cjj$-	(S£?- ijtri ^
+
+The caravan is departed, and thou sleepest; the desert
+lies before thee; whither wilt thou go? of whom wilt
+thou ask the way? what wilt thou do? how wilt thou
+
+exist?
+
+R %
+<pb/>A GRAMMAR OF THE
+
+124
+
+A TETRASTICH.
+
+*^JJ
+"^*3 >lo\	(_^btJ
+
+LSjJs^y j
+
+At the time that the dawn appears, dost thou know for
+what reason the bird of the morning complains? He
+says, that it is shown in the mirror of the day, that a
+whole night of thy life is passed, while thou art lost in
+indolence.
+
+Another.
+
+yj\j>(
+t/Ui^ Jilib xsjjK
+
+Dost thou desire to be free from sorrow and pain? hear
+a maxim more valuable than a precious gem: Despise
+not thine enemy, though he be distressed; and trust
+not thy friend, if he be proud and malevolent.
+<pb/>PERSIAN LANGUAGE.
+
+125
+
+In all the Persian elegies and odes the two first hemi-
+stichs have the same rhyme, which is continued through
+the whole poem at the end of every distich. A short piece
+of poetry, in which the two first lines do not rhyme
+
+One day, as I was in the bath, a friend of mine put into
+my hand a piece of scented clay.* I took it, and said
+to it, “ Art thou musk or ambergris? for I am charmed
+“ with thy delightful scent.” It answered, I was a de-
+“ spicable piece of clay; but I was some time in the
+
+*	Ja"	gili khushbo-T, a kind of unctuous day, which the Persians per-
+
+fume with essence of roses, and use in the baths instead of soap.
+
+together, is called a fragment; as this elegant fable
+of Sadi on the advantages of good company,
+
+
+<pb/>12G
+
+A GRAMMAR OF THE
+
+“ company of the rose; the sweet quality of my com-
+“ panion was communicated to me; otherwise I should
+“ have been only a piece of earth, as I appear to be.”
+When both lines of each couplet rhyme together through
+a whole composition, it is called	as	in	the	following
+
+examples:
+
+ J	yJlk) «U
+
+Such is the nature of inconstant fortune, neither her
+mildness nor her violence are of long duration: she
+exalts no one whom she does not at last oppress; for
+she is light in her affection, but most harsh in her
+hatred.
+
+«5+-j3
+
+2>y^*i	y L ^ .sfy
+
+ijjyujyy yj
+
+The happy Feridun* was not an angel; he was not formed
+
+* An ancient king of Persia, highly celebrated for his eminent virtues. The
+learned and excellent d’Herbelot has made a mistake in his translation of these lines
+<pb/>PERSIAN LANGUAGE.
+
+127
+
+of musk or ambergris. He gained his reputation by
+justice and liberality: be thou just and liberal, and
+thou wilt be a Feridun.
+
+C-.->w;3 lJ
+
+5#1	u'	bUo
+
+uWo CUftf
+
+LT*Jj\oSj \yC
+
+CU^iP	C?V"
+
+cuaf ^oj 3b aU-
+
+JW	Cl~OcX^-
+
+(J^yo\j5j\j XlTj3 T
+
+There was an affectionate and amiable youth, who was
+betrothed to a beautiful girl. I have read, that as they
+were sailing in the great sea, they fell together into
+
+(see the article Farrakh in his Bibliotheque Orientale); for not recollecting the sense
+of ~jj happy, he made a proper name of it, and telb1 us that Farrakh was a man
+whom the Persians consider as a perfect model of justice and magnanimity.
+<pb/>128
+
+A GRAMMAR OF THE
+
+a whirlpool. When a mariner went to the young man
+that he might catch his hand, and save him from
+perishing in that unhappy juncture; he called aloud,
+and pointed to his mistress from the midst of the waves;
+1£ Leave me, and take the hand of my beloved.” The
+whole world admired him for that speech; and when
+he was expiring he was heard to say, “ Learn not the
+“ tale of love from that wretch who forgets his beloved
+“ in the hour of danger.”
+
+These examples will, I hope, be sufficient to undeceive
+those who think that the Asiatic poetry consists merely
+in lofty figures and flowery descriptions. There is scarce
+a lesson of morality or a tender sentiment in any European
+language, to which a parallel may not be brought from
+the poets of Asia. The verses of eleven syllables, which
+are used in the great Persian poems, always rhyme toge-
+ther in couplets. It is unnecessary in this section to give
+an example of the Persian	or	elegy, as it differs
+
+only in its length from the or ode, except that the
+Kassldah often turns upon lofty subjects, and the Gliazal
+comprises for the most part the praises of love and mer-
+
+*
+<pb/>PERSIAN LANGUAGE.
+
+129
+
+riment, like the lighter odes- of Horace and Anacreon.
+The most elegant composers of these odes are	Jam!
+
+and kfW Hafiz, each of whom has left an ample collec-
+tion of his lyric poems. I may confidently affirm that
+few odes of the Greeks or Romans upon similar subjects
+are more finely polished than the songs of these Persian
+poets : they want only a reader that can see them in their
+original dress, and feel their beauties without the disad-
+vantage of a translation. I shall transcribe the first ode of
+Hafiz that offers itself, out of near three hundred that I
+have paraphrased : when the learner is able to understand
+the images and allusions in the Persian poems, he will see
+a reason in every line why they cannot be translated lite-
+rally into any European language.
+<pb/>A GRAMMAR OF THE
+
+1:50
+
+U\	J^O j (Jf
+
+cxi>Lj	^
+
+jJac. C^w;3 aS^SlJU
+
+^ (^jLSO ^jf;J
+
+laiL. C^yLszf0	^jU-
+
+Tlie rose is not sweet without the cheek of my beloved;
+the spring is not sweet without wine.
+
+The borders of the bower, and the walks of the garden are
+not pleasant without the notes of the nightingale.
+
+The motion of the dancing cypress and of the waving
+flowers is not agreeable without a mistress whose cheeks
+are like tulips.
+
+The presence of a damsel with sweet lips and a rosy com-
+plexion is not delightful without kisses and dalliance.
+
+The rose-garden and the wine are sweet, but they are not
+really charming without the company of my beloved.
+
+All the pictures that the hand of art can devise are not
+agreeable without the brighter hues of a beautiful girl.
+<pb/>PERSIAN LANGUAGE.
+
+131
+
+Thy life, 0 Hafiz, is a trifling piece of money,.it is not
+valuable enough to be thrown away at our feast-
+
+The last distich alludes to the Asiatic custom of throw-
+ing money among the guests at a bridal feast, or upon any
+other extraordinary occasion: the Persians call this money
+nisar, and him who1 collects it	nisar	chfn.
+
+I shall conclude this grammar with a translation of the
+ode quoted in the section upon the Persian letters; see
+p. 13.
+
+•	5	’	,
+
+If that lovely maid of Shiraz would accept my heart,
+I would give for the mole on her cheek the cities of
+Samarcand and Bokhara
+
+■ i
+
+Boy, bring me the wine that remains, for thou wilt not find
+in paradise the sweet banks of our Rocnabad, or the rosy
+bowers of our Mosella.
+
+Alas! these wanton nymphs, these fair deceivers, whose
+beauty raises a tumult in our city, rob my heart of rest
+and patience, like the Turks that are seizing their
+plunder.
+
+s 2
+<pb/>132
+
+A GRAMMAR OF THE
+
+Yet the charms of our darlings have no:need of our im*
+perfect love; what occasion has a face naturally lovely
+for perfumes, paint, and artificial ornaments?
+
+Talk to me of the singers, and of wine, and seek not to dis-
+close the secrets of futurity; for no one, however wise,
+ever has discovered, or ever will discover them.
+
+I can easily conceive how the inchanting beauties of Joseph
+affected Zoleikhaso deeply, that her love tore the veil of
+her chastity.
+
+Attend, 0 my soul! to prudent counsels; for youths of a
+good disposition love the advice of the aged better than
+their own souls.
+
+Thou hast spoken ill of me; yet I am not offended : may
+heaven forgive thee! thou hast spoken well: but da
+bitter words become a lip like a ruby, which ought to
+shed nothing but sweetness?
+
+0 Hafiz! when thou composest verses, thou seemest to
+make a string of pearls: come sing them sweetly: for
+heaven seems to have shed on thy poetry the clearness
+and beauty of the Pleiads.
+<pb/>PERSIAN LANGUAGE.
+
+133
+
+The wildness and simplicity of this Persian song pleased
+me so much, that I have attempted to translate it in verse:
+the reader will excuse the singularity of the measure which
+I have used, if he considers the difficulty of bringing so
+many Eastern proper names into our stanzas.
+
+I have endeavoured, as far I was able, to give my trans-
+lation the easy turn of the original; and I have, as nearly
+as possible, imitated the cadence and accent of the Persian
+measure; from which every reader, who understands
+music, will perceive that the Asiatic numbers are capable
+of as regular a melody as any air in Metastasio.
+
+A PERSIAN SONG.
+
+Sweet maid, if thou wouldst charm my sight,
+And bid these arms thy neck infold;
+
+That rosy cheek, that lily hand
+Would give thy poet more delight
+Than all Bocara’s vaunted gold,
+
+O •
+
+Than all the gems of Samarcand,
+<pb/>134
+
+A GRAMMAR OF THE
+
+Boy, let yon* liquid ruby flow,,
+
+And bid thy pensive heart be glad,
+Whate'er the frowning zealots say :
+
+Tell them their Eden cannot show
+A stream so clear as Rocnabad,
+
+A bow’r so sweet as Mosellay.
+
+Oh ! when these fair, perfidious maids,
+Whose eyes our secret haunts infest,
+Their dear destructive charms display,
+Each glance my tender breast invades,
+And robs my wounded soul of rest,
+
+As Tartars seize their destin’d prey.
+
+In vain with love our bosoms glow;
+Can all our tears, can all our sighs
+New lustre to those charms impart ?
+
+Can cheeks where living roses blow,
+Where nature spreads her richest dies,
+Require the borrow’d gloss of art ?
+
+•>	(JaI	smelled	ruby	is	a	common	periphrasis	for	wine	in	the	Persian
+
+poetry. See Hafiz, ode 22.
+<pb/>PERSIAN LANGUAGE.
+
+135
+
+Speak not of fate—ah ! change the theme,
+And talk of odours, talk of wine,
+
+Talk of the flow’rs that round us bloom :
+
+Tis all a cloud, ’tis all a dream;
+
+To love and joy thy thoughts confine,
+
+Nor hope to pierce the sacred gloom.
+
+Beauty has such resistless pow’r,
+
+That ev’n the chaste Egyptian dame *
+Sigh’d for the blooming Hebrew boy :
+
+For her how fatal was the hour,
+
+When to the banks ofNilus came
++ A youth so lovely and so coy!
+
+But ah! sweet maid, my counsel hear
+(Youth should attend when those advise
+Whom long experience renders sage);
+While music charms the ravish’d ear,
+
+While sparkling cups delight our eyes,
+
+Be gay; and scorn the frowns of age.
+
+Zoleikha, Potiphar’s wife.
+
++ Joseph.
+<pb/>130
+
+A GRAMMAR, 8cc.
+
+What cruel answer have I heard!
+
+And yet, by heav’n, I love thee still :
+
+Can aught be cruel from thy lip ?
+
+Yet say, how fell that.bitter word
+From lips which streams of sweetness fill,
+Which nought but drops of honey sip?
+
+Go boldly forth, my simple lay,
+
+Whose accents How with artless ease,
+
+Like orient pearls at random strung;
+
+Thy notes are sweet, the damsels say,
+
+But oh, far sweeter, if they please
+
+The nymph for whom these notes are sung!
+
+END OF THE GRAMMAR.
+<pb/>A
+
+CATALOGUE
+
+OF THE
+
+MOST VALUABLE BOOKS IN THE
+
+PERSIAN LANGUAGE.
+
+Oxf The Public Libraries at Oxford.
+
+Par. The Royal Library at Paris.
+
+Loud. The British Museum at London.
+
+Priv. The Collections of private Men.
+
+HISTORY.
+
+^	3	liLoM
+
+The garden of purity, by Mirkhond.—A general history
+of Persia in several large volumes. Oxf. Priv.
+
+The history of the life of Sultan Acber, by the learned and
+elegant Abu Fazl. Oxf.
+
+T
+<pb/>13 S
+
+A CATALOGUE OF
+
+l$j£\	l
+
+A description of the Indian empire, written by the order
+of Sultan Acber by a society of skilful men.—A trans-
+lation of this book would be extremely useful to the
+European companies that trade in India, as it contains a
+full account of every province and city in the dominions
+of the Mogul, of his revenues and expences, both in
+peace and war, and of all the customs and ceremonies in
+his palace; together with a description of the natural
+productions of his empire. Oxf.*
+
+The actions of Sultan Baber; written either by himself, or
+under his inspection.—This book contains a minute ac-
+count of that prince’s wars, and a natural history of his
+dominions. Oxf.
+
+The history of Chashmir^by a native of that extraordinary
+country.—A very curious and entertaining work. Oxf
+
+* It has since been translated into English by Francis Gladwin, Esq. originally
+published at Calcutta, in 3 vols. 4to.
+
+
+<pb/>PERSIAN BOOKS.
+
+139
+
+l$\j\
+
+The history of the lives of the Persian kings, from the
+head of the Sefi family to the death of Abbas the Cruel,
+improperly called the Great. Oxf
+
+The select chronicle.—This work is an excellent history of
+Persia, and has been translated into Arabic and Turkish.
+
+Oxf
+
+A short history of Persia, in one volume, by Khandemir, a
+learned and agreeable writer. Oxf.
+
+The heart of histories.—A copious history of the Persian
+empire, written in the middle of the sixteenth century by
+Abdallatif, a native of Cazvin.
+
+The book of victory.—A history of the life of Timur, com-
+monly called Tamerlane, written in a most beautiful and
+elegant style.
+
+T 2,
+<pb/>140
+
+A CATALOGUE OF
+
+An account of the lives of the Persian poets, by Dawlatshah
+ofSamarcand. Par.
+
+
+
+
+
+,u
+
+The history of the life of Nader Shah, king of Persia,
+written by Mirza Mahadi, and translated into French
+by the author of this grammar.
+
+POETRY.
+
+^oU
+
+Shah nameh. A collection of heroic poems on the ancient
+histories of Persia, by Ferdusi. See the treatise on
+Oriental poetry added to the life of Nader Shah, sect. II.
+p. 248. Oxf. Priv.
+
+Ik oUT
+
+The works of Khakani, a sublime and spirited poet. Oxf.
+Priv.
+<pb/>PERSIAN BOOKS.
+
+141
+
+The odes of Hafiz: see the treatise above-mentioned.
+Lond. Oxf Par. Priv.
+
+LCjLlf
+
+The words of Sadi; containing ^b—if or the bed of roses,
+or the garden, and	or	the	rays	of	light.
+
+The two first of these excellent books are very common;
+but I have not seen the last: they are all upon moral
+subjects, and are written with all the elegance of the
+Persian language. Oxf
+
+j^iour
+
+The works of Ahli; containing,
+
+(JlLs-lawful magic, a poem.
+
+J	taPer	and	^ie	m°lhi	a	poem,
+
+si lJcS'a book of elegies,
+a book of odes.
+
+c*bif
+
+The works of Jami; containing, among others,
+
+the chain of gold, a poem in three books.
+<pb/>A CATALOGUE OF
+
+M2
+
+lM j	Selman	and	Absal, a tale.
+
+the life of Alexander.
+
+^s-5) j lJu^j Me /ovej of Joseph and Zuleikha, a
+very beautiful poem.
+
+j ^i-3 the loves of Leila and Megenun.
+a c°ttecti°n °f odes.
+u\the mansion of the spring.
+j»^.^ Ul*: the gift of the noble.
+j\J^\ the manners of the just. Oxf.
+
+A book of elegant odes, by Mir Khosru.	Oxf.
+
+LS^'A^sC
+
+iS°jj JV *-
+
+*cj
+
+A poetical work called Mesnavi, upon several subjects, of
+religion, history, morality, and politics; composed by
+Gelaleddin, surnamed Rumi.—This poem is greatly ad-
+mired in Persia, and it really deserves admiration. Oxf
+Priv.
+
+
+
+The poems of Anvari, which are quoted by Sadi in his
+Gulistan, and are much esteemed in the East.
+<pb/>143
+
+PERSIAN BOOKS.
+
+oUT
+
+The works of Nezami; containing six poems:
+
+4^rJLiAx)\J\j~s\ the secrets of lovers.
+
+CU the seven faces.
+
+the loves of Cosru and Shirin.
+
+^ol>ji^S.1j the life of Alexander.
+
+j Leila and Magenum, a tale.
+
+the treasure of secrets. Lond. Priv.
+
+V
+
+Pendnama, a book of moral sentences, not unlike those of
+Theogenis in Greek, byj\£x	Ferideddin
+
+Attar. Lond. Oxf
+
+oUT
+
+The works of Catebi; containing five poems :
+
+the junction of two seas.
+l-Aj $3 the ten chapters.
+
+(j-Sxj	beauty and	love.
+
+>U the conqueror and triumpher.
+j the loves of Baharam and Gulendam.
+<pb/>144
+
+A CATALOGUE OF
+
+There are many more histories and poems written in
+Persian ; but those above-mentioned are the most celebrated
+in Asia. The poets of the second class were
+Roudeki, who translated Pilpai’s fables into verse ;
+
+Reshidi, who wrote an art of poetry called\
+the inchanted, gardens ;	Ahmedi, who composed
+
+an heroic poem on the actions of Tamerlane : not to
+mention a great number of elegiac and lyric poets, who are
+very little known in Europe.
+
+PHILOSOPHY.
+
+The light of Soleil or canopus.—A very elegant para-
+phrase of Pilpai’s tales and fables, by Cashefi. Oxf.
+
+tojLt
+
+The touchstone of learning; a more simple translation of
+Pilpai, by Abu Fazl. Oxf.
+<pb/>PERSIAN ROOKS.
+
+145
+J1J
+
+The Persian tales of a thousand and one days, translated
+into French by Petit de la Croix.
+
+i
+
+Negaristan, the gallery of pictures, by Jouini.—A miscel-
+laneous work upon moral subjects, in prose and verse.
+There is a beautiful copy of this book in the Bodleian
+library at Oxford. Marsh 397.
+
+A system of natural philosophy, by Isfahani Oxf.
+
+The natural history of precious stones. Oxf
+
+There are many books in Persian upon Geometry,
+Algebra, Astronomy, Mechanics, Logic, Rhetoric, and
+Physic; all which deserve to be read and studied by
+the Europeans. The Persians are very fond of elegant
+manuscripts ; all their favourite works are generally written
+upon fine silky paper, the ground of which is often powdered
+<pb/>14G
+
+A CATALOGUE OF
+
+with gold or silver dust: the two first leaves are com-
+monly illuminated, and the whole book is sometimes per-
+fumed with essence of roses or sandal wood. The poem of
+Joseph and Zuleikha in the public library at Oxford is,
+perhaps, the most beautiful manuscript in the world: the
+margins of every page are gilt and adorned with garlands
+of flowers; and the hand-writing is elegant to the highest
+degree .* it is in the collection of the learned Greaves, No. I.
+The Asiatics have many advantages in writing : their ink
+is extremely black, and never loses its colour; the Egyp-
+tian reeds with which they write, are formed to make the
+finest strokes and flourishes ; and their letters run so easily
+into one another, that they can write faster than any other
+nation. It is not strange, therefore, that they prefer their
+manuscripts to our best printed books ; and if they should
+ever adopt the art of printing, in order to promote the
+general circulation of learning, they will still do right to
+preserve their classical works in manuscript.
+
+I shall conclude with a Persian ode in three Asiatic
+hands, and shall add a few remarks upon each of them.
+<pb/>[ W ]
+
+/ L
+
+/ NISKHI.
+
+This is the on 1/ form of writing that we can imitate
+exactly by our typ :* it is the hand of the Arabians, who
+invented the chapters ; and it must, therefore, be learned
+before we attempf :o read the other hands: it is frequently
+used by the Persiais, and the history of Nader Shah was
+written in it.
+
+II.
+
+T A L I K.
+
+This beautful hand may easily be read by Europeans,
+if they undeistand the Persian language; and if they do
+not, what will it avail them to read it ? In this form of
+writing thestrokes are extremely fine, and the initial letters
+j 5 3 are sometimes scarcely perceptible. The characters
+are the ssme with (or rather only a variety of) those used in
+
+"• Types lave since been made in India to imitate the Talik with tolerable success;
+though it must be confessed, the Niskhi being the plainest, and easiest character to
+read, should be preferred for printing. See Forms of Herkern, Calcutta, 1781.
+
+u 2
+<pb/>C 148 ]
+
+printing, except that (j*, and ar> often expressed by a
+long stroke of the reed. As the Persius always write their
+lines of an equal length, they are oliged to place the
+words in a very irregular manner: if tie line be too short,
+they lengthen it by a fine stroke of thireed; if too long,
+they write the words one above anothr. In the Persian
+poems the transcribers place both members of a couplet on
+the same line, and not the first above thesecond, as we do:
+a Persian would write the following versts in this order,
+
+With ravished ears	The momrch hears,
+
+Assumes the god,	Affects tonod*
+
+It must be confessed, that this irregularly in writing,
+joined to the confusion of the diacritical pohts, which are
+often placed at random, and sometimes omited, makes it
+verv difficult to read the Persian manuscripts, till the
+
+language becomes familiar to us; but this dificulty, like
+all others in the world, will be insensibly surmounted by
+the habit of industry and perseverance, withoutwhich no
+
+great design was ever accomplished.
+<pb/>[ *49 ]
+
+III.
+
+SHEKEST EH.
+
+In this inelegant hand all order and analogy are neglect-
+ed ; the points which distinguish lJ from Jj, ^from £_and
+and L-> from O, lt> and L->, Sec. are for the most part
+omitted, and„ these seven letters, \ 3 3jjJj are connected
+with those that follow them in a most irregular manner.
+This is, certainly, a considerable difficulty, which must be
+surmounted before the learner can translate a Persian letter:
+but I am persuaded, that those who chiefly complain of it
+have another difficulty still greater, which is their imperfect
+knowledge of the language.
+<pb/>
+<pb/>
+
+
+
+#i. f I
+
+v
+
+t 151 ]
+
+ADVERTISEMENT. ,
+
+\^C
+
+/V
+
+t
+
+The following Index will be found, it is hoped, of *
+considerable use to learners, and to those in particular
+yyho 'tire unprovided with dictionaries. It is not only in-
+tended as a literal alphabetical explanation and analysis
+of the extracts and authorities from the various writers
+interspersed through the Grammar, but, as a vocabulary,
+/7 may be employed to advantage, by imprinting on the
+
+ili. '\iory a number of useful words.
+
+I -n.
+
+It "may not be improper however to inform those who
+have made but little progress in this language, that, in con-
+sulting any dictionary, there is a variety of inseparable
+particles prefixed and annexed to words, which must be
+
+analysed or separated before the meaning can be found : for
+
+■$r
+
+example,
+
+which literally signifies to desire is, must not
+be looked for under the letter cj but under	the L-> prefixed
+
+A
+
+•
+<pb/>152
+
+ADVERTISEMENT.
+
+being the inseparable preposition for, to, in, ^ implying
+desire, Sec. and (for Cthe third person present of
+to be.
+
+// fy unnecessary to multiply examples, but it will save
+the learner much trouble if he keep in mind, //zc/ the prin-
+cipal of those pr fixed particles are,
+the Arabic particle the.
+l_> (or ^ before words beginning with \) the character-
+istic of the first future, and sometimes of the imperative,
+bj or c—> the preposition to, for, kc.
+c_> prefixed sometimes by way of pleonasm, to which no
+translation can give any precise meaning.
+
+U with.
+
+without.
+j iforj\) ^rom> with, by, See.
+
+(for to) which, what,
+p or	characteristics	of	the	present	tense.—
+
+These characteristics of the present are frequently omitted
+by the Persian authors.
+
+f (or ^ before words beginning with \) the negative
+prefixed to imperatives.
+<pb/>ADVERTISEMENT.
+
+153
+
+l6or ^ (or (J bejorc words beginning with \) the general
+negative prefixed to all other tenses *
+
+The particles which are commonly annexed to words are
+as follow:
+
+The possessive pronouns
+I* or my, mine.	U	our.
+
+CL> CL>\ or C-o thy, thine.	your.
+
+j his, her, its.	or	their.
+
+the plural of nouns having reference to living
+creatures.
+
+Lb the plural of inanimate nouns.
+
+\ or L> the poetic vocative.
+
+\j the termination of the oblique cases.
+
+the third person present of to be.
+
+LS is sometimes equivalent to our a or one; and at other
+times after nouns ending with \ or 2$ it marks that the fol-
+lowing noun is in the genitive case ; and it is then equal to
+our of.
+
+* Notwithstanding the above observations, which will save the learner some
+perplexity in consulting dictionaries, many of the compounded words, and such
+oblique tenses as differ most from their infinitives, are for his greater ease
+and satisfaction inserted in this Index.
+
+X
+<pb/>154
+
+ADVERTISEMENT.
+
+The Persian writers make frequent use of the contracted,
+infinitive; when the learner therefore cannot find such
+words as	or	in	the	Index, let him look for
+
+^c*
+
+V The a put after some words in the Index shows
+that they are of Arabic original.
+<pb/>[ 151* ]
+
+■dn Extract from the Memoirs of the Emperor Jahangir,
+written by HimselJ.
+
+j JlL	^	lr>	c5^ j
+
+c>^ j	^	b|VH	crj^*
+
+\j 4“~t3 ^	j	JJ-V	^ji/* u5^V	j
+
+J'fjy. sy\y>~	^	LsU-	i^AJ	oWjj	c-Jys
+
+e^-=f^ 	^	tJ^o-	ylW	c^°
+
+*'"£	jVj	Jji-	\j	J	J~~yV^V	C-^^c	gi\
+
+^ j\ j,L' *! \))\ -J	uyy	^ j>\
+
+j*^-i jW '•Sy	4^?“ J	^	^jy^o
+
+iU	Jj)j	jj	^^iji	J	tJLb J -j jJ
+
+j'ir* ^ ci^ (*^J ^Jlki	j.jj^	^jJ
+
+Zr ^Jy	v^JJi	^	oT	>>	j	r*
+
+jyij^ ^ J*V J' sV** J5 ^ eJU	JL).y* ^
+
+c? r^ ‘^s-*- ^~>'s ^ tr®'^ j\ 	t/A>°
+
+d^.y*. fJ-H av.».1> ^Uf *ite^ ^
+u ^	J^)	j'	J	y	J^\	Ji}	^jJjj iaibjJ > c'^3
+
+•^V"	^	V-H	^	j	Jcow
+
+J C^.^y cr*^ b J>'	^	r^	jjj		(V«H
+<pb/>[ 152* ]
+
+3^	j t	^vi>M	J	£^s>~\Sj|	>4i«$it>b'
+
+^*J5 1.'	wc iXl»V LJ^iIa^	^)b^J J tX^bc^SI^c Jww* t ^>X
+,^-i, i-djb^	lr«	C^f-	^
+
+»* /
+
+|*l)	^jli'ii..:	\y S^tJ j\ tX*J L~~^ t5^	CI-JJ.j	lj	JO^^JL^c
+
+/ '**
+
+ ^ j»«»^jw 	^jV)	c^°
+
+JS Jc*£»b icJ^^i c-^blir4 j*-Lrf ^UsLj b j*-Lj kVksrc l^o d£ |*JujJJ
+
+**	y	y
+
+u^iSij Jsr° d£ biL-;	j*jlojJ	o3b	cJr~	dciS'	bb	*i—~-
+
+i—jj b	>U	j_cb	Jcjwb«) Li^tbk-« *^>=>‘	^
+
+C_'lib j Odbbki cU)\j-> ^b*^—^c Ai.	j*^1-'	J	jJ	^	(Jbs
+
+J^SU.* w^j-c ^3	^	U~*h	^V > ^ Jjb^	J
+
+•	d£	X’b wcO* w lX>- *b	cO JuwCl -bbs-- /*JCw ili.wb *>- !>^s3Js AkvOfc-C
+
+L>-	•••>••	v	(^	••	J	J	•	p	v	ji	(_7 >
+
+W*
+
+~5>-l.X5l ^bb>-*^,be j*^ ^-^bj" j*bj	bx£»l	il
+
+cr^-*- C-^ b-f" r'^ J *-bb f'j jifo^cT b-y ^—rlr^ cA-v-f- c>bslub
+
+oJ	^	»i
+
+J |^L*3 ^^^»3	CA-^	J
+
+s- y3~£j\ sxj di	j-j	|*M	jj
+
+e^biLj	^jb	c)^*-	O^V	3
+
+y	**	*	y
+
+v*\£)b^A^rr'.,.'ju'jJ c^'UjJU ^^jbj iOjj ^‘U-j^y> Lj^y) _____________________
+
+|*X>L>: i-^j->-	j	j*-:^
+<pb/>[ 153* ]
+
+A Description of the City of Agra, from the same.
+
+(^-^0 4>3yJ)\
+
+^t*sc ^)V	^	cx-oly	Aj	f\
+
+j*W J~>	*>pU	ufrJ*	uj'-ij
+
+«L^J e£3 LT	J	Jv^c	4X-f;
+
+,*r^t	^	f\j^	^
+
+l5Uj3 LJ^b j-^ jjr!	u\j>y (mr^t^, ci^
+
+^JL-J JbUj OyT ^ kjjj L-JjjS* lJW ^jjjSd^o
+
+d£> j ^r5	l!^5	jf?	c~Jl
+
+owJti>\j Lirt> lJUjj *svr cj^> ur y^u ^ ^ ^y
+l^c\ y	^ l!?^
+
+i • A***b^-^	C—^*««..»r-^_*j
+
+0,1*^ xiLbj ^A3 *~> (%yr^^ oo)y ^
+jV)l>j	*£cu-^vy (jLl l^J\j jj\
+
+^.y-5 c~J^j ^	c^,..-.;/l>lj	.^If^	^y>A^J)\ tjlP -^y
+
+—■^jj^^. (jy^ j (Ja^3 (JU-^ jj^'A ciyj
+yby ^ c*w\^Aru-*^c
+C> Li..W*“ *“-''w^(^^	Ot>-l; J)\
+
+y cu^y/ y>U?
+Ulbl /.J
+
+cr
+
+*U txdi
+
+U j\j(
+
+
+
+tf i/'^
+
+_?	J-1^	1)	£_£>
+
+^ ^iAy^o cu~l jl^L;U j^LL ^yT) b j ^I ^ *-o
+
+**»
+
+aTcl,
+<pb/>[ 154* ]
+
+^-3	0O,\i	C-^-As	j	Jy^c	^v>\	^	Lf	^W2*"
+
+j\	CsJkJ^c	LOp-	\jA	j	^
+
+CUiib l* bi \j a\\^	J>	\	J	J^xj\
+
+,U-
+
+mU-
+
+b
+
+—J bj+rf0 ~-ib^ *b-*^ _^P O'
+
+_/"^> v^ o^ «a# 3J*-^ ^
+
+CUjJ
+
+uj^~	j *y*
+
+*£ j\ c^bjU\jf	c£bp	jcsbl^	c.^
+
+Oio LfW 2f^c\ b^\j C~wA tNljb (jAe'b*» CUo^ l£\j
+
+c£r> j- L^*j b^f\	bU rK!j^ C)'	^b!/ ^
+
+bl.>»,;«.w-CLJj*£*S*.	CUlf JjbiWL>CU^t5U. itb
+
+iv^f il^c\^^\j	^j\j (X-jb ^jbl^iU	JVxJj
+
+O^j ^jjb\^>\ ^pb C^~£z>j\ i\*J bllolj^blb
+Cl>^r*-^A ^^ol—; \j^j	i^jCsJti tZJib^
+
+^ L*J~3	^	C-JSj	u\j\l^^j j ^)j
+
+^oo^c^i il>\o^\ ^\jjW b^ (jZjL. CJycj
+
+^ j*^ t^>\j bio ^\j cjiy ^Ib LfUw
+J cXb\«iCi>A~; bib^JL,\jj Ci£L~; j\ L$j+czjsb* Cj^I^c.
+
+oc^b^^b bOw-j^ |*l;\j ^V> c)\
+
+^ -1)^ ^JLr** ty*- 0o)U> Jb
+
+^V-*^ *s
+<pb/>INDEX.
+
+tl'	J
+Water, fountain: lustre, upon: a cloud.  J\jj\ a. pi. ofj) the just.  colour, paint, comp, of c-A water and colour.  (JLA a. Absal, proper name.  a. Abufazal (father of virtue) proper name.  a. Abulays (father of the lion)proper name.  CA (annexed to words) thy. U*j\ fire. fiery. jr>\ a. a mark, impression, to plant.  a. pi. of*JtXaw the eyes.  A- PI- °fj*~ the noble, free a. or. care, grief. eA***aA a. a present, favour, benefit.	tX*^A a. Ahmad (most worthy of praise) a proper name.  \yaA a. pi of affairs, con- ditions; secrets.  Cf^\ to draw aswordfnifefrc. a. choice, liberty ; pru- dence.  ^A a. end,finally; another.  a. moderns; posterity. a. Adam; a man: a mes- senger.  VA a. when.  j\*\ the 9th Persian month; vernal.  JX fire.  a\a=*^A the province of Media. _j\ bringing, bring thou>from  . or\J\ adorning,
+
+v o
+<pb/>156
+
+to adorn,
+rest.
+
+y^j\ is worth, from
+f\ may bring, from
+
+a. safety, rectitude.
+pj\ I ram, name of a fabulous
+garden in the East.
+j\ from.
+
+he set.at liberty,
+liberty,
+afflicting, from
+^\j\ to rebuke, afflict, wound.
+(j\j\ from that.
+
+■^\ j\ thence,
+from this,
+hence.
+j\ on account of.
+
+^■jfj' wherefore? why?'
+on account of.
+afflicted, from
+^j\ whence.
+
+experienced from ^ytjs
+temptation, experience,
+to try, tempt.
+
+el
+
+J^cj\ from amidst.
+
+from one another.
+uyj\ to sew together.
+
+like, resembling: appeas-
+ing.
+
+rest, both jrom f
+or a-horse.
+
+•	V
+
+a. hearing, sound.
+
+they listened.
+a. pi. of	secrets,
+
+heaven.'
+to rest.
+
+imr£\ {annexed to words) his
+a tear.
+
+_J^\ clear, evident.
+
+love, friendship, fami-
+liarity : knowledge.
+
+disturbing,from.
+to disturb,
+a nest.
+
+a. confusion, pain.
+a. pi- of lJparts,
+
+tracts.
+
+(J\ocx.\ a. equality, temperance.
+<pb/>157
+
+J'
+
+$\s££\ a. belief, faith.
+
+\ a. great; greater.
+j\i\ a beginning. *
+
+a. pi. of branches,
+to embrace.
+a. pi. ofjrivals, jea-
+lousy.
+
+to cut.
+
+>Lsr the sun.
+
+or	a	bottle; a
+
+coffer.
+
+to fall.
+j\y\ exalting, from
+
+Alraslyab, proper
+
+name.
+
+(jr^jy\ to inflame.
+jjj*\ inflaming,from the above.
+to create,
+creating,/row. the above,
+or ^f\y\ increasing, from
+to increase,
+increasing,
+alas!
+
+to speak idly.
+
+a[±i\ sprinkling, shedding,
+to sprinkle, shed,
+to press.
+
+(^y3\ throwing,from
+to throw.
+a. pi. of ^3 cups.
+a. their cups.
+j)y\ a. affirmation confirmation.
+jS\ a. Akbar (greater) proper
+name.
+
+*S\ or ifS\ intelligent, vigilant
+knowledge.
+
+J>\ if.	though.
+
+filling.	to	fill,
+
+now.
+cnff full.
+
+(J) a. the article the.
+
+*\ a. but, except.
+cAibi) a. esteem, respect.
+a. gentleness, lenity
+a. musical notes.
+a. the mind.
+
+L_flM a. a thousand.
+
+$J\ sprinkled, stained, from
+<pb/>158
+
+to stain, sprinkle.
+
+^)\ a. O God, heaven ; divine.
+OvJ\ a. the Arab, article pre-
+fixed to aid, strength, hand,
+kc.
+
+f» [annexed to words) my.
+
+to prepare; to be ready.
+>r preparing.
+cjUd a. security, mercy; sin-
+cerity.
+
+he came; coming,
+to come, approach ; the
+coming, approach.
+
+coming and going.
+J3j*\ to-day.
+
+to-night,
+to learn, teach,
+skilled, teaching.
+
+to mix.
+hope.	hopeful.
+
+jyc\ a prince, noble.
+
+Amlrkh’and shah,
+
+proper name.
+jyc\ mixing, from
+
+J that: time : now.
+those,
+to fill.
+
+jfecj] a. desire, expectation.
+^\ there, in that place.
+a. or stars.
+
+to throw, dart,
+throwing, from the above.
+within,
+little.
+
+to gain, gather
+to besmear,
+gathering, gaining.
+
+thought, consideration,
+thither.
+
+that which; he who.
+or then, at that time.
+4^i£;\5o\ to think.
+
+to excite, raise
+raising, exciting.
+j\y\ a. Anwar (splendour)
+proper name.
+those.
+
+j^\ a. pi.	rivers.
+<pb/>\	159	b
+
+lSj\ orj\ or j he, she, it: his,
+her, its.
+
+himself, herself.
+j\jT a voice, sound: fame.
+
+a. pi. of ^ times.
+j\jj\ devouring, swallowing,
+from
+
+to devour.
+
+J bringing,	from
+
+\jj\ him, her, it; to him, 8cc.
+a. pi. of (Jjj leaves.
+
+ct0 bring-
+Ca throne: a manufac-
+turing village.
+
+a. pi. of	affairs,
+
+actions.
+
+a. first: the beginning.
+a. forefathers, the an-
+cients.
+
+o hang.
+
+^Ia. skilful: endowed with,
+possessed of: people.
+
+wise.
+
+a fawn.
+
+\ coming; come thou,from
+
+cS\ or U O! sign of the voc.
+case.
+
+a. times, days,/?/, of ^
+to stand,
+they: their. u\«Lj\
+themselves.	them :	to	them
+
+jjy* Lf\ O Sir!
+
+a. the right hand.
+
+^ this.	these.
+
+UijI here.
+cnliCol so, thus
+1j\ hither,
+behold,
+a mirror,
+these.
+cnj\ nature.
+
+C-J
+
+with; to, for.
+b with, possessed of: since.
+vV a. agate; a chapter.
+
+Babar, a proper name.
+<pb/>160
+
+eniJj to play.  J>b the wind, air; let it be.  L-o ^b zephyr; a gentle gale; the east or morning wind.  «Job wine.  Jb a load, baggage.  ^r-^b Persian.  Lijb once. .  jb playing, play thou, from  b  jb again, anew. cyjfyfi with-hold, keep back. Njb a player; playing.  b being, be thou, from b^b a basha, governor.  CsJL\j it may be; it may happen, from  to sprinkle, dilTuse. a garden, ^bbb a gardener. C/ib to weave: to tinge.  ^b a. the remainder; perma- nent.  fear, care.  C^jb pure, chaste, clean.	jb£b affectionate.  ^£b more pure.  (j-^c^b innocent, unblemished, beautiful, amiable, gentle, pure, lovely, jb awing: an arm.  "Sb above, upwards.  ^j^Jb to strain.  Mowob in the morning.  *^j>b fifteen, t^-oib five hundred.  V  ^>b together.  \ * °  cNjb it is necessary, from  b permanent, from (jb a foot, a/zd jb the participle of (jrJL>b to have.  ^n~jb to be necessary.  CTw^b to accept.  he took or bore up. fear thou from he kissed,/m/i Ike first appears to be re- dundant.
+<pb/>[pi. uf) an infant.
+
+a. metre: the sea.
+y^Jj^k a. the Iambic measure.
+
+a. the Trochaic mea-
+sure.
+
+a. a kind of verse, con-
+sisting of lambics and Spondees.
+
+A. dual	the	two
+
+seas.
+
+Bokhara, name of a place.
+to boil.
+
+I would give, from
+to give.
+
+A? bad.	bad	of	me.
+
+to or for these,
+know thou.	I
+
+might have known, from c^w>b
+give thou,/iwi ^pb
+conspicuously, publicly,
+to become conspi-
+cuous.
+
+accepting,from
+to accept.
+
+y> full, j* the bosom: upon.
+Oy upon thy bosom. carry-
+ing, ravishing, from
+to rest.
+
+\j* I should rest.
+jj to ascend.
+
+Lf\jJ for, because.
+
+y. arises, comes, from
+
+Wy a harp, lute.
+
+a ray, splendour.
+
+(to rise, arise.
+
+to finish, compose,
+composing, completing,
+he finishes, performs,
+to raise, exalt
+(jPy to bear, carry, lead,
+txby they carry off.
+
+a veil, tapestry.
+
+Lfj\$25jj a chamberlain, porter.
+
+ask thou, asking.'
+cXyy it arrives.
+
+j~lf> above, on the top or head,
+to ask.
+<pb/>162
+
+we have asked,
+cuiy he went away.
+
+{j^jj a leaf; power; arms;
+ornament; a musical instrument.
+
+eP fjt,t0 fiH-
+
+10 return, recede,
+to ascend, mount,
+a butterfly, moth,
+a protector, nourisher;
+educating; educate thou.
+
+to educate, nourish,
+education. Nourish-
+
+went.
+
+without, out of.
+together.
+
+(LfJsirjj to beware, abstain,
+abstinence, chastity,
+an angel, fairy.
+
+ruinous, disordered,
+
+SCattered.
+
+under, below.
+
+to wither, decay.
+
+J tliev will give up,from
+
+a garden: tjts—j a
+
+breast.
+
+C^w> to bind, shut,
+a boy, child,
+much, many.
+
+J it blossomed,
+let us break.
+
+0^3j a. sight: prudence.
+(Jbxj a. lazy j a miscreant.
+Cte a. vain, fruitless.
+tXxj after. ^ j\ cSxj afterwards,
+bcyb second person impera-
+tive, from	to	com-
+
+mand, 8cc.
+
+CU--^c\5o is to my desire.
+tXJjbo lie shall dig, from (jnjfc
+leave thou,
+say thou, from Cfisf
+5jc£j it shall pass, from
+
+but.
+
+a. misfortune; without,
+
+2>ij a. a country, region,
+a nightingale.
+<pb/>163
+
+J'
+
+
+
+but.
+a tiger.
+a. yes.
+it shall perish, from
+therefore,
+mourn thou, from
+five. aUu fifty.
+
+V	•	V	1
+
+the fifth.
+
+binding, compiling; bind
+
+thou.
+
+advice, counsel.
+
+to suppose, think,
+can hind, from
+
+a garden of violets,
+sliowed, from : the
+S-* prefixed seems to - be redun-
+dant.
+
+to be.
+
+they were, from
+xty a little branch.
+
+an excuse.
+
+(j-o a kiss.
+
+a garden,
+he kissed, from
+
+to hide, cover, conceal.
+pj> an owl.	to the owl
+
+LfjJ fragrance, smell.
+
+rose-scented. Scent of
+
+the rose.
+
+ good: in, into. To.
+the spring.
+
+the mansion of the
+
+spring.
+
+C^scheerfulness.
+
+because, for, on account of:
+all, every one: fortune; pre-ex-
+cellence.
+
+Baharam (the planet Mars)
+proper name.
+
+L^i^j the breast, side: near:
+the ancient Persian language.
+
+^ together, one with another.
+^ without,
+w come thou, from
+^bU a desart: uncultivated.
+
+I shall find.
+
+JLj bring thou, from
+
+a. white; brightness.
+y2________________________
+<pb/>164
+
+Lj a cup.
+
+L^L-j fearless.
+
+faithless, merciless.
+Lfjyc^j thou shalt learn, from
+
+CUja. a house; a distich.
+
+inconsiderate.
+
+irregular.
+
+without assistance,
+a root, origin,
+without a thorn,
+ignorant.
+
+LfUszr! to sift.
+
+LrJszrJ to take captive.
+C^JLjLsr^ false, faithless.
+\4X-j openly : a discovery.
+J4X-J heartless, disconsolate.
+jy old ; an old man.
+
+adorning, collecting,
+to deck,
+without, out of doors,
+shedding, si (ting, from
+
+twenty.
+
+before; the front.
+
+*.,.j innumerable.
+
+JyLj inconstant; afflicted.
+
+new.	novelty,
+
+the face, form.
+
+(J-j an elephant,
+r* fear, danger.
+
+unequalled,
+to measure.
+
+CJV seeing.
+
+1 may see, both Jrom
+
+or ^ endless,
+helpless, unfortunate.
+
+to join, touch,
+touching, joining, reach-
+ing.
+
+Cj
+
+o\ or O (annexed to words)
+thy.
+
+U until, that, in order to.
+l-A5 heat, flame; splendour;
+strength; desire; a fever; con-
+torsion.
+<pb/>165
+
+J
+
+cP
+
+to cause to shine.
+
+I may turn, be. from
+to turn,twist; to shine,
+make warm ; to be able.
+
+bright, shining,
+to twist; hasten; wager.
+JG obscurity; a hair; a wire;
+a thread ; the summit.
+
+spoil, prey, ruin,
+obscurity, darkness.
+
+^}G a. a history, chronicle.
+
+dark. JljG darker.
+ZjG fresh, new, young.
+
+more fresh, See.
+iPiG to inflame, burn.
+
+a. consideration, specu-
+lation.
+
+let alone, leave, relinquish.
+a. a present ; rare, ele-
+gant.
+
+a. prudence, advice;
+government; regulation.
+
+a. a record, obligation.
+y moist, fresh,
+
+\y thee; to thee.
+
+G\y harmony, modulation.
+
+Clyy a. a tomb.
+
+a. order, regularity,
+thou fearest, from.
+to fear.
+
+LfiSyy thou mayst fear.
+
+a. pointing; shame,
+
+anguish.
+
+a. a beautiful man- op
+woman; a Turk; leaving-relin-
+quishing.
+
+correcting; arranging.
+(—a. composition, in-
+vention.
+
+S\ a. or $\ om-
+nipotent God.
+
+a. haste.
+
+(jrG*G a. hanging, dependent;
+the most elegant kind of Persian
+hand-writing.
+
+. negligence: contempt.
+a. relaxation, walking;
+contemplation.
+<pb/>a. precious: the eighth.
+
+gJJ bitter ; severely.
+
+bitter in the mouth.
+LlsUJ diversion; a spectacle,
+seeing.
+
+a. full, perfect; comple-
+tion, end: completely.
+
+a. a wish; supplication.
+y the body, person.
+
+VJ alone, only; solitary.
+j3 thou : thy. y thyself.
+
+a. (pi. of histories.
+^j\y it is possible, from^*~J>\y
+y a. repentance ; conversion.
+(jr^y to collect; to pay debts.
+^-1^5 a. congratulation.
+
+wretched, empty, naked,
+
+poor.
+
+jy an arrow : the river Tigris.
+jy sharp; violent, passionate,
+a sword.
+
+^rfy a. moisture.
+
+by a. the constellation Pleides-
+
+Z.
+
+V a place.
+
+an inchanter; inchanting.
+a remedy,
+a fissure, a breach
+to tear.
+fV a cup, glass; mirror,
+a mantle, robe; bed.
+a collection.
+uV the soul; a beautiful
+woman.
+
+souls, friends: lovers
+uU- delighting the soul,
+jy V having life, an animal.
+a. the forehead.
+a. study, endeavour,
+wherefore, why?
+
+a wound,
+fortune; the world, globe.
+
+Cir cassia.
+a. a crime.
+ory^ except, unless.
+<pb/>167
+
+t**7» to leap; to seek, ex-
+
+O
+
+amine.
+
+an eye.
+a fountain.
+
+JL> to taste, try.
+
+I have tasted.
+a. a curling lock,
+a kind ofmusical instru-
+ment, a lyre, a lute.
+
+the liver.	hver-
+
+piercing.
+
+what dost thou do?
+comp, of ^[('qy ^) what, and the
+second person pres, of
+how? what?
+
+J alaluddin (the glory
+of religion) proper name.
+
+a. a volume: a skin.
+cJW* a. beauty, elegance.
+
+Jamshed,/?r/?£r name.
+t^A. collection, assembly,
+troops.
+
+a garden, meadow,
+verdant plain, meadow.
+
+how often?
+fairy land,
+a harp, lute.
+y*>- when (or $*■) like, as.
+f*' seek thou .from c>
+
+in like manner,
+in the same way.
+in this manner, thus.
+a. or paradise,
+how many?
+
+
+
+an answer,
+young; a young man.
+youth.
+
+a. (pi ofjy*-) jewels,
+how? when.
+
+0^. when that.
+
+CJVys- Jawlnl, name of an
+author.
+
+thou mayst seek,from
+
+^ what, which.
+
+^ leaping, from
+four,
+fourteen.
+<pb/>168
+
+Ow
+
+
+
+four hundred, the. fourth. cA1^ die world.  contjuerorofthe world, possessing the worlds a. diligence, solicitude, forty.  , what ? what is it ? he gathered from iA. what dost thou  seek ?  lSS^c ^what dost thou say?  "-J " V - . | '  China: a ringlet.  I may gather, from	a. imprisonment.  JiJoow a. (/;/. of teuz*.) gar- dens.  a. news; an accident. a. caution. a. motion: a vowel. a. envy, malevolence. a. beauty, elegance.  5w a. followers, troops. (3^ a. true; truth, reason. C-JUU. a. sincerity: truly. a. a decree; wisdom.  a. science; a miracle. a. wise: a doctor, learned man, philosopher, physician.
+Z.	a. lawful.
+CaWa. necessity: poverty.  a. arriving; completion; harvest, produce: profit.  a. Hafiz (a man of great memory) name of a poet.  JW a. a condition, state: a thing, time present.	a. a bath.  i  a. praise. cLOW a. (/;/. of el.oL.) acci- dents, news.  ^. a. assistance, support: a fortress; eminence, mountain.  a. (pi. of neces-
+*—^owa. motion, action; state.	saries, necessities: things.
+<pb/>169
+
+
+
+CL.*  CjL^. a. life; a portico, vesti- bule.  a. (pi. oftS^.) frauds. a. Jiving, life; an animal.	^ God.  a prince, lord, patron. O God! 0 heaven ! the only Lord  God.
+t  a thorn.  anguish, resentment, to rise. a. pure, excellent; noble. a. mind, heart,disposition. tjlilL KhakanI, name of a poet. earth, dust. a. a mole on the face. JiJlL a. the Creator.  a lord, grandee; an inn. (y?/. o/‘lk) houses. a. history; news; fame, relate thou, from to inform, relate.  K'.L Khotan, Tartarij.  a. ashamed, blushing;  envy.  ClukaJs. a. a blush, shame.	friend of God, proper  name.  stately, pompous. a. murmured : fell from  intellect: small.  XSjL. minute,subtile; minutiae, contented. I am contented. iSc^^L. content, charming, pleasant, a cock or hen. rage, emotion: an at- tack.  4>jya- buying; he bought, the autumn.  Khosru, Cyrus. a. Khizar,proper name. a. a mustacho ; a line, rule. Ikk a. a crime, error, z
+<pb/>170
+
+palpitation of the heart.
+CU-^\lL a. the best part of any
+thing, the substance, cream.
+
+a. sincerity, purity,
+smiling, pleasant.
+L-j\yL sleep; a dream.
+
+3^)\ L->\yL drowned in sleep.
+I^cjLL the place of rest; a
+bed.
+
+\j\j^ eating, devouring.
+
+to be willing; to want,
+a reader, singer, singing:
+viands, victuals; a table.
+ajobk. to read, sing-
+s\jk. ask, call, wish for.
+you will,/rum.
+pleasant, fair, gentle,
+
+good.
+
+more beautiful, 8cc.
+most beautiful,
+fair-faced.
+or	one’s	self;	his.
+
+to eat, devour,
+the sun.
+
+b
+
+sweet; happy,
+bjyk joy be to—
+
+sweet-scented,
+sweet-tempered,
+blood,	blood-
+
+dropping.
+
+t-fj^ disposition,temper.
+
+to chew the cud.
+
+JLl imagination, phantasy;
+a spectre: vain, fruitless.
+
+JfrL rising, jrom	or
+
+to rise, spring up.
+thou hast risen.
+
+^b darkness, night.
+
+3b equity; a gift; lamenta-
+tion.
+
+a3b to give.
+
+having, from c/b
+jb a. a family; house; town.
+\^b Dara, Darius.
+j^jb I have, enjoy, possess.
+tX^b they have or hold.
+<pb/>171
+
+~>b he had.
+
+b to have, hold.
+
+£b a wound, scar, mark,
+pb a net, snare, trap,
+trob a fold, lappet, or hem,
+skirt, border of a garment.
+
+cjb knowing: a vessel; sheath,
+bb a wise or learned man.
+«bbUb prudently, wisely.
+^~-^b I knew,
+cdbdb to know.
+
+(_A>b learning.
+cM^jbb learned; a doctor.
+
+b learning, literature.
+O^Jb they know, from cn~bb
+b snare, allurement; a grain:
+cannon ball.
+
+b thou knowest, dost thou
+know?
+
+Lfjjb a. dominion, administra-
+tion of justice.
+
+in, above; around: agate.
+[pi. of a. pearls.
+to enter.
+
+cP
+
+to carry in.
+to suspend; contend;
+
+provoke.
+
+CULp a tree, a plant.
+
+to require, demand,
+a wound, pain, torment;
+
+dregs.
+
+Cright, complete.
+
+harsh, hard.
+
+^	was betrothed.
+
+Ciiop delay.
+
+^5op lie beholds, from
+
+p to view, behold.
+vjjS within: the heart; in-
+trails.
+
+the Persian language,
+bp the sea.
+
+Cnibp to understand.
+or alas!
+
+the hand,
+an enemy.
+
+_j2> a register, journal; index.
+CJLJto a. minute; subtile,
+small; a subtilty; a minute.
+
+fe 2 ________ __________
+<pb/>172
+
+^,jbb depart from, leave.
+
+it passes away.
+
+J* again: anotlier.
+the heart.
+
+ravishing, delightful,
+comp. o/\}~ and \Jj\ participle of
+to exalt, suspend,
+agreeable, salutary, comp,
+of (J.> and(for tSjy) part. of
+crOy to desire, ask, seek.
+
+jbbas mistress; heart-ravish-
+ing, comp, oj	andjb particip.
+
+of cr^b to have, hold.
+
+Ji*—b heart-wounding, comp,
+of andjyi part, of	to
+
+burn.
+
+heart-deceiving, comp, of
+and	part	of	to
+
+deceive.
+
+heart-conquering, comp,
+of Ji and J rom	to
+
+open, conquer, kc.
+
+time: breath: pleasure,
+the brain, the palate.
+
+55
+
+jb-O a friend ; harmony, comp.
+of ^5 breath, andjL? from
+to do, make,
+two.
+
+a. a species of large
+trees; an orchard: rattles for
+children.
+
+a. a circle, orbit, revolu-
+tion: rolling. jjS p. far off,
+distant.
+
+LSjyi distance, absence.
+
+JO sewing, piercing. •
+
+53Jj3 for 53J^3 twelve.
+
+Ca friend, mistress.
+
+dearer, more friendly,
+two hundred.
+
+C^j^orj3a. felicity; riches;
+a kingdom, state,
+the second.
+
+53 a village; a giver: ten.
+fortune, fate, time, world,
+gift, liberality.
+
+COL£3 fear, astonishment.
+
+alil3 a villager.
+<pb/>te ten thousand.
+
+Lf5 winter, first winter month,
+December; yesterday.
+
+•jlp (pi. ofjo) friends, families,
+habitations: a country.
+
+Oo3 he saw, from
+to see.
+sight,
+yesterday.
+
+J* another.	again.
+
+a collection of an author’s
+works, chiefly poetical: a royal
+court, tribunal of justice. A great
+officer of government so called.
+
+b
+
+a. possessed of, endowed
+
+with.
+
+a. majestic.
+
+r^b gold.
+
+J	,
+
+^\j A. tranquillity. r
+
+j]j a secret, mystery.
+
+j a declivity, foot of a hill.
+
+C^i\j a. compassion, favour.
+
+to drive, banish.
+
+)j a way, path.
+
+CJ-5) t0 ro^’ stea^ infest the
+highway.
+
+a. fragrant; fragrance.
+a. a verse of four lines, a
+word of lour letters.
+
+a. returning,
+a cheek, face; a groan; the
+sound of a musical instrument,
+a cheek.
+
+dL3j a. an embassy; a man-
+date.
+
+to cause to arrive.
+(jrLij to grow; to be delivered.
+^~3j a. manner, law, regulation.
+arrives,from
+to arrive,
+a line, thread.
+a. Rashid (a conductor)
+proper name.
+
+L, a. tender, delicate, lovely,
+motion.
+<pb/>174
+
+I went, from
+(jzjtj to go: departure.
+
+to dance: motion.
+a. colouring, painting, em-
+broidery : writing; a letter, cha-
+racter; arithmetic.
+
+Roknabad, name of a
+
+place.
+
+jycj a. {pi. ofyrcj) enigmas.
+a. he threw; throwing,
+sorrow, pain.
+t>3> a wanton, dissolute,drunken
+person.
+
+colour paint.
+
+many-coloured, va-
+rious.
+
+coloured.
+
+\jj a. right, competent, worthy.
+pjA. the soul, life, spirit.
+
+\ys\ q ) spirit-raising, from
+
+Riidaki, proper name.
+
+jjv ■ djy-
+
+increasing daily.
+
+fortune, world, time, an
+age; wind, air, vanity.
+
+a journal.
+
+Lfjjj one day: fortune.
+
+Lr^JJ splendid, evident.
+jjiLlijj more splendid.
+
+light, splendour.
+
+C^^cjj a garden.
+
+(jpjj a. beauty, elegance.
+
+Lfjj or jj face, top, surface,
+thou dost go, from (j*Jj
+thou dost grow from
+a road, way.
+
+herbs [ingeneral)pro-
+perlij sweet basil.
+
+to pour,
+pouring, dropping,
+to buzz.
+
+J
+
+j iforj\) from : if.
+cP]) to be born; to bring forth.
+j>]j a complaint: abed, a place,
+to complain.
+<pb/>175
+
+$>
+
+dew; frost, hoar frost,
+
+hail.
+
+Vj the tongue; language.
+a. the most excellent of
+any tiling, the flour, cream.
+
+_pj above, high, superiour.
+
+a wound, blow, stroke.
+
+I-) dispelling.
+
+to strike, hurt, impel,
+to polish.
+
+JJ g°kI-
+
+pale, yellow.
+
+Sjj a goldsmith.
+
+Jjj ornamented with gold,
+golden,
+to live,
+from whom ?
+lJj a lock of hair.
+
+U-i) Zulaykha, Poliphcirs wife.
+Lj a. the world; fortune;
+time, season.
+
+emerald-coloured,
+made of emeralds.
+uyoj ground, earth.
+
+Li
+
+(jj striking, disturbing, Jrom
+(j3) to strike. A woman.
+
+Lj) a prison,
+life.
+
+a. decay, misery.
+jj poison, venom.
+
+Jjj poisonous.
+
+Xjj Venus; courage; gall.
+L) loss, damage.
+
+an ornament; beauty.
+
+LS) beautiful.
+
+more beautiful.
+
+j) agrees Jrom
+
+to quadrate, agree with.
+jSj under, below.
+
+\jSj because, for.
+
+U"
+
+L; like, resembling.
+
+(3^Lj a. a shore, coast, bank.
+cA^Lj to prepare, make.-
+jLi full of.
+jLi preparing.
+
+yf~i he makes, both jrom (j^La
+<pb/>176
+
+a composer, performer,
+a cup.
+
+(jL; a. the ieg.
+
+JjU a. a cup-bearer, water-
+carrier.
+
+a. a traveller; going,
+a year, age.
+
+jLj a shade.
+
+a. a cause, motive.
+t0 resign, commit, give
+in charge; recommend, charge,
+
+> injury,oppression,tyranny,
+threatening.
+
+the injured,' af-
+flicted.
+
+a tyrant,
+the wicked.
+
+a tyrant,
+to praise.
+
+82>\ser> a* a kind of carpet.
+a. rhyme, melody; the
+cooing of doves:
+
+enjoin.
+
+light of weight.
+
+bearers of light
+
+burdens.
+
+4to prick.
+
+^w—i a soldier, soldiery, army,
+white.
+
+the morning, aurora,
+to take, ravish.
+
+^,1^— taking; a country.
+
+^ praise, from	—
+
+,.OC— to take.
+
+w-
+
+to shave, erase, efface.
+
+Sjs?3 a. adoration.
+
+a. disposition, temper.
+a. the morning, crepuscule;
+enchantment.
+
+or	the	morn-
+
+ing.
+
+•	a.	belonging	to	the
+
+morning.
+
+adversity, danger, po-
+verty.
+
+speech; a word.
+
+_j-*> head, end, extremity; love,
+desire: principal, supreme.
+<pb/>177
+
+a. a lamp, lantern; the
+
+sun.
+
+from beginning to end.
+lofty, tall; glorious,
+to banish to a place, to
+
+confine.
+
+to mix, compose,
+an occurrence, acci-
+dent : a tab, song, warbling.
+
+£JLij~i wanton; astonishedj
+confused; a vagabond.
+
+a cypress-tree; a horn.
+
+5 a. joy; a prince, chief.
+
+mixing, from
+convenient, proper,
+it is proper.
+
+of a good disposition :
+happy, august.
+
+Satdl, name of a pod.
+^a. an endeavour, diligence
+(JjJui thou piercest./rom
+to pierce, bore.
+
+Sakandar, Alexander.
+a. quiet, resignation.
+
+JLLa. pure water: a chain.
+
+a. a chain, series,lineage.
+J*L, A. Salman, proper name.
+a. Salim (perfect, unble-
+mished) proper name.
+
+a native of Samar-
+kand.
+
+jessamine,
+jessamine-bosomed,
+a hyacinth.
+
+a garden of hyacinths
+a stone.
+
+Cstony.
+
+a. blackness; melancholy,
+to burn, inflame.
+
+I would touch, rub,
+
+from
+
+ePyw to stroke, rub, touch.
+
+a beautiful kind of red
+
+rose.
+
+jj~> inflaming, from
+an oath,
+towards; a place, part,
+
+side.
+
+a a '	_____
+<pb/>178
+
+I*
+
+» three.
+
+Sofia, name of a star.
+tall, erect.
+theslar Canopus; name
+of a Persian author.
+thirty.
+
+or black,
+blackness.
+
+bathed, full of water,
+thirteen,
+three hundred,
+silver.
+
+the face, colour.
+
+silvered,
+the bosom, breast,
+the third.
+
+, *
+
+CH
+
+e\ or (jt (annexed to words)
+his, her: to him, to her.
+
+a branch, twig, horn.
+
+mirth,
+the evening.
+
+in the evening.	I
+
+e
+
+(/or	they;	their,
+
+to comb.
+
+!	6yf li» sixteen.
+
+a king, emperor,
+royal, princely.
+
+LrJ^ night.
+
+C-jLi? a. youth,
+one night,
+haste.
+
+or make haste,
+to make haste.
+
+_fJt) (pi. or\bfiia) a camel.
+
+a. a tree.
+
+5^ a. strength, force, agility.
+Os-Cj he was: going, from
+to be, 8cc.
+wine,
+bashful.
+
+(bashfulness.
+
+CJw-ij to wash.
+
+six.	sixty.
+
+a. (pi. of jAt>) poets,
+learned men, doctors.
+
+a. light, flame, splendour.
+<pb/>179
+
+r*
+
+4,
+
+c_r~
+
+a hunter.
+
+1j breaking, from
+
+to cleave, tear, break.
+a. a complaint,
+sugar.
+
+.Jj> eating sugar,
+to hunt, take, seize.
+
+fa chest of sugar.
+
+c'iA }
+
+
+
+u-Jju sugar-lipped.
+
+to break, defeat.
+Shakastah (broken) the
+current Persian hand-writing.
+cAs^t) to blossom ; to admire.
+iXJLts they blossom, from the
+above.
+
+a flower.
+
+L-» patient.
+
+patience, toleration,
+you, your. U-t? your-
+selves.
+
+number; numerous,
+ye, you; to you.
+a. odour, fragrance.
+
+to number, enumerate,
+(j—w a. the sun ;. gold,
+a scymitar.
+a. a candle, wax taper.
+a. odour: nature,custom;
+an atom.
+
+to understand,
+knowing, from the above.
+UticJL or	to	hear.
+
+I have heard,
+they heard, from
+
+jovial, gay, wanton, boId?
+insolent.
+
+a. honey, honey-comb.
+a. a city; the moon;
+
+^ knave.
+
+insane; enamoured.
+
+JlA3 a lion; also a tiger.
+
+the top band of a book.
+Shiraz, name of a place.
+the habitation of lions,
+a lioness.
+a lion.
+<pb/>
+
+180
+
+Shireen (sweet, gentle)
+proper name.
+
+of gentle manners.
+
+LP
+
+a. a lord, master, pos-
+sessor, friend; endowed with.
+(JU^	beautiful.
+
+honest-hearted.
+a. the zephyr; youth.
+or	a.	morning,
+
+aurora.
+
+hi the morning,
+one morning.
+a. patience.
+a. a boy.
+sP company, society.
+a. a leaf, book, page,
+a hundred.
+
+Sad-dar (a hundred gates)
+name of a Persian book.
+j\ya> a hundred thousand,
+e;to expend, employ.
+a. difficult, severe.
+
+lJLo a rank, file; order.
+
+\sus a. purity, pleasure.
+
+Wo a. a calamity.
+
+Oj-o a. voice, sound, noise.
+
+Oa. fancy, image, form;
+a spectre.
+
+O,ya to feign.
+pLo a. fasting; the season of
+fasting among the Mahomedans;
+metaphorically the spring.
+a. hunting; prey.
+
+to take prisoner,
+
+a. mind, conscience
+a. light, splendour.
+
+\>
+
+M>a. joy, mirth, festivity,
+the house of mirth.
+a. a border, margin,
+
+part.
+
+*)° a. a lock of hair.
+
+(Si)0 a. custom, way, manner.
+<pb/>u
+
+181
+
+thou askest Jrom
+a. rising,	as sun.
+
+a. desire, avarice.
+cAjlb a. a circuit, walk,
+i» a parrot.
+
+the deluge. A storm,
+jjs a. a Ibid, ply: folding.
+j^s a. a bird.
+
+fe *
+
+a. victory.
+
+Crv*lSi A. darkness.
+
+t
+
+OAc a. custom, usage.
+
+Ijofz a. a cheek; a tooth; an
+accident; a heavy cloud.
+
+J^At a. a lover.
+
+C^jLiAc- a. two lovers.
+
+jU a. the end, issue, event,
+success; finally.
+
+a. the world, time; learned,
+enlightener or in-
+flamer of the world.
+
+a. universal: plebeian,
+public.
+
+a. tabbasl, name of a
+dynasty of Arabian khalifs.
+alCoLs. a place of worship.
+Ojyt a. wonder, mystery, ex-
+ample.
+
+a. wonder, admira-
+tion.
+
+a. justice.
+a. an enemy.
+a. a cheek, face temples.
+s\j£ a. a wild Arab.
+
+L-ijZ a. an Arabian inhabiting
+a city.
+
+a. a field, court, area; an
+empty space: a dice-table.
+
+4,jcja. poetry, prosody.
+jSf a. magnificent, incompa-
+rable.
+
+a. mirth, conversation;
+the pleasures of the table.
+a. love.
+
+fondness.
+<pb/>1S2
+
+la
+
+LT
+
+CL^kcs- a. chastity, integrity;
+defence, safeguard.
+
+a. perfume, ottar of roses,
+perfumed, fragrant.
+a. God preserve.
+a. a string of pearls: a
+knot; a treaty.
+
+(Jas- a. prudence, memory, art,
+knowledge; a narrative-
+
+C~oJb-A. punishment, torment.
+^ a. knowledge, science, art.
+Ia. (/?/. of learned men.
+a. life,	my life.
+
+action, operation.
+a. amber, ambergris,
+t—a. a nightingale-
+
+•	-	O	O
+
+a. a spider.
+a. (///.	vices.
+
+a. age, time; compact,
+promise.
+
+a. a touchstone, proof.
+a. a vice, crime, stain.
+iXj: a. a festival, solemnity;
+joy.
+
+a. mirth, delight; life.
+a. a fountain; an eye,
+look; gold; essence: paradise.
+
+t
+
+a. absent, invisible, con-
+cealed.
+
+a. dust; a thick vapour.
+a. a stranger, foreigner;
+extraordinary. A poor man.
+
+(Ja. a fawn.
+
+(Jyi- a. an ode.
+
+oUy a. (/;/. of the above) odes.
+
+a. vexation. Anger.
+jAc- a. a boy, servant,slave.
+
+a. care, grief, terror.
+
+Csf+z sorrowful.
+
+afflicted.
+tjsLs* a rose-bud. A bud.
+to sleep, slumber.
+
+cJ
+
+CU-oii a. overflowed^/rnm
+a. an omen, presage.
+<pb/>183
+
+J
+
+^ coloured.
+
+a. a tumult, faction, dis-
+cord, mischief, scandal.
+
+a. glorious; glory, orna-
+ment.
+
+\3 a ransom, redemption.
+a. absence, separation,
+oblivion, front
+to forget.
+tj* A- happy,
+to-morrow.
+
+Fardosi (belonging to
+paradise) name of a poet.
+to send,
+an angel, messenger;
+
+fairy.
+
+a. absence; a troop; a
+
+sect.
+
+(jtyoji to command:
+jjs below: dejected.
+
+selling; he sold,
+
+from
+
+to sell:
+
+to descend;
+
+cSjjj3 (for	inflamed,
+
+from
+
+(Jbjyi he sells, both from
+
+fjji a. splendour.
+
+to be dejected.
+or Lf+jj* deceit, from
+
+c^^^Jr5 Farldun, name of a king
+UVUji to deceive.
+
+to freeze, congeal,
+scattering, from
+to press, squeeze.
+a. eloquence, melody,
+sorrow, complaint: alas I
+jf^ a. consideration, care.
+
+consider ; Loyb is
+
+the imperative of
+
+throwing, throw thou,
+
+from
+
+to throw, throw away,
+
+hy aside.
+
+a. heaven; the world;
+
+fourtune.
+<pb/>184	fjf
+
+a. in, into.  Ljo^i a. abundance.' he dif- fused.  an elephant.	a. a fragment: segment,  part.  a cage. a. (pi. oUxlS) a castle.
+(J	^ a. a pen.  jik» a writer, an engraver*
+lJ\j Kaf, the name of afabulous mountain.  oJ a. a form, figure, shape, stature.  ^3 a. a cup, goblet.  a. fate, predestination; quantity; value; dignity, power.  J\fi a. constancy, consistency, confirmation; quiet.  a. contiguous, related  to.  OoLsJi (pi. of poems, elegies.  a. a palace.  ci> a. a tale; an action.  a. an elegy, poem.  Lii a. fate, death, judgment; jurisdiction.	(pi. of t-Ji) hearts. a. the moon.  Clike the moon.  a. a word, speech, elo- quence.  a. violence, force, oppres- sion; power; chastisement; anger.  a. measure; reasoning, thought, advice, argument; a syllogism.  pUj a. station,standing; resur- rection; confusion, tumult.  a. Cesar, an emperor.  a. as, like, in the same manner.
+<pb/>K	185
+
+a. KatibI (a writer, secre-
+tary) proper name.
+
+a like my eyes, comp.
+eyes, and	the
+
+inseparable pronoun my.
+to caress.
+
+X business, object; a maker,
+a work-shop, place of
+business; the world.
+
+J\jJ6 a battle, contest. ..
+
+expert: one who labours,
+adjusts, penetrates, brings a thing
+to bear. Effective. W orkmen.
+
+to penetrate, labour?
+
+Sec.
+
+a caravan,
+to lessen.
+
+^ would!
+
+a house, hall, gallery,
+
+chamber.
+
+(jrtiX to dig.
+iJSV a curling lock.
+
+the body ; a form, model.
+
+^ desire, wish.
+
+desire; the obtaining
+one’s wish.
+
+^ a place. a straw: les-
+sening.
+
+J£ a. pride, magnificence,
+a dove.
+
+a. a book, letter, writing.
+^ where? whither? how?
+to melt, dispel,
+melting, from the above.
+who? C^cwho is
+
+there ?
+
+to leave, neglect.
+
+to pass through.
+
+to pass: to leave.
+
+if* a performer, maker.
+
+\f whom; to whom? hire,
+rent.
+
+sporting, skipping,
+
+strutting.
+
+though,
+business, labour: he made,
+a whirlpool, gulf, pre-
+
+cipice.
+<pb/>J
+
+action, labour, profession ;
+
+life.
+
+the circling of the
+
+glass.
+
+I made,yr0/rc
+f to do, make,
+the neck.
+jjz a battle-axe, mace,
+to take.
+a wolf.
+
+Ajf warm, \scjf warmth. 
+Carmania, name of a
+
+place.
+
+•J? marriage, nuptials, betroth-
+ing, a pledge. •.	•	-	•	‘‘
+
+i£j±or lamentation,weeping
+Jf to flee, escape,
+to weep.
+
+'J> that, which.
+
+
+
+>\jf to perform.
+
+to pass.
+
+to choose; to bite.
+tcyjf select, most excellent,
+
+noble, glorious: bitten.
+
+186	^cf
+
+a person, any one.
+spreading, strewing, from
+to spread, strew,scatter,
+to break', tear.
+
+(3s—£ breaking,from the above.
+LlT conquering, opening, kc.
+from
+
+to open, discover, con-
+quer; to rejoice.
+
+OoLiT lie discovers, from the
+above.
+
+(jr+z£ to become: (jrJ^to kill.
+
+to break, rend.
+
+UVLZjf to scatter, dissolve.
+
+Kashmir, name of a place.
+he has discovered, Sec.
+
+from
+
+to discover, open, con-
+quer, delight.
+
+region, climate, country.
+I have suffered or
+
+drawn.
+
+L_aT the hand, the palm.
+
+he said.	speech.
+<pb/>187
+
+.\f
+
+
+
+r*? I said.
+
+to speak, say; speaking,
+tliou hast said; lie said,
+(gul) a rose.
+
+(J^(gil) clay.
+
+rose-water,
+hair, locks.
+
+a word, writing, oration.
+Gulandam (rose-resem-
+bling5yro//l Jf a roS6j ami
+
+borm, figure, 8cc.) a proper name.
+^ a diadem, cap.
+
+a rose-bush.
+
+S£*Af rose-scented.
+
+a closet, cottage, hut.
+a bed of roses.
+
+Gulistan (a rose-garden,
+bower of roses) title of a celebrated
+book.
+
+a beautiful species of
+
+red rose.
+
+a rose-garden,
+rose-cheeked.
+pUkf rose-coloured.
+
+strewing flowers.
+cU£.Zlf a rose-walk; bower,
+delightful place.
+
+ijjf rose-coloured.
+
+a. (pi. of Jjjf) the whole ;
+universal. The whole works.
+
+^ little; defective; absent.
+Cj*jLs[+f to insert, place, com-
+mit : to loose, liberate.
+
+J\*Ta. perfection, accomplish-
+ment, finishing.
+
+of little value.
+
+JfS less.
+
+with little sense,
+do thou ; doing, from
+j\if a boundary, margin, side,
+part, shore; an embrace.
+
+a vault, arch, tower, cu-
+pola.
+
+rotting, from
+
+or	to	rot.
+
+a servant maid, female
+
+slave.
+
+where?
+
+p h O _________ ________ _____
+<pb/>188
+
+J
+
+J
+
+.y thou,froni(jrJif
+an ear.
+
+listen thou, from
+to listen,
+a corner.
+r*f i smote, from
+U^jfi to smite.
+
+e^U^various,many-coloured,
+a mountain,
+a jewel, pearl; lustre, es-
+sence; self-existing.
+
+who, which: since.
+
+Lf who.
+
+die universe.
+jj£ taking.
+
+yyf might take, both from
+
+who is it? comp, of
+who, third person present of
+
+or c_rf hatred, revenge,
+rancour,	full	of.
+
+wf that these, comp, of c^S and
+
+^ a tulip.
+
+I a border or bed of tulips,
+to move.
+
+«—J [pi. ^jVJ) a lip; margin.
+u-3 a. the heart, pith, marrow,
+up to the brim,
+an army.
+
+a conquering army.
+v—flisJ a. benignity, gentleness,
+grace, favour, humanity, gene-
+rosity.
+
+1^*3 a ruby, ruby lip.
+
+a lack, a hundred thousand.
+Wli a. for the worship (of
+God) comp, of J for, and J for
+the Arabic article ^ and Syzr*
+adoration.
+
+a. the most precious sort
+of pearls; beautiful women.
+
+C-O a. a lion,
+but.
+
+a. Layl or night.
+<pb/>t. \  ^i-J Layla, a woman s name.	o a. extended, dilated,  spread.
+r  p (annexed to words) my.  *Uo a. water, liquor, juice.  Uo a. that, which.  Uo we; our. Uo ourselves. 20U female: a woman.  a serpent.  ^,Uc us ; to us.  CJU a. bent, from  to rub, grind, polish, to remain. cru-jU) to resemble.  o they remain^yrom^jt^U) *Ud the moon; a month.  with. cheeks like the  moon.  with a face like the  moon.  lunar, monthly; a fish. (JXc a. inclining, having a propensity.  bU* lest, by chance.	do not askyfrom a. similitude, resem- blance.'  A. rhyme.  a. an assembly, banquet. a. Majnun (distracted with love) proper name.  a. a place where people assemble; a collection, junction.  a. love, friendship, be- nevolence; affection; company.  a. a friend, mistress; amiable, dear, beloved.  a. confined, impri- soned.  1*^° a. a friend, counsellor; spouse, husband, wife; any one who from their station in a family is admitted into the haram or women’s apartments.  a. vile, contemptible*  trifling.
+<pb/>190
+
+J*
+
+
+
+a. place, time, oppor-
+tunity.
+
+Muhammad (praise-
+worthy) proper name.
+
+a. affliction, disgrace.
+a. contracted; an epi-
+tome.
+
+—a. discordant, confused,
+a magazine, treasury.
+a. governing; a governor,
+
+magistrate.
+
+a. a space of time.
+a. astonished, dis-
+turbed.
+
+A- to taste; the taste,
+
+palate.
+
+me; to me.
+
+a. {pi. of CUvsw^c)
+favours, graces.
+
+“Ir"0 a. desire, will, affection.
+A* {]>l- oj	remedies,
+
+plasters.
+
+or pZyc. a man, hero; brave,
+courageously, manfully.
+
+0^3 to die; to be extinguished.
+a. courtesy, generosity,
+joyful tidings.
+
+^—* enamoured, intoxicated,
+(jiic-w* a. disdainful; rich;
+content.
+
+a. perfumed; the palate.
+6Jb\jLsv a. the sight.
+
+6Jl>\jLsc to view.
+a. the east.
+a. attentive; attention. X.--.'
+musk.	smell-
+
+ing of musk. csfjLso musky.
+
+a. an hemistich;
+one half of a folding door.
+
+a. a source: infinitive.
+Musalla,;/ame of a place,
+Cjjksc a. damage, disadvan-
+tage.
+
+a. a singer, musician.
+jjbsuo a. an excuse.
+
+a. a battle, field of battle.
+a. a friend, beloved.
+tejLsuc A. a mistress.
+<pb/>191
+
+(JsC
+
+a. scented, perfumed.
+a. reasonable, rational,
+probable, pertinent.
+
+A. an enigma, mystery.
+a. sense, idea, signifi-
+cation.
+
+a. established, known.
+a. a priest of the Parsees,
+Guebres or worshippers of fire.
+^1^-oLoo cup-bearers.
+
+the brain, head, marrow,
+substance, or best part of any
+thing.
+
+CU3a. separation, aliena-
+tion.
+
+a. condition, station;
+dignity; office: residence: musical
+tone.
+
+a. quantity, space,
+
+number.
+
+a. intention, will, de-
+sire.
+
+a. a conductor, mover,
+
+disposer.
+
+a. a recompense,reward
+^5^0 perhaps, by chance; unless,
+wine. •
+a. a sailor.
+li£Lo a. a kingdom, power,
+possession, inheritance ; an angel.
+a. rays of light,
+
+^ I: my.	^	myself.	^
+
+a. finished, concluded,
+full of, endowed with.
+a. a house of entertain-
+ment, an inn; any place where
+travellers rest at night; a day’s
+journey, a stage.
+
+a. a conqueror, tri-
+umpher.
+
+Cso a. advantages.
+j\k~o a.' a bird’s bill.
+j\^o do not bring, the imperat,
+of	with	the	negative pre-
+
+fixed.
+
+listen not, the negative
+imperative of
+^yo a. a wave.
+<pb/>192
+
+a. a cause; an acceptor.
+A* melodious; adjusted,
+arranged, weighed.
+
+a. Musul, name of a
+
+place.
+
+(Jyc hair.
+
+a. firm.
+
+a. separated, repudiated,
+abandoned.
+
+the sun; moon; love; a
+seal-ring:	a gold coin about
+
+1/. 16*.
+
+like the moon,
+wine.
+
+yc characteristic of the present
+tense.
+
+Jyc do not bring, the negative
+imperative of
+
+aL/c between, among: middle.
+Jry«\-^c do not mix or sprinkle.
+the negative imperative of (jrJszrr*\
+(ju-> thou sawest, second
+person present oj
+
+Sj\ya wine drinkeran
+earthen drinking vessel.
+
+thou knowcst.
+jyc dying, from ^Syo
+\)JY° the son of a prince or
+great man, a knight.	c \jjyc
+
+Mirza Mahadi, proper name.
+
+d°st thou gr°w? from
+
+Clfyj
+
+cijyc thou strikest.
+
+X-jjyc is it becoming?
+
+a cloud, a fog.
+
+(jZ^jSLtso a seller of wine, comp,
+of (ye wine, and part of
+
+thou drawest, bearest.
+
+I complain, from
+fruits.
+
+u
+
+U not. (Xy\ U hopeless.
+cjU pure, sincere; like,
+imperfect.
+
+worthless, despicable.
+a. memorable events; rare.
+<pb/>193
+
+At» y\j Nadir Shah, proper
+name.
+
+blandishments; wantonness,
+gentle, tender, delicate,
+elegant, delicate,
+
+amiable.
+
+unblown, unblemished,
+ignorant.
+a. a conqueror, defender.
+a. a spectator, superin-
+tendant.
+
+a bag (of musk): the navel,
+full of.
+
+‘VAi suddenly.
+
+unexpectedly.
+jJSl) plaintive, complaining,
+to complain,
+a name, \yoti thy name,
+illustrious ; a hero,
+a book, history,
+bread.
+
+a. a viceroy, deputy,
+a battle, war.
+
+y
+
+is not.	I	would
+
+not have been.
+
+Cjy a. a prophet.
+
+I will not turn,
+do you not fear,
+it is impossible.
+a. scattering, dispersing.
+a. prose ; to diffuse, strew.
+I would not have
+sought, or leaped.
+
+a. a star, planet: fortune.
+y£ a. grammar, syntax.
+
+hunting; the chase;
+
+prey.
+
+^ first.
+
+NakhshabI, proper
+
+name,
+y male.
+
+U»y a narcissus.
+y gentle, tame ; light: soft.
+5y near.
+
+. descending ; hospitality.
+ijijy a. descent; happening.
+<pb/>lJo	194
+
+jjw) a. Nisklii (a transcript) the
+character in which Arabic ma-
+nuscripts are generally written.
+a . a gale.
+
+to cause to sit down.
+a. alacrity, pleasure,
+to fix.
+
+to sit down,
+you do not hear,
+sit ting,/row
+a. counsel,exhortation.
+Nazami, name of a
+
+poet.
+
+_Jj a. the sight, the eye.
+
+rolling the eyes, ogling.
+a. verse; a string of pearls.
+ijXjXjXJ to call or sing aloud.
+
+a. a benefit; victuals.
+jxj beautiful, good; swift*
+a. music, harmony. A
+a. soul, self; breath; de-
+sire.
+
+gain, utility.
+
+y
+
+a. ready money.
+a. painting, embroidery.
+Jij a. a narration,report, copy,
+translation.
+
+a picture, ornament; a
+beautiful woman.
+
+Nagaristan (a gallery
+of pictures) title of a ceUbrated
+book.
+
+subtilties, mysteries,
+to view.
+iS/j orjp> good.
+
+or custody, care, ob-
+servation.
+
+preserve thou, imperat.
+
+of (jits
+
+V showing. 4iJSjs they show.
+
+to show.
+
+\y melody, voice: wealth.
+
+{pi. of. l_u\j) viceroys,
+Sec.	»
+
+c/iAy to soothe.
+
+soothing, from the above.
+<pb/>
+
+195
+
+(pi. oltf\y) a favour.
+jj\y soothing, warbling,
+from
+
+!/n	^\y	a benefit.
+
+C-oy a. a turn, change, watch,
+centinel. ^SjCyy to relieve
+^ ' guard.
+
+Jyy the spring, the early
+spring; new year.
+
+^y a. the prophet Noah.
+C^y a. a complaint.
+
+5y ninety.
+
+jy a. light, brightness.
+jjjy the first day of spring.
+*yy nineteen.
+
+(Jiy drinking, a drinker; any
+thing drinkable, from ^yy
+C~Jy or (jiJty to write.
+Lj~y write thou, from the
+above.
+
+nine.
+
+ placing,from
+2>\y to place.
+
+dfy we have placed.
+
+€?
+
+a tree, shrub.
+eA^ hidden, from Lr'y
+jy a. a river; flowing.
+
+to hide, lie hid.
+ei a pipe, flute.
+
+even, also: again,
+there is not.
+
+CA-t-J to write.
+
+good, excellent.
+
+^Cj bright, beautiful, elegant.
+
+reputation, goodness.
+jJ-j the river Nile.
+
+J
+
+j and; he, she, it.
+
+after, behind, again.
+£A-£jb	t0	detain.
+
+a. evident.
+a. actions, occurrences,
+events : battles : misfortunes.
+
+Van, or Wan, name of a
+
+town.
+
+a. essence, substance, ex-
+istence, nature, body, person,
+c c 2
+<pb/>196
+
+to commit, perform,
+give a being to.
+
+J\j orjj like, possessing.
+
+(Jjj a. a leaf of a tree or paper.
+
+and from.
+
+Oo^ it blows, from
+he, she, it is.
+
+Ijkj like, resembling.
+
+(Jloj a. enjoyment; arrival;
+meeting; conjunction.
+
+a. situation: action;
+
+gesture.
+
+a. good faith; a promise.
+(Jj a. but: a prince: a slave.
+Lfj he, she, it; his, her, its.
+\jj} a desert; depopulated.
+
+5
+
+a. dreadful, terrible.
+or	a.	separation,	ab-
+
+sence.
+
+.an assault; impetuosity.
+or u\fb every: soever.
+o\^jb Harat, name of a city.
+
+f*
+
+whenever.
+or	whatsoever.
+
+orc^-fb although,
+wherever,
+to Jb wheresoever,
+ever,
+never.
+
+ffb or	whosoever.
+
+J\j a thousand; a nightingale,
+to be, exist.
+
+CL^zJb eight. fz~2Jb eighty,
+eighteen.
+
+seven. JUb seventy.
+XJjb seventeen.
+
+a. whether, but.
+
+^ and, also; together: both.
+a. (annexed to words)
+
+their.
+
+of the same nest,
+only,
+directly.
+
+of the same incli-
+nation.
+
+of the same banquet.
+<pb/>U	197
+
+lying on the same
+
+pillow.
+
+in the same way.
+c*** or jr+ like, as.
+
+^k^ sleeping together.
+
+breathing together.
+j\j+ an intimate friend.
+
+Cin	sitting	together;	a
+
+companion.
+
+all, universal.
+
+it arrives, comes.
+
+I went, jrom cfj
+always,
+black; an Indian,
+time, season,
+yet.
+
+W- air: wind: sound,
+no, never.
+
+^ dost thou not know?
+from erUJb ^
+
+to lay down.
+l5
+
+V O! or.
+
+Aj or uffj finding.
+l*Ay-l may find, both from
+
+remember; memory, re-
+cord.
+
+_j\j a friend,mistress; defender;
+power, advantage.
+
+C-Jjlo O heaven! O Lord!
+
+t	^
+
+comp, of \j O! and a lord,
+master.
+
+eleven.
+
+jessamine.
+
+CU*\j he found, from cfjb to
+find.
+
+Cyb a ruby.
+
+(annexed to words) thy.
+
+> a. the hand; aid, power,
+strength.
+
+(annexed to words) their,
+(jixj that is to say, viz.
+prey, spoil, booty,
+one.
+
+a hero, conqueror; in-
+comparable; unequalled.
+<pb/>198
+
+c£>
+
+precious, valuable, rare.
+
+inestimable, rare.
+
+*
+
+one moment,
+y>5ii one or two, a few.
+one another.
+
+J*
+
+jj/j one day,
+
+^ (annexed to words) my.
+iy+2 Yemen, Arabia the happy.
+Joseph.
+
+THE END.
+
+
+
+Printed by W. Bulher and Co. Cleveland-row;
+
+From the Types of W. Martin, Oriental Type Founder and Printer to the
+Honourable the East India Company.
+<pb/>ERRATA
+
+The following errors, which, (perhaps with a few others), have chiefly arisen from
+the breaking of the dots in the press, are pointed out for correction.
+
+Page 2	line 12,	for		read	
+6	— 6,	—	J	—	3
+8	— 17,	—	t	—	t
+ib.	~ 19,	—	9	—	i
+14  15	— 1,  — 4,	~~' ■				
+26	— 3,	—	^awayb	—	fcawayb
+27		 18,	—	haklman	—	haklman
+33	— last,	—	IpjJ	—	\\
+34	— 21,	—		—	
+51		 19,	—	to	—	
+63	— 19,	—		—	
+71		 18,	—		—	
+81	— 1,	—	gunchah	—	ghunchah
+86		 22 note.	> '		—	j\J2*?:  \J
+90	— 10,	—	u?	—	
+95		 1,	—	t	—	i
+99	“ 7,	—		—	jO
+ib.	~ 15,	—		—	
+121		 19,	—	jU*	—	•t A  J'jrz
+123	— 14,	—	u?	—	14
+125	— 9,	—		—	
+127	— 14,	—		—	
+157	— 14,	—		—	
+164	— 13,	—		—	
+165		 21,	—		—	
+166	— 1,	—	e/yw	—	(jw
+167	— 7,	—		—	
+ib.	— 8,	—		—	
+181		 5,			jjU	—	
+<pb/>I
+<pb/>
+<pb/>UNIVERSITY OF CALIFORNIA LIBRARY
+Lot Angeles
+
+This book is DUE on the last date stamped below.
+
+REC’D LD 'JRl	
+jul 2:? ml	
+*  JUN 0 3 1988  PEC'D LD-URC	
+5CF 1 3,  QL OCT 1 8 : ^>L- * 3 ^9-?	993
+T* *	
+<pb/>
+
+UC SOUTHERN REGIONAL LIBRARY FACILITY
+
+A A 000 136 421 5
+
+AA0001364215
+<pb/>r? v
+
+
+
+r> *v' ,
+
+.fs*. jj -»-1»»*
+</p>
+</body>
+</text>
+</TEI>
