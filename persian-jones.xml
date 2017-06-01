@@ -2,11 +2,11 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Ab excessu divi Marci</title>
-            <author>Herodian</author>
-            <editor>Immanuel Bekker</editor>
+            <title>Grammar of the Persian Language</title>
+            <author>William Jones, FELLOW OF UNIVERSITY COLLEGE, OXFORD, AND OF THE ROYAL
+               SOCIETIES OF LONDON AND COPENHAGEN.</author>
             <respStmt>
-               <orgName instant="false" full="yes">Perseus Project</orgName>
+               <orgName instant="false" full="yes">Open Philology Project</orgName>
                <resp>Keyboarding</resp>
             </respStmt>
          </titleStmt>
@@ -24,8 +24,10 @@
             <listBibl default="false">
                <biblStruct default="false" status="draft">
                   <monogr>
-                     <title>A Grammar of the Persian Language: sixth edition</title>
-                     <ref target="https://archive.org/details/grammarofpersian00joneiala">Internet Archive</ref>
+                     <title>A Grammar of the Persian Language: sixth edition with additions and improvements</title>
+                     <ref target="https://archive.org/details/grammarofpersian00joneiala">Scanned by the Internet Archive
+                        in 2007 with funding from
+                        Microsoft Corporation</ref>
                      <author>William Jones</author>
                      <editor>Elijah Cooke</editor>
                      <editor>Franzi ...</editor>
@@ -33,7 +35,14 @@
                      <editor>Maryam Foradi</editor>
                      <imprint>
                         <pubPlace>London</pubPlace>
-                        <publisher>W. Bulmer and Co.</publisher>
+                        <publisher>PRINTED BY W. BULMER AND CO. CLEVELAND-ROW,
+                           
+                           FROM THE TYPES OF W. MARTIN, ORIENTAL TYPE FOUNDER AND PRINTER
+                           TO THE HONOURABLE THE EAST INDIA COMPANY,
+                           
+                           FOR LACKINGTON, ALLEN, AND CO.; CUTHELL AND MARTIN; S. BAGSTER;
+                           
+                           J. walker; j. asperne; and black and parry.</publisher>
                         <date instant="false">1804</date>
                      </imprint>
                   </monogr>
@@ -60,45 +69,12 @@
    </teiHeader>
    <text>
       <body>
- <p> 
+         <div type="edition" subtype="chapter" n="praef"><head>THE PREFACE.</head>
+         <p> 
 
-A
 
-GRAMMAR
 
-OF THE
 
-PERSIAN LANGUAGE.
-
-FELLOW OF UNIVERSITY COLLEGE, OXFORD, AND OF THE ROYAL
-SOCIETIES OF LONDON AND COPENHAGEN.
-
-PRINTED BY W. BULMER AND CO. CLEVELAND-ROW,
-
-FROM THE TYPES OF W. MARTIN, ORIENTAL TYPE FOUNDER AND PRINTER
-TO THE HONOURABLE THE EAST INDIA COMPANY,
-
-FOR LACKINGTON, ALLEN, AND CO.; CUTHELL AND MARTIN; S. BAGSTER;
-
-J. walker; j. asperne; and black and parry.
-
-1804.
-
-BY WILLIAM JONES, ESQ.
-
-THE SIXTH EDITION,
-
-WITH ADDITIONS AND IMPROVEMENTS.
-
-LONDON:
-<pb/>Digitized by the Internet Archive
-in 2007 with funding from
-Microsoft Corporation
-
-http://www.archive.org/details/grammarofpersianOOjoneiala
-<pb/>THE
-
-PREFACE.
 
 The Persian language is rich, melodious, and elegant;
 it has been spoken for many ages by the greatest princes
@@ -8681,6 +8657,7 @@ r> *v' ,
 
 .fs*. jj -»-1»»*
 </p>
-</body>
+         </div>
+      </body>
 </text>
 </TEI>
