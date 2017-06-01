@@ -69,7 +69,9 @@
    </teiHeader>
    <text>
       <body>
-         <div type="edition" subtype="chapter" n="praef"><head>THE PREFACE.</head>
+         <div type="edition" subtype="chapter" n="praef">
+            <pb n="i"/>
+            <head>THE PREFACE.</head>
          <p> 
 
 
@@ -84,7 +86,7 @@ and poets, who found it capable of expressing with equal
 advantage the most beautiful and the most elevated
 sentiments.
 
-It must seem strange, therefore, that the study of this
+</p><p>It must seem strange, therefore, that the study of this
 language should be so little cultivated at a time when a
 taste for general and diffusive learning seems universally
 to prevail; and that the fine productions of a celebrated
@@ -92,18 +94,14 @@ nation should remain in manuscript upon the shelves of
 our public libraries, without a single admirer who might
 open their treasures to his countrymen, and display their
 beauties to the light; but if we consider the subject with a
-a
 
-( 'a r_«
-<pb/>PREFACE.
-
-ii
+<pb n="ii"/>
 
 proper attention, we shall discover a variety of causes
 which have concurred to obstruct the progress of Eastern
 literature.
 
-Some men never heard of the Asiatic writings, and others
+</p><p>Some men never heard of the Asiatic writings, and others
 will not be convinced that there is any thing valuable in
 them ; some pretend to be busy, and others are really idle;
 some detest the Persians, because they believe in Mahomed,
@@ -115,7 +113,7 @@ who thought that the sun rose and set for them alone, and
 could not imagine that the waves, which surrounded their
 island, left coral and pearls upon any other shore.
 
-Another obvious reason for the neglect of the Persian
+   <pb n="ii"/>Another obvious reason for the neglect of the Persian
 language is the great scarcity of books, which are necessary
 to be read before it can be perfectly learned, the greater
 part of them are preserved in the different museums and
@@ -123,18 +121,16 @@ libraries of Europe, where they are shewn more as objects
 of curiosity than as sources of information; and are ad-
 mired, like the characters on a Chinese screen, more for
 their gay colours than for their meaning.
-<pb/>PREFACE.
+<pb n="iii"/>
 
-iii
-
-Thus, while the excellent writings of Greece and Rome
+</p><p>Thus, while the excellent writings of Greece and Rome
 are studied by every man of a liberal education, and diffuse
 a general refinement through our part of the world, the
 works of the Persians, a nation equally distinguished in
 ancient history, are either wholly unknown to us, or con-
 sidered as entirely destitute of taste and invention.
 
-But if this branch of literature has met with so many
+</p><p>But if this branch of literature has met with so many
 obstructions from the ignorant, it has, certainly, been
 checked in its progress by the learned themselves; most of
 whom have confined their study to the minute researches of
@@ -150,15 +146,15 @@ and elegance. The rest have left nothing more behind
 them than grammars and dictionaries; and though they
 deserve the praises due to unwearied pains and industry,
 yet they would, perhaps, have gained a more shining
-<pb/>]V
+<pb n="iv"/>
 
-PREFACE.
+
 
 reputation, if they had contributed to beautify and enlighten
 the vast temple of learning, instead of spending their lives
 in adorning only its porticos and avenues.
 
-There is nothing which has tended more to bring polite
+</p><p>There is nothing which has tended more to bring polite
 letters into discredit, than the total insensibility of commen-
 tators and critics to the beauties of the authors whom they
 profess to illustrate: few of them seem to have received
@@ -168,7 +164,7 @@ rected, or some established reading to be changed, some
 obscure expression to be explained, or some clear passage
 to be made obscure by their notes.
 
-It is a circumstance equally unfortunate that men of the
+</p><p>It is a circumstance equally unfortunate that men of the
 most refined taste and the brightest parts are apt to look
 upon a close application to the study of languages as in-
 consistent with their spirit and genius: so that the state of
@@ -176,12 +172,10 @@ letters seems to be divided into two classes, men of learn-
 ing who have no taste, and men of taste who have no
 learning.
 
-M. de Voltaire, who excels all writers of his age and
+</p><p>M. de Voltaire, who excels all writers of his age and
 country in the elegance of his style, and the wonderful
 variety of his talents, acknowledges the beauty of the Persian
-<pb/>PREFACE.
-
-v
+<pb n="v"/>
 
 images and sentiments, and has versified a fine passage
 from Sadi, whom he compares to Petrarch: if that extra-
@@ -191,7 +185,7 @@ have seen the poems and histories of Persia in an European
 dress, and any other recommendation of them would have
 been unnecessary.
 
-But there is yet another cause which has operated more
+</p><p>But there is yet another cause which has operated more
 strongly than any before mentioned towards preventing the
 rise of Oriental literature ; I mean the small encouragement
 which the princes and nobles of Europe have given to men
@@ -204,18 +198,18 @@ oracles of the world, from whose testimony every king;
 statesman, and hero must expect the censure or approbation
 of posterity. In the old states of Greece the highest
 honours were given to poets, philosophers, and orators;
-and a single city (as an eminent writer * observes) in the
+and a single city (as an eminent writer <note>Aschara.</note> observes) in the
 
-* Aschara.
-<pb/>VI
+ 
+<pb n="vi"/>
 
-PREFACE.
+
 
 memory of one man, produced more numerous and splendid
 monuments of human genius than most other nations have
 afforded in a course of ages.
 
-The liberality of the Ptolemies in Egypt drew a number
+</p><p>The liberality of the Ptolemies in Egypt drew a number
 of learned men and poets to their court, whose works re-
 main to the present age the models of taste and elegance;
 and the writers, whom Augustus protected, brought their
@@ -234,16 +228,14 @@ world. But that light has not continued to shine with equal
 splendour; and though some slight efforts have been made
 to restore it, yet it seems to have been gradually decaying
 for the last century: it grows very faint in Italy ; it seems
-<pb/>PREFACE.
-
-vii
+<pb n="vii"/>
 
 wholly extinguished in France, and whatever sparks of it
 remain in other countries are confined to the closets of
 humble and modest men, and are not general enough to
 have their proper influence.
 
-The nobles of our days consider learning as a subor-
+</p><p>The nobles of our days consider learning as a subor-
 dinate acquisition, which would not be consistent with the
 dignity of their fortunes, and should be left to those who
 toil in a lower sphere of life : but they do not reflect on
@@ -255,18 +247,16 @@ spend their leisure in improving their knowledge, and in
 conversing with the great statesmen, orators, and philoso-
 phers of antiquity.
 
-If learning in general has met with so little encourage-
+</p><p>If learning in general has met with so little encourage-
 ment, still less can be expected for that branch of it, which
 lies so far removed from the common path, and which the
 greater part of mankind have hitherto considered as inca-
 pable of yielding either entertainment or instruction: if
 pains and want be the lot of a scholar, the life of an Orien-
 talist must certainly be attended with peculiar hardships.
-<pb/>PREFACE.
-
-viii
-
-Gentius, who published a beautiful Persian work called
+<pb n="viii"/>
+   
+   Gentius, who published a beautiful Persian work called
 the Bed of Roses, with an useful but inelegant translation,
 lived obscurely in Holland, and died in misery. Hyde,
 who might have contributed greatly towards the progress
@@ -288,15 +278,13 @@ nand, the illustrious Colbert recalled him to Paris, where
 he enjoyed the fruits of his labour, and spent the remainder
 of his days in an honourable and easy retirement. But this
 is a rare example: the other princes of Europe have not
-<pb/>PREFACE.
-
-iX
+<pb n="ix"/>P
 
 imitated the duke of Tuscany; and Christian VII. was
 reserved to be the protector of the Eastern Muses in the
 present age.
 
-Since the literature of Asia was so much neglected, and
+</p><p>Since the literature of Asia was so much neglected, and
 the causes of that neglect were so various, we could not
 have expected that any slight power would rouze the nations
 of Europe from their inattention to it; and they would,
@@ -315,10 +303,8 @@ the English nation a most extensive power in that kingdom:
 our India Company began to take under their protection
 the princes of the country, by whose protection they gained
 their first settlement; a number of important affairs were
-b
-<pb/>X
 
-PREFACE.
+<pb n="x"/>
 
 to be transacted in peace and war between nations equally
 jealous of one another, who had not the common instru-
@@ -342,14 +328,12 @@ useful, and will soon be found instructive and entertaining;
 the valuable manuscripts that enrich our public libraries
 will be in a lew years elegantly printed; the manners and
 sentiments of the Eastern nations will be perfectly known;
-<pb/>PREFACE.
-
-XI
+<pb n="xi"/>
 
 and the limits of our knowledge will be no less extended
 than the bounds of our empire.
 
-It was with a view to facilitate the progress of this
+</p><p>It was with a view to facilitate the progress of this
 branch of literature, that I reduced to order the following
 instructions for the Persian language which I had collected
 several years ago; but I would not present my grammar
@@ -369,19 +353,21 @@ that it falls very short of perfection, which seeriis to with-
 draw itself Jrom the pursuit of mortals, in proportion to
 their endeavours of attaining it; like the talisman in the
 Arabian tales, which a bird carried from tree to tree as
-b %
-<pb/>often as its pursuer approached it. But it has been my
+
+
+<pb n="xi"/>often as its pursuer approached it. But it has been my
 chief care to avoid all the harsh and affected terms of art
 which render most didactic works so tedious and un-
 pleasant, and which only perplex the learner, without giving
 him any real knowledge: I have even refrained from
 making any inquiries into general grammar, or from enter-
 ing into those subjects which have already been so elegantly
-discussed by the most judicious philosopher,* the most
-learned divine,t and the most laborious scholar of the
-present age.t
+discussed by the most judicious philosopher,<note>See Hermes.</note> the most
+   learned divine,<note>A short Introduction to English Grammar.</note> and the most laborious scholar of the
+   present age.<note>The grammar prefixed to the Dictionary of the English Language.
+   </note>
 
-It was my first design to prefix to the grammar a history
+</p><p>It was my first design to prefix to the grammar a history
 of the Persian language from the time of Xenophon to our
 days, and to have added a copious praxis of tales and
 poems extracted from the classical writers of Persia ; but
@@ -392,46 +378,37 @@ public may expect in the course of the ensuing winter. I
 have made a large collection of materials for a general
 history of Asia, and for an account of the geography, phi-
 
-* Sec Hermes.	+	A	short Introduction to English Grammar.
+<pb n="xiii"/>
 
-I The grammar prefixed to the Dictionary of the English Language.
-<pb/>PREFACE.
-
-xiii
-
-Iosophy, and literature of’the Eastern nations, all which I
+losophy, and literature of the Eastern nations, all which I
 propose to arrange in order, if my more solid and more im-
-portant studies will allow me any intervals of leisure.*
-
-I cannot forbear acknowledging in this place the signal
-marks of kindness and attention, which 1 have received
+portant studies will allow me any intervals of leisure.<note>See the History of the Persian Language a Description of Asia, and a
+   Short History of Persia, published with my Life of Nader Shah in the year 1773.
+   
+</note>
+</p><p>I cannot forbear acknowledging in this place the signal
+marks of kindness and attention, which I have received
 from many learned and noble persons; but General Carnac
 has obliged me the most sensibly of them, by supplying
 me with a valuable collection of Persian manuscripts on
 every branch of Eastern learning, from which many of the
 best examples in the following grammar are extracted. A
-very learned Professori at Oxford has promoted my studies
+very learned Professor<note>Dr. Hunt.</note> at Oxford has promoted my studies
 with that candour and benevolence which so eminently
 distinguish him; and many excellent men that are the
 principal ornaments of that University have conferred the
-highest favours on me, of which I shall everretain a grateful
+highest favours on me, of which I shall ever retain a grateful
 sense: but I take a singular pleasure in confessing that I
-am indebted to a foreign nobleman i for the little knowledge
+am indebted to a foreign nobleman<note>Baron Reviski.</note> for the little knowledge
 which I have happened to acquire of the Persian language;
 and that my zeal for the poetry and philology of the Asiatics
-
-See the History of the Persian Language a Description of Asia, and a
-Short History of Persia, published with my Life of Nader Shah in the year 1773.
-
-+ Dr. Hunt..	X	Baron	Reviskj..
-<pb/>XIV
-
-PREFACE.
-
-was owing to his conversation, and to the agreeable cor-
+	
+<pb n="xiv"/>
+   
+   was owing to his conversation, and to the agreeable cor-
 respondence with which he still honours me.
 
-Before I conclude this preface, it will be proper to add a
+</p><p>Before I conclude this preface, it will be proper to add a
 few remarks upon the method of learning the Persian lan-
 guage, and upon the advantages which the learner may
 expect from it. When the student can read the characters
@@ -444,31 +421,29 @@ they will be insensibly learned in a short course of reading.
 By this time he will find a dictionary necessary, and I
 hope he will believe me, when I assert from a long expe-
 rience, that, whoever possesses the admirable work of
-Meninski,* will have no occasion for any other dictionary
+Meninski,<note>This was written before Richardsons's Dictionary was published.
+</note> will have no occasion for any other dictionary
 of the Persian tongue. He may proceed by the help of this
 work to analyse the passages quoted in the grammar, and
 to examine in what manner they illustrate the rules; in
 the mean time he must not neglect to converse with his
 living instructor, and to learn from him the phrases of
 
-* This was written before Richardsons's Dictionary was published.
-<pb/>PREFACE.
-
-xv
-
-common discourse, and the names of visible objects, which
+   <pb n="xv"/>
+   
+   common discourse, and the names of visible objects, which
 he will soon imprint on his memory, if he will take the
 trouble to look for them in the dictionary: and here I must
 caution him against condemning a work as defective,
-because he cannot lind in it every word which lie hears;
-for sounds in general are caught imperfectly: by. the ear,
+because he cannot find in it every word which he hears;
+for sounds in general are caught imperfectly: by the ear,
 and many words are spelt and pronounced very differently.
 
-ThThe first book that I would recommend to him is the
-Gulistan, or Bed of Roses, a work which is highly esteemed
+</p><p>The first book that I would recommend to him is the
+   Gulistán, or <title>Bed of Roses</title>, a work which is highly esteemed
 in the East, and of which there are several translations in
 the languages of Europe: the manuscripts, of this book are
-very common; and ,by.comparing them with the printed
+very common; and by comparing them with the printed
 edition of Gentius, he will soon learn the beautiful flowing
 hand used in Persia, which consists of bold strokes and
 flourishes, and cannot be imitated'by our types. It will
@@ -476,12 +451,12 @@ then be a proper time for him to read some short and easy
 chapter in this work, and to translate it into his native
 language with the utmost exactness; Jet him then lay aside
 the original, and after a proper interval let him turn the
-same chapter,back into Persian by the assistance of the
+same chapter back into Persian by the assistance of the
 grammar and dictionary: let him afterwards compare his
 second translation with the original, and correct its faults
-<pb/>XVI
+<pb n="xvi"/>
 
-p n e f a c e;
+
 
 according to that model. This is the exercise so often re-
 commended by the old rhetoricians, by which a student
@@ -495,19 +470,18 @@ will explain to him in common words the refined expressions
 that occur in reading, and will point out the beauties of
 learned allusions and local images. The most excellent
 book in the language is, in my opinion, the collection of
-tales and fables called Anver Soheili by Hussein Vaes, sur-
+tales and fables called <title>Anver Soheili</title> by Hussein Vaés, sur-
 named Cashefi, who took the celebrated work of Bidpai or
 Pilpay for his text, and has comprised all the wisdom of the
 Eastern nations, in fourteen beautiful chapters. At some
 leisure hour he may desire his Munshi or writer to trans-
-cribe a section from the Gulistan, or a fable of Cashefi, in
+cribe a section from the Gulistán, or a fable of Cashefi, in
 the common broken hand used in India, which he will learn
 perfectly in a few days by comparing all its turns and con-
 tractions with the more regular hands of the Arabs and
 Persians: he must not be discouraged by the difficulty of
-<pb/>PREFACE.
-
-XVII
+<pb n="xvii"/>
+   
 
 reading the Indian letters, for the characters are in reality
 the same with those in which our books are printed, and
@@ -521,7 +495,7 @@ letter in that idiom, though it be written in characters
 which he has never seen before, and of which he has no
 alphabet.
 
-In short, I am persuaded that whoever will study the
+</p><p>In short, I am persuaded that whoever will study the
 Persian language according to my plan, will in less than a
 year be able to translate and to answer any letter from an
 Indian prince, and to converse with the natives of India,
@@ -533,9 +507,7 @@ learn the Arabic tongue, which is blended with the Persian
 in so singular a manner, that one period often contains
 
 
-<pb/>PREFACE,
-
-xviii
+<pb n="xviii"/> 
 
 both languages wholly distinct from each other in ex-
 pression and idiom, but perfectly united in sense and con-
@@ -545,13 +517,14 @@ mixture, when he is told that the two Asiatic languages are
 not always mixed like the words of Roman and Saxon origin
 in this period, “ The true law is right reason, conformable
 “ to the nature of things, which calls us to duty by com-
-“ manding, deters us from sin by forbidding but as we
+“ manding, deters us from sin by forbidding;"<note>See Middleton’s Life of Cicero, vol. III. p. 351.
+</note> but as we
 may suppose the Latin and English to be connected in the
-following sentence “ The true lex is recta ratio, conjor-
-mable naturae, which by commanding vocet ad officium, by
-forbidding a fraude deterreat.”
+following sentence <quote>The true lex is <foreign xml:lang="lat">recta ratio</foreign>, conjor-
+   mable <foreign xml:lang="lat">naturae</foreign>, which by commanding <foreign xml:lang="lat">vocet ad officium</foreign>, by
+   forbidding a <foreign xml:lang="lat">fraude deterreat</foreign>.</quote>
 
-A knowledge of these two languages will be attended
+</p><p>A knowledge of these two languages will be attended
 with a variety of advantages to those who acquire it: the
 Hebrew, Chaldaic, Syriac, and Ethiopian tongues, are
 dialects of the Arabic, and bear as near a resemblance to
@@ -559,10 +532,7 @@ it as the Ionic to the Attic Greek; the jargon of Indostan,
 very improperly called the language of the Moors, contains
 so great a number of Persian words, that I was able, with
 
-9 See Middleton’s Life of Cicero, vol. III. p. 351.
-<pb/>PREFAC E.
-
-XIX
+<pb n="xix"/>
 
 very little difficulty, to read the fables of Pilpai which are
 translated into that idiom; the Turkish contains ten Arabic
@@ -575,7 +545,7 @@ Persian, and Turkish, may not travel with satisfaction, or
 transact the most important affairs with advantage and
 security.
 
-As to the literature of Asia, it will not, perhaps, be
+</p><p>As to the literature of Asia, it will not, perhaps, be
 essentially useful to the greater part of mankind, who have
 neither leisure nor inclination to cultivate so extensive a
 branch of learning; but the civil and natural history of
@@ -588,54 +558,51 @@ will consider those works as highly valuable, by which he
 may trace the human mind in all its various appearances,
 from the rudest to the most cultivated state: and the man
 
-<pb/>XX
-
-PREFACE.
+<pb n="xx"/>
 
 of taste will undoubtedly be pleased to unlock the stores
 of native genius, and to gather the flowers of unrestrained
 
-and luxuriant fancy.*
+and luxuriant fancy.<note><p>Note to the Third Edition.
 
-♦ Note to the Third Edition.
-
-My professional studies having wholly engaged my attention and induced me
+</p><p>My professional studies having wholly engaged my attention and induced me
 not only to abandon Oriental literature, but even to efface, as far as possible, the
 very traces of it from my memory, I committed the conduct and revisal of this
 edition of my grammar, and the composition of the index to Mr. Richardson, in
 whose skill I have a perfect confidence, and from whose application to the Eastern
-languages, 1 have hopes that the learned world will reap no small advantage.
-<pb/>[ xxi ]
+languages, 1 have hopes that the learned world will reap no small advantage.</p></note>
+<pb n="[xxi]"/>
 
-ADVERTISEMENT.
+</p></div>
+         <div type="textpart" subtype="advertisement" n="advertisement">
+            <head>ADVERTISEMENT.</head>
 
-In presenting this the sixth edition of Sir William Jones's
+<p>In presenting this the sixth edition of Sir William Jones's
 inestimable Persian Grammar to the Public, the Editor
 thinks proper to apprize his readers of such improvements
 and alterations as he has found it expedient to make
 therein.
 
-The work has been carefully revised, and many errors,
+</p><p>The work has been carefully revised, and many errors,
 which had been accumulating with every former edition,
 have been attentively corrected.
 
-Great improvement has been made in the printing and
+</p><p>Great improvement has been made in the printing and
 paper; and it comes forth with an elegant new type, cut
 after the best examples of writing in the Niskhi character,
 and of which no specimen has before been published.
 
-The Persian Title, with which the work was originally
+</p><p>The Persian Title, with which the work was originally
 published, has been given in an imitation of the Tadik,
 instead of the old type.
-<pb/>XXII
+<pb n="xxii"/>
 
-ADVERTISEMENT.
 
 Some examples in Prose, designed for the exercise of
 the student, have been added, printed in types of two sizes,
 both entirely new.
 
-The Editors of Richardson's Persian and Arabic
+</p><p>The Editors of Richardson's Persian and Arabic
 Dictionary, (as will more fully appear from the notice
 subjoined to this work), having caused great alterations,
 with numerous additions and improvements, to be made in
@@ -662,23 +629,19 @@ Asiatic Researches, else but little occasion would have
 been found for the alterations it has been judged expedient
 to make.
 
-THE EDITOR.
+</p><p>THE EDITOR.
+</p></div>
 <pb/>
 <pb n="1"/>
 
-A Grammar of the Persian Language 
+<div type="textpart" subtype="chapter" n="1">
+   <head>OF LETTERS.</head>
 
-
-
-
-
-OF LETTERS.
-
-The learner is supposed to be acquainted with the
+<p>The learner is supposed to be acquainted with the
 common terms of grammar, and to know that the Persians write their characters from the right hand to the
 left.
 
-There are thirty-two Persian letters.
+</p><p>There are thirty-two Persian letters.
 
 
 <pb n="2"/>
@@ -920,7 +883,7 @@ a fabulous mountain in the Oriental tales.
 
 When has a small stroke over its upper member, or
 three points above it, the Persians give it the sound of g
-in the word gaij, as	gulistan,	a	bed of roses; but
+in the word gaij, as	Gulistán,	a	bed of roses; but
 
 these marks are very seldom written in the Persian manu-
 scripts ; so that the distinction between	k and	g
@@ -3708,7 +3671,7 @@ b*ja, as
 nagaristan,* a gallery of pictures. •
 
 * The five first of these names are the titles of as many excellent books: the
-Baharislan anti Gulistan are poetical compositions by Janii and Sadi; the Naga-
+Baharislan anti Gulistán are poetical compositions by Janii and Sadi; the Naga-
 ristan is a very entertaining miscellany in prose and verse ; and the Shakarddn is
 a miscellaneous work in Arabic upon the history of Egypt: as to the Sambulislan,
 
@@ -5296,7 +5259,7 @@ Priv.
 
 
 The poems of Anvari, which are quoted by Sadi in his
-Gulistan, and are much esteemed in the East.
+Gulistán, and are much esteemed in the East.
 <pb/>143
 
 PERSIAN BOOKS.
@@ -7860,7 +7823,7 @@ S£*Af rose-scented.
 a closet, cottage, hut.
 a bed of roses.
 
-Gulistan (a rose-garden,
+Gulistán (a rose-garden,
 bower of roses) title of a celebrated
 book.
 
