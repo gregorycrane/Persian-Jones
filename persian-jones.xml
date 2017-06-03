@@ -4078,62 +4078,77 @@ o
                <list>
                   <item>
 
-                     <foreign xml:lang="per"></foreign> <foreign xml:lang="per-lat">ô</foreign>, <foreign xml:lang="per-lat">va</foreign>, or <foreign xml:lang="per-lat">wa</foreign>, <gloss>and</gloss>. 
+                     <foreign xml:lang="per">و</foreign> <foreign xml:lang="per-lat">ô</foreign>, <foreign xml:lang="per-lat">va</foreign>, or <foreign xml:lang="per-lat">wa</foreign>, <gloss>and</gloss>. 
                   </item><item>
-                     <foreign xml:lang="per"></foreign> <foreign xml:lang="per-lat">ham</foreign>, <gloss>or</gloss>
-                  </item><item>
-                     <foreign xml:lang="per"></foreign> <foreign xml:lang="per-lat">niz</foreign>, <gloss>also</gloss>.
-                  </item><item>
-                     
-                     <foreign xml:lang="per"></foreign> <foreign xml:lang="per-lat">yâ</foreign>, <gloss>or</gloss>.
-                  </item><item>
-                     <foreign xml:lang="per"></foreign> <foreign xml:lang="per-lat">agar</foreign>, or <foreign xml:lang="per-lat">’gar</foreign>, <gloss>if</gloss>
+                     <foreign xml:lang="per">هم</foreign> <foreign xml:lang="per-lat">ham</foreign>, or
+                   <foreign xml:lang="per">نيز</foreign> <foreign xml:lang="per-lat">niz</foreign>, <gloss>also</gloss>.
                   </item><item>
                      
-                        <foreign xml:lang="per"></foreign> <foreign xml:lang="per-lat">agarcheh</foreign>,  <foreign xml:lang="per"></foreign> <foreign xml:lang="per-lat">garcheh</foreign>, <gloss>though</gloss>.
+                     <foreign xml:lang="per">يا</foreign> <foreign xml:lang="per-lat">yâ</foreign>, <gloss>or</gloss>.
                   </item><item>
-                     <foreign xml:lang="per"></foreign> <foreign xml:lang="per-lat">ammâ</foreign>, <foreign xml:lang="per-lat">lêkan</foreign>, <foreign xml:lang="per"></foreign> <foreign xml:lang="per-lat">bal</foreign>, <foreign xml:lang="per-lat">balkeh</foreign>, <gloss>but</gloss>.
-                  </item><item>
-                     <foreign xml:lang="per"></foreign> <foreign xml:lang="per-lat">harchand</foreign>, <foreign xml:lang="per-lat">harchandkeh</foreign>, <gloss>although</gloss>.
+                     <foreign xml:lang="per">اگر</foreign> <foreign xml:lang="per-lat">agar</foreign>, or <foreign xml:lang="per">گر</foreign> <foreign xml:lang="per-lat">’gar</foreign>, <gloss>if</gloss>
                   </item><item>
                      
-                              <foreign xml:lang="per"></foreign> <foreign xml:lang="per-lat">banâbarîn</foreign>, <gloss>therefore</gloss>.	
+                        <foreign xml:lang="per">اگرچع</foreign> <foreign xml:lang="per-lat">agarcheh</foreign>,  <foreign xml:lang="per">گرچه</foreign> <foreign xml:lang="per-lat">garcheh</foreign>, <gloss>though</gloss>.
                   </item><item>
-                     <foreign xml:lang="per"></foreign> <foreign xml:lang="per-lat">pas</foreign>, <gloss>then</gloss>, <gloss>moreover</gloss>.
-
-                              <foreign xml:lang="per"></foreign> <foreign xml:lang="per-lat">keh</foreign>, <gloss>since</gloss>.	
+                     <foreign xml:lang="per">امٌا</foreign> <foreign xml:lang="per-lat">ammâ</foreign>, <foreign xml:lang="per">لکن</foreign> <foreign xml:lang="per-lat">lêkan</foreign>, <foreign xml:lang="per">بل</foreign> <foreign xml:lang="per-lat">bal</foreign>, <foreign xml:lang="per">بلکه</foreign> <foreign xml:lang="per-lat">balkeh</foreign>, <gloss>but</gloss>.
                   </item><item>
-                     <foreign xml:lang="per"></foreign> <foreign xml:lang="per-lat">zêrâ</foreign>, <gloss>because</gloss>.
+                     <foreign xml:lang="per">هرچند</foreign> <foreign xml:lang="per-lat">harchand</foreign>, <foreign xml:lang="per">هرچندکه</foreign> <foreign xml:lang="per-lat">harchandkeh</foreign>, <gloss>although</gloss>.
                   </item><item>
                      
-                              <foreign xml:lang="per"></foreign> <foreign xml:lang="per-lat">magar</foreign>, <gloss>unless</gloss>.	
+                              <foreign xml:lang="per">بنابرين</foreign> <foreign xml:lang="per-lat">banâbarîn</foreign>, <gloss>therefore</gloss>.	
                   </item><item>
-                     <foreign xml:lang="per"></foreign> <foreign xml:lang="per-lat">jûz</foreign>, <gloss>except</gloss>.
+                     <foreign xml:lang="per">پس</foreign> <foreign xml:lang="per-lat">pas</foreign>, <gloss>then</gloss>, <gloss>moreover</gloss>.
 
-PREPOSITIONS.
+                              <foreign xml:lang="per">که</foreign> <foreign xml:lang="per-lat">keh</foreign>, <gloss>since</gloss>.	
+                  </item><item>
+                     <foreign xml:lang="per">زيرا</foreign> <foreign xml:lang="per-lat">zêrâ</foreign>, <gloss>because</gloss>.
+                  </item><item>
+                     
+                              <foreign xml:lang="per">مگر</foreign> <foreign xml:lang="per-lat">magar</foreign>, <gloss>unless</gloss>.	
+                  </item><item>
+                     <foreign xml:lang="per">جز</foreign> <foreign xml:lang="per-lat">juz</foreign>, <gloss>except</gloss>.
 
-j\ az orj 'zjrom, by, of. y\ abar, orbar,
-pas, after.	~j pesh, befare.
+                  </item></list>
+            </p></div>
+         <div type="textpart" subtype="chapter">
+            <head style="caps">prepositions.</head><p>
+               
+               <list>
+                  <item>
+                  
 
- bah, or ba, joined to the noun, to.
+                     <foreign xml:lang="per">از</foreign> <foreign xml:lang="per-lat">az</foreign> <foreign xml:lang="per">ز</foreign> <foreign xml:lang="per-lat">'z</foreign> <gloss>from</gloss>, <gloss>by</gloss>, <gloss>of</gloss>. 
+                       
+                     <foreign xml:lang="per">ابر</foreign> <foreign xml:lang="per-lat">abar</foreign>, or <foreign xml:lang="per">بر</foreign> <foreign xml:lang="per-lat">bar</foreign>, <gloss>upon</gloss>
+                     <foreign xml:lang="per">پس</foreign> <foreign xml:lang="per-lat">pas</foreign>, <gloss>after</gloss>.	
+<foreign xml:lang="per">پيش</foreign> pêsh, before.
 
-b ba, with.	bl, without.
+                     <foreign xml:lang="per">به</foreign>  <foreign xml:lang="per-lat">bah</foreign>, or  <foreign xml:lang="per">ب</foreign> <foreign xml:lang="per-lat">ba</foreign>, joined to the noun, <gloss>to</gloss>.
 
-pahlawl, near.	dar, in.
+                     <foreign xml:lang="per">با</foreign>  <foreign xml:lang="per-lat">bâ</foreign>, <gloss>with</gloss>.
+                     <foreign xml:lang="per">بي</foreign>  <foreign xml:lang="per-lat">bî</foreign>, <gloss>without</gloss>.
 
-iS\y baray,	bajehat,for.
+                     <foreign xml:lang="per">پهلوي</foreign> <foreign xml:lang="per-lat">pahlawî</foreign>, <gloss>near</gloss>.	
+                     <foreign xml:lang="per">در</foreign> <foreign xml:lang="per-lat">dar</foreign>, <gloss>in</gloss>.
 
-j\ az jehat^j^ j\ az bahr, on account of
-\rsc miyan, between.	suwl, toward.
+                     <foreign xml:lang="per">براي</foreign>  <foreign xml:lang="per-lat">barây</foreign>,  <foreign xml:lang="per">بجهت</foreign> <foreign xml:lang="per-lat">bajehat</foreign>, <gloss>for</gloss>.
 
-^y fa rod, beneath.	zir, under,
+                     <foreign xml:lang="per">از جهت</foreign>  <foreign xml:lang="per-lat">az jehat</foreign>, <foreign xml:lang="per">از بهر</foreign>  <foreign xml:lang="per-lat">az bahr</foreign>, <gloss>on account of</gloss>
+                     <foreign xml:lang="per">ميان</foreign>  <foreign xml:lang="per-lat">mîyân</foreign>, <gloss>between</gloss>.
+                        <foreign xml:lang="per">سوي</foreign> <foreign xml:lang="per-lat">suwî</foreign>, <gloss>toward</gloss>.
 
-yj zabar, above.	yf nazd, near.
+                           <foreign xml:lang="per">فرود</foreign>  <foreign xml:lang="per-lat">farôd</foreign>, <gloss>beneath</gloss>.	
+                     <foreign xml:lang="per">زير</foreign> <foreign xml:lang="per-lat">zîr</foreign>, <gloss>under</gloss>,
+
+                     <foreign xml:lang="per">زبر</foreign>  <foreign xml:lang="per-lat">zabar</foreign>, <gloss>above</gloss>.	
+                     <foreign xml:lang="per">نزد</foreign> <foreign xml:lang="per-lat">nazd</foreign>, <gloss>near</gloss>.
                   </item> </list>
-<pb/>PERSIAN LANGUAGE.
 
-<pb n="99"/>
+
+
 </p></div>
+         <pb n="99"/>
          <div type="textpart" subtype="chapter" style="caps"><head>interjections.</head>
 
 <p>
