@@ -4110,7 +4110,7 @@ yj zabar, above.	yf nazd, near.
 
 <pb n="99"/>
 </p></div>
-         <div type="textpart" subtype="chapter"><head>INTERJECTIONS.</head>
+         <div type="textpart" subtype="chapter" style="caps"><head>interjections.</head>
 
 <p>
    <foreign xml:lang="per">ايا</foreign> <foreign xml:lang="per-lat">ayâ</foreign>, <foreign xml:lang="per">ايها</foreign> <foreign xml:lang="per-lat">ayhâ</foreign>, <gloss>oh!</gloss>	<foreign xml:lang="per">آه</foreign> ah, <gloss>ah!</gloss>
@@ -4120,20 +4120,23 @@ yj zabar, above.	yf nazd, near.
 Thus in <title>the tale of the merchant and the parrot</title> by
    <persName n="http://viaf.org/viaf/98930150/">Jalâluddîn Rumî</persName>,
 
+   <cit><bibl n="CTSURN"/><quote xml:lang="per"><p></p>></quote></cit>
 
+<cit><bibl n="CTSURN"/><quote xml:lang="eng"><l>Alas ! alas ! </l><l>that so bright a moon should be hidden by
+   the clouds! </l></quote></cit>
 
-Alas ! alas ! that so bright a moon should be hidden by
-the clouds!
-
-   <foreign xml:lang="per">فيغان</foreign> <foreign xml:lang="per-lat">fighân</foreign> and	 <foreign xml:lang="per">افسوس</foreign>	<foreign xml:lang="per-lat">afsôs</foreign>	are	likewise interjections
+   </p><p><foreign xml:lang="per">فيغان</foreign> <foreign xml:lang="per-lat">fighân</foreign> and	 <foreign xml:lang="per">افسوس</foreign>	<foreign xml:lang="per-lat">afsôs</foreign>	are	likewise interjections
 
 that express grief: thus in a tetrastich by the <persName n="??https://en.wikipedia.org/wiki/Toghrul_III">sultan Togrul
    Ben Erslan</persName>,
 
-Yesterday the presence of my beloved delighted my soul;
+   <cit><bibl n="CTSURN"/><quote xml:lang="per"><l> </l><l> </l></quote></cit>
+   
+   <cit><bibl n="CTSURN"/><quote xml:lang="eng"><p>Yesterday the presence of my beloved delighted my soul;
 and to-day her absence fills me with bitterness ; alas!
 that the hand of fortune should write joy and grief
-alternately in the book of my life !
+alternately in the book of my life !</p></quote></cit>
+   
 
 
    <pb n="100"/>
