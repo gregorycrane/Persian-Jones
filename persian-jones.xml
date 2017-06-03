@@ -64,6 +64,8 @@
          <langUsage default="false">
             <language ident="lat">Latin</language>
             <language ident="grc">Greek</language>
+            <language ident="per">Persian</language>
+            <language ident="per-lat">Persian transliteration</language>
          </langUsage>
       </profileDesc>
    </teiHeader>
@@ -706,13 +708,16 @@ the right hand are used only when they are connected with
 
 OJ	I
 
-a preceding letter; as	Muhammad.	Every	letter
+a preceding letter; as <foreign xml:lang="per">محمٌد</foreign>	Muhammad.	Every	letter
 
 should be connected with that which follows it, except these
-seven; \ alif, 3 dal, h zal, j re, j ze, J je, and j waw,
-<pb/>4
+seven; <foreign xml:lang="per">ا</foreign> alif, <foreign xml:lang="per">د</foreign> dâl, 
+   <foreign xml:lang="per">ذ</foreign> zâl, 
+   <foreign xml:lang="per">ر</foreign> rê, <foreign xml:lang="per">ز</foreign> zê, 
+   <foreign xml:lang="per">ژ</foreign> jê, and <foreign xml:lang="per">و</foreign> wâw,
+<pb n="4"/>
 
-A GRAMMAR OF THE
+
 
 which are never joined to the following letter, as will
 appear from the words barg, a leaf,	davaii,	a
@@ -4103,36 +4108,35 @@ j\ az jehat^j^ j\ az bahr, on account of
 yj zabar, above.	yf nazd, near.
 <pb/>PERSIAN LANGUAGE.
 
-00
+<pb n="99"/>
+</p></div>
+         <div type="textpart" subtype="chapter"><head>INTERJECTIONS.</head>
 
-INTERJECTIONS.
+<p>
+   <foreign xml:lang="per">ايا</foreign> <foreign xml:lang="per-lat">ayâ</foreign>, <foreign xml:lang="per">ايها</foreign> <foreign xml:lang="per-lat">ayhâ</foreign>, <gloss>oh!</gloss>	<foreign xml:lang="per">آه</foreign> ah, <gloss>ah!</gloss>
 
-\>\ aya, ayha, oh!	^ ah, ah!
+   <foreign xml:lang="per">دريغ</foreign> or <foreign xml:lang="per">دريغا</foreign> <foreign xml:lang="per-lat">darêghâ</foreign>. <gloss>alas!</gloss>
 
-or Ixjp daregha. alas!
+Thus in <title>the tale of the merchant and the parrot</title> by
+   <persName n="http://viaf.org/viaf/98930150/">Jalâluddîn Rumî</persName>,
 
-Thus in the tale of the merchant and the parrot by
-Jalaluddln RumI,
 
-{bji L$\j l*J,3 LS\ j l*jp Lf\
-
-jJj
 
 Alas ! alas ! that so bright a moon should be hidden by
 the clouds!
 
-fighan and	\	afsos	are	likewise interjections
+   <foreign xml:lang="per">فيغان</foreign> <foreign xml:lang="per-lat">fighân</foreign> and	 <foreign xml:lang="per">افسوس</foreign>	<foreign xml:lang="per-lat">afsôs</foreign>	are	likewise interjections
 
-that express grief: thus in a tetrastich by the sultan Togrul
-Ben Erslan,
+that express grief: thus in a tetrastich by the <persName n="??https://en.wikipedia.org/wiki/Toghrul_III">sultan Togrul
+   Ben Erslan</persName>,
 
 Yesterday the presence of my beloved delighted my soul;
 and to-day her absence fills me with bitterness ; alas!
 that the hand of fortune should write joy and grief
 alternately in the book of my life !
 
-o 2
-<pb/>100
+
+   <pb n="100"/>
 
 A GRAMMAR OF THE
 
