@@ -71,7 +71,10 @@
    </teiHeader>
    <text>
       <body>
-         <div type="edition" subtype="chapter" n="praef">
+<div type="textpart"   subtype="modernintro"><head>Notes to the digital edition</head>
+   <p>For now, the working notes on this edition are in a <ref n="https://docs.google.com/document/d/12uFVdjWW7Z4gFAFyDo7OBS8fHMwlPKz-JltOJOftzHA/edit">Google Doc</ref>.</p>
+</div>      
+   <div type="edition" subtype="chapter" n="praef">
             <pb n="i"/>
             <head>THE PREFACE.</head>
          <p> 
@@ -4020,7 +4023,7 @@ or Zjji farod, J
 
 j\	Sj* j
 
-That evil which comes from above is not evil,
+   <cit><bibl n="CTSURN"/><quote xml:lang="eng"><p>That evil which comes from above is not evil.</p></quote></cit>
 b’amdad,
 
 sahargah, >in the morning.
@@ -4030,23 +4033,28 @@ alCclti shamgah, in the evening.
 dl,	yesterday.	farda, to-morrow.
 
 uLrj> pesh, before.	pas, after.
-<pb/>	PERSIAN LANGUAGE,		97
-aknun,	now.	angah,	then.
-cliun,	when.	hamandam, directly.	
+<pb n="97"/>
+aknun,	now.	ângâh,	then.
+chûn,	when.	hamândam, directly.	
 hargiz,	ever.	tjjfjJb hargiznah,	never.
-hanuz,	yet.	^ batd az an,	aftenvard.
-la ta,	until.	hamlshah,	always.
-k£,\a bari,	once.	j\dlgarbar,	again.
-ham,	also.	Jfo niz,	even.
+hanûz,	yet.	^ ba'd az an,	afterward.
+la tâ,	until.	hamîshah,	always.
+k£,\a bârî,	once.	dîgarbâr,	again.
+ham,	also.	Jfo nîz,	even.
 
-The following six adverbs are nearly synonymous, and
-signify, as, like, in the same manner as ;
+<note n="originally in Jones text but now reorganized as a list"> The following six adverbs are nearly synonymous, and
+signify, <gloss>as</gloss>, <gloss>like</gloss>, <gloss>in the same manner as </gloss>;
+</note>
+   <foreign xml:lang="per">همچو</foreign> <foreign xml:lang="per-lat">hamchû</foreign>, <gloss>as</gloss>, <gloss>like</gloss>, <gloss>in the same manner as </gloss>
+   
+   <foreign xml:lang="per">همچون</foreign> <foreign xml:lang="per-lat">hamchûn</foreign>, <gloss>as</gloss>, <gloss>like</gloss>, <gloss>in the same manner as </gloss>
 
-hamchu,	hamchun,
+   <foreign xml:lang="per">چنين</foreign> <foreign xml:lang="per-lat">chunîn</foreign>, <gloss>as</gloss>, <gloss>like</gloss>, <gloss>in the same manner as </gloss>
+   <foreign xml:lang="per">همچنين</foreign> <foreign xml:lang="per-lat">hamchunîm</foreign>, <gloss>as</gloss>, <gloss>like</gloss>, <gloss>in the same manner as </gloss>
+   
 
-chunin,	hamchunm,
-
-chunancheh,	chunankeh.
+   <foreign xml:lang="per">چنانچه</foreign> <foreign xml:lang="per-lat">chunâncheh</foreign>, <gloss>as</gloss>, <gloss>like</gloss>, <gloss>in the same manner as </gloss>	
+   <foreign xml:lang="per">چنانکه</foreign> <foreign xml:lang="per-lat">chunânkeh</foreign>: <gloss>as</gloss>, <gloss>like</gloss>, <gloss>in the same manner as </gloss>
 
 £ku, where?	chara, wherefore?
 
