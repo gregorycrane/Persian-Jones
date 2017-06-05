@@ -3991,11 +3991,11 @@ adding ^ to the cardinal numbers.
 <list>
   <item>
 
-     <foreign xml:lang="per"></foreign> <foreign xml:lang="per-lat">bisyar</foreign>, much.	
-        <foreign xml:lang="per"></foreign> <foreign xml:lang="per-lat">andak</foreign>, little.
+     <foreign xml:lang="per"></foreign> <foreign xml:lang="per-lat">bisyar</foreign>, <gloss>much</gloss>.	
+     <foreign xml:lang="per"></foreign> <foreign xml:lang="per-lat">andak</foreign>, <gloss>little</gloss>.
 
-           <foreign xml:lang="per"></foreign> <foreign xml:lang="per-lat">Inja</foreign>, here.	
-              <foreign xml:lang="per"></foreign> <foreign xml:lang="per-lat">anja</foreign>, there.
+     <foreign xml:lang="per"></foreign> <foreign xml:lang="per-lat">Inja</foreign>, <gloss>here</gloss>.	
+     <foreign xml:lang="per"></foreign> <foreign xml:lang="per-lat">anja</foreign>, <gloss>there</gloss>.
 
      <cit><bibl n="CTSURN"/><quote xml:lang="eng"><p>
 If I could send my very soul to that place, how trifling a
@@ -4004,20 +4004,20 @@ present would it be !</p></quote></cit>
 
 
 
-     <foreign xml:lang="per"></foreign> <foreign xml:lang="per-lat">az Inja</foreign>, hence.
-     <foreign xml:lang="per"></foreign> <foreign xml:lang="per-lat">az iinja</foreign>, thence.
+     <foreign xml:lang="per">از اينجا</foreign> <foreign xml:lang="per-lat">az înjâ</foreign>, <gloss>hence</gloss>.
+     <foreign xml:lang="per">از آنجا</foreign> <foreign xml:lang="per-lat">az ânjâ</foreign>, <gloss>thence</gloss>.
 
-     <foreign xml:lang="per"></foreign> <foreign xml:lang="per-lat">insQ</foreign>, hither.	
-     <foreign xml:lang="per"></foreign> <foreign xml:lang="per-lat">ansu</foreign>, thither.
+     <foreign xml:lang="per">اينسو</foreign> <foreign xml:lang="per-lat">însû</foreign>, <gloss>hither</gloss>.	
+     <foreign xml:lang="per">آنسو</foreign> <foreign xml:lang="per-lat">ânsû</foreign>, <gloss>thither</gloss>.
 
-     <foreign xml:lang="per"></foreign> <foreign xml:lang="per-lat">kuja</foreign>, where or whither.
-     <foreign xml:lang="per"></foreign> <foreign xml:lang="per-lat">az kuja</foreign>, whence.
-     <foreign xml:lang="per"></foreign> <foreign xml:lang="per-lat">har kuj.t keh</foreign>, wheresoever.
+     <foreign xml:lang="per">کجا</foreign> <foreign xml:lang="per-lat">kujâ</foreign>, <gloss>where</gloss> or <gloss>whither</gloss>.
+     <foreign xml:lang="per">از کجا</foreign> <foreign xml:lang="per-lat">az kujâ</foreign>, <gloss>whence</gloss>.
+     <foreign xml:lang="per">هر کجاکه</foreign> <foreign xml:lang="per-lat">har kujâkeh</foreign>, <gloss>wheresoever</gloss>.
 
-     <foreign xml:lang="per"></foreign> <foreign xml:lang="per-lat">berun</foreign>, without.	
-     <foreign xml:lang="per"></foreign> <foreign xml:lang="per-lat">darun</foreign>, or <foreign xml:lang="per"></foreign> <foreign xml:lang="per-lat">andarun</foreign>, within.
+     <foreign xml:lang="per">بيرون</foreign> <foreign xml:lang="per-lat">bêrûn</foreign>, <gloss>without</gloss>.	
+     <foreign xml:lang="per">درون</foreign> <foreign xml:lang="per-lat">darûn</foreign>, or <foreign xml:lang="per">اندرون</foreign> <foreign xml:lang="per-lat">andarûn</foreign>, <gloss>within</gloss>.
 
-ZjjVf
+
   </item> 
 </list>
    <cit><bibl n="CTSURN"/><quote xml:lang="eng"><p>The nightingales were warbling in the garden, and the
@@ -4037,34 +4037,34 @@ fawns were sporting on the hills.</p></quote></cit>
 <list>
    <item>
       
-      <foreign xml:lang="per"></foreign> <foreign xml:lang="per-lat">b’amdâd</foreign>, <gloss>in the morning</gloss>.
+      <foreign xml:lang="per">بامداد</foreign> <foreign xml:lang="per-lat">b’amdâd</foreign>, <gloss>in the morning</gloss>.
 
-      <foreign xml:lang="per"></foreign> <foreign xml:lang="per-lat">sahargâh</foreign>,  <gloss>in the morning</gloss>.
+      <foreign xml:lang="per">سحرگاه</foreign> <foreign xml:lang="per-lat">sahargâh</foreign>,  <gloss>in the morning</gloss>.
       
-      <foreign xml:lang="per"></foreign> <foreign xml:lang="per-lat">sahar</foreign>,  <gloss>in the morning</gloss>.
+      <foreign xml:lang="per">سحر</foreign> <foreign xml:lang="per-lat">sahar</foreign>,  <gloss>in the morning</gloss>.
       
 
-      <foreign xml:lang="per"></foreign> <foreign xml:lang="per-lat">shamgâh</foreign>, <gloss>in the evening</gloss>.
-      <foreign xml:lang="per"></foreign> <foreign xml:lang="per-lat">dî</foreign>,	<gloss>yesterday</gloss>.	
-      <foreign xml:lang="per"></foreign> <foreign xml:lang="per-lat">fardâ</foreign>, <gloss>to-morrow</gloss>.
+      <foreign xml:lang="per">شامگاه</foreign> <foreign xml:lang="per-lat">shâmgâh</foreign>, <gloss>in the evening</gloss>.
+      <foreign xml:lang="per">دي</foreign> <foreign xml:lang="per-lat">dî</foreign>,	<gloss>yesterday</gloss>.	
+      <foreign xml:lang="per">فردا</foreign> <foreign xml:lang="per-lat">fardâ</foreign>, <gloss>to-morrow</gloss>.
 
-      <foreign xml:lang="per"></foreign> <foreign xml:lang="per-lat">pêsh</foreign>, <gloss>before</gloss>.	
-      <foreign xml:lang="per"></foreign> <foreign xml:lang="per-lat">pas</foreign>, <gloss>after</gloss>.
+      <foreign xml:lang="per">پيش</foreign> <foreign xml:lang="per-lat">pêsh</foreign>, <gloss>before</gloss>.	
+      <foreign xml:lang="per">پس</foreign> <foreign xml:lang="per-lat">pas</foreign>, <gloss>after</gloss>.
 <pb n="97"/>
-      <foreign xml:lang="per"></foreign> <foreign xml:lang="per-lat">aknun</foreign>,	<gloss>now</gloss>.	
-      <foreign xml:lang="per"></foreign> <foreign xml:lang="per-lat">ângâh</foreign>,	<gloss>then</gloss>.
-      <foreign xml:lang="per"></foreign> <foreign xml:lang="per-lat">chûn</foreign>,	<gloss>when</gloss>.	
-      <foreign xml:lang="per"></foreign> <foreign xml:lang="per-lat">hamândam</foreign>, <gloss>directly</gloss>.	
-      <foreign xml:lang="per"></foreign> <foreign xml:lang="per-lat">hargiz</foreign>,	<gloss>ever</gloss>.
-      <foreign xml:lang="per"></foreign> <foreign xml:lang="per-lat">hargiznah</foreign>,	<gloss>never</gloss>.
-      <foreign xml:lang="per"></foreign> <foreign xml:lang="per-lat">hanûz</foreign>,<gloss>	yet</gloss>.
-      <foreign xml:lang="per"></foreign> <foreign xml:lang="per-lat">ba'd az an</foreign>, <gloss>afterward</gloss>.
-      <foreign xml:lang="per"></foreign> <foreign xml:lang="per-lat">tâ</foreign>,	<gloss>until</gloss>.	
-      <foreign xml:lang="per"></foreign> <foreign xml:lang="per-lat">hamîshah</foreign>,	<gloss>always</gloss>.
-      <foreign xml:lang="per"></foreign> <foreign xml:lang="per-lat">bârî</foreign>,	<gloss>once</gloss>.	
-      <foreign xml:lang="per"></foreign> <foreign xml:lang="per-lat">dîgarbâr</foreign>,	<gloss>again</gloss>.
-      <foreign xml:lang="per"></foreign> <foreign xml:lang="per-lat">ham</foreign>,	<gloss>also</gloss>.	
-      <foreign xml:lang="per"></foreign> <foreign xml:lang="per-lat">nîz</foreign>,	<gloss>even</gloss>.
+      <foreign xml:lang="per">اکنن</foreign> <foreign xml:lang="per-lat">aknun</foreign>,	<gloss>now</gloss>.	
+      <foreign xml:lang="per">آنگاه</foreign> <foreign xml:lang="per-lat">ângâh</foreign>,	<gloss>then</gloss>.
+      <foreign xml:lang="per">چون</foreign> <foreign xml:lang="per-lat">chûn</foreign>,	<gloss>when</gloss>.	
+      <foreign xml:lang="per">هماندم</foreign> <foreign xml:lang="per-lat">hamândam</foreign>, <gloss>directly</gloss>.	
+      <foreign xml:lang="per">هرگيز</foreign> <foreign xml:lang="per-lat">hargiz</foreign>,	<gloss>ever</gloss>.
+      <foreign xml:lang="per">هرگيزنه</foreign> <foreign xml:lang="per-lat">hargiznah</foreign>,	<gloss>never</gloss>.
+      <foreign xml:lang="per">هنوز</foreign> <foreign xml:lang="per-lat">hanûz</foreign>,<gloss>	yet</gloss>.
+      <foreign xml:lang="per">بعد از ان</foreign> <foreign xml:lang="per-lat">ba'd az an</foreign>, <gloss>afterward</gloss>.
+      <foreign xml:lang="per">تا</foreign> <foreign xml:lang="per-lat">tâ</foreign>,	<gloss>until</gloss>.	
+      <foreign xml:lang="per">هميشه</foreign> <foreign xml:lang="per-lat">hamîshah</foreign>,	<gloss>always</gloss>.
+      <foreign xml:lang="per">باري</foreign> <foreign xml:lang="per-lat">bârî</foreign>,	<gloss>once</gloss>.	
+      <foreign xml:lang="per">ديگربار</foreign> <foreign xml:lang="per-lat">dîgarbâr</foreign>,	<gloss>again</gloss>.
+      <foreign xml:lang="per">هم</foreign> <foreign xml:lang="per-lat">ham</foreign>,	<gloss>also</gloss>.	
+      <foreign xml:lang="per">نيز</foreign> <foreign xml:lang="per-lat">nîz</foreign>,	<gloss>even</gloss>.
 
 <note n="originally in Jones text but now reorganized as a list"> The following six adverbs are nearly synonymous, and
 signify, <gloss>as</gloss>, <gloss>like</gloss>, <gloss>in the same manner as </gloss>;
@@ -4080,30 +4080,33 @@ signify, <gloss>as</gloss>, <gloss>like</gloss>, <gloss>in the same manner as </
    <foreign xml:lang="per">چنانچه</foreign> <foreign xml:lang="per-lat">chunâncheh</foreign>, <gloss>as</gloss>, <gloss>like</gloss>, <gloss>in the same manner as </gloss>	
    <foreign xml:lang="per">چنانکه</foreign> <foreign xml:lang="per-lat">chunânkeh</foreign>: <gloss>as</gloss>, <gloss>like</gloss>, <gloss>in the same manner as </gloss>
 
-£ku, where?	chara, wherefore?
+      <foreign xml:lang="per">کو</foreign> <foreign xml:lang="per-lat">kû</foreign>, <gloss>where?</gloss>	
+      <foreign xml:lang="per">چرا</foreign> <foreign xml:lang="per-lat">charâ</foreign>, <gloss>wherefore?</gloss>
 
-Os^- chand, how many?
+      <foreign xml:lang="per">چند</foreign> <foreign xml:lang="per-lat">chand</foreign>, <gloss>how many?</gloss>
 
-^^ j\ az bahr cheh, on what account?
-cjff- cliun, how?	chegunah, how or what.
+      <foreign xml:lang="per">از بهر چه</foreign> <foreign xml:lang="per-lat">az bahr cheh</foreign>, <gloss>on what account?</gloss>
+      <foreign xml:lang="per">چون</foreign> <foreign xml:lang="per-lat">chûn</foreign>, <gloss>how?</gloss>	
+      <foreign xml:lang="per"></foreign> <foreign xml:lang="per-lat">chegûnah</foreign>, <gloss>how</gloss> or <gloss>what</gloss>.
 
-Ci£-j\lnak, behold!	kash, would!
+      <foreign xml:lang="per">اينک</foreign> <foreign xml:lang="per-lat">înak</foreign>, <gloss>behold!</gloss>	
+      <foreign xml:lang="per">کاش</foreign> <foreign xml:lang="per-lat">kâsh</foreign>, <gloss>would!</gloss>
 
-jf>so magar, perhaps. bL*o mabada, lest by chance.
+      <foreign xml:lang="per">مگر</foreign> <foreign xml:lang="per-lat">magar</foreign>, <gloss>perhaps</gloss>. 
+      <foreign xml:lang="per">مبادا</foreign> <foreign xml:lang="per-lat">mabâdâ</foreign>, <gloss>lest by chance</gloss>.
 
-ham,
-and ^ baham,
+      <foreign xml:lang="per">هم</foreign> <foreign xml:lang="per-lat">ham</foreign>,  and <foreign xml:lang="per">بهم</foreign> <foreign xml:lang="per-lat">baham</foreign>, <gloss>together</gloss>
 
-)l0S'
 
-ether.
 
-tanha, alone.
+
+
+      <foreign xml:lang="per">تنها</foreign> <foreign xml:lang="per-lat">tanhâ</foreign>, <gloss>alone</gloss>.
 
    </item></list>
 <pb n="98"/>
    
-</p></div>
+</div>
          <div type="textpart" subtype="chapter">
             <head style="caps">conjunctions.</head><p>
                
