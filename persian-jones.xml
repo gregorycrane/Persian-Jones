@@ -7,7 +7,7 @@
                SOCIETIES OF LONDON AND COPENHAGEN.</author>
             <respStmt>
                <orgName instant="false" full="yes">Open Philology Project</orgName>
-               <resp>Keyboarding</resp>
+               <resp>OCR and hand-correction.</resp>
             </respStmt>
          </titleStmt>
          <publicationStmt>
@@ -3984,63 +3984,87 @@ panjum,	fifth-
 All the other ordinals are formed in the same manner by
 adding ^ to the cardinal numbers.
 
-ADVERBS.
+</p></div>
+         
+         <div type="textpart" subtype="chapter">
+            <head style="caps">adverbs</head>
+<list>
+  <item>
 
-jLj bisyar, much.	andak, little.
+     <foreign xml:lang="per"></foreign> <foreign xml:lang="per-lat">bisyar</foreign>, much.	
+        <foreign xml:lang="per"></foreign> <foreign xml:lang="per-lat">andak</foreign>, little.
 
-Inja, here.	anja, there.
+           <foreign xml:lang="per"></foreign> <foreign xml:lang="per-lat">Inja</foreign>, here.	
+              <foreign xml:lang="per"></foreign> <foreign xml:lang="per-lat">anja</foreign>, there.
 
-(XtXi j+cZlsC0
+     <cit><bibl n="CTSURN"/><quote xml:lang="eng"><p>
 If I could send my very soul to that place, how trifling a
-present would it be i
-<pb/>96
+present would it be !</p></quote></cit>
+<pb n="96"/>
 
-A GRAMMAR OF THE
 
-az Inja, hence.	j\	az iinja, thence.
 
-J—insQ, hither.	ansu, thither.
+     <foreign xml:lang="per"></foreign> <foreign xml:lang="per-lat">az Inja</foreign>, hence.
+     <foreign xml:lang="per"></foreign> <foreign xml:lang="per-lat">az iinja</foreign>, thence.
 
-kuja, where or whither. \£j\ az kuja, whence.
-har kuj.t keh, wheresoever.
+     <foreign xml:lang="per"></foreign> <foreign xml:lang="per-lat">insQ</foreign>, hither.	
+     <foreign xml:lang="per"></foreign> <foreign xml:lang="per-lat">ansu</foreign>, thither.
 
-Ojberun, without.	darun,
+     <foreign xml:lang="per"></foreign> <foreign xml:lang="per-lat">kuja</foreign>, where or whither.
+     <foreign xml:lang="per"></foreign> <foreign xml:lang="per-lat">az kuja</foreign>, whence.
+     <foreign xml:lang="per"></foreign> <foreign xml:lang="per-lat">har kuj.t keh</foreign>, wheresoever.
 
-or	andarun,
-
-| wil
-
-within.
+     <foreign xml:lang="per"></foreign> <foreign xml:lang="per-lat">berun</foreign>, without.	
+     <foreign xml:lang="per"></foreign> <foreign xml:lang="per-lat">darun</foreign>, or <foreign xml:lang="per"></foreign> <foreign xml:lang="per-lat">andarun</foreign>, within.
 
 ZjjVf
+  </item> 
+</list>
+   <cit><bibl n="CTSURN"/><quote xml:lang="eng"><p>The nightingales were warbling in the garden, and the
+fawns were sporting on the hills.</p></quote></cit>
 
-The nightingales were warbling in the garden, and the
-fawns were sporting on the hills.
+   <list><item>
+      <foreign xml:lang="per">فرو</foreign> <foreign xml:lang="per-lat">farô</foreign> or <foreign xml:lang="per">فرود</foreign> <foreign xml:lang="per"></foreign> <foreign xml:lang="per-lat">farôd</foreign> below.	
+   <foreign xml:lang="per">بالا</foreign> <foreign xml:lang="per-lat">bâlâ</foreign>, above.
 
-\below.	bala, above.
+   </item></list>
+   
 
-or Zjji farod, J
 
-j\	Sj* j
 
    <cit><bibl n="CTSURN"/><quote xml:lang="eng"><p>That evil which comes from above is not evil.</p></quote></cit>
-b’amdad,
 
-sahargah, >in the morning.
-or sahar, J
+<list>
+   <item>
+      
+      <foreign xml:lang="per"></foreign> <foreign xml:lang="per-lat">b’amdâd</foreign>, <gloss>in the morning</gloss>.
 
-alCclti shamgah, in the evening.
-dl,	yesterday.	farda, to-morrow.
+      <foreign xml:lang="per"></foreign> <foreign xml:lang="per-lat">sahargâh</foreign>,  <gloss>in the morning</gloss>.
+      
+      <foreign xml:lang="per"></foreign> <foreign xml:lang="per-lat">sahar</foreign>,  <gloss>in the morning</gloss>.
+      
 
-uLrj> pesh, before.	pas, after.
+      <foreign xml:lang="per"></foreign> <foreign xml:lang="per-lat">shamgâh</foreign>, <gloss>in the evening</gloss>.
+      <foreign xml:lang="per"></foreign> <foreign xml:lang="per-lat">dî</foreign>,	<gloss>yesterday</gloss>.	
+      <foreign xml:lang="per"></foreign> <foreign xml:lang="per-lat">fardâ</foreign>, <gloss>to-morrow</gloss>.
+
+      <foreign xml:lang="per"></foreign> <foreign xml:lang="per-lat">pêsh</foreign>, <gloss>before</gloss>.	
+      <foreign xml:lang="per"></foreign> <foreign xml:lang="per-lat">pas</foreign>, <gloss>after</gloss>.
 <pb n="97"/>
-aknun,	now.	ângâh,	then.
-chûn,	when.	hamândam, directly.	
-hargiz,	ever.	tjjfjJb hargiznah,	never.
-hanûz,	yet.	^ ba'd az an,	afterward.
-la tâ,	until.	hamîshah,	always.
-k£,\a bârî,	once.	dîgarbâr,	again.
-ham,	also.	Jfo nîz,	even.
+      <foreign xml:lang="per"></foreign> <foreign xml:lang="per-lat">aknun</foreign>,	<gloss>now</gloss>.	
+      <foreign xml:lang="per"></foreign> <foreign xml:lang="per-lat">ângâh</foreign>,	<gloss>then</gloss>.
+      <foreign xml:lang="per"></foreign> <foreign xml:lang="per-lat">chûn</foreign>,	<gloss>when</gloss>.	
+      <foreign xml:lang="per"></foreign> <foreign xml:lang="per-lat">hamândam</foreign>, <gloss>directly</gloss>.	
+      <foreign xml:lang="per"></foreign> <foreign xml:lang="per-lat">hargiz</foreign>,	<gloss>ever</gloss>.
+      <foreign xml:lang="per"></foreign> <foreign xml:lang="per-lat">hargiznah</foreign>,	<gloss>never</gloss>.
+      <foreign xml:lang="per"></foreign> <foreign xml:lang="per-lat">hanûz</foreign>,<gloss>	yet</gloss>.
+      <foreign xml:lang="per"></foreign> <foreign xml:lang="per-lat">ba'd az an</foreign>, <gloss>afterward</gloss>.
+      <foreign xml:lang="per"></foreign> <foreign xml:lang="per-lat">tâ</foreign>,	<gloss>until</gloss>.	
+      <foreign xml:lang="per"></foreign> <foreign xml:lang="per-lat">hamîshah</foreign>,	<gloss>always</gloss>.
+      <foreign xml:lang="per"></foreign> <foreign xml:lang="per-lat">bârî</foreign>,	<gloss>once</gloss>.	
+      <foreign xml:lang="per"></foreign> <foreign xml:lang="per-lat">dîgarbâr</foreign>,	<gloss>again</gloss>.
+      <foreign xml:lang="per"></foreign> <foreign xml:lang="per-lat">ham</foreign>,	<gloss>also</gloss>.	
+      <foreign xml:lang="per"></foreign> <foreign xml:lang="per-lat">nîz</foreign>,	<gloss>even</gloss>.
 
 <note n="originally in Jones text but now reorganized as a list"> The following six adverbs are nearly synonymous, and
 signify, <gloss>as</gloss>, <gloss>like</gloss>, <gloss>in the same manner as </gloss>;
@@ -4076,7 +4100,7 @@ ether.
 
 tanha, alone.
 
-o
+   </item></list>
 <pb n="98"/>
    
 </p></div>
