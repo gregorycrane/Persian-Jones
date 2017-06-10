@@ -2837,8 +2837,8 @@ pM*
 s'
 
 r*
-<pb/>PERSIAN	LANGUAGE.	63
-Infin.	Imper.	Aorist.
+<pb n="63"/>
+   Infin.	Imper.	Aorist.
 to move	J	f5*
 ^ 00U0 to remain	^jUo	i
 u jviLii to fix		i
@@ -2882,7 +2882,7 @@ to lie hid
 I have never met with this strange imperative.		
 to find.	.u . h»	
 u* t)l° g°		P>
-<pb/>65
+   <pb n="65"/>
 
 PERSIAN L A N G U A G K:
 
@@ -2932,162 +2932,339 @@ lo have	P	fP
 to leave		fp?
 lo pass	J*	rJof
 to loose% dismiss	M	(P?
-<pb/>PERSIAN LANGUAGE.	67
+<pb n="67"/>
 
-VI.
+</p><p>VI.
 
-Irregulars that reject
+</p><p>Irregulars that reject <foreign xml:lang="per">س</foreign>
 
-Inlin.	Imper.	Aorist.
-to plant		
-to adorn, arrange	C^f	
-to be necessary	tA>	f*
-to accept	d\	
-to deck		(4ry
-to seek		i*^
-to know		
-to grow		
-to live		
-to wash		
-to weep	k/	¥
-^.w>Lo to resemble	uU	bbo
-j£i to view  VII.		r_/i
-Irregulars in	ut	
-r to create	uir^	r^'
-to gather	LFt*'	
-^(XO to see		
-to choose		r
-<pb/>6.8
+  
 
-A GRAMMAR OF THE
+		
+Infin. <foreign xml:lang="per">اجستن</foreign> <gloss>to plant</gloss>
+   Imper. <foreign xml:lang="per">اج</foreign> <gloss>take plant</gloss>	
+   Aorist. <foreign xml:lang="per">اجم</foreign> <gloss>I may plant</gloss>
+   to 
+   Infin. <foreign xml:lang="per">آراستن</foreign> <gloss>to adorn, arrange</gloss>
+   Imper. <foreign xml:lang="per">آراي</foreign> <gloss>adorn thou, arrange thou</gloss>	
+   Aorist. <foreign xml:lang="per">آرايم</foreign> <gloss>I may adorn, arrange</gloss>
+   
 
+Infin. <foreign xml:lang="per">بايستن</foreign> <gloss>to be necessary</gloss>
+   Imper. <foreign xml:lang="per">باي</foreign> <gloss>be thou necessary</gloss>	
+   Aorist. <foreign xml:lang="per">بايم</foreign> <gloss>I may be necessary</gloss>
+   
+	
+   Infin. <foreign xml:lang="per">پايستن</foreign> <gloss>to accept</gloss>
+   Imper. <foreign xml:lang="per">پاي</foreign> <gloss>accept thou</gloss>	
+   Aorist. <foreign xml:lang="per">پايم</foreign> <gloss>I may accept</gloss>
+   
+
+   Infin. <foreign xml:lang="per">پيراستن</foreign> <gloss>to deck</gloss>
+   Imper. <foreign xml:lang="per">پيراي</foreign> <gloss>deck thou</gloss>	
+   Aorist. <foreign xml:lang="per">پيرايم</foreign> <gloss>I may deck</gloss>
+   
+
+   Infin. <foreign xml:lang="per">جستن</foreign> <gloss>to seek</gloss>
+   Imper. <foreign xml:lang="per">جوي</foreign> <gloss>seek thou</gloss>	
+   Aorist. <foreign xml:lang="per">جويم</foreign> <gloss>I may seek</gloss>
+   
+	
+   
+   Infin. <foreign xml:lang="per">دانستن</foreign> <gloss>to know</gloss>
+   Imper. <foreign xml:lang="per">دان</foreign> <gloss>know thou</gloss>	
+   Aorist. <foreign xml:lang="per">دانم</foreign> <gloss>I may know</gloss>
+   
+	
+   Infin. <foreign xml:lang="per">رستن</foreign> <gloss>to grow</gloss>
+   Imper. <foreign xml:lang="per">روي</foreign> <gloss>grow thou</gloss>	
+   Aorist. <foreign xml:lang="per">رويم</foreign> <gloss>I may grow</gloss>
+   
+		
+   Infin. <foreign xml:lang="per">زستن</foreign> <gloss>to live</gloss>
+   Imper. <foreign xml:lang="per">زي</foreign> <gloss>live thou</gloss>	
+   Aorist. <foreign xml:lang="per">زيم</foreign> <gloss>I may live</gloss>
+   
+	
+   Infin. <foreign xml:lang="per">شستن</foreign> <gloss>to wash</gloss>
+   Imper. <foreign xml:lang="per">شوي</foreign> <gloss>wash thou</gloss>	
+   Aorist. <foreign xml:lang="per">شويم</foreign> <gloss>I may wash</gloss>
+   
+
+   Infin. <foreign xml:lang="per">گريستن</foreign> <gloss>to weep</gloss>
+   Imper. <foreign xml:lang="per">گري</foreign> <gloss>weep thou</gloss>	
+   Aorist. <foreign xml:lang="per">گريم</foreign> <gloss>I may weep</gloss>
+   
+
+   Infin. <foreign xml:lang="per">مانستن</foreign> <gloss>to resemble</gloss>
+   Imper. <foreign xml:lang="per">مان</foreign> <gloss>resemble thou</gloss>	
+   Aorist. <foreign xml:lang="per">مانم</foreign> <gloss>I may resemble</gloss>
+   
+   
+ 
+Infin. <foreign xml:lang="per">نگرستن</foreign> <gloss>to view</gloss>
+   Imper. <foreign xml:lang="per">نتر</foreign> <gloss>view thou</gloss>	
+   Aorist. <foreign xml:lang="per">نگرم</foreign> <gloss>I may view</gloss>
+   
+   
+   VII. Irregulars in <foreign xml:lang="per">ين</foreign>	
+
+
+Infin. <foreign xml:lang="per">آفريدن</foreign> <gloss>to create</gloss>
+   Imper. <foreign xml:lang="per">آفرين</foreign> <gloss>create thou</gloss>	
+   Aorist. <foreign xml:lang="per">آفرينم</foreign> <gloss>I may create</gloss>
+   
+   
+
+Infin. <foreign xml:lang="per">چيدن</foreign> <gloss>to gather</gloss>
+   Imper. <foreign xml:lang="per">چين</foreign> <gloss>gather thou</gloss>	
+   Aorist. <foreign xml:lang="per">چينم</foreign> <gloss>I may gather</gloss>
+   
+   
+
+Infin. <foreign xml:lang="per">ديدن</foreign> <gloss>to see</gloss>
+   Imper. <foreign xml:lang="per">بين</foreign> <gloss>see thou</gloss>	
+   Aorist. <foreign xml:lang="per">بينم</foreign> <gloss>I may see</gloss>
+   
+   
+
+Infin. <foreign xml:lang="per">گزيدن</foreign> <gloss>to choose</gloss>
+   Imper. <foreign xml:lang="per">گزين</foreign> <gloss>choose thou</gloss>	
+   Aorist. <foreign xml:lang="per">گزينم</foreign> <gloss>I may choose</gloss>
+   
+   
+<pb n="68"/>
+   
 VIII.
 
-Irregulars inj* that reject lJ
+</p><p>Irregulars in <foreign xml:lang="per">ير</foreign> that reject <foreign xml:lang="per">ف</foreign>
 
-Infin.	Imper.	Aorist.
-to accept		pji
-to take,	J	■t*
-IX.		
-Irregulars that change	(j- into 6	
-to leap		
-to be delivered	t>	r*
-to be willing, want		
-to lessen	x	JX
-X.		
-Irregulars that change *>	into u or	
-jji to ascend		
-to bind		
-U*~L to join		r
-to break		
-to cause to sit down	^Lu	pjlij
-to sit down		
-<pb/>PERSIAN LANGUAGE.	69
+Infin. <foreign xml:lang="per">پذيرفتن</foreign> <gloss>to accept</gloss>
+   Imper. <foreign xml:lang="per">پذير</foreign> <gloss>accept thou</gloss>	
+   Aorist. <foreign xml:lang="per">پذيرم</foreign> <gloss>I may accept</gloss>
 
-XI.
+Infin. <foreign xml:lang="per">گرفتن</foreign> <gloss>to take</gloss>
+Imper. <foreign xml:lang="per">گير</foreign> <gloss>take thou</gloss>	
+Aorist. <foreign xml:lang="per">گيرم</foreign> <gloss>I may take</gloss>
+ 
+ </p><p>IX.		
+    Irregulars that change <foreign xml:lang="per">س</foreign> into <foreign xml:lang="per">ه</foreign>	
 
-Irregulars that add (S.
+Infin. <foreign xml:lang="per">جستن</foreign> <gloss>to leap</gloss>
+    Imper. <foreign xml:lang="per">جه</foreign> <gloss>leap thou</gloss>	
+    Aorist. <foreign xml:lang="per">جهم</foreign> <gloss>I may leap</gloss>
+    
+    Infin. <foreign xml:lang="per">زستن</foreign> <gloss>to be delivered</gloss>
+    Imper. <foreign xml:lang="per">زه</foreign> <gloss>be thou delivered</gloss>	
+    Aorist. <foreign xml:lang="per">زهم</foreign> <gloss>I may be delivered</gloss>
+    
+    Infin. <foreign xml:lang="per">خواستن</foreign> <gloss>to be willing, want</gloss>
+    Imper. <foreign xml:lang="per">خواه</foreign> <gloss>be thou willing, want</gloss>	
+    Aorist. <foreign xml:lang="per">خواهم</foreign> <gloss>I may be willing, want</gloss>
+    
+    Infin. <foreign xml:lang="per">کاستن</foreign> <gloss>to lessen</gloss>
+    Imper. <foreign xml:lang="per">کاه</foreign> <gloss>lessen thou</gloss>	
+    Aorist. <foreign xml:lang="per">کاهم</foreign> <gloss>I may lessen</gloss>
+    
+    
 
-Infin.		Imper.	Aorist.
-to be born			r*
-to caress			
-to open	XII.	SIS'	
-Irregulars that reject			
-to fall		c~3\	_ri'
-to stand			pj—j\
-^ph-^3 to send		CL^sji	
-to place	XIII.		
-Irregulars not reducible to any class.			
-to prepare		jUc\	r>f
-(jtVor to come		SV	r^r
-ijljS to be			.t.
-to rise			r>^
-a3b to give		20 '	
-ijSjto strike		ci	fi>
-\ to take and J			
-<pb/>A GRAMMAR OF THE
+</p><p>X.		
+</p><p>Irregulars that change <foreign xml:lang="per"></foreign> into <foreign xml:lang="per"></foreign> or <foreign xml:lang="per"></foreign>
+   Infin. <foreign xml:lang="per">برنشستن</foreign> <gloss>to ascend</gloss>
+   Imper. <foreign xml:lang="per">برنشين</foreign> <gloss>ascend thou</gloss>	
+   Aorist. <foreign xml:lang="per">برنشينم</foreign> <gloss>I may ascend</gloss>
+   
+   Infin. <foreign xml:lang="per">بستن</foreign> <gloss>to bind</gloss>
+   Imper. <foreign xml:lang="per">بند</foreign> <gloss>bind thou</gloss>	
+   Aorist. <foreign xml:lang="per">بندم</foreign> <gloss>I may bind</gloss>
+   
+   Infin. <foreign xml:lang="per">پيوستن</foreign> <gloss>to join</gloss>
+   Imper. <foreign xml:lang="per">پيوند</foreign> <gloss>join thou</gloss>	
+   Aorist. <foreign xml:lang="per">پئوندم</foreign> <gloss>I may join</gloss>
+   
+   Infin. <foreign xml:lang="per">شکستن</foreign> <gloss>to break</gloss>
+   Imper. <foreign xml:lang="per">شکن</foreign> <gloss>break thou</gloss>	
+   Aorist. <foreign xml:lang="per">شکنم</foreign> <gloss>I may break</gloss>
+   
+   Infin. <foreign xml:lang="per">نشاستن</foreign> <gloss>to cause to sit down</gloss>
+   Imper. <foreign xml:lang="per">نشان</foreign> <gloss>cause thou to sit down</gloss>	
+   Aorist. <foreign xml:lang="per">نشانم</foreign> <gloss>I may cause to sit down</gloss>
+   
+   Infin. <foreign xml:lang="per">نشستن</foreign> <gloss>to sit down</gloss>
+   Imper. <foreign xml:lang="per">نشين</foreign> <gloss>sit thou down</gloss>	
+   Aorist. <foreign xml:lang="per">نشينم</foreign> <gloss>I may sit down</gloss>
+   
+		
+<pb n="69"/>
+   
+   </p><p>XI.
 
-' 70
+</p><p>Irregulars that add <foreign xml:lang="per"></foreign>.
 
-Infin.	Imper.
-to mix, compose	
-to do	
-and *"“*	
-to rot	S  6U>
-to die	_jyo
-CJ^l	
-, .. . >/0 and J	(jrifi
+		Imper.	Aorist.
+		Infin. <foreign xml:lang="per">زادن</foreign> <gloss>to be born</gloss>
+   Imper. <foreign xml:lang="per">زاي</foreign> <gloss> be born</gloss>
+   Aorist <foreign xml:lang="per">زايم</foreign> <gloss>I may be born</gloss>
+   
+   Infin. <foreign xml:lang="per">کادن</foreign> <gloss>to caress</gloss>
+   Imper. <foreign xml:lang="per">کاي</foreign> <gloss> caress thou</gloss>
+   Aorist <foreign xml:lang="per">کايم</foreign> <gloss>I may caress</gloss>
+   
+   Infin. <foreign xml:lang="per">کشادن</foreign> <gloss>to open</gloss>
+   Imper. <foreign xml:lang="per">کشاي</foreign> <gloss> open thou</gloss>
+   Aorist <foreign xml:lang="per">كشايم</foreign> <gloss>I may open</gloss>
+ 
+</p><p>XII.
+   
+</p><p>Irregulars that reject <foreign xml:lang="per">ادن</foreign> 			
 
-Aorist.
 
-r~ir*
+Infin. <foreign xml:lang="per">افتادن</foreign> <gloss>to fall</gloss>
+   Imper. <foreign xml:lang="per">افت</foreign> <gloss> fall thou</gloss>
+   Aorist <foreign xml:lang="per">افتم</foreign> <gloss>I may fall</gloss>
+ 
+ 
+ Infin. <foreign xml:lang="per">ايستادن</foreign> <gloss>to stand</gloss>
+   Imper. <foreign xml:lang="per">ايست</foreign> <gloss> fall stand</gloss>
+   Aorist <foreign xml:lang="per">ايستم</foreign> <gloss>I may stand</gloss>
+   
+   
+   Infin. <foreign xml:lang="per">رفسادن</foreign> <gloss>to send</gloss>
+   Imper. <foreign xml:lang="per">فرس</foreign> <gloss> send thou</gloss>
+   Aorist <foreign xml:lang="per">فرسم</foreign> <gloss>I may send</gloss>
+   
+   Infin. <foreign xml:lang="per">نهدن</foreign> <gloss>to place</gloss>
+   Imper. <foreign xml:lang="per">نه</foreign> <gloss> place thou</gloss>
+   Aorist <foreign xml:lang="per">نهم</foreign> <gloss>I may place</gloss>
+ 
+ </p><p>XIII.		
+</p><p>Irregulars not reducible to any class.			
+   Infin. <foreign xml:lang="per">آمادن</foreign> <gloss>to prepare</gloss>
+   Imper. <foreign xml:lang="per">آماز</foreign> <gloss>prepare thou</gloss>
+   Aorist <foreign xml:lang="per">آمازم</foreign> <gloss>I may prepare</gloss>
+   
+</p><p>Irregulars not reducible to any class.			
+   Infin. <foreign xml:lang="per">بون</foreign> <gloss>to be</gloss>
+   Imper. <foreign xml:lang="per">باش</foreign> <gloss>be thou</gloss>
+   Aorist <foreign xml:lang="per">باشم</foreign> <gloss>I may be</gloss>
+ 
+ Infin. <foreign xml:lang="per">خاستن</foreign> <gloss>to rise</gloss>
+   Imper. <foreign xml:lang="per">خيز</foreign> <gloss>rise thou</gloss>
+   Aorist <foreign xml:lang="per">خيزم</foreign> <gloss>I may rise</gloss>
+  
+  
+  Infin. <foreign xml:lang="per">دادن</foreign> <gloss>to give</gloss>
+   Imper. <foreign xml:lang="per">ده</foreign> <gloss>give thou</gloss>
+   Aorist <foreign xml:lang="per">دهم</foreign> <gloss>I may give</gloss>
+   
+   Infin. <foreign xml:lang="per">زدن</foreign> <gloss>to strike</gloss>
+   Imper. <foreign xml:lang="per">زن</foreign> <gloss>strike thou</gloss>
+   Aorist <foreign xml:lang="per">زنم</foreign> <gloss>I may strike</gloss>
+   
+   
+   Infin. <foreign xml:lang="per">ستدن</foreign> <gloss>to take 1</gloss>
+   Infin. <foreign xml:lang="per">ستاشتن</foreign> <gloss>to take 2</gloss>
+   Imper. <foreign xml:lang="per">ستان</foreign> <gloss>take thou</gloss>
+   Aorist <foreign xml:lang="per">ستانم</foreign> <gloss>I may take</gloss>
+   <pb n="70"/>
 
-fur
+ 
 
-j.iXi'
+Infin. <foreign xml:lang="per">سرشتن</foreign>	 <gloss>to mix</gloss>, <gloss>to compose</gloss>
 
-Example of an irregular verb.
+Imper. <foreign xml:lang="per">سريش</foreign>	 <gloss>mix thou</gloss>, <gloss>compose thou</gloss>
 
-yaftan, to find. Contracted infinitive C-iU
+Aorist. <foreign xml:lang="per">سريشم</foreign> <gloss>I shall or may mix</gloss>, <gloss>I shall or may compose</gloss>	
+
+Infin. <foreign xml:lang="per">کشستن</foreign> or <foreign xml:lang="per">کسيختن</foreign> <gloss>to break</gloss>
+   
+Imper. <foreign xml:lang="per">کسيل</foreign> <gloss>break thou</gloss>
+   
+Aorist. <foreign xml:lang="per">کسيلم</foreign> <gloss>I shall or may break</gloss>	
+ 
+ Infin. <foreign xml:lang="per">کندن</foreign>  <gloss>to rot</gloss>
+   
+   Imper. <foreign xml:lang="per">کند</foreign> <gloss>rot thou</gloss>
+   
+   Aorist. <foreign xml:lang="per">کندم</foreign> <gloss>I shall or may rot</gloss>	
+   
+   Infin. <foreign xml:lang="per">مردن</foreign>  <gloss>to die</gloss>
+   
+   Imper. <foreign xml:lang="per">مير</foreign> <gloss>die thou</gloss>
+   
+   Aorist. <foreign xml:lang="per">ميرم</foreign> <gloss>I shall or may die</gloss>	
+   
+   Infin. <foreign xml:lang="per">نيشتن</foreign> or <foreign xml:lang="per">نوشتن</foreign> <gloss>to write</gloss>
+   
+   Imper. <foreign xml:lang="per">کسيل</foreign> <gloss>write thou</gloss>
+   
+   Aorist. <foreign xml:lang="per">کسيلم</foreign> <gloss>I shall or may write</gloss>	
+   
+
+</p><p>Example of an irregular verb.
+
+   <foreign xml:lang="per">يافتن</foreign> <foreign xml:lang="per-lat">yâftan</foreign>, <gloss>to find</gloss>. Contracted infinitive <foreign xml:lang="per">يافت</foreign>
 
 Present Tense.
 
-Sing.
+</p><p>Sing.
 
-	I fi
+   <foreign xml:lang="per">مي يابم</foreign> <gloss>I find</gloss>
+   <foreign xml:lang="per">مي يابي</foreign> <gloss>thou findest</gloss>
+   <foreign xml:lang="per">مي يابد</foreign> <gloss>he finds</gloss>
 
-cjA? [_^c	tho
-
-/;e
-
-Plur.
-
-^0	^/zd.
-
-tXjjlj	ywz^z/zd.
-
-OCjIj	they find.
+   <foreign xml:lang="per">مي يابيم</foreign>  <gloss>we find</gloss>.
+   <foreign xml:lang="per">مي يابيد</foreign>  <gloss>you find</gloss>.
+   <foreign xml:lang="per">مي ئابند</foreign>  <gloss>they find</gloss>.
 
 Preterite.
 
-/found.
+   <foreign xml:lang="per">يافتم</foreign> <gloss>I found</gloss>
+   <foreign xml:lang="per">يافتي</foreign> <gloss>thou foundest</gloss>
+   <foreign xml:lang="per">يافت</foreign> <gloss>he found</gloss>
+   
+   <foreign xml:lang="per">يافتيم</foreign>  <gloss>we found</gloss>.
+   <foreign xml:lang="per">يافتيد</foreign>  <gloss>you found</gloss>.
+   <foreign xml:lang="per">يافتند</foreign>  <gloss>they found</gloss>.
+   
+   <pb n="71"/></p>
+   <p>Future, or Aorist.
 
-//zozz Joundesl.
-he found.
+Sing.	
 
-7ve found.
-tX-lilj yo/z found.
-o^ilj they found.
-<pb/>PERSIAN LANGUAGE.
 
-71
+      <foreign xml:lang="per">يابم</foreign> I shall or may find.	
+      <foreign xml:lang="per">يابي</foreign> thou shalt or mayst find.
+      <foreign xml:lang="per">يابم</foreign> he shall or may find.
 
-Future, or Aorist.
 
-Sing.	Plur.
+Plur.
+      <foreign xml:lang="per">يابيم</foreign>  we shall or may find,
+      <foreign xml:lang="per">يابيد</foreign> you shall or may find.
+      <foreign xml:lang="per">يابند</foreign> they shall or may find.
 
-I shall or may find.	^-j\j we shall or mayfind,
+Imperative.
 
-thou shall or may si find. cX-j \j you shall or may find.
-pAj he shall or may find.	they shall ox may	find.
-
-Imperative,
-or cjU)find thou.	(xAjfind	you.
+      <foreign xml:lang="per">ياب</foreign> or <foreign xml:lang="per">بياب</foreign> find thou.
+      <foreign xml:lang="per">يابيد</foreign> find you.
 
 Participles.
 
-Present,	rA>	or	XOcAjfinding.
+Present,
+      <foreign xml:lang="per">يابا</foreign>, <foreign xml:lang="per">ياب</foreign>, or <foreign xml:lang="per">يابنده</foreign> finding 
+      
+      Preterite,
+      <foreign xml:lang="per">يافته</foreign> having found.
 
-Preterite, «ciU having found.
+<cit><bibl></bibl> <quote>It is better for me not to turn my face from patience; it
+   may happen that I may find what my heart desires.</quote></cit>
 
-It is better for me not to turn my face from patience; it
-may happen that I may find what my heart desires.
-
-The contracted participles, as it has been before ob-
+</p><p>The contracted participles, as it has been before ob-
 served, are of great use in the composition of words, as
-y\	mirth-exciting,	from	ClyLc	which	in Arabic
+   <foreign xml:lang="per">عشرت انگيز</foreign> <gloss>mirth-exciting</gloss>,	
+   from <foreign xml:lang="per">عشق</foreign> which	in Arabic
 
-signifies mirth, and the participle of	to excite:
+signifies <gloss>mirth</gloss>, and the participle of <foreign xml:lang="per">انگيخين</foreign> <gloss>to excite</gloss>:
 
 but of these elegant compounds I shall speak at large in
 the next section.
