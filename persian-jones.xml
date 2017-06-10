@@ -2683,26 +2683,28 @@ nesciunt.
 > LJL) C^Soj L--V—J
 
 sbo pwX	LTV^3
-<pb/>PERSIAN LANGUAGE.
-
-59
-
-I know not why the damsels, tall as cypresses, with black
+   <pb n="59"/>
+   
+   <cit><quote>I know not why the damsels, tall as cypresses, with black
 eyes, bright as the moon, have not the colour of
-Jove.	Hafiz.
+Jove.</quote><bibl><persName>Hafiz</persName>.</bibl></cit>	
 
-OF IRREGULAR VERBS.
-
-In the ancient language of Persia there were very few
+</p></div>
+         
+         <div type="textpart" subtype="chapter">
+            <head style="caps">of irregular verbs.</head>
+            
+            <p>In the ancient language of Persia there were very few
 or no irregularities: the imperative, which is often irre-
 gular in the modern Persian, was anciently formed from
-the infinitive by rejecting the termination	idan;
+the infinitive by rejecting the termination <foreign xml:lang="per"></foreign> <foreign xml:lang="per-lat">îdan</foreign>;
 
-for originally all infinitives ended in ^>3 dan, till the
+for originally all infinitives ended in <foreign xml:lang="per"></foreign> 
+               <foreign xml:lang="per-lat">dan</foreign>, till the
 Arabs introduced their harsh consonants before that syl-
 lable, which obliged the Persians, who always affected a
 sweetness of pronunciation, to change the old termination
-of some verbs into tan, and by degrees the original
+of some verbs into <foreign xml:lang="per"></foreign> <foreign xml:lang="per-lat">tan</foreign>, and by degrees the original
 infinitives grew quite obsolete; yet they still retain the
 ancient imperatives and the aorists which are formed from
 them. This little irregularity is the only anomalous part
@@ -2710,16 +2712,16 @@ of the Persian language, which, nevertheless, far surpasses
 in simplicity all other languages, ancient or modern, of
 which I have any knowledge. This remark on the for-
 mation of the Persian imperatives from an obsolete verb,
-i2
-<pb/>60
 
-A GRAMMAR OF THE
+   <pb n="60"/>
+
+
 
 may be useful to those who are curious in ancient dialects;
 as it will enable them to trace out a considerable part of
-the old Persian language or Pehlevian	which	has
+the old Persian language or Pehlevian <foreign xml:lang="per">پهلوي</foreign> which has
 
-the same relation to the modern or Persic, as the
+the same relation to the modern <foreign xml:lang="per">دري</foreign> or Persic, as the
 Icelandic has to the Danish, or the Saxon to the Eng-
 lish; and which was, perhaps, spoken in the age of
 Xenophon. This is the language in which the works of
@@ -2731,414 +2733,1093 @@ religion of Mahomet, adopted the characters in which the
 Alcoran was written, and incorporated into their language
 a multitude of Arabic words and phrases.
 
-The Persian verbs that form their imperatives, and
+</p><p>The Persian verbs that form their imperatives, and
 consequently their aorists, from obsolete infinitives, may
 be distributed into the following classes: the old infinitives
-may be found by adding	Idan	to the imperatives,
+may be found by adding <foreign xml:lang="per">يدن</foreign> to the imperatives,
 
 and the aorists by adding to them the personal termi-
 nations.
-<pb/>PERSIAN LANGUAGE.
+<pb n="61"/>
 
-G1
+</p><p>I. Irregulars that form their imperatives by rejecting
+   <foreign xml:lang="per">دن</foreign> or <foreign xml:lang="per">تن</foreign>
+   
 
-gulars that form their	imperatives	by rejecting
-cP or		
-Infin.	Imper.	Aorist.
-(jjvaX to draw a sabre	tT	rr  i*j'
-to sow together	J'	
-aSj\jV to rebuke	JJ	eJJ
-to embrace		^y.\
-to cut		
-to speak idly	JjJ\	
-to sprinkle	wlli\	
-to press	JAA\	(V^'
-1  ^. f to throw down r uCk*Sj\ J		
-to Jill		
-to bring	jj\ andj\	f.jj\ and
-(jSiu to tinge, to weave $U		
-to bear	j	
-to feed, cherish	JlA	PiA
-t° wither		
-to be	Ji	P*
-<pb/>62
-
-A GRAMMAR OF THE
-
-Infin.
-
-to eat
-^J\j to drive
-^tLj) to buz
-
-to resign, give in charge
-
-Imper.
-
-ail
-
-u~i>
-
-and
-
--j to shave
-i? to comb
-to cleave
-to hunt
-to number
-to hear
-^ 5jLs> to slumber
-3^5 to freeze
-
-for
-
-for
-
-to press
+<list>
+<item>Infin. <foreign xml:lang="per">آختن</foreign> <gloss>to draw a sabre</gloss>
+</item>
+<item>Imper. <foreign xml:lang="per">آخ</foreign> <gloss>draw a sabre thou</gloss>	
+</item>
+<item>Aorist. <foreign xml:lang="per">آخم</foreign> <gloss>I may draw a sabre</gloss>
+   
 
 
+</item></list>
 
-j/o throw
+<list>
+<item>Infin. <foreign xml:lang="per">اژدن</foreign> <gloss>to sow together</gloss>
+</item>
+<item>Imper. <foreign xml:lang="per">اژ</foreign> <gloss>sow together thou</gloss>	
+</item>
+<item>Aorist. <foreign xml:lang="per">اژم</foreign> <gloss>I may sow together</gloss>
+   
 
-L° perform
-oif—to strow, spread
-/V-lTto kill
+</item></list>
 
-to scatter
+<list>
+<item>Infin. <foreign xml:lang="per">آزاردن</foreign> <gloss>to rebuke</gloss>
+</item>
+<item>Imper. <foreign xml:lang="per">ازار</foreign> <gloss>rebuke thou</gloss>	
+</item>
+<item>Aorist. <foreign xml:lang="per">آزارم</foreign> <gloss>I may rebuke</gloss>
+   
 
-jf~3
+</item></list>
 
-eA-'
+<list>
+<item>Infin. <foreign xml:lang="per">اغوشتن</foreign> <gloss>to embrace</gloss>
+</item>
+<item>Imper. <foreign xml:lang="per">اغوش</foreign> <gloss>embrace thou</gloss>	
+</item>
+<item>Aorist. <foreign xml:lang="per">اغوسشم</foreign> <gloss>I may embrace</gloss>
+   
 
-lJ\Cl
+</item></list>
 
-j^
+<list>
+<item>Infin. <foreign xml:lang="per">اغيشتن</foreign> <gloss>to cut</gloss>
+</item>
+<item>Imper. <foreign xml:lang="per">اغيش</foreign> <gloss>cut thou</gloss>	
+</item>
+<item>Aorist. <foreign xml:lang="per">اغيشم</foreign> <gloss>I may cut</gloss>
+   
 
-and ^Lii
+</item></list>
 
-0
+<list>
+<item>Infin. <foreign xml:lang="per">افشاردن</foreign> <gloss>to speak idly</gloss>
+</item>
+<item>Imper. <foreign xml:lang="per">افشار</foreign> <gloss>speak idly thou</gloss>	
+</item>
+<item>Aorist. <foreign xml:lang="per">افشارم</foreign> <gloss>I may speak idly</gloss>
+   
 
-Aorist.
+</item></list>
 
-r^>
+<list>
+<item>Infin. <foreign xml:lang="per">افشاندم</foreign> <gloss>to sprinkle</gloss>
+</item>
+<item>Imper. <foreign xml:lang="per">افشان</foreign> <gloss>sprinkle thou</gloss>	
+</item>
+<item>Aorist. <foreign xml:lang="per">افشانم</foreign> <gloss>I may sprinkle</gloss>
+   
 
-and
+</item></list>
 
-I
+<list>
+<item>Infin. <foreign xml:lang="per">افشردن</foreign> <gloss>to press</gloss>
+</item>
+<item>Imper. <foreign xml:lang="per">افشِِر</foreign> <gloss>press thou</gloss>	
+</item>
+<item>Aorist. <foreign xml:lang="per">افشرم</foreign> <gloss>I may press</gloss>
+   
+</item></list>
 
-r-M
+<list>
+<item>Infin. <foreign xml:lang="per">افگندن</foreign> <gloss>to throw down 1</gloss>
+</item></list>
 
-Izr*
+<list>
+<item>Infin. <foreign xml:lang="per">اوگندن</foreign> <gloss>to throw down 2</gloss>
+</item>
+<item>Imper. <foreign xml:lang="per">افگن</foreign> <gloss>throw down thou</gloss>	
+</item>
+<item>Aorist. <foreign xml:lang="per">افگنم</foreign> <gloss>I may throw down</gloss>
+   
 
-itr^
+</item></list>
 
-pM*
+<list>
+<item>Infin. <foreign xml:lang="per">اگندن</foreign> <gloss>to fill</gloss>
+</item>
+<item>Imper. <foreign xml:lang="per">اگن</foreign> <gloss>fill thou</gloss>	
+</item>
+<item>Aorist. <foreign xml:lang="per">اگنم</foreign> <gloss>I may fill</gloss>
+   
 
-s'
+</item></list>
 
-r*
+<list>
+<item>Infin. <foreign xml:lang="per">آوردن</foreign> <gloss>to bring</gloss>
+</item>
+<item>Imper. <foreign xml:lang="per">آور</foreign> <gloss>bring thou 1</gloss>	
+</item>
+<item>Imper. <foreign xml:lang="per">آر</foreign> <gloss>bring thou 2</gloss>	
+</item>
+<item>Aorist. <foreign xml:lang="per">آورم</foreign> <gloss>I may bring 1</gloss>
+</item>
+<item>Aorist. <foreign xml:lang="per">آرم</foreign> <gloss>I may bring 2</gloss>
+   
+
+</item></list>
+
+<list>
+<item>Infin. <foreign xml:lang="per">بافتن</foreign> <gloss>to tinge or weave</gloss>
+</item>
+<item>Imper. <foreign xml:lang="per">باف</foreign> <gloss>tinge or weave thou</gloss>	
+</item>
+<item>Aorist. <foreign xml:lang="per">بافم</foreign> <gloss>I may tinge or weave</gloss>
+   
+
+</item></list>
+
+<list>
+<item>Infin. <foreign xml:lang="per">بردن</foreign> <gloss>to bear</gloss>
+</item>
+<item>Imper. <foreign xml:lang="per">بر</foreign> <gloss>bear thou</gloss>	
+</item>
+<item>Aorist. <foreign xml:lang="per">برم</foreign> <gloss>I may bear</gloss>
+   
+
+</item></list>
+
+<list>
+<item>Infin. <foreign xml:lang="per"></foreign> <gloss>to feed, cherish</gloss>
+</item>
+<item>Imper. <foreign xml:lang="per"></foreign> <gloss>feed, cherish thou</gloss>	
+</item>
+<item>Aorist. <foreign xml:lang="per"></foreign> <gloss>I may feed, cherish</gloss>
+   
+
+</item></list>
+
+<list>
+<item>Infin. <foreign xml:lang="per">پژمردن</foreign> <gloss>to wither</gloss>
+</item>
+<item>Imper. <foreign xml:lang="per">پژمر</foreign> <gloss>wither thou</gloss>	
+</item>
+<item>Aorist. <foreign xml:lang="per">پژمرم</foreign> <gloss>I may wither</gloss>
+   
+
+</item></list>
+
+<list>
+<item>Infin. <foreign xml:lang="per">بودن</foreign> <gloss>to be</gloss>
+</item>
+<item>Imper. <foreign xml:lang="per">بو</foreign> <gloss>be thou</gloss>	
+</item>
+<item>Aorist. <foreign xml:lang="per">بوم</foreign> <gloss>I may be</gloss>
+ 
+</item></list>
+
+<list>
+<item>Infin. <foreign xml:lang="per">خواندن</foreign> <gloss>to read</gloss>
+</item>
+<item>Imper. <foreign xml:lang="per">خوان</foreign> <gloss>read thou</gloss>	
+</item>
+<item>Aorist. <foreign xml:lang="per">خوانم</foreign> <gloss>I may read</gloss>
+   
+   
+<pb n="62"/>
+
+
+</item></list>
+
+<list>
+<item>Infin. <foreign xml:lang="per">خوردن</foreign> <gloss>to eat</gloss>
+</item>
+<item>Imper. <foreign xml:lang="per">خور</foreign> <gloss>eat thou</gloss>	
+</item>
+<item>Aorist. <foreign xml:lang="per">خورم</foreign> <gloss>I may eat</gloss>
+   
+
+</item></list>
+
+<list>
+<item>Infin. <foreign xml:lang="per">رادن</foreign> <gloss>to drive</gloss>
+</item>
+<item>Imper. <foreign xml:lang="per">ران</foreign> <gloss>drive thou</gloss>	
+</item>
+<item>Aorist. <foreign xml:lang="per">رانم</foreign> <gloss>I may drive</gloss>
+   
+
+</item></list>
+
+<list>
+<item>Infin. <foreign xml:lang="per">ريستن</foreign> <gloss>to buz</gloss>
+</item>
+<item>Imper. <foreign xml:lang="per">ريس</foreign> <gloss>buz thou</gloss>	
+</item>
+<item>Aorist. <foreign xml:lang="per">ريسم</foreign> <gloss>I may buz</gloss>
+   
+
+
+</item></list>
+
+<list>
+<item>Infin. <foreign xml:lang="per">سپردن</foreign> <gloss>to resign, give in charge</gloss>
+</item>
+<item>Imper. <foreign xml:lang="per">سپر</foreign> <gloss>resign, give in charge thou 1</gloss>	
+</item>
+<item>Imper. <foreign xml:lang="per">سپار</foreign> <gloss>resign, give in charge thou 2</gloss>	
+</item>
+<item>Aorist. <foreign xml:lang="per">سپرم</foreign> <gloss>I may resign, give in charge 1</gloss>
+</item>
+<item>Aorist. <foreign xml:lang="per">پرارم</foreign> <gloss>I may resign, give in charge 2</gloss>
+   
+
+</item></list>
+
+<list>
+<item>Infin. <foreign xml:lang="per">ستردن</foreign> <gloss>to shave</gloss>
+</item>
+<item>Imper. <foreign xml:lang="per">ستر</foreign> <gloss>shave thou</gloss>	
+</item>
+<item>Aorist. <foreign xml:lang="per">سترم</foreign> <gloss>I may shave</gloss>
+   
+
+</item></list>
+
+<list>
+<item>Infin. <foreign xml:lang="per">شاندن</foreign> <gloss>to comb</gloss>
+</item>
+<item>Imper. <foreign xml:lang="per">شان</foreign> <gloss>comb thou</gloss>	
+</item>
+<item>Aorist. <foreign xml:lang="per">شانم</foreign> <gloss>I may comb</gloss>
+   
+
+
+</item></list>
+
+<list>
+<item>Infin. <foreign xml:lang="per">شکافتن</foreign> <gloss>to cleave</gloss>
+</item>
+<item>Imper. <foreign xml:lang="per">شکاف</foreign> <gloss>cleave thou</gloss>	
+</item>
+<item>Aorist. <foreign xml:lang="per">شکافم</foreign> <gloss>I may cleave</gloss>
+   
+</item></list>
+
+<list>
+<item>Infin. <foreign xml:lang="per">شکردن</foreign> <gloss>to hunt</gloss>
+</item>
+<item>Imper. <foreign xml:lang="per">شکر</foreign> <gloss>hunt thou</gloss>	
+</item>
+<item>Aorist. <foreign xml:lang="per">شکرم</foreign> <gloss>I may hunt</gloss>
+   
+
+</item></list>
+
+<list>
+<item>Infin. <foreign xml:lang="per">شمردن</foreign> <gloss>to number</gloss>
+</item>
+<item>Imper. <foreign xml:lang="per">شمار</foreign> <gloss>number thou</gloss>	
+</item>
+<item>Aorist. <foreign xml:lang="per">شمارم</foreign> <gloss>I may number</gloss>
+   
+
+</item></list>
+
+<list>
+<item>Infin. <foreign xml:lang="per">شنودن</foreign> <gloss>to hear</gloss>
+</item>
+<item>Imper. <foreign xml:lang="per">شنو</foreign> <gloss>hear thou</gloss>	
+</item>
+<item>Aorist. <foreign xml:lang="per">شنوم</foreign> <gloss>I may hear</gloss>
+   
+
+</item></list>
+
+<list>
+<item>Infin. <foreign xml:lang="per">غنودن</foreign> <gloss>to slumber</gloss>
+</item>
+<item>Imper. <foreign xml:lang="per">غنو</foreign> <gloss>slumber thou</gloss>	
+</item>
+<item>Aorist. <foreign xml:lang="per">غنوم</foreign> <gloss>I may slumber</gloss>
+   
+
+</item></list>
+
+<list>
+<item>Infin. <foreign xml:lang="per">فسردن</foreign> <gloss>to freeze</gloss>
+</item>
+<item>Imper. <foreign xml:lang="per">فسر</foreign> <gloss>freeze thou</gloss>	
+</item>
+<item>Aorist. <foreign xml:lang="per">فسرم</foreign> <gloss>I may freeze</gloss>
+
+
+</item></list>
+
+<list>
+<item>Infin. <foreign xml:lang="per"></foreign> <gloss>to press 1</gloss>
+</item></list>
+
+<list>
+<item>Infin. <foreign xml:lang="per"></foreign> <gloss>to press 2</gloss>
+</item>
+<item>Imper. <foreign xml:lang="per"></foreign> <gloss>press thou 1</gloss>	
+</item>
+<item>Imper. <foreign xml:lang="per"></foreign> <gloss>press thou 2</gloss>	
+</item>
+<item>Aorist. <foreign xml:lang="per"></foreign> <gloss>I may press</gloss>
+   
+
+
+
+</item></list>
+
+<list>
+<item>Infin. <foreign xml:lang="per">فگندن</foreign> <gloss>to throw 1</gloss>
+</item></list>
+
+<list>
+<item>Infin. <foreign xml:lang="per">افگندن</foreign> <gloss>to throw 2</gloss>
+</item>
+<item>Imper. <foreign xml:lang="per">فگن</foreign> <gloss>throw thou</gloss>	
+</item>
+<item>Aorist. <foreign xml:lang="per">فگنم</foreign> <gloss>I may throw</gloss>
+   
+
+</item></list>
+
+<list>
+<item>Infin. <foreign xml:lang="per">گزاردن</foreign> <gloss>to perform</gloss>
+</item>
+<item>Imper. <foreign xml:lang="per">گزار</foreign> <gloss>perform thou</gloss>	
+</item>
+<item>Aorist. <foreign xml:lang="per">گزارم</foreign> <gloss>I may perform</gloss>
+   
+</item></list>
+
+<list>
+<item>Infin. <foreign xml:lang="per">گستردن</foreign> <gloss>to strow, spread</gloss>
+</item>
+<item>Imper. <foreign xml:lang="per">گستر</foreign> <gloss>strow, spread thou</gloss>	
+</item>
+<item>Aorist. <foreign xml:lang="per">گسترم</foreign> <gloss>I may strow, spread</gloss>
+   
+</item></list>
+
+<list>
+<item>Infin. <foreign xml:lang="per">کشتن</foreign> <gloss>to kill</gloss>
+</item>
+<item>Imper. <foreign xml:lang="per">كش</foreign> <gloss>kill thou</gloss>	
+</item>
+<item>Aorist. <foreign xml:lang="per">کشم</foreign> <gloss>I may kill</gloss>
+   
+
+</item></list>
+
+<list>
+<item>Infin. <foreign xml:lang="per">کشفتن</foreign> <gloss>to scatter</gloss>
+</item>
+<item>Imper. <foreign xml:lang="per">کشوف</foreign> <gloss>scatter thou</gloss>	
+</item>
+<item>Aorist. <foreign xml:lang="per">کشوفم</foreign> <gloss>I may scatter</gloss>
+   
+
 <pb n="63"/>
-   Infin.	Imper.	Aorist.
-to move	J	f5*
-^ 00U0 to remain	^jUo	i
-u jviLii to fix		i
-} to lay down d J		
-	II.	
-Irregulars that changej into Lf).		
+
+</item></list>
+
+<list>
+<item>Infin. <foreign xml:lang="per">لاندن</foreign> <gloss>to move</gloss>
+</item>
+<item>Imper. <foreign xml:lang="per">لان</foreign> <gloss>move thou</gloss>	
+</item>
+<item>Aorist. <foreign xml:lang="per">لانم</foreign> <gloss>I may move</gloss>
+   
+   
+
+</item></list>
+
+<list>
+<item>Infin. <foreign xml:lang="per">ماندن</foreign> <gloss>to remain</gloss>
+</item>
+<item>Imper. <foreign xml:lang="per">مان</foreign> <gloss>remain thou</gloss>	
+</item>
+<item>Aorist. <foreign xml:lang="per">مانم</foreign> <gloss>I may remain</gloss>
+   
+   
+
+
+</item></list>
+
+<list>
+<item>Infin. <foreign xml:lang="per">نشاندن</foreign> <gloss>to fix</gloss>
+</item>
+<item>Imper. <foreign xml:lang="per">نشان</foreign> <gloss>fix thou</gloss>	
+</item>
+<item>Aorist. <foreign xml:lang="per">نشانم</foreign> <gloss>I may fix</gloss>
+   
+</item></list>
+
+<list>
+<item>Infin. <foreign xml:lang="per">هيشتن</foreign> <gloss>to lay down 1</gloss>
+</item></list>
+
+<list>
+<item>Infin. <foreign xml:lang="per">هشتن</foreign> <gloss>to lay down 2</gloss>
+</item>
+<item>Imper. <foreign xml:lang="per">هيش</foreign> <gloss>lay thou down</gloss>	
+</item>
+<item>Aorist. <foreign xml:lang="per">هيشم</foreign> <gloss>I may lay down</gloss>
+   
+</item></list>  
+   </p><p>II.	
+      Irregulars that change <foreign xml:lang="per"></foreign> into <foreign xml:lang="per"></foreign>.		
 to try		
-to rest	jf	^jLj\
-1 . •  \ to increase		
-r	or	or^|>-
-to defile	i r	
-The participle of this verb, used in		compound
-adjectives is, , as $J)\ sleepy, drowned		
-in sleep.		
-to besmear	(J1^\	
-to strain	t^JU  .. ,f	
-tjjSjfj to measure	lSVj	
-to polish	b)	(*bJ
- to praise		
-   <pb n="64"/>
 
 
-Infin. <foreign xml:lang="per"></foreign> <gloss>to stroke</gloss>
-   Imper. <foreign xml:lang="per"></foreign> <gloss>stroke thou</gloss>	
-   Aorist. <foreign xml:lang="per"></foreign> <gloss>I may stroke</gloss>
+<list>
+<item>Infin. <foreign xml:lang="per">آرمودن</foreign> <gloss>to try</gloss>
+</item>
+<item>Imper. <foreign xml:lang="per">آرماي</foreign> <gloss>try thou</gloss>	
+</item>
+<item>Aorist. <foreign xml:lang="per">آرمايم</foreign> <gloss>I may try</gloss>
+      
+
+</item></list>
+
+<list>
+<item>Infin. <foreign xml:lang="per">آشودن</foreign> <gloss>to rest</gloss>
+</item>
+<item>Imper. <foreign xml:lang="per">آشاي</foreign> <gloss>rest thou</gloss>	
+</item>
+<item>Aorist. <foreign xml:lang="per">آشايم</foreign> <gloss>I may rest</gloss>
+      
+
+</item></list>
+
+<list>
+<item>Infin. <foreign xml:lang="per">افرودن</foreign> <gloss>to increase 1</gloss>
+</item></list>
+
+<list>
+<item>Infin. <foreign xml:lang="per">فزودن</foreign> <gloss>to increase 2</gloss>
+</item>
+<item>Imper. <foreign xml:lang="per">افراي</foreign> <gloss>increase thou 1</gloss>	
+</item>
+<item>Imper. <foreign xml:lang="per">فراي</foreign> <gloss>increase thou 2</gloss>	
+</item>
+<item>Aorist. <foreign xml:lang="per">افرايم</foreign> <gloss>I may increase 1</gloss>
+</item>
+<item>Aorist. <foreign xml:lang="per">فرايم</foreign> <gloss>I may increase 2</gloss>
+      
+
+</item></list>
+
+<list>
+<item>Infin. <foreign xml:lang="per">آلودن</foreign> <gloss>to defile</gloss>
+</item>
+<item>Imper. <foreign xml:lang="per">آلاي</foreign> <gloss>defile thou</gloss>	
+</item>
+<item>Aorist. <foreign xml:lang="per">آلايم</foreign> <gloss>I may defile</gloss>
+      
+      <note>The participle of this verb, used in compound
+      adjectives is <foreign xml:lang="per">آلوب</foreign>, as 
+         <foreign xml:lang="per">خواب آلود</foreign>,
+      <gloss>sleepy</gloss>, <gloss>drowned		
+      in sleep</gloss>.</note>		
+
+</item></list>
+
+<list>
+<item>Infin. <foreign xml:lang="per">اندودن</foreign> <gloss>to besmear</gloss>
+</item>
+<item>Imper. <foreign xml:lang="per">انداي</foreign> <gloss>besmear thou</gloss>	
+</item>
+<item>Aorist. <foreign xml:lang="per">اندايم</foreign> <gloss>I may besmear</gloss>
+      
+
+</item></list>
+
+<list>
+<item>Infin. <foreign xml:lang="per">پالودن</foreign> <gloss>to strain</gloss>
+</item>
+<item>Imper. <foreign xml:lang="per">پالاي</foreign> <gloss>strain thou</gloss>	
+</item>
+<item>Aorist. <foreign xml:lang="per">پالايم</foreign> <gloss>I may strain</gloss>
+      
+
+
+</item></list>
+
+<list>
+<item>Infin. <foreign xml:lang="per">پتودن</foreign> <gloss>to measure</gloss>
+</item>
+<item>Imper. <foreign xml:lang="per">پيماي</foreign> <gloss>measure thou</gloss>	
+</item>
+<item>Aorist. <foreign xml:lang="per">پيمايم</foreign> <gloss>I may measure</gloss>
+      
+
+</item></list>
+
+<list>
+<item>Infin. <foreign xml:lang="per">زدودن</foreign> <gloss>to polish</gloss>
+</item>
+<item>Imper. <foreign xml:lang="per">زداي</foreign> <gloss>polish thou</gloss>	
+</item>
+<item>Aorist. <foreign xml:lang="per">زدايم</foreign> <gloss>I may polish</gloss>
+      
+ 
+</item></list>
+
+<list>
+<item>Infin. <foreign xml:lang="per">ستودن</foreign> <gloss>to praise</gloss>
+</item>
+<item>Imper. <foreign xml:lang="per">ستاي</foreign> <gloss>praise thou</gloss>	
+</item>
+<item>Aorist. <foreign xml:lang="per">ستايم</foreign> <gloss>I may praise</gloss>
+      
+      <pb n="64"/>
+
+
+</item></list>
+
+<list>
+<item>Infin. <foreign xml:lang="per">سودن</foreign> <gloss>to stroke</gloss>
+</item>
+<item>Imper. <foreign xml:lang="per">ساي</foreign> <gloss>stroke thou</gloss>	
+</item>
+<item>Aorist. <foreign xml:lang="per">سايم</foreign> <gloss>I may stroke</gloss>
    
 
-   Infin. <foreign xml:lang="per"></foreign> <gloss>to command</gloss>
-   Imper. <foreign xml:lang="per"></foreign> <gloss>command thou</gloss>	
-   Aorist. <foreign xml:lang="per"></foreign> <gloss>I may command</gloss>
+</item></list>
+
+<list>
+<item>Infin. <foreign xml:lang="per">فرمودن</foreign> <gloss>to command</gloss>
+</item>
+<item>Imper. <foreign xml:lang="per">فرماي</foreign> <gloss>command thou</gloss>	
+</item>
+<item>Aorist. <foreign xml:lang="per">فرمايم</foreign> <gloss>I may command</gloss>
    
 
-   Infin. <foreign xml:lang="per"></foreign> <gloss>to show</gloss>
-   Imper. <foreign xml:lang="per"></foreign> <gloss>show thou</gloss>	
-   Aorist. <foreign xml:lang="per"></foreign> <gloss>I may show</gloss>
+</item></list>
+
+<list>
+<item>Infin. <foreign xml:lang="per">نمودن</foreign> <gloss>to show</gloss>
+</item>
+<item>Imper. <foreign xml:lang="per">نماي</foreign> <gloss>show thou</gloss>	
+</item>
+<item>Aorist. <foreign xml:lang="per">نمايم</foreign> <gloss>I may show</gloss>
    
 
-   Infin. <foreign xml:lang="per"></foreign> <gloss>to open 1</gloss>
-   Infin. <foreign xml:lang="per"></foreign> <gloss>to open 2</gloss>
-   Imper. <foreign xml:lang="per"></foreign> <gloss>open thou</gloss>	
-   Aorist. <foreign xml:lang="per"></foreign> <gloss>I may open</gloss>
-   
+</item></list>
+
+<list>
+<item>Infin. <foreign xml:lang="per">کشودن</foreign> <gloss>to open 1</gloss>
+</item></list>
+
+<list>
+<item>Infin. <foreign xml:lang="per">کشادن</foreign> <gloss>to open 2</gloss>
+</item>
+<item>Imper. <foreign xml:lang="per">کشاي</foreign> <gloss>open thou</gloss>	
+</item>
+<item>Aorist. <foreign xml:lang="per">کشايم</foreign> <gloss>I may open</gloss>
+</item></list>  
    </p><p>III,		
       Irregulars that change <foreign xml:lang="per"></foreign> into <foreign xml:lang="per"></foreign> or <foreign xml:lang="per"></foreign>.		i
 
-Infin. <foreign xml:lang="per"></foreign> <gloss>to disturb</gloss>
-      Imper. <foreign xml:lang="per"></foreign> <gloss>disturb thou</gloss>	
-      Aorist. <foreign xml:lang="per"></foreign> <gloss>I may disturb</gloss>
+
+
+<list>
+<item>Infin. <foreign xml:lang="per">آشوپتن</foreign> <gloss>to disturb 1</gloss>
+</item></list>
+
+<list>
+<item>Infin. <foreign xml:lang="per">آشفتن</foreign> <gloss>to disturb 2</gloss>
+</item>
+<item>Imper. <foreign xml:lang="per">آشوب</foreign> <gloss>disturb thou</gloss>	
+</item>
+<item>Aorist. <foreign xml:lang="per">آشوبم</foreign> <gloss>I may disturb</gloss>
       
       
 
-Infin. <foreign xml:lang="per"></foreign> <gloss>to inflame</gloss>
-      Imper. <foreign xml:lang="per"></foreign> <gloss>inflame thou</gloss>	
-      Aorist. <foreign xml:lang="per"></foreign> <gloss>I may inflame</gloss>
+</item></list>
+
+<list>
+<item>Infin. <foreign xml:lang="per">نافتن</foreign> <gloss>to inflame</gloss>
+</item>
+<item>Imper. <foreign xml:lang="per">ناب</foreign> <gloss>inflame thou</gloss>	
+</item>
+<item>Aorist. <foreign xml:lang="per">نابم</foreign> <gloss>I may inflame</gloss>
       
 
-      Infin. <foreign xml:lang="per"></foreign> <gloss>to understand</gloss>
-      Imper. <foreign xml:lang="per"></foreign> <gloss>understand thou</gloss>	
-      Aorist. <foreign xml:lang="per"></foreign> <gloss>I may understand</gloss>
+</item></list>
+
+<list>
+<item>Infin. <foreign xml:lang="per">دريافتن</foreign> <gloss>to understand</gloss>
+</item>
+<item>Imper. <foreign xml:lang="per">درياب</foreign> <gloss>understand thou</gloss>	
+</item>
+<item>Aorist. <foreign xml:lang="per">دريابم</foreign> <gloss>I may understand</gloss>
       
 
-      Infin. <foreign xml:lang="per"></foreign> <gloss>to bore</gloss>
-      Imper. <foreign xml:lang="per"></foreign> <gloss>bore thou <note>This imperative is very	anomalous.	</note></gloss>	
-      Aorist. <foreign xml:lang="per"></foreign> <gloss>I may bore</gloss>
+</item></list>
+
+<list>
+<item>Infin. <foreign xml:lang="per">سفتن</foreign> <gloss>to bore</gloss>
+</item>
+<item>Imper. <foreign xml:lang="per">سب</foreign> <gloss>bore thou <note>This imperative is very	anomalous.	</note></gloss>	
+</item>
+<item>Aorist. <foreign xml:lang="per">سبم</foreign> <gloss>I may bore</gloss>
       
      
 
-Infin. <foreign xml:lang="per"></foreign> <gloss>to hasten</gloss>
-      Imper. <foreign xml:lang="per"></foreign> <gloss>hasten thou</gloss>	
-      Aorist. <foreign xml:lang="per"></foreign> <gloss>I may hasten</gloss>
+</item></list>
+
+<list>
+<item>Infin. <foreign xml:lang="per">ستافتن</foreign> <gloss>to hasten</gloss>
+</item>
+<item>Imper. <foreign xml:lang="per">ستاب</foreign> <gloss>hasten thou</gloss>	
+</item>
+<item>Aorist. <foreign xml:lang="per">ستابم</foreign> <gloss>I may hasten</gloss>
       
 
-      Infin. <foreign xml:lang="per"></foreign> <gloss>to blossom</gloss>
-      Imper. <foreign xml:lang="per"></foreign> <gloss>blossom thou</gloss>	
-      Aorist. <foreign xml:lang="per"></foreign> <gloss>I may blossom</gloss>
+</item></list>
+
+<list>
+<item>Infin. <foreign xml:lang="per">شگفتن</foreign> <gloss>to blossom</gloss>
+</item>
+<item>Imper. <foreign xml:lang="per">شگيب</foreign> <gloss>blossom thou</gloss>	
+</item>
+<item>Aorist. <foreign xml:lang="per">شگيبم</foreign> <gloss>I may blossom</gloss>
       
 
-      Infin. <foreign xml:lang="per"></foreign> <gloss>to deceive</gloss>
-      Imper. <foreign xml:lang="per"></foreign> <gloss>deceive thou</gloss>	
-      Aorist. <foreign xml:lang="per"></foreign> <gloss>I may deceive</gloss>
+</item></list>
+
+<list>
+<item>Infin. <foreign xml:lang="per">فريفتن</foreign> <gloss>to deceive</gloss>
+</item>
+<item>Imper. <foreign xml:lang="per">فريب</foreign> <gloss>deceive thou</gloss>	
+</item>
+<item>Aorist. <foreign xml:lang="per">فريبم</foreign> <gloss>I may deceive</gloss>
       
 
-      Infin. <foreign xml:lang="per"></foreign> <gloss>to smite</gloss>
-      Imper. <foreign xml:lang="per"></foreign> <gloss>smite thou</gloss>	
-      Aorist. <foreign xml:lang="per"></foreign> <gloss>I may smite</gloss>
+</item></list>
+
+<list>
+<item>Infin. <foreign xml:lang="per">کوفتن</foreign> <gloss>to smite</gloss>
+</item>
+<item>Imper. <foreign xml:lang="per">کوب</foreign> <gloss>smite thou</gloss>	
+</item>
+<item>Aorist. <foreign xml:lang="per">کوبم</foreign> <gloss>I may smite</gloss>
       
 
-      Infin. <foreign xml:lang="per"></foreign> <gloss>to lie hid</gloss>
-      Imper. <foreign xml:lang="per"></foreign> <gloss>lie hid thou <note>I have never met with this strange imperative.</note></gloss>	
-      Aorist. <foreign xml:lang="per"></foreign> <gloss>I may lie hid</gloss>
+</item></list>
+
+<list>
+<item>Infin. <foreign xml:lang="per">نهفتن</foreign> <gloss>to lie hid</gloss>
+</item>
+<item>Imper. <foreign xml:lang="per">نهبن</foreign> <gloss>lie hid thou <note>I have never met with this strange imperative.</note></gloss>	
       
      		
 
-Infin. <foreign xml:lang="per"></foreign> <gloss>to find</gloss>
-      Imper. <foreign xml:lang="per"></foreign> <gloss>find thou</gloss>	
-      Aorist. <foreign xml:lang="per"></foreign> <gloss>I may find</gloss>
+</item></list>
+
+<list>
+<item>Infin. <foreign xml:lang="per">يافتن</foreign> <gloss>to find</gloss>
+</item>
+<item>Imper. <foreign xml:lang="per">ياب</foreign> <gloss>find thou</gloss>	
+</item>
+<item>Aorist. <foreign xml:lang="per">يابم</foreign> <gloss>I may find</gloss>
       
-      Infin. <foreign xml:lang="per"></foreign> <gloss>to go</gloss>
-      Imper. <foreign xml:lang="per"></foreign> <gloss>go thou</gloss>	
-      Aorist. <foreign xml:lang="per"></foreign> <gloss>I may go</gloss>
+</item></list>
+
+<list>
+<item>Infin. <foreign xml:lang="per">رفتن</foreign> <gloss>to go</gloss>
+</item>
+<item>Imper. <foreign xml:lang="per">رو</foreign> <gloss>go thou</gloss>	
+</item>
+<item>Aorist. <foreign xml:lang="per">روم</foreign> <gloss>I may go</gloss>
       
 
    <pb n="65"/>
 
 
-Infin. <foreign xml:lang="per">کافتن</foreign> <gloss>to dig</gloss>
-   Imper. <foreign xml:lang="per">کاو</foreign> <gloss>dig thou</gloss>	
-   Aorist. <foreign xml:lang="per">کاوم</foreign> <gloss>I may dig</gloss>
+</item></list>
+
+<list>
+<item>Infin. <foreign xml:lang="per">کافتن</foreign> <gloss>to dig</gloss>
+</item>
+<item>Imper. <foreign xml:lang="per">کاو</foreign> <gloss>dig thou</gloss>	
+</item>
+<item>Aorist. <foreign xml:lang="per">کاوم</foreign> <gloss>I may dig</gloss>
    
    
 
-   Infin. <foreign xml:lang="per">گفتن</foreign> <gloss>to say</gloss>
-   Imper. <foreign xml:lang="per">گو</foreign> <gloss>say thou 1</gloss>	
-   Imper. <foreign xml:lang="per">گوي</foreign> <gloss>say thou 2</gloss>	
-   Aorist. <foreign xml:lang="per">گويم</foreign> <gloss>I may say</gloss>
+</item></list>
+
+<list>
+<item>Infin. <foreign xml:lang="per">گفتن</foreign> <gloss>to say</gloss>
+</item>
+<item>Imper. <foreign xml:lang="per">گو</foreign> <gloss>say thou 1</gloss>	
+</item>
+<item>Imper. <foreign xml:lang="per">گوي</foreign> <gloss>say thou 2</gloss>	
+</item>
+<item>Aorist. <foreign xml:lang="per">گويم</foreign> <gloss>I may say</gloss>
    
  
-   Infin. <foreign xml:lang="per">شنفتن</foreign> <gloss>to hear</gloss>
-   Imper. <foreign xml:lang="per">شنو</foreign> <gloss>hear thou</gloss>	
-   Aorist. <foreign xml:lang="per">شنوم</foreign> <gloss>I may hear</gloss>
-   
+</item></list>
+
+<list>
+<item>Infin. <foreign xml:lang="per">شنفتن</foreign> <gloss>to hear</gloss>
+</item>
+<item>Imper. <foreign xml:lang="per">شنو</foreign> <gloss>hear thou</gloss>	
+</item>
+<item>Aorist. <foreign xml:lang="per">شنوم</foreign> <gloss>I may hear</gloss>
+</item></list>  
    
 </p><p>Irregulars that change <foreign xml:lang="per">خ</foreign> into <foreign xml:lang="per">ز</foreign>, <foreign xml:lang="per">س</foreign> into <foreign xml:lang="per">ش</foreign>	
 
-Infin. <foreign xml:lang="per">افراختن</foreign> <gloss>to exalt</gloss>
-   Imper. <foreign xml:lang="per">افراز</foreign> <gloss>exalt thou</gloss>	
-   Aorist. <foreign xml:lang="per">افرازم</foreign> <gloss>I may exalt</gloss>
+
+
+<list>
+<item>Infin. <foreign xml:lang="per">افراختن</foreign> <gloss>to exalt</gloss>
+</item>
+<item>Imper. <foreign xml:lang="per">افراز</foreign> <gloss>exalt thou</gloss>	
+</item>
+<item>Aorist. <foreign xml:lang="per">افرازم</foreign> <gloss>I may exalt</gloss>
    
 
-   Infin. <foreign xml:lang="per">افروختن</foreign> <gloss>to inflame</gloss>
-   Imper. <foreign xml:lang="per">افروز</foreign> <gloss>inflame thou</gloss>	
-   Aorist. <foreign xml:lang="per">افروزم</foreign> <gloss>I may inflame</gloss>
+</item></list>
+
+<list>
+<item>Infin. <foreign xml:lang="per">افروختن</foreign> <gloss>to inflame</gloss>
+</item>
+<item>Imper. <foreign xml:lang="per">افروز</foreign> <gloss>inflame thou</gloss>	
+</item>
+<item>Aorist. <foreign xml:lang="per">افروزم</foreign> <gloss>I may inflame</gloss>
    
  
-   Infin. <foreign xml:lang="per">آموثتن</foreign> <gloss>to learn</gloss>
-   Imper. <foreign xml:lang="per">آموز</foreign> <gloss>learn thou</gloss>	
-   Aorist. <foreign xml:lang="per">آموزم</foreign> <gloss>I may learn</gloss>
+</item></list>
+
+<list>
+<item>Infin. <foreign xml:lang="per">آموثتن</foreign> <gloss>to learn</gloss>
+</item>
+<item>Imper. <foreign xml:lang="per">آموز</foreign> <gloss>learn thou</gloss>	
+</item>
+<item>Aorist. <foreign xml:lang="per">آموزم</foreign> <gloss>I may learn</gloss>
    
  
-   Infin. <foreign xml:lang="per">آميختن</foreign> <gloss>to mix</gloss>
-   Imper. <foreign xml:lang="per">آميز</foreign> <gloss>mix thou</gloss>	
-   Aorist. <foreign xml:lang="per">آميزم</foreign> <gloss>I may mix</gloss>
+</item></list>
+
+<list>
+<item>Infin. <foreign xml:lang="per">آميختن</foreign> <gloss>to mix</gloss>
+</item>
+<item>Imper. <foreign xml:lang="per">آميز</foreign> <gloss>mix thou</gloss>	
+</item>
+<item>Aorist. <foreign xml:lang="per">آميزم</foreign> <gloss>I may mix</gloss>
    
  
-   Infin. <foreign xml:lang="per">انداختن</foreign> <gloss>to throw</gloss>
-   Imper. <foreign xml:lang="per">انداز</foreign> <gloss>throw thou</gloss>	
-   Aorist. <foreign xml:lang="per">اندازم</foreign> <gloss>I may throw</gloss>
+</item></list>
+
+<list>
+<item>Infin. <foreign xml:lang="per">انداختن</foreign> <gloss>to throw</gloss>
+</item>
+<item>Imper. <foreign xml:lang="per">انداز</foreign> <gloss>throw thou</gloss>	
+</item>
+<item>Aorist. <foreign xml:lang="per">اندازم</foreign> <gloss>I may throw</gloss>
    
  
-   Infin. <foreign xml:lang="per">اندوختن</foreign> <gloss>to gain</gloss>
-   Imper. <foreign xml:lang="per">اندوز</foreign> <gloss>gain thou</gloss>	
-   Aorist. <foreign xml:lang="per">اندوزم</foreign> <gloss>I may gain</gloss>
+</item></list>
+
+<list>
+<item>Infin. <foreign xml:lang="per">اندوختن</foreign> <gloss>to gain</gloss>
+</item>
+<item>Imper. <foreign xml:lang="per">اندوز</foreign> <gloss>gain thou</gloss>	
+</item>
+<item>Aorist. <foreign xml:lang="per">اندوزم</foreign> <gloss>I may gain</gloss>
    
  
-   Infin. <foreign xml:lang="per">انگيختن</foreign> <gloss>to excite</gloss>
-   Imper. <foreign xml:lang="per">انگيز</foreign> <gloss>excite thou</gloss>	
-   Aorist. <foreign xml:lang="per">انگيزم</foreign> <gloss>I may excite</gloss>
+</item></list>
+
+<list>
+<item>Infin. <foreign xml:lang="per">انگيختن</foreign> <gloss>to excite</gloss>
+</item>
+<item>Imper. <foreign xml:lang="per">انگيز</foreign> <gloss>excite thou</gloss>	
+</item>
+<item>Aorist. <foreign xml:lang="per">انگيزم</foreign> <gloss>I may excite</gloss>
    
  
-   Infin. <foreign xml:lang="per">آويختن</foreign> <gloss>to hang</gloss>
-   Imper. <foreign xml:lang="per">آويز</foreign> <gloss>hang thou</gloss>	
-   Aorist. <foreign xml:lang="per">آويزم</foreign> <gloss>I may hang</gloss>
+</item></list>
+
+<list>
+<item>Infin. <foreign xml:lang="per">آويختن</foreign> <gloss>to hang</gloss>
+</item>
+<item>Imper. <foreign xml:lang="per">آويز</foreign> <gloss>hang thou</gloss>	
+</item>
+<item>Aorist. <foreign xml:lang="per">آويزم</foreign> <gloss>I may hang</gloss>
    
  
-   Infin. <foreign xml:lang="per">باختن</foreign> <gloss>to play</gloss>
-   Imper. <foreign xml:lang="per">باز</foreign> <gloss>play thou</gloss>	
-   Aorist. <foreign xml:lang="per">بازم</foreign> <gloss>I may play</gloss>
+</item></list>
+
+<list>
+<item>Infin. <foreign xml:lang="per">باختن</foreign> <gloss>to play</gloss>
+</item>
+<item>Imper. <foreign xml:lang="per">باز</foreign> <gloss>play thou</gloss>	
+</item>
+<item>Aorist. <foreign xml:lang="per">بازم</foreign> <gloss>I may play</gloss>
    
  
-   Infin. <foreign xml:lang="per">پرداختن</foreign> <gloss>to finish</gloss>
-   Imper. <foreign xml:lang="per">پرداز</foreign> <gloss>finish thou</gloss>	
-   Aorist. <foreign xml:lang="per">پردازم</foreign> <gloss>I may finish</gloss>
+</item></list>
+
+<list>
+<item>Infin. <foreign xml:lang="per">پرداختن</foreign> <gloss>to finish</gloss>
+</item>
+<item>Imper. <foreign xml:lang="per">پرداز</foreign> <gloss>finish thou</gloss>	
+</item>
+<item>Aorist. <foreign xml:lang="per">پردازم</foreign> <gloss>I may finish</gloss>
    
  
-   Infin. <foreign xml:lang="per">پرهيختن</foreign> <gloss>to beware</gloss>
-   Imper. <foreign xml:lang="per">پرهيز</foreign> <gloss>beware thou</gloss>	
-   Aorist. <foreign xml:lang="per">پرهيزم</foreign> <gloss>I may beware</gloss>
+</item></list>
+
+<list>
+<item>Infin. <foreign xml:lang="per">پرهيختن</foreign> <gloss>to beware</gloss>
+</item>
+<item>Imper. <foreign xml:lang="per">پرهيز</foreign> <gloss>beware thou</gloss>	
+</item>
+<item>Aorist. <foreign xml:lang="per">پرهيزم</foreign> <gloss>I may beware</gloss>
    
 
-   Infin. <foreign xml:lang="per">پختن</foreign> <gloss>to boil</gloss>
-   Imper. <foreign xml:lang="per">پز</foreign> <gloss>boil thou</gloss>	
-   Aorist. <foreign xml:lang="per">پزم</foreign> <gloss>I may boil</gloss>
+</item></list>
+
+<list>
+<item>Infin. <foreign xml:lang="per">پختن</foreign> <gloss>to boil</gloss>
+</item>
+<item>Imper. <foreign xml:lang="per">پز</foreign> <gloss>boil thou</gloss>	
+</item>
+<item>Aorist. <foreign xml:lang="per">پزم</foreign> <gloss>I may boil</gloss>
    
 
-   Infin. <foreign xml:lang="per">بيختن</foreign> <gloss>to sift</gloss>
-   Imper. <foreign xml:lang="per">بيز</foreign> <gloss>sift thou</gloss>	
-   Aorist. <foreign xml:lang="per">بيزم</foreign> <gloss>I may sift</gloss>
+</item></list>
+
+<list>
+<item>Infin. <foreign xml:lang="per">بيختن</foreign> <gloss>to sift</gloss>
+</item>
+<item>Imper. <foreign xml:lang="per">بيز</foreign> <gloss>sift thou</gloss>	
+</item>
+<item>Aorist. <foreign xml:lang="per">بيزم</foreign> <gloss>I may sift</gloss>
    
 
-   Infin. <foreign xml:lang="per">پيختن</foreign> <gloss>to take captive</gloss>
-   Imper. <foreign xml:lang="per">پيز</foreign> <gloss>take captive thou</gloss>	
-   Aorist. <foreign xml:lang="per">پيزم</foreign> <gloss>I may take captive</gloss>
+</item></list>
+
+<list>
+<item>Infin. <foreign xml:lang="per">پيختن</foreign> <gloss>to take captive</gloss>
+</item>
+<item>Imper. <foreign xml:lang="per">پيز</foreign> <gloss>take captive thou</gloss>	
+</item>
+<item>Aorist. <foreign xml:lang="per">پيزم</foreign> <gloss>I may take captive</gloss>
    
   
-   Infin. <foreign xml:lang="per">تاختن</foreign> <gloss>to twist</gloss>
-   Imper. <foreign xml:lang="per">تاز</foreign> <gloss>twist thou</gloss>	
-   Aorist. <foreign xml:lang="per">تازم</foreign> <gloss>I may twist</gloss>
+</item></list>
+
+<list>
+<item>Infin. <foreign xml:lang="per">تاختن</foreign> <gloss>to twist</gloss>
+</item>
+<item>Imper. <foreign xml:lang="per">تاز</foreign> <gloss>twist thou</gloss>	
+</item>
+<item>Aorist. <foreign xml:lang="per">تازم</foreign> <gloss>I may twist</gloss>
    
    <pb n="66"/>
 
 
 
 
-Infin. <foreign xml:lang="per">توختن</foreign> <gloss>to collect</gloss>
-   Imper. <foreign xml:lang="per">توز</foreign> <gloss>collect thou</gloss>	
-   Aorist. <foreign xml:lang="per">توزم</foreign> <gloss>I may collect</gloss>
+</item></list>
+
+<list>
+<item>Infin. <foreign xml:lang="per">توختن</foreign> <gloss>to collect</gloss>
+</item>
+<item>Imper. <foreign xml:lang="per">توز</foreign> <gloss>collect thou</gloss>	
+</item>
+<item>Aorist. <foreign xml:lang="per">توزم</foreign> <gloss>I may collect</gloss>
    
 
 
-Infin. <foreign xml:lang="per">ريختن</foreign> <gloss>to pour</gloss>
-   Imper. <foreign xml:lang="per">ريز</foreign> <gloss>pour thou</gloss>	
-   Aorist. <foreign xml:lang="per">ريزم</foreign> <gloss>I may pour</gloss>
+</item></list>
+
+<list>
+<item>Infin. <foreign xml:lang="per">ريختن</foreign> <gloss>to pour</gloss>
+</item>
+<item>Imper. <foreign xml:lang="per">ريز</foreign> <gloss>pour thou</gloss>	
+</item>
+<item>Aorist. <foreign xml:lang="per">ريزم</foreign> <gloss>I may pour</gloss>
 
 
-Infin. <foreign xml:lang="per">ساختن</foreign> <gloss>to prepare</gloss>
-   Imper. <foreign xml:lang="per">ساز</foreign> <gloss>prepare thou</gloss>	
-   Aorist. <foreign xml:lang="per">سازم</foreign> <gloss>I may prepare</gloss>
+</item></list>
+
+<list>
+<item>Infin. <foreign xml:lang="per">ساختن</foreign> <gloss>to prepare</gloss>
+</item>
+<item>Imper. <foreign xml:lang="per">ساز</foreign> <gloss>prepare thou</gloss>	
+</item>
+<item>Aorist. <foreign xml:lang="per">سازم</foreign> <gloss>I may prepare</gloss>
    
 
-   Infin. <foreign xml:lang="per">خپوختن</foreign> <gloss>to prick</gloss>
-   Imper. <foreign xml:lang="per">سپوز</foreign> <gloss>prick thou</gloss>	
-   Aorist. <foreign xml:lang="per">سپوزم</foreign> <gloss>I may prick</gloss>
+</item></list>
 
-   Infin. <foreign xml:lang="per">سوختن</foreign> <gloss>to burn</gloss>
-   Imper. <foreign xml:lang="per">سوز</foreign> <gloss>burn thou</gloss>	
-   Aorist. <foreign xml:lang="per">سوزم</foreign> <gloss>I may burn</gloss>
-   
+<list>
+<item>Infin. <foreign xml:lang="per">خپوختن</foreign> <gloss>to prick</gloss>
+</item>
+<item>Imper. <foreign xml:lang="per">سپوز</foreign> <gloss>prick thou</gloss>	
+</item>
+<item>Aorist. <foreign xml:lang="per">سپوزم</foreign> <gloss>I may prick</gloss>
 
-   Infin. <foreign xml:lang="per">گداختن</foreign> <gloss>to melt</gloss>
-   Imper. <foreign xml:lang="per">گداز</foreign> <gloss>melt thou</gloss>	
-   Aorist. <foreign xml:lang="per">گدازم</foreign> <gloss>I may melt</gloss>
-   
+</item></list>
 
-   Infin. <foreign xml:lang="per">گريختن</foreign> <gloss>to flee</gloss>
-   Imper. <foreign xml:lang="per">گريز</foreign> <gloss>flee thou</gloss>	
-   Aorist. <foreign xml:lang="per">گريزم</foreign> <gloss>I may flee</gloss>
-   
-
-   Infin. <foreign xml:lang="per">نواختن</foreign> <gloss>to soothe</gloss>
-   Imper. <foreign xml:lang="per">نواز</foreign> <gloss>soothe thou</gloss>	
-   Aorist. <foreign xml:lang="per">نوازم</foreign> <gloss>I may soothe</gloss>
+<list>
+<item>Infin. <foreign xml:lang="per">سوختن</foreign> <gloss>to burn</gloss>
+</item>
+<item>Imper. <foreign xml:lang="per">سوز</foreign> <gloss>burn thou</gloss>	
+</item>
+<item>Aorist. <foreign xml:lang="per">سوزم</foreign> <gloss>I may burn</gloss>
    
 
-   Infin. <foreign xml:lang="per">شناختن</foreign> <gloss>to understand</gloss>
-   Imper. <foreign xml:lang="per">شناس</foreign> <gloss>understand thou</gloss>	
-   Aorist. <foreign xml:lang="per">شناسم</foreign> <gloss>I may understand</gloss>
+</item></list>
+
+<list>
+<item>Infin. <foreign xml:lang="per">گداختن</foreign> <gloss>to melt</gloss>
+</item>
+<item>Imper. <foreign xml:lang="per">گداز</foreign> <gloss>melt thou</gloss>	
+</item>
+<item>Aorist. <foreign xml:lang="per">گدازم</foreign> <gloss>I may melt</gloss>
    
 
-   Infin. <foreign xml:lang="per">فروختن</foreign> <gloss>to sell</gloss>
-   Imper. <foreign xml:lang="per">فروش</foreign> <gloss>sell thou</gloss>	
-   Aorist. <foreign xml:lang="per">فروشم</foreign> <gloss>I may sell</gloss>
+</item></list>
+
+<list>
+<item>Infin. <foreign xml:lang="per">گريختن</foreign> <gloss>to flee</gloss>
+</item>
+<item>Imper. <foreign xml:lang="per">گريز</foreign> <gloss>flee thou</gloss>	
+</item>
+<item>Aorist. <foreign xml:lang="per">گريزم</foreign> <gloss>I may flee</gloss>
    
+
+</item></list>
+
+<list>
+<item>Infin. <foreign xml:lang="per">نواختن</foreign> <gloss>to soothe</gloss>
+</item>
+<item>Imper. <foreign xml:lang="per">نواز</foreign> <gloss>soothe thou</gloss>	
+</item>
+<item>Aorist. <foreign xml:lang="per">نوازم</foreign> <gloss>I may soothe</gloss>
    
+
+</item></list>
+
+<list>
+<item>Infin. <foreign xml:lang="per">شناختن</foreign> <gloss>to understand</gloss>
+</item>
+<item>Imper. <foreign xml:lang="per">شناس</foreign> <gloss>understand thou</gloss>	
+</item>
+<item>Aorist. <foreign xml:lang="per">شناسم</foreign> <gloss>I may understand</gloss>
+   
+
+</item></list>
+
+<list>
+<item>Infin. <foreign xml:lang="per">فروختن</foreign> <gloss>to sell</gloss>
+</item>
+<item>Imper. <foreign xml:lang="per">فروش</foreign> <gloss>sell thou</gloss>	
+</item>
+<item>Aorist. <foreign xml:lang="per">فروشم</foreign> <gloss>I may sell</gloss>
+   
+</item></list>
 		
 </p><p>Irregulars that change <foreign xml:lang="per">ش</foreign> into <foreign xml:lang="per">ر</foreign>		
 
-Infin. <foreign xml:lang="per">انباشتن</foreign> <gloss>to fill</gloss>
-   Imper. <foreign xml:lang="per">انبار</foreign> <gloss>fill thou</gloss>	
-   Aorist. <foreign xml:lang="per">انبارم</foreign> <gloss>I may fill</gloss>
+
+
+<list>
+<item>Infin. <foreign xml:lang="per">انباشتن</foreign> <gloss>to fill</gloss>
+</item>
+<item>Imper. <foreign xml:lang="per">انبار</foreign> <gloss>fill thou</gloss>	
+</item>
+<item>Aorist. <foreign xml:lang="per">انبارم</foreign> <gloss>I may fill</gloss>
    
 
-   Infin. <foreign xml:lang="per">انکاشتن</foreign> <gloss>to think</gloss>
-   Imper. <foreign xml:lang="per">انکار</foreign> <gloss>think thou</gloss>	
-   Aorist. <foreign xml:lang="per">انکارم</foreign> <gloss>I may think</gloss>
+</item></list>
+
+<list>
+<item>Infin. <foreign xml:lang="per">انکاشتن</foreign> <gloss>to think</gloss>
+</item>
+<item>Imper. <foreign xml:lang="per">انکار</foreign> <gloss>think thou</gloss>	
+</item>
+<item>Aorist. <foreign xml:lang="per">انکارم</foreign> <gloss>I may think</gloss>
    
 
-   Infin. <foreign xml:lang="per">اوباشتن</foreign> <gloss>to swallow</gloss>
-   Imper. <foreign xml:lang="per">اوبار</foreign> <gloss>swallow thou</gloss>	
-   Aorist. <foreign xml:lang="per">اوبارم</foreign> <gloss>I may swallow</gloss>
+</item></list>
+
+<list>
+<item>Infin. <foreign xml:lang="per">اوباشتن</foreign> <gloss>to swallow</gloss>
+</item>
+<item>Imper. <foreign xml:lang="per">اوبار</foreign> <gloss>swallow thou</gloss>	
+</item>
+<item>Aorist. <foreign xml:lang="per">اوبارم</foreign> <gloss>I may swallow</gloss>
    
 
-   Infin. <foreign xml:lang="per">برداشتن</foreign> <gloss>to raise</gloss>
-   Imper. <foreign xml:lang="per">بردار</foreign> <gloss>raise thou</gloss>	
-   Aorist. <foreign xml:lang="per">بردارم</foreign> <gloss>I may raise</gloss>
+</item></list>
+
+<list>
+<item>Infin. <foreign xml:lang="per">برداشتن</foreign> <gloss>to raise</gloss>
+</item>
+<item>Imper. <foreign xml:lang="per">بردار</foreign> <gloss>raise thou</gloss>	
+</item>
+<item>Aorist. <foreign xml:lang="per">بردارم</foreign> <gloss>I may raise</gloss>
    
 
-   Infin. <foreign xml:lang="per">پنداشتن</foreign> <gloss>to suppose</gloss>
-   Imper. <foreign xml:lang="per">پندار</foreign> <gloss>suppose thou</gloss>	
-   Aorist. <foreign xml:lang="per">پندارم</foreign> <gloss>I may suppose</gloss>
+</item></list>
+
+<list>
+<item>Infin. <foreign xml:lang="per">پنداشتن</foreign> <gloss>to suppose</gloss>
+</item>
+<item>Imper. <foreign xml:lang="per">پندار</foreign> <gloss>suppose thou</gloss>	
+</item>
+<item>Aorist. <foreign xml:lang="per">پندارم</foreign> <gloss>I may suppose</gloss>
    
 
-   Infin. <foreign xml:lang="per">داشتن</foreign> <gloss>to have</gloss>
-   Imper. <foreign xml:lang="per">دار</foreign> <gloss>have thou</gloss>	
-   Aorist. <foreign xml:lang="per">دارم</foreign> <gloss>I may have</gloss>
+</item></list>
+
+<list>
+<item>Infin. <foreign xml:lang="per">داشتن</foreign> <gloss>to have</gloss>
+</item>
+<item>Imper. <foreign xml:lang="per">دار</foreign> <gloss>have thou</gloss>	
+</item>
+<item>Aorist. <foreign xml:lang="per">دارم</foreign> <gloss>I may have</gloss>
    
 
-   Infin. <foreign xml:lang="per">گذاشتن</foreign> <gloss>to leave</gloss>
-   Imper. <foreign xml:lang="per">گذار</foreign> <gloss>leave thou</gloss>	
-   Aorist. <foreign xml:lang="per">گذارم</foreign> <gloss>I may leave</gloss>
+</item></list>
+
+<list>
+<item>Infin. <foreign xml:lang="per">گذاشتن</foreign> <gloss>to leave</gloss>
+</item>
+<item>Imper. <foreign xml:lang="per">گذار</foreign> <gloss>leave thou</gloss>	
+</item>
+<item>Aorist. <foreign xml:lang="per">گذارم</foreign> <gloss>I may leave</gloss>
    
 
-   Infin. <foreign xml:lang="per">گذشتن</foreign> <gloss>to pass</gloss>
-   Imper. <foreign xml:lang="per">گذر</foreign> <gloss>pass thou</gloss>	
-   Aorist. <foreign xml:lang="per">گذرم</foreign> <gloss>I may pass</gloss>
+</item></list>
+
+<list>
+<item>Infin. <foreign xml:lang="per">گذشتن</foreign> <gloss>to pass</gloss>
+</item>
+<item>Imper. <foreign xml:lang="per">گذر</foreign> <gloss>pass thou</gloss>	
+</item>
+<item>Aorist. <foreign xml:lang="per">گذرم</foreign> <gloss>I may pass</gloss>
    
 
-   Infin. <foreign xml:lang="per">گماشتن</foreign> <gloss>to loose, dismiss</gloss>
-   Imper. <foreign xml:lang="per">گمار</foreign> <gloss>loose, dismiss thou</gloss>	
-   Aorist. <foreign xml:lang="per">گمارم</foreign> <gloss>I may loose, dismiss</gloss>
-   
+</item></list>
+
+<list>
+<item>Infin. <foreign xml:lang="per">گماشتن</foreign> <gloss>to loose, dismiss</gloss>
+</item>
+<item>Imper. <foreign xml:lang="per">گمار</foreign> <gloss>loose, dismiss thou</gloss>	
+</item>
+<item>Aorist. <foreign xml:lang="per">گمارم</foreign> <gloss>I may loose, dismiss</gloss>
+</item></list>
    <pb n="67"/>
 
 </p><p>VI.
@@ -3148,265 +3829,489 @@ Infin. <foreign xml:lang="per">انباشتن</foreign> <gloss>to fill</gloss>
   
 
 		
-Infin. <foreign xml:lang="per">اجستن</foreign> <gloss>to plant</gloss>
-   Imper. <foreign xml:lang="per">اج</foreign> <gloss>take plant</gloss>	
-   Aorist. <foreign xml:lang="per">اجم</foreign> <gloss>I may plant</gloss>
+
+
+<list>
+<item>Infin. <foreign xml:lang="per">اجستن</foreign> <gloss>to plant</gloss>
+</item>
+<item>Imper. <foreign xml:lang="per">اج</foreign> <gloss>take plant</gloss>	
+</item>
+<item>Aorist. <foreign xml:lang="per">اجم</foreign> <gloss>I may plant</gloss>
    to 
-   Infin. <foreign xml:lang="per">آراستن</foreign> <gloss>to adorn, arrange</gloss>
-   Imper. <foreign xml:lang="per">آراي</foreign> <gloss>adorn thou, arrange thou</gloss>	
-   Aorist. <foreign xml:lang="per">آرايم</foreign> <gloss>I may adorn, arrange</gloss>
+</item></list>
+
+<list>
+<item>Infin. <foreign xml:lang="per">آراستن</foreign> <gloss>to adorn, arrange</gloss>
+</item>
+<item>Imper. <foreign xml:lang="per">آراي</foreign> <gloss>adorn thou, arrange thou</gloss>	
+</item>
+<item>Aorist. <foreign xml:lang="per">آرايم</foreign> <gloss>I may adorn, arrange</gloss>
    
 
-Infin. <foreign xml:lang="per">بايستن</foreign> <gloss>to be necessary</gloss>
-   Imper. <foreign xml:lang="per">باي</foreign> <gloss>be thou necessary</gloss>	
-   Aorist. <foreign xml:lang="per">بايم</foreign> <gloss>I may be necessary</gloss>
+</item></list>
+
+<list>
+<item>Infin. <foreign xml:lang="per">بايستن</foreign> <gloss>to be necessary</gloss>
+</item>
+<item>Imper. <foreign xml:lang="per">باي</foreign> <gloss>be thou necessary</gloss>	
+</item>
+<item>Aorist. <foreign xml:lang="per">بايم</foreign> <gloss>I may be necessary</gloss>
    
 	
-   Infin. <foreign xml:lang="per">پايستن</foreign> <gloss>to accept</gloss>
-   Imper. <foreign xml:lang="per">پاي</foreign> <gloss>accept thou</gloss>	
-   Aorist. <foreign xml:lang="per">پايم</foreign> <gloss>I may accept</gloss>
+</item></list>
+
+<list>
+<item>Infin. <foreign xml:lang="per">پايستن</foreign> <gloss>to accept</gloss>
+</item>
+<item>Imper. <foreign xml:lang="per">پاي</foreign> <gloss>accept thou</gloss>	
+</item>
+<item>Aorist. <foreign xml:lang="per">پايم</foreign> <gloss>I may accept</gloss>
    
 
-   Infin. <foreign xml:lang="per">پيراستن</foreign> <gloss>to deck</gloss>
-   Imper. <foreign xml:lang="per">پيراي</foreign> <gloss>deck thou</gloss>	
-   Aorist. <foreign xml:lang="per">پيرايم</foreign> <gloss>I may deck</gloss>
+</item></list>
+
+<list>
+<item>Infin. <foreign xml:lang="per">پيراستن</foreign> <gloss>to deck</gloss>
+</item>
+<item>Imper. <foreign xml:lang="per">پيراي</foreign> <gloss>deck thou</gloss>	
+</item>
+<item>Aorist. <foreign xml:lang="per">پيرايم</foreign> <gloss>I may deck</gloss>
    
 
-   Infin. <foreign xml:lang="per">جستن</foreign> <gloss>to seek</gloss>
-   Imper. <foreign xml:lang="per">جوي</foreign> <gloss>seek thou</gloss>	
-   Aorist. <foreign xml:lang="per">جويم</foreign> <gloss>I may seek</gloss>
+</item></list>
+
+<list>
+<item>Infin. <foreign xml:lang="per">جستن</foreign> <gloss>to seek</gloss>
+</item>
+<item>Imper. <foreign xml:lang="per">جوي</foreign> <gloss>seek thou</gloss>	
+</item>
+<item>Aorist. <foreign xml:lang="per">جويم</foreign> <gloss>I may seek</gloss>
    
 	
    
-   Infin. <foreign xml:lang="per">دانستن</foreign> <gloss>to know</gloss>
-   Imper. <foreign xml:lang="per">دان</foreign> <gloss>know thou</gloss>	
-   Aorist. <foreign xml:lang="per">دانم</foreign> <gloss>I may know</gloss>
+</item></list>
+
+<list>
+<item>Infin. <foreign xml:lang="per">دانستن</foreign> <gloss>to know</gloss>
+</item>
+<item>Imper. <foreign xml:lang="per">دان</foreign> <gloss>know thou</gloss>	
+</item>
+<item>Aorist. <foreign xml:lang="per">دانم</foreign> <gloss>I may know</gloss>
    
 	
-   Infin. <foreign xml:lang="per">رستن</foreign> <gloss>to grow</gloss>
-   Imper. <foreign xml:lang="per">روي</foreign> <gloss>grow thou</gloss>	
-   Aorist. <foreign xml:lang="per">رويم</foreign> <gloss>I may grow</gloss>
+</item></list>
+
+<list>
+<item>Infin. <foreign xml:lang="per">رستن</foreign> <gloss>to grow</gloss>
+</item>
+<item>Imper. <foreign xml:lang="per">روي</foreign> <gloss>grow thou</gloss>	
+</item>
+<item>Aorist. <foreign xml:lang="per">رويم</foreign> <gloss>I may grow</gloss>
    
 		
-   Infin. <foreign xml:lang="per">زستن</foreign> <gloss>to live</gloss>
-   Imper. <foreign xml:lang="per">زي</foreign> <gloss>live thou</gloss>	
-   Aorist. <foreign xml:lang="per">زيم</foreign> <gloss>I may live</gloss>
+</item></list>
+
+<list>
+<item>Infin. <foreign xml:lang="per">زستن</foreign> <gloss>to live</gloss>
+</item>
+<item>Imper. <foreign xml:lang="per">زي</foreign> <gloss>live thou</gloss>	
+</item>
+<item>Aorist. <foreign xml:lang="per">زيم</foreign> <gloss>I may live</gloss>
    
 	
-   Infin. <foreign xml:lang="per">شستن</foreign> <gloss>to wash</gloss>
-   Imper. <foreign xml:lang="per">شوي</foreign> <gloss>wash thou</gloss>	
-   Aorist. <foreign xml:lang="per">شويم</foreign> <gloss>I may wash</gloss>
+</item></list>
+
+<list>
+<item>Infin. <foreign xml:lang="per">شستن</foreign> <gloss>to wash</gloss>
+</item>
+<item>Imper. <foreign xml:lang="per">شوي</foreign> <gloss>wash thou</gloss>	
+</item>
+<item>Aorist. <foreign xml:lang="per">شويم</foreign> <gloss>I may wash</gloss>
    
 
-   Infin. <foreign xml:lang="per">گريستن</foreign> <gloss>to weep</gloss>
-   Imper. <foreign xml:lang="per">گري</foreign> <gloss>weep thou</gloss>	
-   Aorist. <foreign xml:lang="per">گريم</foreign> <gloss>I may weep</gloss>
+</item></list>
+
+<list>
+<item>Infin. <foreign xml:lang="per">گريستن</foreign> <gloss>to weep</gloss>
+</item>
+<item>Imper. <foreign xml:lang="per">گري</foreign> <gloss>weep thou</gloss>	
+</item>
+<item>Aorist. <foreign xml:lang="per">گريم</foreign> <gloss>I may weep</gloss>
    
 
-   Infin. <foreign xml:lang="per">مانستن</foreign> <gloss>to resemble</gloss>
-   Imper. <foreign xml:lang="per">مان</foreign> <gloss>resemble thou</gloss>	
-   Aorist. <foreign xml:lang="per">مانم</foreign> <gloss>I may resemble</gloss>
+</item></list>
+
+<list>
+<item>Infin. <foreign xml:lang="per">مانستن</foreign> <gloss>to resemble</gloss>
+</item>
+<item>Imper. <foreign xml:lang="per">مان</foreign> <gloss>resemble thou</gloss>	
+</item>
+<item>Aorist. <foreign xml:lang="per">مانم</foreign> <gloss>I may resemble</gloss>
    
    
  
-Infin. <foreign xml:lang="per">نگرستن</foreign> <gloss>to view</gloss>
-   Imper. <foreign xml:lang="per">نتر</foreign> <gloss>view thou</gloss>	
-   Aorist. <foreign xml:lang="per">نگرم</foreign> <gloss>I may view</gloss>
+</item></list>
+
+<list>
+<item>Infin. <foreign xml:lang="per">نگرستن</foreign> <gloss>to view</gloss>
+</item>
+<item>Imper. <foreign xml:lang="per">نتر</foreign> <gloss>view thou</gloss>	
+</item>
+<item>Aorist. <foreign xml:lang="per">نگرم</foreign> <gloss>I may view</gloss>
+</item></list>  
    
-   
-   VII. Irregulars in <foreign xml:lang="per">ين</foreign>	
+   </p><p>VII. Irregulars in <foreign xml:lang="per">ين</foreign>	
 
 
-Infin. <foreign xml:lang="per">آفريدن</foreign> <gloss>to create</gloss>
-   Imper. <foreign xml:lang="per">آفرين</foreign> <gloss>create thou</gloss>	
-   Aorist. <foreign xml:lang="per">آفرينم</foreign> <gloss>I may create</gloss>
-   
-   
 
-Infin. <foreign xml:lang="per">چيدن</foreign> <gloss>to gather</gloss>
-   Imper. <foreign xml:lang="per">چين</foreign> <gloss>gather thou</gloss>	
-   Aorist. <foreign xml:lang="per">چينم</foreign> <gloss>I may gather</gloss>
-   
-   
 
-Infin. <foreign xml:lang="per">ديدن</foreign> <gloss>to see</gloss>
-   Imper. <foreign xml:lang="per">بين</foreign> <gloss>see thou</gloss>	
-   Aorist. <foreign xml:lang="per">بينم</foreign> <gloss>I may see</gloss>
+<list>
+<item>Infin. <foreign xml:lang="per">آفريدن</foreign> <gloss>to create</gloss>
+</item>
+<item>Imper. <foreign xml:lang="per">آفرين</foreign> <gloss>create thou</gloss>	
+</item>
+<item>Aorist. <foreign xml:lang="per">آفرينم</foreign> <gloss>I may create</gloss>
    
    
 
-Infin. <foreign xml:lang="per">گزيدن</foreign> <gloss>to choose</gloss>
-   Imper. <foreign xml:lang="per">گزين</foreign> <gloss>choose thou</gloss>	
-   Aorist. <foreign xml:lang="per">گزينم</foreign> <gloss>I may choose</gloss>
+</item></list>
+
+<list>
+<item>Infin. <foreign xml:lang="per">چيدن</foreign> <gloss>to gather</gloss>
+</item>
+<item>Imper. <foreign xml:lang="per">چين</foreign> <gloss>gather thou</gloss>	
+</item>
+<item>Aorist. <foreign xml:lang="per">چينم</foreign> <gloss>I may gather</gloss>
+   
+   
+
+</item></list>
+
+<list>
+<item>Infin. <foreign xml:lang="per">ديدن</foreign> <gloss>to see</gloss>
+</item>
+<item>Imper. <foreign xml:lang="per">بين</foreign> <gloss>see thou</gloss>	
+</item>
+<item>Aorist. <foreign xml:lang="per">بينم</foreign> <gloss>I may see</gloss>
+   
+   
+
+</item></list>
+
+<list>
+<item>Infin. <foreign xml:lang="per">گزيدن</foreign> <gloss>to choose</gloss>
+</item>
+<item>Imper. <foreign xml:lang="per">گزين</foreign> <gloss>choose thou</gloss>	
+</item>
+<item>Aorist. <foreign xml:lang="per">گزينم</foreign> <gloss>I may choose</gloss>
    
    
 <pb n="68"/>
    
-VIII.
+</item></list> 
 
-</p><p>Irregulars in <foreign xml:lang="per">ير</foreign> that reject <foreign xml:lang="per">ف</foreign>
 
-Infin. <foreign xml:lang="per">پذيرفتن</foreign> <gloss>to accept</gloss>
-   Imper. <foreign xml:lang="per">پذير</foreign> <gloss>accept thou</gloss>	
-   Aorist. <foreign xml:lang="per">پذيرم</foreign> <gloss>I may accept</gloss>
+</p><p>VIII. Irregulars in <foreign xml:lang="per">ير</foreign> that reject <foreign xml:lang="per">ف</foreign>
 
-Infin. <foreign xml:lang="per">گرفتن</foreign> <gloss>to take</gloss>
-Imper. <foreign xml:lang="per">گير</foreign> <gloss>take thou</gloss>	
-Aorist. <foreign xml:lang="per">گيرم</foreign> <gloss>I may take</gloss>
- 
+
+<list>
+<item>Infin. <foreign xml:lang="per">پذيرفتن</foreign> <gloss>to accept</gloss>
+</item>
+<item>Imper. <foreign xml:lang="per">پذير</foreign> <gloss>accept thou</gloss>	
+</item>
+<item>Aorist. <foreign xml:lang="per">پذيرم</foreign> <gloss>I may accept</gloss>
+
+</item></list>
+
+<list>
+<item>Infin. <foreign xml:lang="per">گرفتن</foreign> <gloss>to take</gloss>
+</item>
+<item>Imper. <foreign xml:lang="per">گير</foreign> <gloss>take thou</gloss>	
+</item>
+<item>Aorist. <foreign xml:lang="per">گيرم</foreign> <gloss>I may take</gloss>
+</item></list>
  </p><p>IX.		
     Irregulars that change <foreign xml:lang="per">س</foreign> into <foreign xml:lang="per">ه</foreign>	
 
-Infin. <foreign xml:lang="per">جستن</foreign> <gloss>to leap</gloss>
-    Imper. <foreign xml:lang="per">جه</foreign> <gloss>leap thou</gloss>	
-    Aorist. <foreign xml:lang="per">جهم</foreign> <gloss>I may leap</gloss>
-    
-    Infin. <foreign xml:lang="per">زستن</foreign> <gloss>to be delivered</gloss>
-    Imper. <foreign xml:lang="per">زه</foreign> <gloss>be thou delivered</gloss>	
-    Aorist. <foreign xml:lang="per">زهم</foreign> <gloss>I may be delivered</gloss>
-    
-    Infin. <foreign xml:lang="per">خواستن</foreign> <gloss>to be willing, want</gloss>
-    Imper. <foreign xml:lang="per">خواه</foreign> <gloss>be thou willing, want</gloss>	
-    Aorist. <foreign xml:lang="per">خواهم</foreign> <gloss>I may be willing, want</gloss>
-    
-    Infin. <foreign xml:lang="per">کاستن</foreign> <gloss>to lessen</gloss>
-    Imper. <foreign xml:lang="per">کاه</foreign> <gloss>lessen thou</gloss>	
-    Aorist. <foreign xml:lang="per">کاهم</foreign> <gloss>I may lessen</gloss>
-    
-    
 
-</p><p>X.		
-</p><p>Irregulars that change <foreign xml:lang="per"></foreign> into <foreign xml:lang="per"></foreign> or <foreign xml:lang="per"></foreign>
-   Infin. <foreign xml:lang="per">برنشستن</foreign> <gloss>to ascend</gloss>
-   Imper. <foreign xml:lang="per">برنشين</foreign> <gloss>ascend thou</gloss>	
-   Aorist. <foreign xml:lang="per">برنشينم</foreign> <gloss>I may ascend</gloss>
+
+<list>
+<item>Infin. <foreign xml:lang="per">جستن</foreign> <gloss>to leap</gloss>
+</item>
+<item>Imper. <foreign xml:lang="per">جه</foreign> <gloss>leap thou</gloss>	
+</item>
+<item>Aorist. <foreign xml:lang="per">جهم</foreign> <gloss>I may leap</gloss>
+    
+</item></list>
+
+<list>
+<item>Infin. <foreign xml:lang="per">زستن</foreign> <gloss>to be delivered</gloss>
+</item>
+<item>Imper. <foreign xml:lang="per">زه</foreign> <gloss>be thou delivered</gloss>	
+</item>
+<item>Aorist. <foreign xml:lang="per">زهم</foreign> <gloss>I may be delivered</gloss>
+    
+</item></list>
+
+<list>
+<item>Infin. <foreign xml:lang="per">خواستن</foreign> <gloss>to be willing, want</gloss>
+</item>
+<item>Imper. <foreign xml:lang="per">خواه</foreign> <gloss>be thou willing, want</gloss>	
+</item>
+<item>Aorist. <foreign xml:lang="per">خواهم</foreign> <gloss>I may be willing, want</gloss>
+    
+</item></list>
+
+<list>
+<item>Infin. <foreign xml:lang="per">کاستن</foreign> <gloss>to lessen</gloss>
+</item>
+<item>Imper. <foreign xml:lang="per">کاه</foreign> <gloss>lessen thou</gloss>	
+</item>
+<item>Aorist. <foreign xml:lang="per">کاهم</foreign> <gloss>I may lessen</gloss>
+    
+</item></list>  
+
+</p><p>X. Irregulars that change <foreign xml:lang="per"></foreign> into <foreign xml:lang="per"></foreign> or <foreign xml:lang="per"></foreign>
+
+
+<list>
+<item>Infin. <foreign xml:lang="per">برنشستن</foreign> <gloss>to ascend</gloss>
+</item>
+<item>Imper. <foreign xml:lang="per">برنشين</foreign> <gloss>ascend thou</gloss>	
+</item>
+<item>Aorist. <foreign xml:lang="per">برنشينم</foreign> <gloss>I may ascend</gloss>
    
-   Infin. <foreign xml:lang="per">بستن</foreign> <gloss>to bind</gloss>
-   Imper. <foreign xml:lang="per">بند</foreign> <gloss>bind thou</gloss>	
-   Aorist. <foreign xml:lang="per">بندم</foreign> <gloss>I may bind</gloss>
+</item></list>
+
+<list>
+<item>Infin. <foreign xml:lang="per">بستن</foreign> <gloss>to bind</gloss>
+</item>
+<item>Imper. <foreign xml:lang="per">بند</foreign> <gloss>bind thou</gloss>	
+</item>
+<item>Aorist. <foreign xml:lang="per">بندم</foreign> <gloss>I may bind</gloss>
    
-   Infin. <foreign xml:lang="per">پيوستن</foreign> <gloss>to join</gloss>
-   Imper. <foreign xml:lang="per">پيوند</foreign> <gloss>join thou</gloss>	
-   Aorist. <foreign xml:lang="per">پئوندم</foreign> <gloss>I may join</gloss>
+</item></list>
+
+<list>
+<item>Infin. <foreign xml:lang="per">پيوستن</foreign> <gloss>to join</gloss>
+</item>
+<item>Imper. <foreign xml:lang="per">پيوند</foreign> <gloss>join thou</gloss>	
+</item>
+<item>Aorist. <foreign xml:lang="per">پئوندم</foreign> <gloss>I may join</gloss>
    
-   Infin. <foreign xml:lang="per">شکستن</foreign> <gloss>to break</gloss>
-   Imper. <foreign xml:lang="per">شکن</foreign> <gloss>break thou</gloss>	
-   Aorist. <foreign xml:lang="per">شکنم</foreign> <gloss>I may break</gloss>
+</item></list>
+
+<list>
+<item>Infin. <foreign xml:lang="per">شکستن</foreign> <gloss>to break</gloss>
+</item>
+<item>Imper. <foreign xml:lang="per">شکن</foreign> <gloss>break thou</gloss>	
+</item>
+<item>Aorist. <foreign xml:lang="per">شکنم</foreign> <gloss>I may break</gloss>
    
-   Infin. <foreign xml:lang="per">نشاستن</foreign> <gloss>to cause to sit down</gloss>
-   Imper. <foreign xml:lang="per">نشان</foreign> <gloss>cause thou to sit down</gloss>	
-   Aorist. <foreign xml:lang="per">نشانم</foreign> <gloss>I may cause to sit down</gloss>
+</item></list>
+
+<list>
+<item>Infin. <foreign xml:lang="per">نشاستن</foreign> <gloss>to cause to sit down</gloss>
+</item>
+<item>Imper. <foreign xml:lang="per">نشان</foreign> <gloss>cause thou to sit down</gloss>	
+</item>
+<item>Aorist. <foreign xml:lang="per">نشانم</foreign> <gloss>I may cause to sit down</gloss>
    
-   Infin. <foreign xml:lang="per">نشستن</foreign> <gloss>to sit down</gloss>
-   Imper. <foreign xml:lang="per">نشين</foreign> <gloss>sit thou down</gloss>	
-   Aorist. <foreign xml:lang="per">نشينم</foreign> <gloss>I may sit down</gloss>
+</item></list>
+
+<list>
+<item>Infin. <foreign xml:lang="per">نشستن</foreign> <gloss>to sit down</gloss>
+</item>
+<item>Imper. <foreign xml:lang="per">نشين</foreign> <gloss>sit thou down</gloss>	
+</item>
+<item>Aorist. <foreign xml:lang="per">نشينم</foreign> <gloss>I may sit down</gloss>
    
 		
 <pb n="69"/>
-   
-   </p><p>XI.
+</item></list> 
+</p><p>XI. Irregulars that add <foreign xml:lang="per"></foreign>.
 
-</p><p>Irregulars that add <foreign xml:lang="per"></foreign>.
-
-		Imper.	Aorist.
-		Infin. <foreign xml:lang="per">زادن</foreign> <gloss>to be born</gloss>
-   Imper. <foreign xml:lang="per">زاي</foreign> <gloss> be born</gloss>
+	
+<list>
+   <item>Infin. <foreign xml:lang="per">زادن</foreign> <gloss>to be born</gloss>
+</item>
+<item>Imper. <foreign xml:lang="per">زاي</foreign> <gloss> be born</gloss>
    Aorist <foreign xml:lang="per">زايم</foreign> <gloss>I may be born</gloss>
    
-   Infin. <foreign xml:lang="per">کادن</foreign> <gloss>to caress</gloss>
-   Imper. <foreign xml:lang="per">کاي</foreign> <gloss> caress thou</gloss>
+</item></list>
+
+<list>
+<item>Infin. <foreign xml:lang="per">کادن</foreign> <gloss>to caress</gloss>
+</item>
+<item>Imper. <foreign xml:lang="per">کاي</foreign> <gloss> caress thou</gloss>
    Aorist <foreign xml:lang="per">کايم</foreign> <gloss>I may caress</gloss>
    
-   Infin. <foreign xml:lang="per">کشادن</foreign> <gloss>to open</gloss>
-   Imper. <foreign xml:lang="per">کشاي</foreign> <gloss> open thou</gloss>
+</item></list>
+
+<list>
+<item>Infin. <foreign xml:lang="per">کشادن</foreign> <gloss>to open</gloss>
+</item>
+<item>Imper. <foreign xml:lang="per">کشاي</foreign> <gloss> open thou</gloss>
    Aorist <foreign xml:lang="per">كشايم</foreign> <gloss>I may open</gloss>
  
-</p><p>XII.
-   
-</p><p>Irregulars that reject <foreign xml:lang="per">ادن</foreign> 			
+</item></list>
+</p><p>XII. Irregulars that reject <foreign xml:lang="per">ادن</foreign> 			
 
 
-Infin. <foreign xml:lang="per">افتادن</foreign> <gloss>to fall</gloss>
-   Imper. <foreign xml:lang="per">افت</foreign> <gloss> fall thou</gloss>
+
+
+<list>
+<item>Infin. <foreign xml:lang="per">افتادن</foreign> <gloss>to fall</gloss>
+</item>
+<item>Imper. <foreign xml:lang="per">افت</foreign> <gloss> fall thou</gloss>
    Aorist <foreign xml:lang="per">افتم</foreign> <gloss>I may fall</gloss>
  
  
- Infin. <foreign xml:lang="per">ايستادن</foreign> <gloss>to stand</gloss>
-   Imper. <foreign xml:lang="per">ايست</foreign> <gloss> fall stand</gloss>
+</item></list>
+
+<list>
+<item>Infin. <foreign xml:lang="per">ايستادن</foreign> <gloss>to stand</gloss>
+</item>
+<item>Imper. <foreign xml:lang="per">ايست</foreign> <gloss> fall stand</gloss>
    Aorist <foreign xml:lang="per">ايستم</foreign> <gloss>I may stand</gloss>
    
    
-   Infin. <foreign xml:lang="per">رفسادن</foreign> <gloss>to send</gloss>
-   Imper. <foreign xml:lang="per">فرس</foreign> <gloss> send thou</gloss>
+</item></list>
+
+<list>
+<item>Infin. <foreign xml:lang="per">رفسادن</foreign> <gloss>to send</gloss>
+</item>
+<item>Imper. <foreign xml:lang="per">فرس</foreign> <gloss> send thou</gloss>
    Aorist <foreign xml:lang="per">فرسم</foreign> <gloss>I may send</gloss>
    
-   Infin. <foreign xml:lang="per">نهدن</foreign> <gloss>to place</gloss>
-   Imper. <foreign xml:lang="per">نه</foreign> <gloss> place thou</gloss>
+</item></list>
+
+<list>
+<item>Infin. <foreign xml:lang="per">نهدن</foreign> <gloss>to place</gloss>
+</item>
+<item>Imper. <foreign xml:lang="per">نه</foreign> <gloss> place thou</gloss>
    Aorist <foreign xml:lang="per">نهم</foreign> <gloss>I may place</gloss>
  
- </p><p>XIII.		
-</p><p>Irregulars not reducible to any class.			
-   Infin. <foreign xml:lang="per">آمادن</foreign> <gloss>to prepare</gloss>
-   Imper. <foreign xml:lang="per">آماز</foreign> <gloss>prepare thou</gloss>
+</item></list>
+ </p><p>XIII. Irregulars not reducible to any class.			
+
+
+<list>
+<item>Infin. <foreign xml:lang="per">آمادن</foreign> <gloss>to prepare</gloss>
+</item>
+<item>Imper. <foreign xml:lang="per">آماز</foreign> <gloss>prepare thou</gloss>
    Aorist <foreign xml:lang="per">آمازم</foreign> <gloss>I may prepare</gloss>
-   
-</p><p>Irregulars not reducible to any class.			
-   Infin. <foreign xml:lang="per">بون</foreign> <gloss>to be</gloss>
-   Imper. <foreign xml:lang="per">باش</foreign> <gloss>be thou</gloss>
+</item></list>  
+
+    <list>
+       <item>Infin. <foreign xml:lang="per">آمدن</foreign> <gloss>to come</gloss>
+</item>
+<item>Imper. <foreign xml:lang="per">آي</foreign> <gloss>come thou</gloss>
+          Aorist <foreign xml:lang="per">آيم</foreign> <gloss>I may come</gloss>
+       </item></list>  
+    
+    
+<list>
+<item>Infin. <foreign xml:lang="per">بودن</foreign> <gloss>to be</gloss>
+</item>
+<item>Imper. <foreign xml:lang="per">باش</foreign> <gloss>be thou</gloss>
    Aorist <foreign xml:lang="per">باشم</foreign> <gloss>I may be</gloss>
  
- Infin. <foreign xml:lang="per">خاستن</foreign> <gloss>to rise</gloss>
-   Imper. <foreign xml:lang="per">خيز</foreign> <gloss>rise thou</gloss>
+</item></list>
+
+<list>
+<item>Infin. <foreign xml:lang="per">خاستن</foreign> <gloss>to rise</gloss>
+</item>
+<item>Imper. <foreign xml:lang="per">خيز</foreign> <gloss>rise thou</gloss>
    Aorist <foreign xml:lang="per">خيزم</foreign> <gloss>I may rise</gloss>
   
   
-  Infin. <foreign xml:lang="per">دادن</foreign> <gloss>to give</gloss>
-   Imper. <foreign xml:lang="per">ده</foreign> <gloss>give thou</gloss>
+</item></list>
+
+<list>
+<item>Infin. <foreign xml:lang="per">دادن</foreign> <gloss>to give</gloss>
+</item>
+<item>Imper. <foreign xml:lang="per">ده</foreign> <gloss>give thou</gloss>
    Aorist <foreign xml:lang="per">دهم</foreign> <gloss>I may give</gloss>
    
-   Infin. <foreign xml:lang="per">زدن</foreign> <gloss>to strike</gloss>
-   Imper. <foreign xml:lang="per">زن</foreign> <gloss>strike thou</gloss>
+</item></list>
+
+<list>
+<item>Infin. <foreign xml:lang="per">زدن</foreign> <gloss>to strike</gloss>
+</item>
+<item>Imper. <foreign xml:lang="per">زن</foreign> <gloss>strike thou</gloss>
    Aorist <foreign xml:lang="per">زنم</foreign> <gloss>I may strike</gloss>
    
    
-   Infin. <foreign xml:lang="per">ستدن</foreign> <gloss>to take 1</gloss>
-   Infin. <foreign xml:lang="per">ستاشتن</foreign> <gloss>to take 2</gloss>
-   Imper. <foreign xml:lang="per">ستان</foreign> <gloss>take thou</gloss>
+</item></list>
+
+<list>
+<item>Infin. <foreign xml:lang="per">ستدن</foreign> <gloss>to take 1</gloss>
+</item>
+<item>Infin. <foreign xml:lang="per">ستاشتن</foreign> <gloss>to take 2</gloss>
+</item>
+<item>Imper. <foreign xml:lang="per">ستان</foreign> <gloss>take thou</gloss>
    Aorist <foreign xml:lang="per">ستانم</foreign> <gloss>I may take</gloss>
    <pb n="70"/>
 
  
 
-Infin. <foreign xml:lang="per">سرشتن</foreign>	 <gloss>to mix</gloss>, <gloss>to compose</gloss>
+</item></list>
 
-Imper. <foreign xml:lang="per">سريش</foreign>	 <gloss>mix thou</gloss>, <gloss>compose thou</gloss>
+<list>
+<item>Infin. <foreign xml:lang="per">سرشتن</foreign>	 <gloss>to mix</gloss>, <gloss>to compose</gloss>
 
-Aorist. <foreign xml:lang="per">سريشم</foreign> <gloss>I shall or may mix</gloss>, <gloss>I shall or may compose</gloss>	
+</item>
+<item>Imper. <foreign xml:lang="per">سريش</foreign>	 <gloss>mix thou</gloss>, <gloss>compose thou</gloss>
 
-Infin. <foreign xml:lang="per">کشستن</foreign> or <foreign xml:lang="per">کسيختن</foreign> <gloss>to break</gloss>
+</item>
+<item>Aorist. <foreign xml:lang="per">سريشم</foreign> <gloss>I shall or may mix</gloss>, <gloss>I shall or may compose</gloss>	
+
+</item></list>
+
+<list>
+<item>Infin. <foreign xml:lang="per">کشستن</foreign> or <foreign xml:lang="per">کسيختن</foreign> <gloss>to break</gloss>
    
-Imper. <foreign xml:lang="per">کسيل</foreign> <gloss>break thou</gloss>
+</item>
+<item>Imper. <foreign xml:lang="per">کسيل</foreign> <gloss>break thou</gloss>
    
-Aorist. <foreign xml:lang="per">کسيلم</foreign> <gloss>I shall or may break</gloss>	
+</item>
+<item>Aorist. <foreign xml:lang="per">کسيلم</foreign> <gloss>I shall or may break</gloss>	
  
- Infin. <foreign xml:lang="per">کندن</foreign>  <gloss>to rot</gloss>
+</item></list>
+
+<list>
+<item>Infin. <foreign xml:lang="per">کندن</foreign>  <gloss>to rot</gloss>
    
-   Imper. <foreign xml:lang="per">کند</foreign> <gloss>rot thou</gloss>
+</item>
+<item>Imper. <foreign xml:lang="per">کند</foreign> <gloss>rot thou</gloss>
    
-   Aorist. <foreign xml:lang="per">کندم</foreign> <gloss>I shall or may rot</gloss>	
+</item>
+<item>Aorist. <foreign xml:lang="per">کندم</foreign> <gloss>I shall or may rot</gloss>	
    
-   Infin. <foreign xml:lang="per">مردن</foreign>  <gloss>to die</gloss>
+</item></list>
+
+<list>
+<item>Infin. <foreign xml:lang="per">مردن</foreign>  <gloss>to die</gloss>
    
-   Imper. <foreign xml:lang="per">مير</foreign> <gloss>die thou</gloss>
+</item>
+<item>Imper. <foreign xml:lang="per">مير</foreign> <gloss>die thou</gloss>
    
-   Aorist. <foreign xml:lang="per">ميرم</foreign> <gloss>I shall or may die</gloss>	
+</item>
+<item>Aorist. <foreign xml:lang="per">ميرم</foreign> <gloss>I shall or may die</gloss>	
    
-   Infin. <foreign xml:lang="per">نيشتن</foreign> or <foreign xml:lang="per">نوشتن</foreign> <gloss>to write</gloss>
+</item></list>
+
+<list>
+<item>Infin. <foreign xml:lang="per">نيشتن</foreign> or <foreign xml:lang="per">نوشتن</foreign> <gloss>to write</gloss>
    
-   Imper. <foreign xml:lang="per">کسيل</foreign> <gloss>write thou</gloss>
+</item>
+<item>Imper. <foreign xml:lang="per">کسيل</foreign> <gloss>write thou</gloss>
    
-   Aorist. <foreign xml:lang="per">کسيلم</foreign> <gloss>I shall or may write</gloss>	
-   
+</item>
+<item>Aorist. <foreign xml:lang="per">کسيلم</foreign> <gloss>I shall or may write</gloss>	
+   </item>
+</list>
 
 </p><p>Example of an irregular verb.
 
