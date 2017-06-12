@@ -66,6 +66,8 @@
             <language ident="grc">Greek</language>
             <language ident="per">Persian</language>
             <language ident="per-lat">Persian transliteration</language>
+            <language ident="ara">Arabic</language>
+            <language ident="ara-lat">Arabic transliteration</language>
          </langUsage>
       </profileDesc>
    </teiHeader>
@@ -1727,440 +1729,539 @@ vowel, a\ ani to, ory j) az ani to, i. e. thine, as
 O my moon of Canaan (O Joseph), the throne of Egypt is
 
 thine!
-<pb/>%
+<pb n="35"/>
+   
 
-PERSIAN LANGUAGE.	35
+</p><p>The relatives and interrogatives are supplied by the
+invariable pronouns 
 
-The relatives and interrogatives are supplied by the
-invariable pronouns keh and 6a. cheh, of which the
+   <foreign xml:lang="per">که</foreign> <foreign xml:lang="per-lat">keh</foreign> and 
+
+   <foreign xml:lang="per"></foreign> <foreign xml:lang="per-lat">cheh</foreign>, of which the
 former usually relates to persons, and the latter to things :
-in the oblique cases- of these pronouns the final 6 is
-absorbed before the syllable	as
+in the oblique cases- of these pronouns the final <foreign xml:lang="per-lat">cheh</foreign> is
+   absorbed before the syllable <foreign xml:lang="per-lat">cheh</foreign>, as
 
-Nom. £ who.	Oblique,	\J> whom.
+</p><p>Nom. <foreign xml:lang="per"></foreign> <foreign xml:lang="per-lat">cheh</foreign> <gloss>who</gloss>.	
+  </p><p>Oblique,	<foreign xml:lang="per"></foreign> <foreign xml:lang="per-lat">cheh</foreign> <gloss>whom</gloss>.
+  </p><p>Nom. <foreign xml:lang="per"></foreign> <gloss>which</gloss>.	
+  </p><p>Oblique,	<foreign xml:lang="per"></foreign> <foreign xml:lang="per-lat">which</foreign>.
 
-6a. which.	ly-	which.
+  </p><p>Oblique,	<foreign xml:lang="per"></foreign> <foreign xml:lang="per-lat">kî</foreign> and 
+     Oblique,	<foreign xml:lang="per"></foreign> <foreign xml:lang="per-lat">chi</foreign> 
+     are interrogatives, and are very
+     often joined to the verb Oblique,	<foreign xml:lang="per"></foreign>, as	
+     <foreign xml:lang="per"></foreign> <gloss>who is it?</gloss>
 
-kl and chi are interrogatives, and are very
-often joined to the verb C^w>\, as	who'is it?
+<foreign xml:lang="per"></foreign> <gloss>what is it?</gloss>
 
-wi***». what is it?	> * t
 
-6j\5oLLjS
-O heaven! whose precious pearl, and whose inestimable
+<cit><bibl></bibl><quote>O heaven! whose precious pearl, and whose inestimable
 jewel is that royal maid, with .a cheek like the moon,
-and a forehead like Venus ?
+and a forehead like Venus ?</quote></cit>
 
-:A
-
-kadam (properly which?) is also an interrogative
+  </p><p>
+     <foreign xml:lang="per"></foreign> <foreign xml:lang="per-lat">kadam</foreign> (properly which?) is also an interrogative
 pronoun, as
 
-t—'-tAp^
 
-We are fond of wine, wanton, dissolute, and with rolling
+
+<cit><bibl></bibl><quote>We are fond of wine, wanton, dissolute, and with rolling
 eyes: but who is there in this city that has not the
 
-f 2
+same vices ?</quote></cit>
+   <pb n="36"/>
 
-same vices ?
-<pb/>36
 
-A GRAMMAR OF THE
 
-Our soever is expressed in Persian byhar or
-haran prefixed to the relatives, as
+Our <gloss>soever</gloss> is expressed in Persian by 
+   <foreign xml:lang="per">هر</foreign> <foreign xml:lang="per-lat">har</foreign> or
 
-and	whosoever.
+   <foreign xml:lang="per">هران</foreign> <foreign xml:lang="per-lat">harân</foreign> prefixed to the relatives, as
 
-and 40]^ whatsoever.
+   <list>
+      <item><foreign xml:lang="per">هرکع</foreign> and <foreign xml:lang="per">هرانکع</foreign> <gloss>whosoever</gloss>.</item>
+      <item><foreign xml:lang="per">هرچع</foreign> and	<foreign xml:lang="per">هرانچع</foreign> <gloss>whatsoever</gloss>.</item>
+   </list>
+</p></div>
+         
+         <div type="textpart" subtype="section"><head style="caps">of verbs.</head>
 
-OF VERBS.
+<p>
 
 The Persians have active and neuter verbs like other
 nations ; but many of their verbs have both an active and
 neuter sense, which can be determined only by the con-
 struction. These verbs have properly but one conjugation,
 and but three changes of tense; the imperative, the aorist,
-and the preterite';, all the other tenses being formed by the
-help of the particles ml and	haml, or of the
+and the preterite; all the other tenses being formed by the
+help of the particles <foreign xml:lang="per">مي</foreign> <foreign xml:lang="per-lat">mî</foreign> and	
+   <foreign xml:lang="per">همي</foreign> <foreign xml:lang="per-lat">hamî</foreign>, or of the
 
-auxiliary verbs	hastan or	budan, to be, and
+auxiliary verbs <foreign xml:lang="per">هستن</foreign> <foreign xml:lang="per-lat">hastan</foreign> or	
+   <foreign xml:lang="per">بودن</foreign> <foreign xml:lang="per-lat">bûdan</foreign>, <gloss>to be</gloss>, and
 
-kh’astan, to want, will or be willing. The passive
+   <foreign xml:lang="per">خواستن</foreign> <foreign xml:lang="per-lat">kh’âstan</foreign>, <gloss>>to want, will or be willing</gloss>. 
+   The passive
 voice is formed by adding the tenses of the verb substan-
-tive	shudan	to	the	participle	preterite	of	the	active;
+tive <foreign xml:lang="per">شدب</foreign> <foreign xml:lang="per-lat">shudan</foreign> to the	participle
+   preterite of the active;
 
-L kh’andah shud, it was read: The inflexions of
+   <foreign xml:lang="per">خوانده شد</foreign> <foreign xml:lang="per-lat">kh’ândah shud</foreign>, <gloss>it was read</gloss>: The inflexions of
 these auxiliaries must be here exhibited, and must be
 learned by heart, as they will be very useful in forming
-the compound tenses of the active verbs.
-<pb/>PERSIAN LANGUAGE.
-
-37
-
-budan, to be.
+the compound tenses of the active verbs.</p>
+   <pb n="37"/>
+   
+   
+   <p><foreign xml:lang="per"></foreign> <foreign xml:lang="per-lat">bûdan</foreign>, <gloss>to be</gloss>.
 
 The present tense of this verb is irregular, but very
 easy, and must be carefully remembered, as it is the model
 for the variations of person in all tenses.
 
-Indicative Mood, Present Tense.
+<list><head>Present Indicative Active.</head>
 
-Sing.	Plur.
-
-am, lam.	^J\	em,	we	are.
-
-Lf\ i, thou art.	ed,	ye	are.
-
-ast, he is.	and,	they	are.
-
+   <item><foreign xml:lang="per"></foreign> <foreign xml:lang="per-lat">am</foreign>, <gloss>I am</gloss>
+   </item><item>   <foreign xml:lang="per"></foreign> <foreign xml:lang="per-lat">î</foreign>, <gloss>thou art</gloss>
+         
+   </item><item>         <foreign xml:lang="per"></foreign> <foreign xml:lang="per-lat">ast</foreign>, <gloss>he is</gloss>
+   </item><item>    <foreign xml:lang="per"></foreign> <foreign xml:lang="per-lat">êm</foreign>, <gloss>I am</gloss>
+   </item><item>    <foreign xml:lang="per"></foreign> <foreign xml:lang="per-lat">êd</foreign>, <gloss>I am</gloss>
+   </item><item>    <foreign xml:lang="per"></foreign> <foreign xml:lang="per-lat">and</foreign>, <gloss>I am</gloss>
+   
+   </item>
+</list>
+   
 This tense joined to nouns, pronouns, or adjectives, often
 coalesces with them, and loses the initial short \ alif; as
 with pronouns,
 
-Plur.
+   <list><head>Present Indicative Active.</head>
+      
+      <item><foreign xml:lang="per"></foreign> <foreign xml:lang="per-lat">manam</foreign>, <gloss xml:lang="lat">ego sum</gloss>.
+      </item><item>   <foreign xml:lang="per"></foreign> <foreign xml:lang="per-lat">tô yî</foreign>, <gloss xml:lang="lat">tu es</gloss>.
+      </item><item>   <foreign xml:lang="per"></foreign> <foreign xml:lang="per-lat">ô ast,</foreign>, <gloss xml:lang="lat">ille est</gloss>.
 
-jUc
+      </item><item>   <foreign xml:lang="per"></foreign> <foreign xml:lang="per-lat">mâ îm</foreign>, <gloss xml:lang="lat">nos sumus</gloss>.
+      </item><item>   <foreign xml:lang="per"></foreign> <foreign xml:lang="per-lat">shamâ-îd</foreign>, <gloss xml:lang="lat">vos estis</gloss>.
+      </item><item>   <foreign xml:lang="per"></foreign> <foreign xml:lang="per-lat">êshân and</foreign>, <gloss xml:lang="lat">illi sunt</gloss>.
+      </item>
+</list>
+   
+   <list><head>Present Indicative Active with adjectives.</head>
+      
 
-maim, nos surnus.
-shama-Id, vos estis.
-cMjUlJ eshan and, illi sunt.
+<item>   <foreign xml:lang="per"></foreign> <foreign xml:lang="per-lat">shad am</foreign>, <gloss>I am glad</gloss>.		
 
-Sing,
-manam, ego sum.
-to yl, tu es.
+</item><item>   <foreign xml:lang="per"></foreign> <foreign xml:lang="per-lat">shad î</foreign>, <gloss>thou art glad</gloss>.	
 
-6 ast, ille est.
+</item><item>   <foreign xml:lang="per"></foreign> <foreign xml:lang="per-lat">shad ast</foreign>, <gloss>he is glad</gloss>. 
+</item><item>   <foreign xml:lang="per"></foreign> <foreign xml:lang="per-lat">shad êm</foreign>, <gloss>we are glad</gloss>.
+</item><item>   <foreign xml:lang="per"></foreign> <foreign xml:lang="per-lat">shad êd</foreign>, <gloss>you are	glad</gloss>.
+</item><item>   <foreign xml:lang="per"></foreign> <foreign xml:lang="per-lat">shad and</foreign>, <gloss>they are glad</gloss>.
 
-With adjectives,
+</item></list>
+   <pb n="38"/>
+   
 
-shad am, lam glad.	shad	em,	we	are	glad.
+</p><p>The negatives are formed by prefixing 
+   <foreign xml:lang="per"></foreign> <foreign xml:lang="per-lat">nah</foreign> or 
+   <foreign xml:lang="per"></foreign> <foreign xml:lang="per-lat">na</foreign>,
+   as <foreign xml:lang="per"></foreign> <gloss>I am not</gloss>, etc. but
+   is commonly written <foreign xml:lang="per"></foreign>
+   <foreign xml:lang="per"></foreign> <foreign xml:lang="per-lat">nêst</foreign>, 
+   <gloss>there is not</gloss>, as
 
-shad i, thou art glad.	shad Id, you are	glad.
-
-shad ast, he is glad. x	shad and, they are glad.
-<pb/>3 b
-
-A GRAMMAR OF THE
-
-The negatives are formed by prefixing nail or a na,
-as U / am not, See. but C^wj\  is commonly written
-nest, there is not, as
-
-The path of love is a path to wfych there is no end,
+<cit><quote>The path of love is a path to which there is no end,
 in which there is no remedy for lovers, but to give
-up their souls.	Hafiz.
+up their souls.</quote>	<bibl>Hafiz.</bibl></cit>
 
-Second Present from the defective	hastan,	to	be.
+Second Present from the defective
+   <foreign xml:lang="per"></foreign> <foreign xml:lang="per-lat">hastan</foreign>,	<gloss>to be</gloss>.
 
-Sing.	Plur.
+<list><head>Present Indicative active <gloss>to be 2</gloss></head>
+<item><foreign xml:lang="per"></foreign> <gloss>I am.	</gloss></item>
+<item><foreign xml:lang="per"></foreign> <gloss>thou art.</gloss></item>
+<item><foreign xml:lang="per"></foreign> <gloss>he is.</gloss></item>
+<item><foreign xml:lang="per"></foreign> <gloss>we are.</gloss></item>
 
-I am.	we are.
+<item><foreign xml:lang="per"></foreign> <gloss>you are.</gloss></item>
+<item><foreign xml:lang="per"></foreign> <gloss>they are.</gloss></item>
+</list>
 
-thou art.
-CU-wjb he is.
-
-tXju-A you are.
-they are.
-
-Preterite.
-
-Sing.
-
-/ was.
-thou wasl.
-he was.
-
-Plur.
-
-we were.
-//0« Tre/'e.
-cXOy they were.
-
-Preterite Imperfect.
+   <list><head>Preterite Indicative Active.</head>
 
 
 
+<item><foreign xml:lang="per"></foreign> <gloss>I was.</gloss></item>
+<item><foreign xml:lang="per"></foreign> <gloss>thou wast.</gloss></item>
+<item><foreign xml:lang="per"></foreign> <gloss>he was.</gloss></item>
+
+
+<item><foreign xml:lang="per"></foreign> <gloss>we were.</gloss></item>
+<item><foreign xml:lang="per"></foreign> <gloss>you were.</gloss></item>
+<item><foreign xml:lang="per"></foreign> <gloss>they were.</gloss></item>
+   </list>
+
+   <list><head>Preterite Imperfect Active<note n="grc">Jones does not try to provide a translation to illustrate the English meaning.
+   I add one for now so that we have an English mnemonic (problematic as they may turn out to be).</note>.</head>
+<item><foreign xml:lang="per"></foreign> <gloss>I was being</gloss></item>
+<item><foreign xml:lang="per"></foreign> <gloss>thou wast being</gloss></item>
+<item><foreign xml:lang="per"></foreign> <gloss>he was being</gloss></item>
+<item><foreign xml:lang="per"></foreign> <gloss>we were being</gloss></item>
+<item><foreign xml:lang="per"></foreign> <gloss>you were being</gloss></item>
+<item><foreign xml:lang="per"></foreign> <gloss>they were being.</gloss></item>
+
+   </list>
+<pb n="39"/>
+   
+   <list><head>Compound Preterite Active.</head>
 
 
 
+<item><foreign xml:lang="per">بوده ام</foreign> <gloss>I have been.</gloss></item>
 
-^ ^ Sec.
-<pb/>PERSIAN LANGUAGE.
+<item><foreign xml:lang="per">بوده اي</foreign> <gloss>thou hast been.</gloss></item>
+<item><foreign xml:lang="per">بوده است</foreign> <gloss>he has been.</gloss></item>
 
-30
 
-Compound Preterite.
+<item><foreign xml:lang="per">بوده ايم</foreign> <gloss>we have been,</gloss></item>
+<item><foreign xml:lang="per">بوده ايد</foreign> <gloss>you have been.</gloss></item>
+<item><foreign xml:lang="per">بوده اند</foreign> <gloss>they have been.</gloss></item>
 
-Sing.
+   </list>
+   <list><head>Preterpluperfect Active.</head>
 
-^\ bty I have been.
+<item><foreign xml:lang="per">بوده شدم</foreign> <gloss>I had been.</gloss></item>
+<item><foreign xml:lang="per">بوده شدي</foreign> <gloss>thou had been,</gloss></item>
+<item><foreign xml:lang="per">بوده شد</foreign> <gloss>he had been.</gloss></item>
 
-Lf\ tty or Myi thou hast been.
-C^i\ he has been.
+<item><foreign xml:lang="per">بوده شديم</foreign> <gloss>we had been,</gloss></item>
+<item><foreign xml:lang="per">بوده شديد</foreign> <gloss>you had been,</gloss></item>
+<item><foreign xml:lang="per">بوده شدند</foreign> <gloss>they had been.</gloss></item>
+   </list>
+   <list><head>Future Active.</head>
 
-Piur.
-bbyi we have been,
-you have been.
-oj\ teji they have been.
+<item><foreign xml:lang="per">خواهم بود</foreign> <gloss>I will be.	</gloss></item>
 
-Preterpluperfect.
+<item><foreign xml:lang="per">بواهي بود</foreign> <gloss>thou wilt be.	 </gloss></item>
 
-I had been.
-LfiXts tty thou had been,
-tty he had been.
+<item><foreign xml:lang="per">بواهد بود</foreign> <gloss>he will be.	</gloss></item>
+<item><foreign xml:lang="per">بواهيم بود</foreign> <gloss>we will be.</gloss></item>
+<item><foreign xml:lang="per">بواهيد بود</foreign> <gloss>you will be.</gloss></item>
+<item><foreign xml:lang="per">بوداهند بود</foreign> <gloss>they will be.</gloss></item>
+   </list>
+   <list><head>Imperative Active.</head>
 
-b5y} we had been,
-you had been,
-they had been.
 
-Future.
 
-Zjj I will 6e.	we	will	be.
+      <item><foreign xml:lang="per">باش</foreign> <gloss>be thou 1.</gloss></item>
+      <item><foreign xml:lang="per">باشد</foreign> <gloss>let him be 1.</gloss></item>
+      <item><foreign xml:lang="per">باشيم</foreign> <gloss>let us be 1.</gloss></item>
+      <item><foreign xml:lang="per">باشيد</foreign> <gloss>be	ye 1.</gloss></item>
+      
+      <item><foreign xml:lang="per">باشند</foreign> <gloss>let	them	be 1.</gloss></item><item><foreign xml:lang="per">باش</foreign> <gloss>be thou 1.</gloss></item>
+ 
+      
+      <item><foreign xml:lang="per">بو</foreign> <gloss>be thou 2.</gloss></item>
+      <item><foreign xml:lang="per">باد</foreign> <gloss>let him be 2.</gloss></item>
+   </list>
+<pb n="40"/>
+   
 
-Zjj	thou wilt be.	Jb\yL. you will	be.
+   <list><head>Subjunctive, or Aorist Active 1.</head>
 
-bjj	he will be.	iXJb\jL. they will	be.
+<item><foreign xml:lang="per">باشم</foreign> <gloss>I be 1.</gloss></item>
 
-Imperative.
 
-let us be.
 
-orj) be thou.	0*-^	be	ye.
+<item><foreign xml:lang="per">باشي</foreign> <gloss>thou beest 1.</gloss></item>
 
-or 2>\j let him be.	let	them	be.
-<pb/>'10
+<item><foreign xml:lang="per">باشد</foreign> <gloss>he be 1.</gloss></item>
 
-A GRAMMAR OF THE
+<item><foreign xml:lang="per">باشيم</foreign> <gloss>we be 1.</gloss></item>
 
-Subjunctive, or Aorist.
+<item><foreign xml:lang="per">باشيد</foreign> <gloss>you be 1.</gloss></item>
 
-Sing.
+<item><foreign xml:lang="per">باشند</foreign> <gloss>they be 1.</gloss></item>
+<item><foreign xml:lang="per"></foreign> <gloss>I be 1.</gloss></item>
 
-or	I be.
+   </list>
+   <list><head>Subjunctive, or Aorist Active 2.</head>
+      <item><foreign xml:lang="per">بوم</foreign> <gloss>I be 1.</gloss></item>
+      
 
-\	'	P7
+<item><foreign xml:lang="per">بوي</foreign> <gloss>thou beest 2.</gloss></item>
 
-or	thou beest.
+<item><foreign xml:lang="per">بود</foreign> <gloss>he be 2.</gloss></item>
 
-Ow;U or he be.
+<item><foreign xml:lang="per">بويم</foreign> <gloss>we be 2.</gloss></item>
 
-Potential.
+<item><foreign xml:lang="per">بويد</foreign> <gloss>you be 2.</gloss></item>
 
-I would be.	we	would	be.
+<item><foreign xml:lang="per">بوند</foreign> <gloss>they be 2.</gloss></item>
 
-thou wouldst be.	you	would be.
 
-he would be.	they	would be.
 
-Future Subjunctive.
+   </list>
+   
+   <list><head>Potential Active.</head>
 
-1 shall have been.	*3^	we	shall	have	been,
+<item><foreign xml:lang="per">بودي</foreign> <gloss>I would be.	</gloss></item>
+<item><foreign xml:lang="per">بودي</foreign> <gloss>thou wouldst be.	</gloss></item>
 
-thou shall have been	you shall have	been
+<item><foreign xml:lang="per">بودي</foreign> <gloss>he would be.	</gloss></item>
+<item><foreign xml:lang="per">بوديمي</foreign> <gloss>we	would	be.</gloss></item>
+<item><foreign xml:lang="per">بوديدي</foreign> <gloss>you would be.</gloss></item>
+<item><foreign xml:lang="per">بوداندي</foreign> <gloss>they would be.</gloss></item>
 
-dib 2>2j) he shall have been. cM-tAj they shall have been
+   </list>
 
-Infinitive.
+   <list><head>Future Subjunctive Active.</head>
+<item><foreign xml:lang="per">بوده باشم</foreign> <gloss>I shall have been.</gloss></item>
 
-Present,	by contraction 3^s /0
+<item><foreign xml:lang="per">بوده باشي</foreign> <gloss>thou shall have been.</gloss></item>
 
-Preterite,	.20^ to have been.
+<item><foreign xml:lang="per">بودح باحد</foreign> <gloss>he shall have been.  </gloss></item>
+<item><foreign xml:lang="per">بوده باشيم</foreign> <gloss>we	shall	have	been.</gloss></item>
+<item><foreign xml:lang="per">بوده باشيد</foreign> <gloss>you shall have	been.</gloss></item>
+<item><foreign xml:lang="per">بوده باشند</foreign> <gloss>they shall have been.</gloss></item>
+   </list>
+   
+   <list><head>Present Infinitive Active.</head>
+<item><foreign xml:lang="per">بودن</foreign> <gloss>to be</gloss></item>
+<item><foreign xml:lang="per">بود</foreign> <gloss>to be <note>by contraction </note></gloss></item>
+   </list>
+   <list><head>Preterite Infinitive Active.</head>
+     
+<item><foreign xml:lang="per">بوده شدن</foreign> <gloss>to have been.</gloss></item>
+   </list>
 
-Participles.
+   <list><head>Present Participle Active.</head>
 
-\jtAi being.	been.
 
-shudan, to be,
+<item><foreign xml:lang="per">باشا</foreign> <gloss>being.</gloss></item>
+   </list>
+   <list><head>Preterite Participle Active.</head>
+      
+<item><foreign xml:lang="per">بوده</foreign> <gloss>been.</gloss></item>
+   </list>
+</p>
+   <p><foreign xml:lang="per">شدن</foreign>
+      <foreign xml:lang="per-lat">shudan</foreign>, <gloss>to be</gloss>,
 used in forming the Passive voice.
 
-Plur.
+   <pb n="41"/>
+   
+   <list><head>Present Indicative Passive.</head>
+<item><foreign xml:lang="per">مي شوم</foreign> <gloss>I am.</gloss></item>
+<item><foreign xml:lang="per">مي شوي</foreign> <gloss>thou art.</gloss></item>
+<item><foreign xml:lang="per">مي شود</foreign> <gloss>he is.</gloss></item>
 
-or1	we be.
+<item><foreign xml:lang="per">مي شويم</foreign> <gloss>we are.</gloss></item>
+<item><foreign xml:lang="per">مي شويد</foreign> <gloss>you are.</gloss></item>
+<item><foreign xml:lang="per">مي شوند</foreign> <gloss>they are.</gloss></item>
 
-or	you be.
+   </list>
+   
+   <list><head>Preterite Indicative Passive.</head>
+<item><foreign xml:lang="per">شدم</foreign> <gloss>I was.</gloss></item>
 
-or oJjS they be.
-<pb/>PERSIAN LANGUAGE.
+<item><foreign xml:lang="per">شدي</foreign> <gloss>thou wast.</gloss></item>
+<item><foreign xml:lang="per">شد</foreign> <gloss>he was.</gloss></item>
 
-41
+      <item><foreign xml:lang="per">شديم</foreign> <gloss>we were,</gloss></item>
+      <item><foreign xml:lang="per">شديد</foreign> <gloss>you were,</gloss></item>
+      
+<item><foreign xml:lang="per">شدند</foreign> <gloss>they were.</gloss></item>
+   </list>
 
-Sing.
+   <list><head>Preterite Imperfect Passive.</head>
+      <item><foreign xml:lang="per">مي شدم</foreign> <gloss></gloss></item>
+      <item><foreign xml:lang="per">مي شدي</foreign> <gloss></gloss></item>
+      <item><foreign xml:lang="per">مي شد</foreign> <gloss></gloss></item>
+      <item><foreign xml:lang="per">مي شديم</foreign> <gloss></gloss></item>
+      <item><foreign xml:lang="per">مي شديد</foreign> <gloss></gloss></item>
+      <item><foreign xml:lang="per">مي شدند</foreign> <gloss></gloss></item>
+   </list>
 
-I am.
-up thou art.
-he is.
 
-I was.
 
-thou wast.	ootXii	you	were,
+   <list><head>Compound Preterite Passive.</head>
 
-he was.	Ow	they were.
+<item><foreign xml:lang="per">شده ام</foreign> <gloss>I have been.</gloss></item>
 
-Preterite Imperfect.
 
-^o	iSJu)	8cc-
 
-Compound Preterite.
+<item><foreign xml:lang="per">شده اي</foreign> <gloss>thou hast been. </gloss></item>
+<item><foreign xml:lang="per">شده است</foreign> <gloss>he has been</gloss></item>
+<item><foreign xml:lang="per">شده ايم</foreign> <gloss>we have been.</gloss></item>
+<item><foreign xml:lang="per">شده ايد</foreign> <gloss>you have been.</gloss></item>
 
-■ j*\ ^ I have been.	we	have	been.
+<item><foreign xml:lang="per">شدو اند</foreign> <gloss>they have been.</gloss></item>
+   </list>
+   <list><head>Preterpluperfect Passive.</head>
 
-or thou hast	been. co\	you have been.
+<item><foreign xml:lang="per">شده بودم</foreign> <gloss>I had been.</gloss></item>
 
-61^3 he has been.	j>\	they have been.
+<item><foreign xml:lang="per">شده بودي</foreign> <gloss>thou hadst been.</gloss></item>
+<item><foreign xml:lang="per">شده بود</foreign> <gloss>he had been.	</gloss></item>
+<item><foreign xml:lang="per">شده بوديم</foreign> <gloss>we had been,</gloss></item>
+<item><foreign xml:lang="per">شده بوديد</foreign> <gloss>you had been.</gloss></item>
+<item><foreign xml:lang="per">شده بودند</foreign> <gloss>they had been.</gloss></item>
 
-Preterpluperfect.
 
-2Z31 had been.	we	had	been,
+      </list>
+   <pb n="42"/>
 
-thou hadst been.	you	had	been,
 
-he had been.	they	had	been.
 
-G
+   <list><head>Future Indicative Passive.</head>
 
-idicative Present.
 
-PJur.
+<item><foreign xml:lang="per">خواهم شد</foreign> <gloss>I will be.</gloss></item>
 
-^0 we are.
-^0 you are.
-C^JyL ^jo they are.
+<item><foreign xml:lang="per">خواهي شد</foreign> <gloss>thou wilt be</gloss></item>
 
-Preterite.
+<item><foreign xml:lang="per">خواهد شد</foreign> <gloss>he will be.</gloss></item>
 
-+jxt3 we were.
-<pb/>42
 
-A GRAMMAR OF THE
 
-Future.
+<item><foreign xml:lang="per">خواهيم شد</foreign> <gloss>we will be.</gloss></item>
 
-Sing.
+<item><foreign xml:lang="per">خواهيد شد</foreign> <gloss>you will be.</gloss></item>
 
-X^	I will be.
+<item><foreign xml:lang="per">خواهند شد</foreign> <gloss>they will be.</gloss></item>
+</list>
 
-Ow	thou wilt be
+   <list><head>Imperative Passive.</head>
 
-t5w Xfc\j2w he mil be.
 
-Plur.
+<item><foreign xml:lang="per">شو</foreign> <gloss>be thou.</gloss></item>
 
-xSj	we will be.
+<item><foreign xml:lang="per">شود</foreign> <gloss>let him be.</gloss></item>
 
-Xt>	you will be.
+<item><foreign xml:lang="per">شويم</foreign> <gloss>let us be.</gloss></item>
 
-Xt»	they will be.
+<item><foreign xml:lang="per">شويد</foreign> <gloss>be ye.</gloss></item>
 
-Imperative.
+<item><foreign xml:lang="per">شوند</foreign> <gloss>let them be.</gloss></item>
+	
+   </list>
 
----------------------------------	let us be.
+   <list><head>Subjunctive, or Aorist, Passive.</head>
 
-be thou.	be ye.
+<item><foreign xml:lang="per">شوم</foreign> <gloss>I be.</gloss></item>
 
-let him be.	let them be.
+<item><foreign xml:lang="per">شوي</foreign> <gloss>thou beest.</gloss></item>
+<item><foreign xml:lang="per">شود</foreign> <gloss>he be.</gloss></item>
 
-Subjunctive, or Aorist.
+<item><foreign xml:lang="per">شويم</foreign> <gloss>we be.</gloss></item>
+<item><foreign xml:lang="per">شويد</foreign> <gloss>you be.</gloss></item>
+<item><foreign xml:lang="per">شوند</foreign> <gloss>they be.</gloss></item>
+   </list>
 
-(‘T-Jbe.
+   <list><head>Present Infinitive Passive.</head>
 
-thou beest.
-he be.
+<item><foreign xml:lang="per">شدن</foreign> <gloss>to be.</gloss></item>
+   </list>
+   
+   <list><head>Past Infinitive Passive.</head>
+<item><foreign xml:lang="per">شده بودن</foreign> <gloss>to have been.</gloss></item>
+   </list>
+   <list><head>Present Participle Passive.</head>
 
-we be.
-X^> you be.
-X^£> they be.
+<item><foreign xml:lang="per">شوا</foreign> <gloss>being.</gloss></item>
+   </list>
+   <list><head>Past Participle Passive.</head>
+      
+<item><foreign xml:lang="per">شده</foreign> <gloss>having been.</gloss></item>
+   </list>
+   <pb n="43"/>
+   
+   
+   <foreign xml:lang="per">خواستن</foreign> <foreign xml:lang="per-lat">kh’âstan</foreign> or 
+   <foreign xml:lang="per">خواهيدن</foreign> <foreign xml:lang="per-lat">kh'âhîdan</foreign>, <gloss>to be willing</gloss>.
 
-Infinitive.
+   <list><head>Aorist Active.<note>used in forming the Compound Future of verbs.</note></head>
 
-X£ to be.
+      
 
-*x£> to have been.
 
-Participles.
 
-\jts being.
-
-£X£> having been.
-<pb/>PERSIAN LANGUAGE.
-
-43
-
-kh’astan or	kh	ahldan,	to	be willing.
-
-Aorist,
-
-used in forming the Compound Future of verbs.
-
-Sing.
-
-I will,
-thou wilt,
-he will.
-
+<item><foreign xml:lang="per">خواهم</foreign> <gloss>I will,</gloss></item>
+<item><foreign xml:lang="per">خواهي</foreign> <gloss>thou wilt,</gloss></item>
+<item><foreign xml:lang="per">خواهد</foreign> <gloss>he will.</gloss></item>
+<item><foreign xml:lang="per">خواهيم</foreign> <gloss>we will</gloss></item>
+<item><foreign xml:lang="per">خواهيد</foreign> <gloss>you will</gloss></item>
+<item><foreign xml:lang="per">خواهند</foreign> <gloss>they will</gloss></item>
+</list>
 The other tenses are formed like those of the regular verbs.
 
-OF TENSES.
+</p></div>
+         <div type="textpart" subtype="section">
+            <head style="caps">of tenses.</head>
+            
 
-It will here be useful to exhibit an analysis of all the
+<p>It will here be useful to exhibit an analysis of all the
 tenses of a Persian verb, and to show in what manner they
 are deduced from the infinitive, which is properly consi-
 dered by the Oriental grammarians as the spring and foun-
-tain of all the moods and tenses, and which, therefore, is*
-called in Arabico masdar or, the source.
+tain of all the moods and tenses, and which, therefore, is
+called in Arabic <foreign xml:lang="ara">مصدر</foreign> <foreign xml:lang="ara-lat">masdar</foreign> or, <gloss>the source</gloss>.
 
-All regular infinitives end in	as	rasidan,
+</p><p>All regular infinitives end in as 
+   <foreign xml:lang="per">رسيدن</foreign> <foreign xml:lang="per-lat">rasîdan</foreign>,
 
-to arrive,	nalldan, to grieve^ tarsldan, to
+   <gloss>to arrive</gloss>,	
+   <foreign xml:lang="per">ناليدن</foreign> <foreign xml:lang="per-lat">nâlîdan</foreign>, 
+   <gloss>to grieve</gloss>, 
+   <foreign xml:lang="per">ترسيدن</foreign> <foreign xml:lang="per-lat">tarsîdan</foreign>, <gloss>to
 
-fear.
+fear</gloss>.
 
-The third person of the preterite is formed by rejecting
-uj from the infinitive,	he	arrived, OyiU he grievedf
+</p><p>The third person of the preterite is formed by rejecting
+   <foreign xml:lang="per">ن</foreign> from the infinitive, 
+   <foreign xml:lang="per">رسيد</foreign> <gloss>he arrived</gloss>, 
+   <foreign xml:lang="per">ناليد</foreign> <gloss>he grieved</gloss>,
 
-he feared.
+   <foreign xml:lang="per">ترسيد</foreign> <gloss>he feared</gloss>.
 
-g 2
 
-Plur.
+   <pb n="44"/>
 
-we will,
-you will.
-cXjMp they will.
 
-‘ *5
-<pb/>44
 
-A GRAMMAR OF THE
+   <cit><bibl></bibl><quote>I said, is the zephyr breathing from the garden? or is a
+caravan of musk coming; from Khoten?
+   </quote></cit>
+   
+</p><p>The letter <foreign xml:lang="per">ب</foreign> prefixed to this tense is often redundant,
+   as <foreign xml:lang="per">جامه را ببرد و برفت</foreign> <gloss>he took the mantle, and departed</gloss>.
 
-\jj e.Ct.^c tjUj^
+</p><p>From the preterite is formed the imperfect tense by pre-
+   fixing the particles <foreign xml:lang="per">مي</foreign> or 
+   <foreign xml:lang="per">همي</foreign>, as 
+   <foreign xml:lang="per">ميرسيد</foreign> or <foreign xml:lang="per">همي رسيد</foreign>,
 
-I said, is the zephyr breathing from the garden? or is a
-caravan of musk comius; from Khoten?
+    <gloss>he was arriving</gloss>.
 
-The letter l_j> prefixed to this tense is often redundant,
-as CUsyj	\jksc\^ he look the mantle,	and departed.
-
-From the preterite is formed the imperfect tense by pre-
-fixing the particles or as	or
-
-he was arriving.
-
-In the third persons the imperfect tense is sometimes
-expressed by adding L$ to the preterite, as LijsJU he
-was grieving^ L^txl'txJU they were grieving; this form is
+</p><p>In the third persons the imperfect tense is sometimes
+   expressed by adding <foreign xml:lang="per">ي</foreign> to the preterite, 
+   as <foreign xml:lang="per">ناليدي</foreign> <gloss>he
+      was grieving</gloss>,  
+   <foreign xml:lang="per">ناليدندي</foreign> <gloss>they were grieving</gloss>; this form is
 common in prose, as
 
-J	j\ bj\y J t/joio	LlijJ
 
-c/wCoj+j
 
-They were immersed in pleasure and delight, and were
+   <cit><bibl></bibl><quote>They were immersed in pleasure and delight, and were
 constantly listening to the melody of the lute, and of
-the cymbal.
+the cymbal.</quote></cit>
 
-The same letter L? added to the first and third persons
+</p><p>The same letter <foreign xml:lang="per">ي</foreign> 
+   added to the first and third persons
 of the past tense, forms the potential mood, as <gloss>I
    <pb n="45"/>
    
@@ -2169,8 +2270,8 @@ of the past tense, forms the potential mood, as <gloss>I
 
 etc. grieve</gloss>; so <persName>Ferdusi</persName> in a love song,
 
-If I could sleep one night on thy bosom, I should seem to
-touch the sky with my exalted head.
+   <cit><bibl></bibl><quote>If I could sleep one night on thy bosom, I should seem to
+touch the sky with my exalted head.</quote></cit>
 
 And <persName>Hafiz</persName>,
 
