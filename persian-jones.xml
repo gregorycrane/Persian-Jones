@@ -1331,277 +1331,411 @@ From the two examples in a preceding section it appears
 that the Persian plural is formed by adding ^ or ^ t0
 the singular: but these terminations are not, as in many
 languages, wholly arbitrary; on the contrary, they - are
-<pb/>A GRAMMAR OF THE
+   <pb n="24"/>
 
-24
+
 
 regulated with the utmost precision. The names of animals
-form their plural in as
-
-gurg, a wolf.	gurgan,	wolves.
-
-CiSlij palang, a hjger.	CiI£lL	palangan,	tijgers.
-
+form their plural in <foreign xml:lang="per">ان</foreign> as
+<list>
+   <item>
+   <foreign xml:lang="per">گرگ</foreign> <foreign xml:lang="per-lat">gurg</foreign>, <gloss>a wolf</gloss>.	
+</item><item>
+      <foreign xml:lang="per">گرگان</foreign> <foreign xml:lang="per-lat">gurgân</foreign>, <gloss>wolves</gloss>.
+</item><item>
+   <foreign xml:lang="per">پلنگ</foreign> <foreign xml:lang="per-lat">palang</foreign>, <gloss>a tiger</gloss>.
+</item><item>
+   <foreign xml:lang="per">پلنگان</foreign> <foreign xml:lang="per-lat">palangân</foreign>, <gloss>tigers</gloss>.
+   </item>
+</list>
 but words which signify things without life make their
 plurals by the addition of the syllable as
 
-bal, a wing.	balha, wings.
-
-saliil, a shore.	sahilha,.,y/t0ry.
-
+   <list>
+      <item>
+         <foreign xml:lang="per">بال</foreign> <foreign xml:lang="per-lat">bâl</foreign>, <gloss>a wing</gloss>.	
+      </item><item>
+         <foreign xml:lang="per">بالها</foreign> <foreign xml:lang="per-lat">bâlhâ</foreign>, <gloss>wings</gloss>.
+      </item><item>
+         
+   <foreign xml:lang="per">ساحل</foreign> <foreign xml:lang="per-lat">sâhil</foreign>, <gloss>a shore</gloss>.	
+      </item><item>
+         <foreign xml:lang="per">ساحلها</foreign> <foreign xml:lang="per-lat">sâhilhâ</foreign>, <gloss>shores</gloss>.
+      </item>
+   </list>
 Both these plurals occur in the following elegant distich:
 
-The night is dark; the fear of the waves oppress us, and
+   <cit><bibl></bibl><quote>The night is dark; the fear of the waves oppress us, and
 the whirlpool is dreadful! How should those, who bear
 light burdens on the shores, know the misery of our
-situation ?
+situation ?</quote></cit>
 
-There are, however, a few exceptions to these rules:
-the names of animals sometimes make their plurals in
-as well as in J, asj^ shutur, a camel,	shuturha
+</p><p>There are, however, a few exceptions to these rules:
+   the names of animals sometimes make their plurals in <foreign xml:lang="per"></foreign>
+   as well as in <foreign xml:lang="per"></foreign>, as
+   
+   <list>
+      <item>
+         <foreign xml:lang="per">شتر</foreign> <foreign xml:lang="per-lat">shutur</foreign>, <gloss>a camel</gloss>,	
+</item><item>
+         <foreign xml:lang="per">شترها</foreign> <foreign xml:lang="per-lat">shuturhâ</foreign>, <gloss>camels</gloss>;
+</item><item>
+   <foreign xml:lang="per">شتران</foreign> <foreign xml:lang="per-lat">shuturân</foreign>, <gloss>camels</gloss>;
+         
+      </item>
+   </list>
+and on the other side the
 
-and	shuturan,	camels; and on the other side the
+names of things sometimes have plurals in 
+   <foreign xml:lang="per">ان</foreign>, as 
 
-names of things sometimes have plurals in (j\, as L-J lab,
-a lip,	laban, lips.
-<pb/>PERSIAN LANGUAGE.
+   <list>
+      <item>
+         <foreign xml:lang="per">لب</foreign> <foreign xml:lang="per-lat">lab</foreign>, <gloss>a lip</gloss>,	
+      </item><item>
+         <foreign xml:lang="per">لبان</foreign> <foreign xml:lang="per-lat">labân</foreign>, <gloss>lips</gloss>.
+      </item></list>
+   <pb n="25"/>
+   
 
-25
+Names of persons ending in <foreign xml:lang="per">ا</foreign> or 
+   <foreign xml:lang="per">و</foreign> form their plurals in
+   <foreign xml:lang="per">يان</foreign>, as 
+   <foreign xml:lang="per">دانا</foreign> <foreign xml:lang="per-lat">dânâ</foreign>, <gloss>a learned man</gloss>, 
+   <foreign xml:lang="per">دانايان</foreign> <foreign xml:lang="per-lat">dânâyân</foreign>, <gloss>learned
+      men</gloss>; and those that end in <foreign xml:lang="per">ه</foreign> are made plural by changing
+   the last letter into <foreign xml:lang="per">گان</foreign>
+as 
+<foreign xml:lang="per">بچه</foreign> <foreign xml:lang="per-lat">bachah</foreign>, <gloss>an infant</gloss>,
+      <foreign xml:lang="per">بچگان</foreign> <foreign xml:lang="per-lat">bachagân</foreign>, <gloss>infants</gloss>; and sometimes by adding as a se'
+         parate syllable; thus,	
+         <foreign xml:lang="per">فرشته</foreign> <foreign xml:lang="per-lat">farishtah</foreign>,	<gloss>an	angel</gloss>,
 
-Names of persons ending in \ or j form their plurals in
-a\j, as Ub dana, a learned man, wUib da, layan, learned
-men; and those that end in 6 are made plural by changing
-the last letter intoas bachah, an infant,
-bachagan, infants; and sometimes by adding as a se'
-parate syllable; thus,	farishtah,	an	angel,
+   <foreign xml:lang="per">فرشته گان</foreign> <foreign xml:lang="per-lat">farishtah gân</foreign>, <gloss>angels</gloss>.
 
-farishtah gan, angels.
+</p><p>If the name of a thing ends in <foreign xml:lang="per">ه</foreign>, the final letter is ab-
+   sorbed in the plural before the syllable <foreign xml:lang="per">ها</foreign>, as 
+   <foreign xml:lang="per">خانه</foreign> <foreign xml:lang="per-lat">khânah</foreign>,
+   <gloss>a house</gloss>, 
+   <foreign xml:lang="per">خانها</foreign> <foreign xml:lang="per-lat">khânahâ</foreign>, <gloss>houses</gloss>.
 
-If the name of a thing ends in X, the final letter is ab-
-sorbed in the plural before the syllable l, as khanah,
-a house, khanaha, houses.
-
-In some modern Persian books, as the Life of Nader
-Shah and others, the plural often ends in ol or in oU
-if the singular has a final X.
+</p><p>In some modern Persian books, as the <title>Life of <persName>Nader
+Shah</persName></title> and others, the plural often ends in 
+   <foreign xml:lang="per">ات</foreign> or in 
+   <foreign xml:lang="per">جات</foreign>
+   if the singular has a final <foreign xml:lang="per"></foreign>.
 
 Sing.	Plur.
+   <list>
+      <item><foreign xml:lang="per">نوازش</foreign> <foreign xml:lang="per-lat">nuwâzish</foreign>, <gloss>a favour</gloss>.	
+      </item>
+      <item>
+         
+         <foreign xml:lang="per">نوازشات</foreign> <foreign xml:lang="per-lat">nuwâzishât</foreign>, <gloss>favours</gloss>.
+      </item>
+      <item>        <foreign xml:lang="per">قلعه</foreign> <foreign xml:lang="per-lat">kalεat</foreign>, <gloss>a castle</gloss>. 
+      </item>
+      <item>          <foreign xml:lang="per">قلعجات</foreign> <foreign xml:lang="per-lat">kalεajât</foreign>, <gloss>castles</gloss>.
 
-nuwazish, a favour.	\mwdzhhid,	favours.
+      </item>
+</list>
 
-xjj kaltat, a castle. oUxii kaltajat, castles.
-But these must be considered as barbarous, and are a proof
+ But these must be considered as barbarous, and are a proof
 that the late dreadful commotions which have ruined the
 empire'of the Persians, have begun to destroy even the
 beautiful'simplicity of their language.
 
-It must not be omitted, that the Arabic substantives
+</p><p>It must not be omitted, that the Arabic substantives
 frequently have two sorts of plurals, one formed according
 
-E
-<pb/>26
 
-A GRAMMAR OF THE
+   <pb n="26"/>
+
+
 
 to the analogy of the Persian nouns, and another after the
-irregular manner of the Arabians; as £.ayb, a vice,
-taybha and	tawayb,	vices;	kaltah,	a castle,
+irregular manner of the Arabians; as 
 
-kalhiha and kilat, castles; nayib, a viceroy,
-plur. lJ\y niiwab, which our countrymen have mistaken
-for the singular number, and say very improperly a nabob!''.
+   <foreign xml:lang="per">عيب</foreign> <foreign xml:lang="per-lat">εayb</foreign>, <gloss>a vice</gloss>,
+   <foreign xml:lang="per">عيبها</foreign> <foreign xml:lang="per-lat">εaybhâ</foreign>
+   and 
+   <foreign xml:lang="per">عوايب</foreign> <foreign xml:lang="per-lat">εawayb</foreign>,
+   <gloss>vices</gloss>;	
+   <foreign xml:lang="per">قلعه</foreign> <foreign xml:lang="per-lat">kalεah</foreign>,
+   <gloss>a castle</gloss>,
+
+   <foreign xml:lang="per">قلعها</foreign> <foreign xml:lang="per-lat">kalεahâ</foreign>
+   and 
+   
+   <foreign xml:lang="per">قلاع</foreign> <foreign xml:lang="per-lat">kilaε</foreign>,
+      <gloss>castles</gloss>; 
+   <foreign xml:lang="per">نايب</foreign> <foreign xml:lang="per-lat">nâyib</foreign>, 
+   <gloss>a viceroy</gloss>,
+   plur. <foreign xml:lang="per">نوٌاب</foreign> <foreign xml:lang="per-lat">nûwâb</foreign>, 
+   which our countrymen have mistaken
+   for the singular number, and say very improperly <quote>a nabob!</quote>.
 This is one argument out of a great number to prove the
 impossibility of learning the Persian language accurately
-without a: moderate knowledge of the Arabic; and if the
+without a moderate knowledge of the Arabic; and if the
 learner will follow my advice, he will peruse with atten-
 tion the Arabic grammar of Erpeniust before he attempts
 to translate a Persian manuscript.
 
-OF ADJECTIVES.
-
-The Persian adjectives admit of no variation, but in
+</p></div>
+         <div type="textpart" subtype="section">
+            <head style="caps">of adjectives.</head>
+            
+            <p>The Persian adjectives admit of no variation, but in
 the degrees of comparison. The positive is made com-
 
-” It is no mistake. The plural is used in India as a respectful distinction.
+               <note>It is no mistake. The plural is used in India as a respectful distinction.</note>
 
-+ There are two fine editions of this grammar, the first published by the very
-learned Golius, and the second by the late Albert Schultens; both these Orientalists
+<note>There are two fine editions of this grammar, the first published by the very
+   learned <persName>Golius</persName>, and the second by the late 
+   <persName>Albert Schultens</persName>; both these Orientalists
 have added a number of Arabic odes and elegies, which they have explained in excel-
-lent notes*, but these editions are scarce; and Meninski has inserted in his grammar
-the substance of Erpenius, with many new remarks.
-<pb/>PERSIAN LANGUAGE.
+lent notes; but these editions are scarce; and <persName>Meninski</persName> has inserted in his grammar
+   the substance of <persName>Erpenius</persName>, with many new remarks.</note>
+<pb n="27"/>
+   
+   parative by adding to it <foreign xml:lang="per">تر</foreign> and superlative by 
+   adding
+   <foreign xml:lang="per">ترين</foreign> as
+   
+   <list>
+      <item><foreign xml:lang="per">خوب</foreign> <foreign xml:lang="per-lat">khub</foreign>, <gloss>fair</gloss>.</item>
+      <item><foreign xml:lang="per">خوبتر</foreign> <foreign xml:lang="per-lat">khubtar</foreign>, <gloss>fairer</gloss>.</item>
+      
+      <item><foreign xml:lang="per">خوبترين</foreign> <foreign xml:lang="per-lat">khubtarin</foreign>, <gloss>fairest</gloss>.</item>   
+   </list>
 
-21
+ 
 
-parative by adding to it and superlative by adding
+</p><p>Our <gloss>than</gloss> after a comparative is expressed by the prepo-
+sition 
+   <foreign xml:lang="per">از</foreign> <foreign xml:lang="per-lat">az</foreign>, 
 as
 
-CJyL khub, fair,	khubtar, fairer,
 
-khubtarin,fairest.
 
-Our than after a comparative is expressed by the prepo-
-sition j\ az, as
-
-jjj
-
-The brightness of thy face is more splendid than the cheek
+   <cit><bibl></bibl><quote>The brightness of thy face is more splendid than the cheek
 of day; the blackness of thy locks is darker than the
-hue of night.
+hue of night.</quote></cit>
 
-The moon is bright, but thy face is brighter than it; the
+   <cit><bibl></bibl><quote>The moon is bright, but thy face is brighter than it; the
 cypress is graceful, but thy shape is more graceful than
-the cypress.
+the cypress.</quote></cit>
 
 An adjective is sometimes used substantively, and forms
-its plural like a noun,	haklman, the wise; if it be
+its plural like a noun,	
+   <foreign xml:lang="per">حکيمان</foreign> <foreign xml:lang="per-lat">hakîmân</foreign>, 
+   <gloss>the wise</gloss>; if it be
 
-a compounded adjective, the syllables and^>, denoting
+a compounded adjective, the syllables <foreign xml:lang="per">ان</foreign> and
+   <foreign xml:lang="per">را</foreign>, denoting
 the plural number and the oblique case, are placed at the
-e 2
-<pb/>28
 
-A GRAMMAR OF THE
+   <pb n="28"/>
 
-end of it, aSjyl 5j>pari-ro, angel face; oblique
-parlrorii; plural	parhoyan;	oblique
 
-pariroyfinra; as
 
-The damsels with faces like angels are dejected at the
+end of it, 
+   <foreign xml:lang="per">پري رو</foreign> <foreign xml:lang="per-lat">parîrô</foreign>, 
+   <gloss>angel face</gloss>; oblique
+   <foreign xml:lang="per">پري رورا</foreign> <foreign xml:lang="per-lat">parîrôrâ</foreign>; plural	parhoyan;	oblique
+   <foreign xml:lang="per">پري رويانرا</foreign> <foreign xml:lang="per-lat">parîrôyânrâ</foreign>; as
+
+   <cit><bibl></bibl><quote>The damsels with faces like angels are dejected at the
 sight of that cheek ; the nymphs with the fragrance
 of jessamine are filled with envy when they view those
-curls.
+curls.</quote></cit>
 
-OF PRONOUNS.
+</p></div>
+         
+         <div type="textpart" subtype="section">
+            <head style="caps">of pronouns.</head>
+            
 
-The personal pronouns are. these which follow ;
+<p>The personal pronouns are. these which follow ;
+   <list><head><foreign xml:lang="per">من</foreign> <foreign xml:lang="per-lat">man</foreign>, <gloss>I</gloss>.</head>
 
-man, /.
+      <item><foreign xml:lang="per">من</foreign> <foreign xml:lang="per-lat">man</foreign>, <gloss>I</gloss>.</item>
+      <item><foreign xml:lang="per">مرا</foreign> <foreign xml:lang="per-lat">mara</foreign>, <gloss>me</gloss> (oblique).</item>
 
-Sing, man, I.	Oblique,	\yc mara, me.
 
-Plur. U ma, we (or	mara,	us	(or
+      <item><foreign xml:lang="per">ما</foreign> <foreign xml:lang="per-lat">mâ</foreign>, <gloss>we</gloss></item>
+      <item><foreign xml:lang="per">مايان</foreign> <foreign xml:lang="per-lat">mâyân</foreign>, <gloss>we</gloss> </item>
+      <item><foreign xml:lang="per">مرا</foreign> <foreign xml:lang="per-lat">marâ</foreign>, <gloss>me</gloss>  (oblique)</item>
+      <item><foreign xml:lang="per">مارا</foreign> <foreign xml:lang="per-lat">mârâ</foreign>, <gloss>us</gloss> (obique)</item>
+      <item><foreign xml:lang="per">مايانرا</foreign> <foreign xml:lang="per-lat">mâyânrâ</foreign>, <gloss>us</gloss> (oblique)</item>
 
-eAA* mayan).	\y\jUo mayanra).
 
-to, thou.
 
-Sing. j3to, thou. Obi. \y tora, thee.
-Plur. shuma, you or ye,*	shumara,	you	(or
 
-(or	shumayan).	\y\Jshumayanra).
+</list>
+   
+ <list>  <head><foreign xml:lang="per">تو</foreign> <foreign xml:lang="per-lat">tô</foreign>, <gloss>thou</gloss>.</head>
 
-^ shuma is useh ^ you in English, in the singular number, for y.
-<pb/>PERSIAN LANGUAGE.
 
-29
 
-j\ o, he.
+    <item><foreign xml:lang="per">تو</foreign> <foreign xml:lang="per-lat">tô</foreign>, <gloss>thou</gloss>.</item>
+    <item><foreign xml:lang="per">تورا</foreign> <foreign xml:lang="per-lat">tôrâ</foreign>, <gloss>thee</gloss> (oblique).</item>
+       <item><foreign xml:lang="per">شما</foreign> <foreign xml:lang="per-lat">shumâ</foreign>, <gloss>you</gloss> or <gloss>ye</gloss>.<note>shumâ is used, as <gloss>you</gloss> in English, in the singular number, for 
+   <foreign xml:lang="per"></foreign>.</note></item>	
+    <item><foreign xml:lang="per">شمارا</foreign> <foreign xml:lang="per-lat">shumârâ</foreign>, <gloss>you</gloss> (oblique).</item>
+    <item><foreign xml:lang="per">شمايانرا</foreign> <foreign xml:lang="per-lat">shumâyânra</foreign>, <gloss>you</gloss> (oblique).</item>
 
-Sing. j\ 6, he, she, or it. Obi. \jj\ ora, him, her} or it.
-Plur. eshan, they.	eshanra, them.
 
-The poets often use 1^ for	as
 
-I went, and bruised their helmets; I disfigured their
-beautiful faces.
 
-After a preposition j\ is often changed into	or j or
+ </list>
+   
+   <pb n="29"/>
+</p><p><foreign xml:lang="per">او</foreign> <foreign xml:lang="per-lat">ô</foreign>, <gloss>he</gloss>.
 
-lSj\, as
+<list>
+   
+   <item><foreign xml:lang="per">او</foreign> <foreign xml:lang="per-lat">ô</foreign>, 
+      <gloss>he, she, or it</gloss>. </item>
+   <item>Oblique. <foreign xml:lang="per">اورا</foreign> <foreign xml:lang="per-lat">ôra</foreign>, <gloss>him, her, or it</gloss>.</item>
+   <item><foreign xml:lang="per">ايشان</foreign> <foreign xml:lang="per-lat">êshân</foreign>, 
+      <gloss>they</gloss>.</item>
+   <item><foreign xml:lang="per">ايشانرا</foreign> <foreign xml:lang="per-lat">êshânrâ</foreign>, 
+      <gloss>them</gloss>.</item>
+</list>
+   The poets often use <foreign xml:lang="per">شان</foreign> for 
+   <foreign xml:lang="per">ايشان</foreign> as
 
-J\
+   <cit><bibl></bibl><quote>I went, and bruised their helmets; I disfigured their
+      beautiful faces.</quote></cit>
 
-When the king of the world showed his face, the general
-kissed the ground, and advanced before him. Ferdusi.
-
-Sometimes after the preposition (—> in, the letter 5 is
-inserted to prevent the hiatus, as j bado for jb ba-6, to
-him; the same may be observed of	badan	for
-
-ba-an, to that,	badin for to this*
-
-* In the same manner, and from the same motives, the old Romans added a d to
-many words followed by a vowel; thus Horace, if we adopt the reading of Muretus,
-uses tibid for tibi.
-
-Omne crede diem tibid illuxisse supremum.
-<pb/>30
-
-A GRAMMAR OF THE
-
-The possessives are the same with the personals, and arc
-distinguished by being'added to their substantives ; as
-
-Sing.	(j-^o dili man,	my heart. (> ,
-	y dili to.	thy heart.
-(L?j way or) 4dili 6,		his or her heart.
-Plur.	Uo dilhai ma,	our hearts.
-	dilhai shuma,	your hearts.
-Poet.	u\3	
-	dilhai eshan,	their hearts.
-Poet.		
-
-They are often expressed in the singufar number by these
-final letters (with the short a pronounced before them),
-I* am, o at, and ash, and after an \ or 6 by J am,
-at, and ash: but after nouns ending in \ alif or
-j waw the letter lS ya is inserted before the finals ^ O
+After a preposition <foreign xml:lang="per"></foreign> is often changed into 
+   <foreign xml:lang="per">او</foreign> or 
+   <foreign xml:lang="per">و</foreign> or
+   <foreign xml:lang="per">اوي</foreign>,
 as
 
-^ dilam,
-cub dilat,
 
-(^3 dilash,
-p\	jamahi	am,
 
-jamahi at,
-Ch\	jamahi ash,
+<cit><quote>When the king of the world showed his face, the general
+   kissed the ground, and advanced before him. <bibl><persName>Ferdusi</persName>.</bibl></quote></cit>
 
-my heart.
+Sometimes after the preposition <foreign xml:lang="per">ب</foreign> <gloss>in</gloss>, the letter
+   <foreign xml:lang="per">د</foreign> is
+inserted to prevent the hiatus, as 
+   <foreign xml:lang="per">بدو</foreign> <foreign xml:lang="per-lat">badô</foreign> for 
+   <foreign xml:lang="per">باو</foreign> <foreign xml:lang="per-lat">ba-ô</foreign>, 
+   <gloss>to
+   him</gloss>; the same may be observed of
+   <foreign xml:lang="per">بدان</foreign> <foreign xml:lang="per-lat">badân</foreign> for
 
-thy heart.
+   <foreign xml:lang="per">بآن</foreign> <foreign xml:lang="per-lat">ba-ân</foreign>, <gloss>to that</gloss>,
+   <foreign xml:lang="per">بدين</foreign> <foreign xml:lang="per-lat">badîn</foreign> for 
+   <foreign xml:lang="per">باين</foreign>  <gloss>to this</gloss>.
 
-his or her heart.
+<note>In the same manner, and from the same motives, the old Romans added a d to
+   many words followed by a vowel; thus <persName>Horace</persName>, if we adopt the reading of 
+   <persName>Muretus</persName>,
+   uses <foreign xml:lang="lat">tibid</foreign> for <foreign xml:lang="lat">tibi</foreign>.
 
-my robe.
+   <cit><bibl></bibl><quote xml:lang="lat">Omne crede diem tibid illuxisse supremum.</quote></cit>
+</note> 
+   
+   <pb n="30"/>
 
-thy robe.
 
-his or her robe.
-<pb/>PERSIAN LANGUAGE.
 
-31
+</p><p>The possessives are the same with the personals, and arc
+distinguished by being added to their substantives ; as
 
-moyam,	my hair.
+<list>
+<item><foreign xml:lang="per">دل من</foreign> <foreign xml:lang="per-lat">dili man</foreign>,	<gloss>my heart. </gloss></item>
+   <item><foreign xml:lang="per">دل تو</foreign> <foreign xml:lang="per-lat">dili to</foreign>,	<gloss>thy heart.</gloss></item>
+   <item><foreign xml:lang="per">دل او</foreign> <foreign xml:lang="per-lat">dili ô</foreign>,	<gloss>his or her heart.</gloss></item>
+   <item><foreign xml:lang="per">دل وي</foreign> <foreign xml:lang="per-lat">dili way</foreign>,	<gloss>his or her heart.</gloss></item>
+   <item><foreign xml:lang="per">دلهاي ما</foreign> <foreign xml:lang="per-lat">dilhâi mâ</foreign>,	<gloss>our hearts.</gloss></item>
+   <item><foreign xml:lang="per">دلهاي شما</foreign> <foreign xml:lang="per-lat">dilhâi shumâ</foreign>,	<gloss>your hearts.</gloss></item>
+   <item><foreign xml:lang="per">دلهاي تان</foreign> <foreign xml:lang="per-lat">dilhâi tân</foreign>,	<gloss>your hearts (poetic).</gloss></item>
+	
+   <item><foreign xml:lang="per">دلهاي ايسان</foreign> <foreign xml:lang="per-lat">dilhâi êshân</foreign>,	<gloss>their hearts.</gloss></item>
+   <item><foreign xml:lang="per">دلهاي شان</foreign> <foreign xml:lang="per-lat">dilhâi shân</foreign>,	<gloss>their hearts (poetic).</gloss></item>
+</list>
 
-Cyyo moyat,	thy hair.
+They are often expressed in the singular number by these
+final letters (with the short a pronounced before them),
+   <foreign xml:lang="per">م</foreign> <foreign xml:lang="per-lat">am</foreign>, 
+      <foreign xml:lang="per">ت</foreign> <foreign xml:lang="per-lat">at</foreign>, and 
+         <foreign xml:lang="per">ش</foreign> <foreign xml:lang="per-lat">ash</foreign>, 
+   and after an <foreign xml:lang="per">ا</foreign> or <foreign xml:lang="per">ه</foreign> by 
+   <foreign xml:lang="per">ام</foreign> <foreign xml:lang="per-lat">am</foreign>,
+   <foreign xml:lang="per">ات</foreign> <foreign xml:lang="per-lat">at</foreign>, 
+   and 
+   <foreign xml:lang="per">اش</foreign>  <foreign xml:lang="per-lat">ash</foreign>: 
+   but after nouns ending in 
+   <foreign xml:lang="per">ا</foreign> <foreign xml:lang="per-lat">alif</foreign> or
+   <foreign xml:lang="per">و</foreign> <foreign xml:lang="per-lat">wâw</foreign> 
+   the letter 
+   <foreign xml:lang="per">ي</foreign> <foreign xml:lang="per-lat">ya</foreign> is inserted before the finals 
+   <foreign xml:lang="per">م</foreign>
+   <foreign xml:lang="per">ت</foreign>
+   <foreign xml:lang="per">ش</foreign>
+   
+as
 
-U~yc moyash,	his or her	hair.
+<list>
+   
+<item><foreign xml:lang="per">دلم</foreign> <foreign xml:lang="per-lat">dilam</foreign>, <gloss>my heart.</gloss></item>
+   <item><foreign xml:lang="per">دلت</foreign> <foreign xml:lang="per-lat">dilat</foreign>, <gloss>thy heart.</gloss></item>
 
-In poetry, and sometimes in prosfe, the	oidique cases of the
+   <item><foreign xml:lang="per">دلش</foreign> <foreign xml:lang="per-lat">dilash</foreign>, <gloss>his or her heart.</gloss></item>
+   <item><foreign xml:lang="per">جامهء ام</foreign> <foreign xml:lang="per-lat">jamahi am</foreign>, <gloss>my robe.</gloss></item>
 
-personal pronouns are also expressed by ^ O as
+   <item><foreign xml:lang="per">جامهء ات</foreign> <foreign xml:lang="per-lat">jamahi at</foreign>, <gloss>thy robe.</gloss></item>
+   <item><foreign xml:lang="per">جامهء اش</foreign> <foreign xml:lang="per-lat">jamahi ash</foreign>, <gloss>his or her robe.</gloss></item>
 
-Joy be to Shiraz ancf its charming-borders! O/heaven,
-preserve it from decay!
+
+
+
+
+
+
+
+
+
+
+
+   <pb n="31"/>
+   
+   <item><foreign xml:lang="per">مويم</foreign> <foreign xml:lang="per-lat">moyam</foreign>, <gloss>my hair.</gloss></item>
+
+   <item><foreign xml:lang="per">مويت</foreign> <foreign xml:lang="per-lat">moyat</foreign>, <gloss>thy hair.</gloss></item>
+
+   <item><foreign xml:lang="per">مويش</foreign> <foreign xml:lang="per-lat">moyash</foreign>, <gloss>his or her hair.</gloss></item>
+
+</list>
+
+In poetry, and sometimes in prose, the	oblique cases of the
+
+personal pronouns are also expressed by 
+   <foreign xml:lang="per"></foreign> <foreign xml:lang="per"></foreign> <foreign xml:lang="per"></foreign> as
+
+<cit><bibl></bibl><quote>Joy be to Shiraz ancf its charming-borders! O/heaven,
+   preserve it from decay!</quote></cit>
 
 These oblique cases are joined to any word in the sentence
 which the poet finds convenient; thus in the couplet just
-quoted the pronoun* i7, is added to (J^j ; so in the
-following distich, O the dative ofy lhou% is placed after
-the conjunction^ gar, if.
+quoted the pronoun <foreign xml:lang="per"></foreign> <gloss>it</gloss>, is added to<foreign xml:lang="per"></foreign> ; so in the
+   following distich, O the dative <foreign xml:lang="per"></foreign> <gloss>thou</gloss> is placed after
+   the conjunction  <foreign xml:lang="per"></foreign> 
+   <foreign xml:lang="per-lat">gar</foreign>, <gloss>if</gloss>.
 
-(jr*
 
-\^j^o i*yjj
 
-Tinge the sacred carpet with wine, if the master of the
+   <cit><bibl></bibl><quote>Tinge the sacred carpet with wine, if the master of the
 feast orders thee; for he that travels is not ignorant of
-the ways and manners of banquet-houses.
+the ways and manners of banquet-houses.</quote></cit>
 
-Our reciprocal pronouns own and self are expressed in
+Our reciprocal pronouns <gloss>own</gloss> and <gloss>self</gloss> are expressed in
    <pb n="32"/>
 
 
