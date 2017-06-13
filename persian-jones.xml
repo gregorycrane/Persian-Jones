@@ -1204,15 +1204,15 @@ i
 
 The other cases are expressed for the most part, as in
 d 2
-<pb/>20
+   <pb n="20"/>
 
-A GRAMMAR OF THE
+
 
 our language, by particles placed before the nominative,
 
 as,
 
-Vocative,	j lf\ ay pisar, 0 child.
+Vocative,	j lf\ ay pisar, O child.
 
 Ablative,	az	pisar,	from	a child.
 
@@ -1232,105 +1232,131 @@ seldom used by the moderns.
 
 The reader, who has been used to the inflexions of
 European languages, will, perhaps, be pleased to see an
-<pb/>PERSIAN LANGUAGE.
+   <pb n="21"/>
 
-21
+
 
 example of Persian nouns, as they answer to the cases in
 Latin:
 
-lK gul . a rose, rosa.
+<list><head>
 
-Singular.	Plural.
+   <foreign xml:lang="per">گل</foreign> <foreign xml:lang="per-lat">gul</foreign>. <gloss>a rose</gloss>, <gloss xml:lang="lat">rosa</gloss>.</head>
 
-Nom. jf a rose, rosa.	roses,	rosae.
+<item>
+Nom. Sing. <foreign xml:lang="per">گل</foreign> <gloss>a rose</gloss>, <gloss xml:lang="lat">rosa</gloss>.	
+</item><item>
+Gen. Sing.	<foreign xml:lang="per">گل</foreign> <gloss>of a rose</gloss>, <gloss xml:lang="lat">rosae</gloss>.	
+  
+</item><item>
+Dat. Sing. <foreign xml:lang="per">گلرا</foreign> <gloss>to a rose</gloss>, <gloss xml:lang="lat">rosae</gloss>.	
+</item><item>
 
-Gen.	f of a rose, rosae.	of roses, rosarum.
+Acc. Sing. <foreign xml:lang="per">گلرا</foreign> <gloss>the rose</gloss>, <gloss xml:lang="lat">rosam</gloss>.
+</item><item>
+   Voc. Sing. <foreign xml:lang="per">اي گل</foreign> <gloss>O rose</gloss>, <gloss xml:lang="lat">ô rosa</gloss>.	
+</item><item>
+   Voc. Sing. Poet. <foreign xml:lang="per">گلا</foreign> <gloss>O rose</gloss>, <gloss xml:lang="lat">ô rosa</gloss>.	
+</item><item>
+Abl. Sing. <foreign xml:lang="per">از گل</foreign> <gloss>from the rose</gloss>, <gloss xml:lang="lat">rosâ</gloss>.
+</item><item>
+Nom. Pl. <foreign xml:lang="per">گلها</foreign> <gloss>roses</gloss>,	<gloss xml:lang="lat">rosae</gloss>.
+</item><item>
+Gen. Pl.  <foreign xml:lang="per">گلهارا</foreign> <gloss>of roses</gloss>, <gloss xml:lang="lat">rosarum</gloss>.
+</item><item>
+Dat. Pl. <foreign xml:lang="per">گلهارا</foreign> <gloss>to roses</gloss>,	<gloss xml:lang="lat">rosis</gloss>. 
+</item><item>
+Acc. Pl. <foreign xml:lang="per">گلهارا</foreign>  <gloss>the roses</gloss>, <gloss xml:lang="lat">rosas</gloss>.
+</item><item>
+   Voc. Pl. <foreign xml:lang="per">اي گلها</foreign> <gloss>O roses</gloss>, <gloss xml:lang="lat">ô rosae</gloss>.	
+</item><item>
+   Abl. Pl. <foreign xml:lang="per">از گلها</foreign> <gloss>from the rose</gloss>, <gloss xml:lang="lat">rosis</gloss>.
+</item>
 
-Dat. j^lf /o a rose, rosae.	roses,	rosis. *
+</list>
 
-Acc.	the rose, rosam.	the roses, rosas.
 
-Voc.Jft/\ 1	*	*	i	if	CW)
 
-^ \Urose, orosa. U5 LSI roses, o rosae.
 
-Poet.'if J	T	“
+   <list><head><foreign xml:lang="per"></foreign> <foreign xml:lang="per-lat">bulbul</foreign>, <gloss>a nightingale</gloss>.</head>
+   <item>
 
-Abl. (Jf)^ from a rose, rosa. l^lfj\ from / oses, rosis.
 
-bulbul, o nightingale.
+Nom. and	Gen. Sing. <foreign xml:lang="per">بلبل</foreign> <gloss>a nightingale</gloss>.
+   </item><item>
+Dat. and Acc.  Sing.	<foreign xml:lang="per">بلبلرا</foreign> <gloss>to a nightingale</gloss>.
+   </item><item>
+Voc.  Sing. <foreign xml:lang="per">اي بلبل</foreign> <gloss>o nightingale</gloss>.
+   </item><item>
+      Voc.  Sing. Poet. <foreign xml:lang="per">بلبلا</foreign> <gloss>o nightingale</gloss>.
+   </item><item>
+Abl.  Sing. <foreign xml:lang="per">از بلبل</foreign> <gloss>from a nightingale</gloss>.
 
-Singular.
+   </item><item>
 
-Nom. and	Gen.	a nightingale.
+Nom. and	Gen. Pl. <foreign xml:lang="per">بلبلان</foreign> <gloss>nightingales</gloss>.
+   </item><item>
+Dat. and Acc. Pl. <foreign xml:lang="per">بلبلانرا</foreign> <gloss>to nightingales</gloss>.
+   </item><item>
+Voc. Pl. <foreign xml:lang="per">اي بلبلان</foreign> <gloss>o nightingales</gloss>.
+   </item><item>
+Abl. Pl. <foreign xml:lang="per">از بلبلان</foreign> <gloss>from nightingales</gloss>.
+   </item>
+   </list>
+   <pb n="22"/>
 
-Dat. and Acc.	/o « nightingale.
 
-Voc. l£\ (Poet. \Lb) 0 nightingale.
 
-Abl.	from a nightingale.
 
-Plural.
 
-Nom. and	Gen.	nightingales.
-
-Dat. and Acc.	to	nightingales.
-
-Voc.	u0 nightingales.
-
-Abl.	from nightingales.
-<pb/>A GRAMMAR OF THE
-
-22
-
-^3^ V 3^yS^3 C^yi	\j
-
-a^Lb	,J^Jloj
-
-Jf aLi.U	c^lk	UW
-
-Boy, bring the wine,, for the season of the rose ap-
+   <cit><bibl></bibl><quote>Boy, bring the wine,, for the season of the rose ap-
 proaches;. let us again break our vows of repentance
 in the midst of the roses. O Hafiz, thou desirest, like
 the nightingales, the presence of the rose : let thy very
 soul be a ransom for the earth where the keeper of the
-rose-garden walks!
+rose-garden walks!</quote></cit></p>
 
-I shall in this manner quote a few Persian couplets, as
+<p>I shall in this manner quote a few Persian couplets, as
 examples of the principal rules in this grammar; such
 quotations will give some variety to a subject naturally
 barren and unpleasant; will serve as a specimen of the
 Oriental style; and will be more easily retained in the
 memory than rules delivered in mere prose.
-<pb/>PERSIAN LANGUAGE.
-
-23
-
-OF THE ARTICLE.
-
-Our article a is supplied in Persian by adding the letter
+</p></div>
+   <pb n="23"/>
+         
+         <div type="textpart" subtype="section">
+            <head style="caps">of the article.</head>
+            
+            <p>Our article a is supplied in Persian by adding the letter
 to a noun, which restrains it to the singular number;
-as ^ gull, a single rose ;
+as  or <foreign xml:lang="per">گلي</foreign> <foreign xml:lang="per-lat">gulî</foreign>, a single rose ;
 
-One morning I went into the garden to gather a rose, when
-on a sudden the voice of a nightingale struck my ear.
-Without this termination gul would signify roses or
-Jlowers collectively, as ■
+               <cit><bibl></bibl><quote>One morning I went into the garden to gather a rose, when
+on a sudden the voice of a nightingale struck my ear.</quote></cit>
+Without this termination 
+               <foreign xml:lang="per">گل</foreign> <foreign xml:lang="per-lat">gul</foreign>
+               would signify <gloss>roses</gloss> or
+               <gloss>flowers</gloss> collectively, as 
+               
+<cit><bibl></bibl><quote>Call for wine, and scatter flowers around.</quote></cit>
 
-^,1^3 30	^
+When a noun ends in <foreign xml:lang="per">ه</foreign> the idea of unity is 
+expressed by
+the mark Hamza, as
+               <foreign xml:lang="per">چشمهء</foreign> <foreign xml:lang="per-lat">chashmahi</foreign>, <gloss>a single fountain</gloss>.
 
-Call for wine, and scatter flowers around.
+</p></div>
+         <div type="textpart" subtype="section">
+            <head style="caps">of numbers.</head>
 
-When a noun ends in * the idea of unity is expressed by
-the mark Hamza, as	chashmahi, a single fountain.
-
-OF NUMBERS.
+<p>
 
 From the two examples in a preceding section it appears
-that the Persian plural is formed by adding ^ or ^ t0
+that the Persian plural is formed by adding <foreign xml:lang="per">ات</foreign> 
+   or <foreign xml:lang="per">ها</foreign> to
 the singular: but these terminations are not, as in many
-languages, wholly arbitrary; on the contrary, they - are
+languages, wholly arbitrary; on the contrary, they  are
    <pb n="24"/>
 
 
