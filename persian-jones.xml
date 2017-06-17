@@ -447,16 +447,16 @@ for sounds in general are caught imperfectly: by the ear,
 and many words are spelt and pronounced very differently.
 
 </p><p>The first book that I would recommend to him is the
-   Gulistán, or <title>Bed of Roses</title>, a work which is highly esteemed
+   <title xml:lang="per-lat">Gulistán</title>, or <title>Bed of Roses</title>, a work which is highly esteemed
 in the East, and of which there are several translations in
 the languages of Europe: the manuscripts, of this book are
 very common; and by comparing them with the printed
 edition of Gentius, he will soon learn the beautiful flowing
 hand used in Persia, which consists of bold strokes and
-flourishes, and cannot be imitated'by our types. It will
+flourishes, and cannot be imitated by our types. It will
 then be a proper time for him to read some short and easy
 chapter in this work, and to translate it into his native
-language with the utmost exactness; Jet him then lay aside
+language with the utmost exactness; let him then lay aside
 the original, and after a proper interval let him turn the
 same chapter back into Persian by the assistance of the
 grammar and dictionary: let him afterwards compare his
@@ -642,7 +642,7 @@ to make.
 <pb n="1"/>
 
 <div type="textpart" subtype="chapter" n="1">
-   <head>OF LETTERS.</head>
+   <head style="caps">of letters.</head>
 
 <p>The learner is supposed to be acquainted with the
 common terms of grammar, and to know that the Persians write their characters from the right hand to the
@@ -653,67 +653,49 @@ left.
 
 <pb n="2"/>
 
-
-
-J ^ z ••
-
-
-
-A GRAMMAR OF THE
-IV. III. II. I.
-
-FINALS.	INITIALS	and	MEDIALS.
-
-Connected. Unconnected. Connected. Unconnected.
-
-alif	V		1 r  \	J	a
-v~~be		L_>	J, +	w.  J	b
-pe	V	J  Li3  T	X  Y V	J  V	p *
-te	cu	o	**» *♦ Js	to  J	t
-si		d>	A 1	A	S
-jTm	t	z.	s.		j English
-che or chlm	i		5.'^  V/	r	cli
-he	t	c			h strong
-khe	-1	*	•  >		kh
-
-zal		3		3	z
-re			J		r
-ze	->	j	J	j	z
-zhe	A	A  J	A  J	A  J	*J French
-sin	u-				s
-shin			A  «WM		sh
-swad			.aA	-o.	s -
-zwad			•  -yS.		z
-to	k	k	\a.	k	t
-<pb/>PERSIAN LANGUAGE.
-
-o
-
-	IV.	III.	II.	1.	
-		FINALS.	initials and		MEDIALS.
-	Connected.	Unconnected.	Connected. Unconnected.		
-		A		-A..	
-zo	i  k	k	") f 	  k	„k	Z
-ain		t	* 	£■	£_or a guttural
-ghain		t	*		gh guttural
-fe	L-a	•  L-S'	i	3	f .
-kaf	3	H  L?	c H A	3	>  k hard
-caf			S"or	£-	k
-gaf			^ i	f	g hard
-lam	J	■ J	\	J	1
-mini	r	r		^0  t .	m *
-nun	 '	o '	A *A	k	n  r
-waav.-	J	J	J	J	u, v, w
-he		6		Jb	h weak
-ya	o		#-	J	7’ 1
-lam-alif		*1 'i	*		la
-
+<list>
+ 
+   <item>alif<foreign xml:lang="per">ا</foreign> <foreign xml:lang="per-lat">a</foreign> </item>	
+   <item>bê<foreign xml:lang="per">ب</foreign> <foreign xml:lang="per-lat">b</foreign></item>		
+   <item>pê<foreign xml:lang="per">پ</foreign> <foreign xml:lang="per-lat">p</foreign></item>
+   <item>tê<foreign xml:lang="per">ت</foreign> <foreign xml:lang="per-lat">t</foreign></item>	
+   <item>sê<foreign xml:lang="per">ث</foreign> <foreign xml:lang="per-lat">t</foreign></item>	
+   <item>jîm<foreign xml:lang="per">ج</foreign> <foreign xml:lang="per-lat">j</foreign></item>	
+   <item>chê or chîm<foreign xml:lang="per">چ</foreign> <foreign xml:lang="per-lat">ch</foreign></item>		
+   <item>hê<foreign xml:lang="per">ح</foreign> <foreign xml:lang="per-lat">h</foreign></item>
+   <item>khê<foreign xml:lang="per">خ</foreign> <foreign xml:lang="per-lat">kh</foreign></item>	
+   <item>dâl<foreign xml:lang="per">د</foreign> <foreign xml:lang="per-lat">d</foreign></item>	
+   <item>zâl<foreign xml:lang="per">ذ</foreign> <foreign xml:lang="per-lat">z</foreign></item>	
+   <item>rê<foreign xml:lang="per">ر</foreign> <foreign xml:lang="per-lat">r</foreign></item>		
+   <item>zê<foreign xml:lang="per">ز</foreign> <foreign xml:lang="per-lat">z</foreign></item>
+   <item>zhê<foreign xml:lang="per">ژ</foreign> <foreign xml:lang="per-lat">j</foreign></item>	
+   <item>sîn<foreign xml:lang="per">س</foreign> <foreign xml:lang="per-lat">s</foreign></item>	
+   <item>shîn<foreign xml:lang="per">ش</foreign> <foreign xml:lang="per-lat">sh</foreign></item>	
+   <item>swâd<foreign xml:lang="per">ص</foreign> <foreign xml:lang="per-lat">s</foreign></item>	
+   <item>zwâd<foreign xml:lang="per">ض</foreign> <foreign xml:lang="per-lat">z</foreign></item>	
+   <item>tô<foreign xml:lang="per">ط</foreign> <foreign xml:lang="per-lat">t</foreign></item>	
+   
+<pb n="3"/>
+   <item>zô<foreign xml:lang="per">ظ</foreign> <foreign xml:lang="per-lat">z</foreign></item>	
+   <item>ain<foreign xml:lang="per">ع</foreign> <foreign xml:lang="per-lat">ε</foreign></item>		
+   <item>ghain<foreign xml:lang="per">غ</foreign> <foreign xml:lang="per-lat">gh</foreign></item>
+   <item>fê<foreign xml:lang="per">ف</foreign> <foreign xml:lang="per-lat">f</foreign></item>	
+   <item>câf<foreign xml:lang="per">ک</foreign> <foreign xml:lang="per-lat">k</foreign></item>	
+   <item>gâf<foreign xml:lang="per">گ</foreign> <foreign xml:lang="per-lat">k</foreign></item>	
+   <item>lâm<foreign xml:lang="per">ل</foreign> <foreign xml:lang="per-lat">l</foreign></item>	
+   <item>mîm<foreign xml:lang="per">م</foreign> <foreign xml:lang="per-lat">m</foreign></item>	
+   <item>nun<foreign xml:lang="per">ن</foreign> <foreign xml:lang="per-lat">n</foreign></item>	
+   <item>wâw<foreign xml:lang="per">و</foreign> <foreign xml:lang="per-lat">u, v, w</foreign></item>	
+   <item>hê<foreign xml:lang="per">ه</foreign> <foreign xml:lang="per-lat">h</foreign></item>	
+   <item>yâ<foreign xml:lang="per">ي</foreign> <foreign xml:lang="per-lat">y, î</foreign></item>	
+   <item>lâm-alif<foreign xml:lang="per">لا</foreign> 
+      <foreign xml:lang="per-lat">lâ</foreign></item>	
+</list>
 </p><p>The second-and fourth columns of these letters from
-the right hand are used only when they are connected with
-
-OJ	I
-
-a preceding letter; as <foreign xml:lang="per">محمٌد</foreign>	Muhammad.	Every	letter
+the right hand<note n="grc">Probably best just to include a part of the page image here.</note> are used only when they are connected with
+a preceding letter; as <foreign xml:lang="per">محمٌد</foreign>
+   <foreign xml:lang="per-lat"> Muhammad</foreign>.
+   Every	letter
 
 should be connected with that which follows it, except these
 seven; <foreign xml:lang="per">ا</foreign> <foreign xml:lang="per-lat">alif</foreign>, 
@@ -744,23 +726,25 @@ remarkable of them.</p></div>
 
 <p>It will be needless to say much of the three first conso-
    nants <foreign xml:lang="per">ب</foreign> 
-   <foreign xml:lang="per">ث</foreign>
+   <foreign xml:lang="per">پ</foreign>
    <foreign xml:lang="per">ت</foreign>
    since their sound is exactly the same as our
    <foreign xml:lang="per">b</foreign>, 
    <foreign xml:lang="per">p</foreign>, 
    and <foreign xml:lang="per">t</foreign>, in the words	
-   <gloss>bar</gloss>, <gloss>peer</gloss>, and <gloss>too</gloss>, which would
+   <emph>bar</emph>, <emph>peer</emph>, and 
+   <emph>too</emph>, which would
 
 be written in Persian <foreign xml:lang="eng-per">با</foreign>, 
    <foreign xml:lang="eng-per">پير</foreign>
    and
    <foreign xml:lang="eng-per">تو</foreign>.</p>
 
-   <p><foreign xml:lang="per">ث</foreign> <foreign xml:lang="per-lat">ṣ<note n="grc">http://graphemica.com/%E1%B9%A3</note></foreign></p>
-
+</div>
+         <div type="textpart" subtype="section"><head style="caps"><foreign xml:lang="per">ث</foreign> <foreign xml:lang="per-lat">ṣ<note n="grc">http://graphemica.com/%E1%B9%A3</note></foreign>
+         </head>
 <p>This letter, which the Arabs pronounce somewhat like
-   a <gloss>th</gloss>, has in Persian the same sound with a <foreign xml:lang="per"></foreign> or <gloss>s</gloss>, as
+   a <emph>th</emph>, has in Persian the same sound with a <foreign xml:lang="per">س</foreign> or <gloss>s</gloss>, as
    <foreign xml:lang="per">ابو ليث</foreign> <foreign xml:lang="per-lat">Abû Lays</foreign>, a proper name. It might, therefore,
 have been rejected from the Persian alphabet without any
 inconvenience; but it is useful in showing the origin of
@@ -780,16 +764,17 @@ Arabic. The same may be observed of the following
    which rarely occur in
 words originally Persian.</p>
 
-   <p><foreign xml:lang="per">ج</foreign> <foreign xml:lang="per-lat">j</foreign> and 
+</div>
+         <div type="textpart" subtype="section"><head style="caps"><foreign xml:lang="per">ج</foreign> <foreign xml:lang="per-lat">j</foreign> and 
       <foreign xml:lang="per">چ</foreign> 
-      <foreign xml:lang="per-lat">ch</foreign></p>
+      <foreign xml:lang="per-lat">ch</foreign></head>
 
-   <p>The first of these letters answers to our soft <gloss>g</gloss> in <gloss>gem</gloss>,
+   <p>The first of these letters answers to our soft <gloss>g</gloss> in <emph>gem</emph>,
       which a Persian would write 
       <foreign xml:lang="eng-per">جم</foreign> or to our <gloss>j</gloss> in 
-      <foreign xml:lang="eng-per">جار</foreign>:
+      <emph>jar</emph> <foreign xml:lang="eng-per">جار</foreign>:
       the second of them sounds exactly like our <gloss>ch</gloss> in the
-      words <gloss>cherry</gloss>, <gloss>cheek</gloss>; as	
+      words <emph>cherry</emph>, <emph>cheek</emph>; as	
       <foreign xml:lang="per">چرکس</foreign> <foreign xml:lang="per-lat">Chirkas</foreign>,	<gloss>Circassia</gloss>.
 
    </p><p><foreign xml:lang="per">ح</foreign> <foreign xml:lang="per-lat">ḥ<note n="grc">http://graphemica.com/%E1%B8%A5</note></foreign>
@@ -801,10 +786,13 @@ characters by ḥ (with a dot under it to distinguish it
 from <foreign xml:lang="per">ه</foreign>), as 
          <foreign xml:lang="per">حال</foreign> <foreign xml:lang="per-lat">hâl</foreign>, <gloss>a condition</gloss>.
 
-      </p><p><foreign xml:lang="per">خ</foreign> <foreign xml:lang="per-lat">kh</foreign>
+      </p>
+
+</div>
+         <div type="textpart" subtype="section"><head style="caps"><foreign xml:lang="per">خ</foreign> <foreign xml:lang="per-lat">kh</foreign>
 
 
-      </p><p><foreign xml:lang="per"></foreign> is formed in the throat (and produces that kind of
+         </head><p><foreign xml:lang="per"></foreign> is formed in the throat (and produces that kind of
 inarticulate vibration which is made in preparing to ex-
 pectorate). The Germans have the sound, and express it
 by <foreign xml:lang="ger">ch</foreign>. The sound does not exist in English; and having
@@ -827,7 +815,7 @@ with a guttural aspirate on the first letter.
          
          
       <p><foreign xml:lang="per">د</foreign> answers exactly to our 
-         <foreign xml:lang="per-eng">d</foreign> in <gloss>deer</gloss> <foreign xml:lang="per">دير</foreign>.
+         <foreign xml:lang="per-eng">d</foreign> in <emph>deer</emph> <foreign xml:lang="eng-per">دير</foreign>.
          
       </p>
             
