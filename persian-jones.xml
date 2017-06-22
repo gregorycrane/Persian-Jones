@@ -27,7 +27,7 @@
                      <title>A Grammar of the Persian Language: sixth edition with additions and improvements</title>
                      <ref target="https://archive.org/details/grammarofpersian00joneiala">Scanned by the Internet Archive
                         in 2007 with funding from
-                        Microsoft Corporation</ref>
+                        Microsoft Corporation. See also the ninth edition, revised by Samuel Lee, 1828: https://books.google.de/books?id=9flPAAAAcAAJ</ref>
                      <author>William Jones</author>
                      <editor>Elijah Cooke</editor>
                      <editor>Franzi ...</editor>
@@ -2705,7 +2705,7 @@ do</gloss> ; thus <persName>Hafiz, the Anacreon of Persia<note n="grc">what do w
 own endeavours; it is a vain imagination to think that
 it will come to thee without assistance.</quote></cit>
 
-And the poet quoted in the <title>history</title> of <persName>Cazvini</persName>,
+And the poet quoted in the <title>history</title> of <persName>Cazvini<note n="grc">https://en.wikipedia.org/wiki/Zakariya_al-Qazwini or https://en.wikipedia.org/wiki/Najm_al-D%C4%ABn_al-Qazw%C4%ABn%C4%AB_al-K%C4%81tib%C4%AB ?</note></persName>,
 
    <cit><bibl></bibl><quote>The life of man is a journal, in which he must write only
 good actions.</quote></cit>
@@ -2772,21 +2772,21 @@ sufficiently pleasing.</quote></cit>
 
 </p><p>The contracted participle used in compound epithets is
 exactly the same with the imperative, as 
-   <foreign xml:lang="per"></foreign> <gloss>excite thou</gloss>,
-   <foreign xml:lang="per"></foreign> <gloss>mirth-exciting</gloss>, 
-   <foreign xml:lang="per"></foreign> <gloss>inflame thou</gloss>, 
-   <foreign xml:lang="per"></foreign> <gloss>world-inflaming</gloss>, 
+   <foreign xml:lang="per">انگيز</foreign> <gloss>excite thou</gloss>,
+   <foreign xml:lang="per">عشرق انگيز</foreign> <gloss>mirth-exciting</gloss>, 
+   <foreign xml:lang="per">افروز</foreign> <gloss>inflame thou</gloss>, 
+   <foreign xml:lang="per">گتي افوز</foreign> <gloss>world-inflaming</gloss>, 
    <persName>Geti-afroz</persName>, the name of a fairy in the
-   <title>Persian tales</title> translated by <persName> Colonel Dow</persName>.
+   <title>Persian tales</title> translated by <persName>Colonel Dow</persName>.
 
 </p><p>The participles of the present tense are formed by add-
-   ing  <foreign xml:lang="per"></foreign>,  <foreign xml:lang="per"></foreign>, or 
-   <foreign xml:lang="per"></foreign> to the imperative, as  
-   <foreign xml:lang="per"></foreign>,
-   <foreign xml:lang="per"></foreign>, and  <foreign xml:lang="per"></foreign>
+   ing  <foreign xml:lang="per">ان</foreign>,  <foreign xml:lang="per">ا</foreign>, or 
+   <foreign xml:lang="per">نده</foreign> to the imperative, as  
+   <foreign xml:lang="per">رسان</foreign>,
+   <foreign xml:lang="per">رسا</foreign>, and  <foreign xml:lang="per">رسده</foreign>
 
    <gloss>arriving</gloss>; which last participle is often used for a
-   noun of action, as <foreign xml:lang="per"></foreign> <gloss>a player</gloss>.
+   noun of action, as <foreign xml:lang="per">نازنده</foreign> <gloss>a player</gloss>.
 
    <pb n="50"/>
 
@@ -2794,7 +2794,8 @@ exactly the same with the imperative, as
 
 </p><p>From the imperative also is formed the conjunctive tense
 or aorist by adding to it the usual personal termination, as
-from <foreign xml:lang="per"></foreign> <gloss>come thou</gloss>, <foreign xml:lang="per"></foreign> <gloss>I may or will come</gloss>.
+from <foreign xml:lang="per">آي</foreign> <gloss>come thou</gloss>, 
+   <foreign xml:lang="per">آيم</foreign> <gloss>I may or will come</gloss>.
 
    <cit><bibl></bibl><quote> When the sun of the wine shall rise from the east of the
 cup, a thousand tulips will spring from the garden of
@@ -2802,7 +2803,7 @@ the cup-bearer’s cheek.</quote></cit>
 
 </p><p>By this affected, yet lively allegory, the poet only means
 that “ the cup-bearer will blush when he shall present the
-“ wine to the guests.”
+ wine to the guests.”
 
    <cit><bibl></bibl><quote> For the most part this form of the Persian verb, which
 the grammarians properly call the aorist, or indefinite
@@ -3312,9 +3313,9 @@ nations.
 <list>
 <item>Infin. <foreign xml:lang="per">افشاردن</foreign> <gloss>to speak idly</gloss>
 </item>
-<item>Imper. <foreign xml:lang="per">افشار</foreign> <gloss>speak idly thou</gloss>	
+<item>Imper. <foreign xml:lang="per">افشان</foreign> <gloss>speak idly thou</gloss>	
 </item>
-<item>Aorist. <foreign xml:lang="per">افشارم</foreign> <gloss>I may speak idly</gloss>
+<item>Aorist. <foreign xml:lang="per">افشانم</foreign> <gloss>I may speak idly</gloss>
    
 
 </item></list>
@@ -3363,7 +3364,7 @@ nations.
 </item></list>
 
 <list>
-<item>Infin. <foreign xml:lang="per">آوردن</foreign> <gloss>to bring</gloss>
+<item>Infin. <foreign xml:lang="per">آرودن</foreign> <gloss>to bring</gloss>
 </item>
 <item>Imper. <foreign xml:lang="per">آور</foreign> <gloss>bring thou 1</gloss>	
 </item>
@@ -3705,19 +3706,19 @@ to try
 </item></list>
 
 <list>
-<item>Infin. <foreign xml:lang="per">افرودن</foreign> <gloss>to increase 1</gloss>
+<item>Infin. <foreign xml:lang="per">آفزودن</foreign> <gloss>to increase 1</gloss>
 </item></list>
 
 <list>
 <item>Infin. <foreign xml:lang="per">فزودن</foreign> <gloss>to increase 2</gloss>
 </item>
-<item>Imper. <foreign xml:lang="per">افراي</foreign> <gloss>increase thou 1</gloss>	
+<item>Imper. <foreign xml:lang="per">آفزاي</foreign> <gloss>increase thou 1</gloss>	
 </item>
-<item>Imper. <foreign xml:lang="per">فراي</foreign> <gloss>increase thou 2</gloss>	
+<item>Imper. <foreign xml:lang="per">فزاي</foreign> <gloss>increase thou 2</gloss>	
 </item>
-<item>Aorist. <foreign xml:lang="per">افرايم</foreign> <gloss>I may increase 1</gloss>
+<item>Aorist. <foreign xml:lang="per">آفزايم</foreign> <gloss>I may increase 1</gloss>
 </item>
-<item>Aorist. <foreign xml:lang="per">فرايم</foreign> <gloss>I may increase 2</gloss>
+<item>Aorist. <foreign xml:lang="per">فزايم</foreign> <gloss>I may increase 2</gloss>
       
 
 </item></list>
@@ -6942,7 +6943,7 @@ Oxf The Public Libraries at Oxford.
 
 Par. The Royal Library at Paris.
 
-Loud. The British Museum at London.
+Lond. The British Museum at London.
 
 Priv. The Collections of private Men.
 
@@ -7617,7 +7618,7 @@ oc^b^^b bOw-j^ |*l;\j ^V> c)\
    <list><head>INDEX.</head>
 
 <item>
-   <foreign xml:lang="per"></foreign>
+   <foreign xml:lang="per">آب</foreign>
 Water, fountain: lustre.
 </item>
       <item>
@@ -7631,7 +7632,15 @@ v o
 to adorn,
 rest.
 
-y^j\ is worth, from
+      </item>
+      <item>
+         <foreign xml:lang="per">آرزد</foreign>
+         is worth, from <ref xml:lang="per">آرزيدن</ref>
+
+      </item>
+      <item>
+         <foreign xml:lang="per">آرزيدن</foreign>
+         to be worth <note n="grc">this is not a separate entry in the Jones glossary.</note>
 </item>
       <item>
          <foreign xml:lang="per">آرد</foreign> may bring, from <ref xml:lang="per">آوردن</ref>
@@ -7676,14 +7685,30 @@ rest, both jrom f
 or a-horse.
 
 •	V
-
+      </item>
+      <item>
+         <foreign xml:lang="per">استماع</foreign>
 a. hearing, sound.
-
+      </item>
+      <item>
+         <foreign xml:lang="per">استماع نمودندي</foreign>
 they listened.
+      </item>
+      <item>
+         
 a. pi. of	secrets,
-
-heaven.'
+      </item>
+      <item>
+         <foreign xml:lang="per">آسمان</foreign>
+heaven.
+      </item>
+      <item>
+         <foreign xml:lang="per">آسودن</foreign>
 to rest.
+      </item>
+      <item>
+         
+         
 
 imr£\ {annexed to words) his
 a tear.
@@ -7699,7 +7724,7 @@ liarity : knowledge.
       </item>
       <item>
          
-         <foreign xml:lang="per"></foreign>.
+         <foreign xml:lang="per">آشوفتن</foreign>.
 to disturb,
       </item>
       <item>
@@ -7753,7 +7778,7 @@ to speak idly.
 
 
       </item>
-      <item><foreign xml:lang="per">افشام</foreign> sprinkling, shedding.
+      <item><foreign xml:lang="per">افشان</foreign> sprinkling, shedding.
          
       </item>
       <item><foreign xml:lang="per">افشاندن</foreign>
@@ -7855,7 +7880,15 @@ those.
 to fill.
 
 jfecj] a. desire, expectation.
-^\ there, in that place.
+
+      </item>
+      <item>
+         <foreign xml:lang="per">انجا</foreign>
+there, in that place.
+
+      </item>
+      <item>
+         
 a. or stars.
 
 to throw, dart,
@@ -7870,7 +7903,15 @@ gathering, gaining.
 thought, consideration,
 thither.
 
+      </item>
+      <item>
+         <foreign xml:lang="per">انکه</foreign>
 that which; he who.
+
+      </item>
+      <item>
+        
+        
 or then, at that time.
 4^i£;\5o\ to think.
 
@@ -7959,7 +8000,32 @@ vV a. agate; a chapter.
 Babar, a proper name.
 <pb n="160"/>
 
-eniJj to play.  J>b the wind, air; let it be.  L-o ^b zephyr; a gentle gale; the east or morning wind.  «Job wine.  Jb a load, baggage.  ^r-^b Persian.  Lijb once. .  jb playing, play thou, from  b  jb again, anew. cyjfyfi with-hold, keep back. Njb a player; playing.  b being, be thou, from b^b a basha, governor.  CsJL\j it may be; it may happen, from  to sprinkle, dilTuse. a garden, ^bbb a gardener. C/ib to weave: to tinge.  ^b 
+eniJj to play.  J>b the wind, air; let it be.  L-o ^b zephyr; a gentle gale; the east or morning wind.  
+
+      </item>
+      <item>
+         <foreign xml:lang="per">باده</foreign>
+wine.  
+
+      </item>
+      <item>
+       
+a load, baggage.  ^r-^b Persian.  Lijb once. .  jb playing, play thou, from  b  jb again, anew. cyjfyfi with-hold, keep back. Njb a player; playing.  b being, be thou, from b^b a basha, governor.  CsJL\j it may be; it may happen, from  to sprinkle, dilTuse. 
+
+
+      </item>
+      <item>
+         <foreign xml:lang="per">باغ</foreign>
+a garden, 
+
+      </item>
+      <item>
+         <foreign xml:lang="per">باغبار</foreign>
+a gardener. 
+      </item>
+      <item>
+         
+C/ib to weave: to tinge.  ^b 
 
       </item>
       <item>
@@ -7967,7 +8033,10 @@ eniJj to play.  J>b the wind, air; let it be.  L-o ^b zephyr; a gentle gale; the
          a. the remainder; permanent.
       </item>
       <item>
-         fear, care.  C^jb pure, chaste, clean.	jb£b affectionate.  ^£b more pure.  (j-^c^b innocent, unblemished, beautiful, amiable, gentle, pure, lovely, jb awing: an arm.  Sb above, upwards.  ^j^Jb to strain.  Mowob in the morning.  *^j>b fifteen, t^-oib five hundred.  V  ^>b together.  \ * °  cNjb it is necessary, from  b permanent, from (jb a foot, a/zd jb the participle of (jrJL>b to have.  ^n~jb to be necessary.  CTw^b to accept.  he took or bore up. fear thou from he kissed,/m/i Ike first appears to be re- dundant.
+         fear, care.  C^jb pure, chaste, clean.	jb£b affectionate.  ^£b more pure.  (j-^c^b innocent, unblemished, beautiful, amiable, gentle, pure, lovely, jb awing: an arm.  Sb above, upwards.  ^j^Jb to strain. 
+         
+         Mowob in the morning.  
+         *^j>b fifteen, t^-oib five hundred.  V  ^>b together.  \ * °  cNjb it is necessary, from  b permanent, from (jb a foot, a/zd jb the participle of (jrJL>b to have.  ^n~jb to be necessary.  CTw^b to accept.  he took or bore up. fear thou from he kissed,/m/i Ike first appears to be re- dundant.
 <pb n="161"/>
 [pi. uf) an infant.
 
@@ -8005,11 +8074,18 @@ to give.
          <ref xml:lang="per">بد</ref>
       </item>
       <item>
-         
+         <foreign xml:lang="per">بدآن</foreign> 
 to or for these,
-know thou.	I
 
-might have known, from c^w>b
+      </item>
+      <item>
+         <foreign xml:lang="per">بدان</foreign>
+         know thou, from <ref xml:lang="per">دانستن</ref>.	
+
+      </item>
+      <item>
+         <foreign xml:lang="per">بدانستمي</foreign>
+I might have known, from <ref xml:lang="per">دانستن</ref>.
       </item>
       <item>
          <foreign xml:lang="per">بده</foreign>
@@ -8025,15 +8101,22 @@ cuous.
 accepting,from
 to accept.
 
-y> full, j* the bosom: 
+y> full, 
+      </item>
+      <item>
+         <foreign xml:lang="per">بر</foreign>
+the bosom: 
       </item>
       <item>
          <foreign xml:lang="per">بر</foreign>
             upon.
       </item>
       <item>
-         Oy upon thy bosom. carry-
-ing, ravishing, from
+         <foreign xml:lang="per">برت</foreign>
+         upon thy bosom. 
+      </item>
+      <item>
+         carrying, ravishing, from
 to rest.
 
 \j* I should rest.
@@ -8198,22 +8281,44 @@ a garden,
 he kissed, from
 
 to hide, cover, conceal.
-pj> an owl.	to the owl
+      </item>
+      <item>
+         <foreign xml:lang="per">بوم</foreign>
+         an owl.	
+      </item>
+      <item>
+         <foreign xml:lang="per">ببوم</foreign>
+         to the owl. See <ref xml:lang="per">بوم</ref>
 
-LfjJ fragrance, smell.
 
+      </item>
+      <item>
+         <foreign xml:lang="per">بوي</foreign>
+fragrance, smell.
+
+      </item>
+      <item>
+         
+         
 rose-scented. Scent of
 
 the rose.
 
  good: in, into. To.
+ 
+      </item>
+      <item>
+         <foreign xml:lang="per">بهار</foreign>
 the spring.
-
+      </item>
+      <item>
+         
+         
 the mansion of the
 
 spring.
 
-C^scheerfulness.
+cheerfulness.
 
 because, for, on account of:
 all, every one: fortune; pre-ex-
@@ -8366,14 +8471,30 @@ y moist, fresh,
 
 \y thee; to thee.
 
-G\y harmony, modulation.
 
+      </item>
+      <item>
+         <foreign xml:lang="per">ترانه</foreign>
+harmony, modulation.
+
+      </item>
+      <item>
+         
+         
 Clyy a. a tomb.
 
 a. order, regularity,
-thou fearest, from.
+      </item>
+      <item>
+         <foreign xml:lang="per">ترسي</foreign>
+         thou fearest, from <ref xml:lang="per">ترسيدن</ref>.
+      </item>
+      <item>
+         <foreign xml:lang="per">ترسيدن</foreign>
 to fear.
-
+      </item>
+      <item>
+      
 LfiSyy thou mayst fear.
 
 a. pointing; shame,
@@ -8426,7 +8547,16 @@ j3 thou : thy. y thyself.
 
 a. (pi. of histories.
 ^j\y it is possible, from^*~J>\y
-y a. repentance ; conversion.
+
+      </item>
+      <item>
+         <foreign xml:lang="per">توبه</foreign>
+a. repentance ; conversion.
+
+      </item>
+      <item>
+         
+         
 (jr^y to collect; to pay debts.
 ^-1^5 a. congratulation.
 
@@ -8450,13 +8580,37 @@ a sword.
 Z.
 
 V a place.
-
+      </item>
+      <item>
+         <foreign xml:lang="per">جادو</foreign>
 an inchanter; inchanting.
-a remedy,
+      </item>
+      <item>
+         
+ 
+ 
+      </item>
+      <item>
+         <foreign xml:lang="per">چاره</foreign>
+a remedy.
+
+      </item>
+      <item>
+         
+         
 a fissure, a breach
 to tear.
 fV a cup, glass; mirror,
-a mantle, robe; bed.
+
+      </item>
+      <item>
+         <foreign xml:lang="per">جامه</foreign>
+            a mantle, robe; bed.
+            
+      </item>
+      <item>
+       
+       
 a collection.
 
 
@@ -8473,7 +8627,14 @@ woman.
 souls, friends: lovers
 uU- delighting the soul,
 jy V having life, an animal.
+
+      </item>
+      <item>
+         <foreign xml:lang="per">زبين</foreign>
 a. the forehead.
+      </item>
+      <item>
+         
 a. study, endeavour,
 wherefore, why?
 
@@ -8482,25 +8643,38 @@ fortune; the world, globe.
 
 Cir cassia.
 a. a crime.
-ory^ except, unless.
+
+      </item>
+      <item>
+         <foreign xml:lang="per">جز</foreign>
+except, unless.
+
+      </item>
+      <item>
+         
 <pb n="167"/>
 
-t**7» to leap; to seek, ex-
 
-O
-
-amine.
-
+      </item>
+      <item>
+         <foreign xml:lang="per">جستن</foreign>
+            to leap; to seek, examine.
+      </item>
+      <item>
 an eye.
 a fountain.
 
 JL> to taste, try.
 
 I have tasted.
-a. a curling lock,
-a kind ofmusical instru-
-ment, a lyre, a lute.
-
+a. a curling lock.
+      </item>
+      <item>
+         <foreign xml:lang="per">چغانه</foreign>
+a kind of musical instrument, a lyre, a lute.
+      </item>
+      <item>
+         
 the liver.	hver-
 
 piercing.
@@ -8524,12 +8698,26 @@ Jamshed,/?r/?£r name.
 t^A. collection, assembly,
 troops.
 
-a garden, meadow,
+      </item>
+      <item>
+         <foreign xml:lang="per">چمن</foreign>
+a garden, meadow.
+      </item>
+      <item>
+        
 verdant plain, meadow.
 
 how often?
 fairy land,
+
+      </item>
+      <item>
+         <foreign xml:lang="per">چنگ</foreign>
 a harp, lute.
+      </item>
+      <item>
+        
+        
 y*>- when (or $*■) like, as.
 f*' 
 
@@ -8597,10 +8785,24 @@ what ? what is it ?
 he gathered from iA. 
 what dost thou  seek ?  
 what dost thou say?  
+      </item>
+      <item>
+         <foreign xml:lang="per">چين</foreign>
 China: a ringlet.  
-I may gather, from	
+      </item>
+      <item>
+         is 
+ 
+ 
+      </item>
+      <item>
+         <foreign xml:lang="per">چينم</foreign>
+         I may gather, from <ref xml:lang="per">چيدن</ref>
 
-
+      </item>
+      <item>
+         <foreign xml:lang="per">چيدن</foreign>
+         to gather
 
 
       </item>
@@ -8627,7 +8829,12 @@ I may gather, from
          a. motion:  a vowel. 
          a. envy, malevolence. 
          a. beauty, elegance.  
+      </item>
+      <item>
+         <foreign xml:lang="per">حسن</foreign>
          a. followers, troops. 
+      </item>
+      <item>
          a. true; truth, reason. C-JUU. 
          a. sincerity: truly. 
          a. a decree; wisdom.  
@@ -8657,13 +8864,29 @@ I may gather, from
 
 
 CL.*  CjL^. a. life; a portico, vesti- bule.  a. (pi. oftS^.) frauds. a. Jiving, life; an animal.	^ God.  a prince, lord, patron. O God! 0 heaven ! the only Lord  God.
-t  a thorn.  anguish, resentment, to rise. a. pure, excellent; noble. a. mind, heart,disposition. tjlilL KhakanI, name of a poet. earth, dust. 
+t  a thorn.  anguish, resentment, to rise. a. pure, excellent; noble. 
+a. mind, heart, disposition. 
+tjlilL KhakanI, name of a poet. 
+
+      </item>
+      <item>
+         <foreign xml:lang="per">خاک</foreign>
+earth, dust. 
       </item>
       <item>
 <foreign xml:lang="per">خال</foreign> a. a mole on the face. 
       </item>
       <item>
-         JiJlL a. the Creator.  a lord, grandee; an inn. (y?/. o/‘lk) houses. a. history; news; fame, relate thou, from to inform, relate.  K'.L Khotan, Tartarij.  a. ashamed, blushing;  envy.  ClukaJs. a. a blush, shame.	friend of God, proper  name.  stately, pompous. a. murmured : fell from  intellect: small.  XSjL. minute,subtile; minutiae, 
+         JiJlL a. the Creator.  a lord, grandee; an inn. (y?/. o/‘lk) houses. a. history; news; fame, relate thou, from to inform, relate.  K'.L 
+      </item>
+      <item>
+         <foreign xml:lang="per"><placeName>ختن</placeName></foreign>
+         <placeName>Khotan</placeName>, Tartary.  
+      </item>
+      <item>
+         
+         
+         a. ashamed, blushing;  envy.  ClukaJs. a. a blush, shame.	friend of God, proper  name.  stately, pompous. a. murmured : fell from  intellect: small.  XSjL. minute,subtile; minutiae, 
       </item>
       <item>
          <foreign xml:lang="per">خرسند</foreign>      
@@ -8678,7 +8901,7 @@ t  a thorn.  anguish, resentment, to rise. a. pure, excellent; noble. a. mind, h
          content.
       </item>
       <item>
-         charming, pleasant, a cock or hen. rage, emotion: an at- tack.  4>jya- buying; he bought, the autumn.  Khosru, Cyrus. a. Khizar,proper name. 
+         charming, pleasant, a cock or hen. rage, emotion: an attack.  4>jya- buying; he bought, the autumn.  Khosru, Cyrus. a. Khizar,proper name. 
          
          
       </item>
@@ -8703,7 +8926,9 @@ I^cjLL the place of rest; a
 bed.
 
 \j\j^ eating, devouring.
-
+      </item>
+      <item>
+         <foreign xml:lang="per">خواستن</foreign>
 to be willing; to want,
       </item>
       <item>
@@ -8749,8 +8974,16 @@ blood.
       <item>
          blood-dropping.
 
-t-fj^ disposition,temper.
 
+      </item>
+      <item>
+         <foreign xml:lang="per">خوي</foreign>
+            disposition, temper.
+            
+      </item>
+      <item>
+         
+         
 to chew the cud.
 
 JLl imagination, phantasy;
@@ -8784,7 +9017,7 @@ j^jb I have, enjoy, possess.
       <item>
          
          <pb n="171"/>
-         he had.
+         <foreign xml:lang="per">داشت</foreign> he had.
       </item>
       <item>
          
@@ -8933,8 +9166,14 @@ the brain, the palate.
 jb-O a friend ; harmony, comp.
 of ^5 breath, andjL? from
 to do, make,
+      </item>
+      <item>
+         <foreign xml:lang="per">دو</foreign>
 two.
-
+      </item>
+      <item>
+         
+         
 a. a species of large
 trees; an orchard: rattles for
 children.
@@ -8951,7 +9190,7 @@ JO sewing, piercing. •
 
       </item>
       <item>
-         <foreign xml:lang="per">يار</foreign>
+        
          friend, mistress.
       </item>
       <item>
@@ -9032,8 +9271,15 @@ C^i\j a. compassion, favour.
 
 to drive, banish.
 
-)j a way, path.
 
+      </item>
+      <item>
+         <foreign xml:lang="per">راه</foreign>
+         a way, path.
+      </item>
+      <item>
+         
+         
 CJ-5) t0 ro^’ stea^ infest the
 highway.
 
@@ -9052,8 +9298,18 @@ date.
 to cause to arrive.
 (jrLij to grow; to be delivered.
 ^~3j a. manner, law, regulation.
-arrives,from
-to arrive,
+
+      </item>
+      <item>
+         <foreign xml:lang="per">رسيد</foreign>
+         he arrives, from <ref xml:lang="per">رسيدن</ref>
+      </item>
+      <item>
+         <foreign xml:lang="per">رسيدن</foreign>
+to arrive.
+      </item>
+      <item>
+         
 a line, thread.
 a. Rashid (a conductor)
 proper name.
@@ -9061,10 +9317,15 @@ proper name.
 L, a. tender, delicate, lovely,
 motion.
 <pb n="174"/>
-
-I went, from
-(jzjtj to go: departure.
-
+ </item>        <item>
+            <foreign xml:lang="per">رفتم</foreign>
+            I went, from <ref xml:lang="per">رفتن</ref>
+ </item>
+      <item>
+               <foreign xml:lang="per">رفتن</foreign> to go: departure.
+      </item>
+      <item>
+                  
 to dance: motion.
 a. colouring, painting, em-
 broidery : writing; a letter, cha-
@@ -9144,7 +9405,14 @@ J
 j iforj\) from : if.
 cP]) to be born; to bring forth.
 j>]j a complaint: abed, a place,
+
+      </item>
+      <item>
+         <foreign xml:lang="per">ناليدن</foreign>
 to complain.
+      </item>
+      <item>
+    
 <pb n="175"/>
 
 $>
@@ -9152,8 +9420,15 @@ $>
 dew; frost, hoar frost,
 
 hail.
+      </item>
+      <item>
+         <foreign xml:lang="per">زبان</foreign>
 
-Vj the tongue; language.
+the tongue; language.
+      </item>
+      <item>
+        
+        
 a. the most excellent of
 any tiling, the flour, cream.
 
@@ -9184,10 +9459,12 @@ lJj a lock of hair.
          <foreign xml:lang="per-lat"><persName>Zulaykhâ</persName></foreign>, Potiphar's wife.
       </item>
       <item>
-         
+         <foreign xml:lang="per">زمان</foreign>
 Lj a. the world; fortune;
 time, season.
-
+      </item>
+      <item>
+         
 emerald-coloured,
 made of emeralds.
 uyoj ground, earth.
@@ -9205,8 +9482,14 @@ jj poison, venom.
 
 Jjj poisonous.
 
-Xjj Venus; courage; gall.
-L) 
+      </item>
+      <item>
+         <foreign xml:lang="per">زهره</foreign>
+Venus; courage; gall.
+      </item>
+      <item>
+        
+        
 
 loss, damage.
 
@@ -9222,7 +9505,13 @@ more beautiful.
 
 j) agrees Jrom
 
-to quadrate, agree with.
+
+      </item>
+      <item><foreign xml:lang="per">زيبيدن</foreign>
+         to quadrate, agree with.
+         
+      </item>
+      <item>
 jSj under, below.
 
 \jSj because, for.
@@ -9255,27 +9544,15 @@ a year, age.
 jLj a shade.
 
 a. a cause, motive.
-t0 resign, commit, give
+      </item>
+      <item>
+         <foreign xml:lang="per">سپردن</foreign>
+to resign, commit, give
 in charge; recommend, charge,
-
-> injury,oppression,tyranny,
-threatening.
-
-the injured,' af-
-flicted.
-
-a tyrant,
-the wicked.
-
-a tyrant,
-to praise.
-
-82>\ser> a* a kind of carpet.
-a. rhyme, melody; the
-cooing of doves:
-
 enjoin.
-
+      </item>
+      <item>
+         
 light of weight.
 
 bearers of light
@@ -9300,6 +9577,34 @@ w-
 
 to shave, erase, efface.
 
+
+
+> injury,oppression,tyranny,
+threatening.
+
+the injured,' af-
+flicted.
+
+a tyrant,
+the wicked.
+
+a tyrant,
+to praise.
+
+82>\ser> a* a kind of carpet.
+a. rhyme, melody; the
+cooing of doves:
+
+
+
+
+
+
+
+
+
+
+
 Sjs?3 a. adoration.
 
 a. disposition, temper.
@@ -9319,8 +9624,15 @@ verty.
 
 speech; a word.
 
-_j-*> head, end, extremity; love,
+      </item>
+      <item>
+         <foreign xml:lang="per">سر</foreign>
+head, end, extremity; love,
 desire: principal, supreme.
+      </item>
+      <item>
+         
+         
 <pb n="177"/>
 
 a. a lamp, lantern; the
@@ -9385,8 +9697,14 @@ kand.
 
 jessamine,
 jessamine-bosomed,
-a hyacinth.
 
+      </item>
+      <item>
+         <foreign xml:lang="per">سنبل</foreign>
+a hyacinth.
+      </item>
+      <item>
+         
 a garden of hyacinths
 a stone.
 
@@ -9461,12 +9779,24 @@ to comb.
 !	6yf li» sixteen.
 
 a king, emperor,
-royal, princely.
 
+      </item>
+      <item>
+         <foreign xml:lang="per">شاهوش</foreign>
+royal, princely.
+      </item>
+      <item>
+         
+         
 LrJ^ night.
 
 C-jLi? a. youth,
-one night,
+      </item>
+      <item>
+         <foreign xml:lang="per">شبي</foreign>
+one night.
+      </item>
+      <item>
 haste.
 
 or make haste,
@@ -9607,13 +9937,29 @@ sessor, friend; endowed with.
 (JU^	beautiful.
 
 honest-hearted.
+
+      </item>
+      <item>
+         <foreign xml:lang="per">صبا</foreign>
 a. the zephyr; youth.
-or	a.	morning,
+      </item>
+      <item>
+
+      </item>
+      <item>
+         <foreign xml:lang="per">صبح</foreign>
+         or	<foreign xml:lang="per">صباح</foreign>
+         a.	morning,
 
 aurora.
-
-hi the morning,
-one morning.
+      </item>
+      <item>
+         <foreign xml:lang="per">صبحدم</foreign>
+in the morning,
+      </item>
+      <item>
+         <foreign xml:lang="per">صبحدمي</foreign>
+         one morning.
       </item>
       <item>
          <foreign xml:lang="per">صبر</foreign>
@@ -9655,14 +10001,29 @@ a. light, splendour.
 
 \>
 
-M>a. joy, mirth, festivity,
+
+      </item>
+      <item>
+         <foreign xml:lang="per"></foreign>
+            a. joy, mirth, festivity.
+            
+      </item>
+      <item>
+         
+         
 the house of mirth.
 a. a border, margin,
 
 part.
 
-*)° a. a lock of hair.
-
+      </item>
+      <item>
+         <foreign xml:lang="per">طرٌه</foreign>
+a. a lock of hair.
+      </item>
+      <item>
+         
+         
 (Si)0 a. custom, way, manner.
 <pb n="181"/>
 
@@ -9840,10 +10201,22 @@ J
 a. a tumult, faction, dis-
 cord, mischief, scandal.
 
-a. glorious; glory, orna-
-ment.
-
-\3 a ransom, redemption.
+      </item>
+      <item>
+         <foreign xml:lang="per">فخر</foreign>
+a. glorious; glory, ornament.
+      </item>
+      <item>
+         
+         
+      </item>
+      <item>
+         <foreign xml:lang="per">فدا</foreign>
+a ransom, redemption.
+      </item>
+      <item>
+         
+         
 a. absence, separation,
 oblivion, front
 to forget.
@@ -9950,8 +10323,13 @@ to bear. Effective. W orkmen.
 to penetrate, labour?
 
 Sec.
-
-a caravan,
+      </item>
+      <item>
+         <foreign xml:lang="per">کاروان</foreign>
+a caravan.
+      </item>
+      <item>
+         
 to lessen.
 
 ^ would!
@@ -9961,12 +10339,24 @@ a house, hall, gallery,
 chamber.
 
 (jrtiX to dig.
-iJSV a curling lock.
-
+      </item>
+      <item>
+         <foreign xml:lang="per">جعد</foreign>
+a curling lock.
+      </item>
+      <item>
+         
+         
 the body ; a form, model.
 
-^ desire, wish.
-
+      </item>
+      <item>
+         <foreign xml:lang="per">کام</foreign>
+         desire, wish.
+      </item>
+      <item>
+       
+       
 desire; the obtaining
 one’s wish.
 
@@ -10067,8 +10457,7 @@ from
          
          <foreign xml:lang="per">کشادن</foreign>, 
          
-to open, discover, con-
-quer; to rejoice.
+to open, discover, conquer; to rejoice.
 
       </item>
       <item>
@@ -10112,7 +10501,10 @@ I have suffered or
 
 drawn.
 
-L_aT the hand, the palm.
+      </item>
+      <item>
+         <foreign xml:lang="per">کف</foreign>
+the hand, the palm.
       </item>
       <item>
          <foreign xml:lang="per">گفت</foreign>
@@ -10253,9 +10645,13 @@ U^jfi to smite.
 
 e^U^various,many-coloured,
 a mountain,
-a jewel, pearl; lustre, es-
-sence; self-existing.
-
+      </item>
+      <item>
+         <foreign xml:lang="per">گوهر</foreign>
+         a jewel, pearl; lustre, essence; self-existing.
+      </item>
+      <item>
+         
 who, which: since.
 
 Lf who.
@@ -10323,7 +10719,25 @@ but.
 a. Layl or night.
 <pb n="189"/>
 t. \  ^i-J Layla, a woman s name.	o a. extended, dilated,  spread.
-r  p (annexed to words) my.  *Uo a. water, liquor, juice.  Uo a. that, which.  Uo we; our. Uo ourselves. 20U female: a woman.  a serpent.  ^,Uc us ; to us.  CJU a. bent, from  to rub, grind, polish, to remain. cru-jU) to resemble.  o they remain^yrom^jt^U) *Ud the moon; a month.  with. cheeks like the  moon.  with a face like the  moon.  lunar, monthly; a fish. (JXc a. inclining, having a propensity.  bU* lest, by chance.	do not askyfrom a. similitude, resem- blance.'  A. rhyme.  a. an assembly, banquet. a. Majnun (distracted with love) proper name.  a. a place where people assemble; a collection, junction.  a. love, friendship, be- nevolence; affection; company.  a. a friend, mistress; amiable, dear, beloved.  a. confined, impri- soned.  1*^° a. a friend, counsellor; spouse, husband, wife; any one who from their station in a family is admitted into the haram or women’s apartments.  a. vile, contemptible*  trifling.
+r  p (annexed to words) my.  *Uo a. water, liquor, juice.  Uo a. that, which.  Uo we; our. Uo ourselves. 20U female: a woman.  a serpent.  ^,Uc us ; to us.  CJU a. bent, from  to rub, grind, polish, to remain. cru-jU) to resemble.  o they remain^yrom^jt^U) *Ud the moon; a month.  
+
+      </item>
+      <item>
+         <foreign xml:lang="per">ماه رخ</foreign>
+            with. cheeks like the  moon. 
+      </item>
+      <item>
+         
+with a face like the  moon.  lunar, monthly; a fish. (JXc a. inclining, having a propensity.  bU* lest, by chance.	do not askyfrom a. similitude, resem- blance.'  A. rhyme.  a. an assembly, banquet. a. Majnun (distracted with love) proper name.  a. a place where people assemble; a collection, junction.  a. love, friendship, be- nevolence; affection; company.  
+
+a.      </item>
+      <item>
+         <foreign xml:lang="per">دوست</foreign> a friend, mistress; amiable, dear, beloved.  
+      </item>
+      <item>
+         C-
+
+a. confined, imprisoned.  1*^° a. a friend, counsellor; spouse, husband, wife; any one who from their station in a family is admitted into the haram or women’s apartments.  a. vile, contemptible*  trifling.
 <pb n="190"/>
 
 J*
@@ -10368,8 +10782,16 @@ or pZyc. a man, hero; brave,
 courageously, manfully.
 
 0^3 to die; to be extinguished.
-a. courtesy, generosity,
+a. courtesy, generosity.
+
+      </item>
+      <item>
+         <foreign xml:lang="per">مژده</foreign>
 joyful tidings.
+      </item>
+      <item>
+         
+         
 
 ^—* enamoured, intoxicated,
       </item>
@@ -10384,14 +10806,31 @@ a. perfumed; the palate.
 
 6Jl>\jLsc to view.
 a. the east.
-a. attentive; attention. X.--.'
-musk.	smell-
+
+
+      </item>
+      <item>
+         <foreign xml:lang="per">مشغول</foreign>
+a. attentive; attention. 
+
+     
+     
+      </item>
+      <item>
+         <foreign xml:lang="per">مشک</foreign>
+            musk.	
+      </item>
+      <item>
+    
+            smell-
 
 ing of musk. csfjLso musky.
 
 a. an hemistich;
 one half of a folding door.
-
+      </item>
+      <item>
+         <foreign xml:lang="per">مسدر</foreign>
 a. a source: infinitive.
          </item>
       <item>
@@ -10411,8 +10850,13 @@ tage.
 jjbsuo a. an excuse.
 
 a. a battle, field of battle.
+      </item>
+      <item>
+         <foreign xml:lang="per">معشوق</foreign>
 a. a friend, beloved.
-tejLsuc A. a mistress.
+      </item>
+      <item>
+         <foreign xml:lang="per">معشوکه</foreign>a. a mistress.
 <pb n="191"/>
 
 (JsC
@@ -10459,7 +10903,14 @@ a. a conductor, mover,
 disposer.
 
 a. a recompense,reward
-^5^0 perhaps, by chance; unless,
+
+      </item>
+      <item>
+         <foreign xml:lang="per">مگر</foreign>
+perhaps, by chance; unless.
+      </item>
+      <item>
+        
 wine. •
 a. a sailor.
 li£Lo a. a kingdom, power,
@@ -10522,7 +10973,16 @@ tense.
 Jyc do not bring, the negative
 imperative of
 
-aL/c between, among: middle.
+
+      </item>
+      <item>
+         <foreign xml:lang="per">ميان</foreign>
+            between, among: middle.
+            
+      </item>
+      <item>
+        
+        
 Jry«\-^c do not mix or sprinkle.
 the negative imperative of (jrJszrr*\
 (ju-> thou sawest, second
@@ -10590,14 +11050,29 @@ ignorant.
 a. a conqueror, defender.
 a. a spectator, superin-
 tendant.
-
-a bag (of musk): the navel,
+      </item>
+      <item>
+         <foreign xml:lang="per">نافه</foreign>
+a bag (of musk): the navel.
+      </item>
+      <item>
+         
+         
 full of.
 
-‘VAi suddenly.
+      </item>
+      <item>
+         <foreign xml:lang="per">ناگه</foreign>
+suddenly.
 
-unexpectedly.
-jJSl) plaintive, complaining,
+      </item>
+      <item>
+         <foreign xml:lang="per">ناگهن</foreign>
+            unexpectedly.
+      </item>
+      <item>
+         
+         jJSl) plaintive, complaining,
 to complain,
 a name, \yoti thy name,
 illustrious ; a hero,
@@ -10637,7 +11112,14 @@ NakhshabI, proper
 name,
 y male.
 
-U»y a narcissus.
+      </item>
+      <item>
+         <foreign xml:lang="per">نرگس</foreign>
+a narcissus.
+      </item>
+      <item>
+         
+         
 y gentle, tame ; light: soft.
 5y near.
 
@@ -10651,7 +11133,16 @@ nuscripts are generally written.
 a . a gale.
 
 to cause to sit down.
-a. alacrity, pleasure,
+
+      </item>
+      <item>
+         <foreign xml:lang="per">نشاط</foreign>
+a. alacrity, pleasure.
+
+      </item>
+      <item>
+         
+         
 to fix.
 
 to sit down,
@@ -10684,7 +11175,15 @@ ijXjXjXJ to call or sing aloud.
 
 a. a benefit; victuals.
 jxj beautiful, good; swift*
-a. music, harmony. A
+
+      </item>
+      <item>
+         <foreign xml:lang="per">نغمت</foreign>
+a. music, harmony. 
+
+      </item>
+      <item>
+         
 a. soul, self; breath; de-
 sire.
 
@@ -10769,10 +11268,19 @@ above.
 nine.
 
  placing,from
-2>\y to place.
 
-dfy we have placed.
+      </item>
+      <item>
+         <foreign xml:lang="per">نهادن</foreign>
+         to place.
 
+      </item>
+      <item>
+         <foreign xml:lang="per">نهاده ايم</foreign>
+         we have placed, from <ref xml:lang="per">نهادن</ref>.
+      </item>
+      <item>
+         
 €?
 
 a tree, shrub.
@@ -10828,9 +11336,14 @@ he, she, it is.
 
 Ijkj like, resembling.
 
-(Jloj a. enjoyment; arrival;
+      </item>
+      <item>
+         <foreign xml:lang="per">وصال</foreign>
+a. enjoyment; arrival;
 meeting; conjunction.
-
+      </item>
+      <item>
+         
 a. situation: action;
 
 gesture.
@@ -10848,13 +11361,38 @@ or	a.	separation,	ab-
 sence.
 
 .an assault; impetuosity.
-or u\fb every: soever.
+
+      </item>
+      <item>
+         <foreign xml:lang="per">هم</foreign>
+every: soever.
+
+      </item>
+      <item>
+         
+         
 o\^jb Harat, name of a city.
 
 f*
 
+
+      </item>
+      <item>
+         <foreign xml:lang="per">هرچه</foreign>
+         or
+         <foreign xml:lang="per">هرانکه</foreign>
 whenever.
-or	whatsoever.
+      </item>
+      <item>
+         <foreign xml:lang="per">هرچه</foreign>
+         or
+         <foreign xml:lang="per">هرانچه</foreign>
+         whatsoever.
+
+      </item>
+      <item>
+         
+         
 
 orc^-fb although,
 wherever,
@@ -10895,8 +11433,19 @@ lying on the same
 pillow.
 
 in the same way.
-c*** or jr+ like, as.
 
+
+      </item>
+      <item>
+         <foreign xml:lang="per">همچون</foreign>
+         or 
+         <foreign xml:lang="per">همچو</foreign>
+            like, as.
+            
+      </item>
+      <item>
+        
+        
 ^k^ sleeping together.
 
 breathing together.
@@ -10921,17 +11470,31 @@ black; an Indian.
 time, season,
 yet.
 
-W- air: wind: sound,
+W- air: wind: sound.
+
+
+      </item>
+      <item>
+         <foreign xml:lang="per">هيج</foreign>
 no, never.
 
+      </item>
+      <item>
+        
 ^ dost thou not know?
 from erUJb ^
 
 to lay down.
 l5
 
-V O! or.
-
+      </item>
+      <item>
+         <foreign xml:lang="per">يا</foreign>
+         O! or.
+      </item>
+      <item>
+        
+        
 Aj or uffj finding.
 l*Ay-l may find, both from
 
@@ -10981,12 +11544,20 @@ prey, spoil, booty.
       <item>
 one.
 
-a hero, conqueror; in-
-comparable; unequalled.
+      </item>
+      <item>
+         
+a hero, conqueror; incomparable; unequalled.
+      </item>
+      <item>
+         
+         
          <pb n="198"/>
 
-c£>
-
+         <foreign xml:lang="per">يکتاي</foreign>
+      </item>
+      <item>
+         
 precious, valuable, rare.
 
 inestimable, rare.
