@@ -7752,13 +7752,25 @@ lousy.
 
 to cut.
 
->Lsr the sun.
-
+      </item>
+      <item>
+         <foreign xml:lang="per">آفتاب</foreign>
+         the sun.
+      </item>
+      <item>
+         
+         
 or	a	bottle; a
 
 coffer.
-
+      </item>
+      <item>
+         <foreign xml:lang="per">افتادن</foreign>
 to fall.
+      </item>
+      <item>
+         
+         
 j\y\ exalting, from
 
 Alraslyab, proper
@@ -7989,7 +8001,11 @@ a fawn.
 
 \ coming; come thou,from
 
-cS\ or U O! sign of the voc.
+      </item>
+      <item>
+         <foreign xml:lang="per">اي</foreign> or 
+         <foreign xml:lang="per">ايا</foreign> 
+         O! sign of the voc.
 case.
 
       </item>
@@ -8023,7 +8039,18 @@ vV a. agate; a chapter.
 Babar, a proper name.
 <pb n="160"/>
 
-eniJj to play.  J>b the wind, air; let it be.  L-o ^b zephyr; a gentle gale; the east or morning wind.  
+eniJj to play.  
+
+      </item>
+      <item>
+         <foreign xml:lang="per">باد</foreign>
+the wind, air; let it be. 
+
+      </item>
+      <item>
+        
+        
+L-o ^b zephyr; a gentle gale; the east or morning wind.  
 
       </item>
       <item>
@@ -8142,14 +8169,28 @@ the bosom:
          carrying, ravishing, from
 to rest.
 
-\j* I should rest.
+      </item>
+      <item>
+        
+         I should rest.
+      </item>
+      <item>
+         
+         
 jj to ascend.
 
 Lf\jJ for, because.
-
-y. arises, comes, from
-
-Wy a harp, lute.
+      </item>
+      <item>
+         
+         <foreign xml:lang="per">برآيد</foreign>
+         arises, comes, from <ref xml:lang="per">برآمد</ref>.
+      </item>
+      <item>
+         <foreign xml:lang="per">برآمد</foreign> to arise, come.
+      </item>
+      <item>
+      Wy a harp, lute.
 
 a ray, splendour.
 
@@ -8307,8 +8348,13 @@ an excuse.
 (j-o a kiss.
 
 a garden,
-he kissed, from
-
+      </item>
+      <item>
+         <foreign xml:lang="per">بوسيد</foreign>
+         he kissed, from <ref xml:lang="per">بوديدن</ref>
+      </item>
+      <item>
+         <foreign xml:lang="per">بشيدن</foreign>
 to hide, cover, conceal.
       </item>
       <item>
@@ -8402,8 +8448,12 @@ CUja. a house; a distich.
 inconsiderate.
 
 irregular.
-
-without assistance,
+         </item>
+      <item>
+         <foreign xml:lang="per">بيحواله</foreign>
+without assistance.
+      </item>
+      <item>
 a root, origin,
 without a thorn.
          </item>
@@ -8631,8 +8681,15 @@ VJ alone, only; solitary.
 j3 thou : thy. y thyself.
 
 a. (pi. of histories.
-^j\y it is possible, from^*~J>\y
-
+      </item>
+      <item>
+         <foreign xml:lang="per">توان</foreign> it is possible, from <ref xml:lang="per">تواستن</ref>.
+         <ref xml:lang="per">تواستن</ref>.
+         
+      </item>
+     
+      <item>
+         <foreign xml:lang="per">تواستن</foreign>, it is possible.
       </item>
       <item>
          <foreign xml:lang="per">توبه</foreign>
@@ -8655,10 +8712,21 @@ poor.
          
          
 jy an arrow : the river Tigris.
-jy sharp; violent, passionate,
-a sword.
+      </item>
+      <item>
+         
+         <foreign xml:lang="per">تيز</foreign>
+ sharp; violent, passionate,
+      </item>
+      <item>
+         <foreign xml:lang="per">تيغ</foreign>
+         
+         a sword.
 
-^rfy a. moisture.
+      </item>
+      <item>
+        
+         a. moisture.
 
 
       </item>
@@ -8690,7 +8758,10 @@ a remedy.
          
 a fissure, a breach
 to tear.
-fV a cup, glass; mirror,
+      </item>
+      <item>
+         <foreign xml:lang="per">جام</foreign>
+            a cup, glass; mirror,
 
       </item>
       <item>
@@ -8974,7 +9045,14 @@ China: a ringlet.
        
          a. a bath.  i  
          a. praise. cLOW a. (/;/. of el.oL.) accidents, news.  ^. 
+      </item>
+      <item>
+         <foreign xml:lang="per">حواله</foreign>
          a. assistance, support: a fortress; eminence, mountain.  
+      </item>
+      <item>
+         
+         
          a. (pl. of ) necessaries, necessities: things.
 
 
@@ -8983,7 +9061,12 @@ China: a ringlet.
 
 
 
-CL.*  CjL^. a. life; a portico, vesti- bule.  a. (pi. oftS^.) frauds. a. Jiving, life; an animal.	^ God.  
+CL.*  CjL^. a. life; a portico, vesti- bule.  a. (pi. oftS^.) frauds. a. Jiving, life; an animal.	
+
+      </item>
+      <item>
+         <foreign xml:lang="per">خدا</foreign>
+God.  
       </item>
       <item>
          <foreign xml:lang="per">خداوند</foreign>
@@ -9006,8 +9089,11 @@ a. pure, excellent; noble.
       </item>
       <item>
          
-         
+         <foreign xml:lang="per">خاطر</foreign>
 a. mind, heart, disposition. 
+      </item>
+      <item>
+         
 tjlilL KhakanI, name of a poet. 
 
       </item>
@@ -9129,10 +9215,11 @@ sweet-scented,
 sweet-tempered,
       </item>
       <item>
-        
+         <foreign xml:lang="per">خون</foreign>
 blood.
       </item>
       <item>
+         <foreign xml:lang="per">خونريز</foreign>
          blood-dropping.
 
 
@@ -9147,13 +9234,25 @@ blood.
          
 to chew the cud.
 
-JLl imagination, phantasy;
+      </item>
+      <item>
+         <foreign xml:lang="per">خيال</foreign> imagination, phantasy;
 a spectre: vain, fruitless.
-
+      </item>
+      <item>
+         
+         
 JfrL rising, jrom	or
 
+      </item>
+      <item>
+         <foreign xml:lang="per">خيزيدن</foreign>
 to rise, spring up.
-thou hast risen.
+
+      </item>
+      <item>
+         <foreign xml:lang="per">خيزيدي</foreign>
+         thou hast risen, from <ref xml:lang="per">خيزيدن</ref>.
 
 
       </item>
@@ -9539,7 +9638,10 @@ place.
 jycj a. {pi. ofyrcj) enigmas.
 a. he threw; throwing,
 sorrow, pain.
-t>3> a wanton, dissolute,drunken
+      </item>
+      <item>
+         <foreign xml:lang="per">رند</foreign>
+         a wanton, dissolute,drunken
 person.
 
       </item>
@@ -9570,9 +9672,15 @@ jjv ■ djy-
 
 increasing daily.
 
+      </item>
+      <item>
+         <foreign xml:lang="per">روزگار</foreign>
 fortune, world, time, an
 age; wind, air, vanity.
-
+      </item>
+      <item>
+        
+        
 a journal.
 
 Lfjjj one day: fortune.
@@ -9708,9 +9816,14 @@ a. decay, misery.
       <item>
          
          
-jj poison, venom.
+      </item>
+      <item>
+         <foreign xml:lang="per">زهر</foreign>
+            poison, venom.
 
-Jjj poisonous.
+      </item>
+      <item>
+         <foreign xml:lang="per">جهرناگ</foreign> poisonous.
 
       </item>
       <item>
@@ -9913,7 +10026,9 @@ to mix, compose,
 an occurrence, acci-
 dent : a tab, song, warbling.
 
-£JLij~i wanton; astonishedj
+      </item>
+      <item>
+         <foreign xml:lang="per">سرکشته</foreign> wanton; astonished;
 confused; a vagabond.
 
 
@@ -9941,7 +10056,10 @@ happy, august.
       <item>
 
 Satdl, name of a pod.
-^a. an endeavour, diligence
+      </item>
+      <item>
+         <foreign xml:lang="per">سعي</foreign>
+a. an endeavour, diligence
       </item>
       <item>
          <foreign xml:lang="per">سفتي</foreign>
@@ -10383,7 +10501,15 @@ C^jLiAc- a. two lovers.
 jU a. the end, issue, event,
 success; finally.
 
-a. the world, time; learned,
+      </item>
+      <item>
+         <foreign xml:lang="per">عالم</foreign>
+a. the world, time; learned.
+
+      </item>
+      <item>
+        
+        
 enlightener or in-
 flamer of the world.
 
@@ -10407,7 +10533,14 @@ tion.
 
 a. justice.
 a. an enemy.
+      </item>
+      <item>
+         <foreign xml:lang="per">عذار</foreign>
 a. a cheek, face temples.
+      </item>
+      <item>
+         
+         
 s\j£ a. a wild Arab.
 
 L-ijZ a. an Arabian inhabiting
@@ -10603,8 +10736,14 @@ from
 
 (Jbjyi he sells, both from
 
-fjji a. splendour.
-
+      </item>
+      <item>
+         <foreign xml:lang="per">فروغ</foreign>
+         a. splendour.
+      </item>
+      <item>
+       
+       
 to be dejected.
 or Lf+jj* deceit, from
 
@@ -10656,9 +10795,13 @@ lJ\j Kaf, the name of afabulous mountain.  oJ
 a. a form, figure, shape, stature.  
       </item>
       <item>
+         <foreign xml:lang="per">قدح</foreign>
          
+a. a cup, goblet.  
+      </item>
+      <item>
          
-a. a cup, goblet.  a. fate, predestination; quantity; value; dignity, power.  J\fi a. constancy, consistency, confirmation; quiet.  a. contiguous, related  to.  OoLsJi (pi. of poems, elegies.  a. a palace.  ci> a. a tale; an action.  a. an elegy, poem.  Lii a. fate, death, judgment; jurisdiction.	(pi. of t-Ji) hearts. a. the moon.  Clike the moon.  
+a. fate, predestination; quantity; value; dignity, power.  J\fi a. constancy, consistency, confirmation; quiet.  a. contiguous, related  to.  OoLsJi (pi. of poems, elegies.  a. a palace.  ci> a. a tale; an action.  a. an elegy, poem.  Lii a. fate, death, judgment; jurisdiction.	(pi. of t-Ji) hearts. a. the moon.  Clike the moon.  
 a. a word, speech, eloquence.  a. violence, force, oppres- sion; power; chastisement; anger.  a. measure; reasoning, thought, advice, argument; a syllogism.  pUj a. station,standing; resurrection; confusion, tumult.  a. Cesar, an emperor.  a. as, like, in the same manner.
 <pb n="185"/>	
 
@@ -10735,10 +10878,20 @@ a. a book, letter, writing.
       <item>
 to melt, dispel,
 melting, from the above.
-who? C^cwho is
+      </item>
+      <item>
+         <foreign xml:lang="per">کودم</foreign>
+who? 
+      </item>
+      <item>
+         <foreign xml:lang="per">کودمست</foreign>
+who is
 
 there ?
-
+      </item>
+      <item>
+         
+         
 to leave, neglect.
 
 to pass through.
@@ -10761,13 +10914,16 @@ business, labour: he made.
       <item><foreign xml:lang="per">گرداني</foreign>
 a whirlpool, gulf, precipice.
       </item>
-      <item>
+    
 <pb n="186"/>
-
+      <item>
+         <foreign xml:lang="per">کردار</foreign>
 action, labour, profession ;
 
 life.
-
+      </item>
+      <item>
+         
 the circling of the
 
 glass.
@@ -10875,8 +11031,11 @@ from <ref xml:lang="per">کشودن</ref>
 to discover, open, conquer, delight.
       </item>
       <item>
-         
+         <foreign xml:lang="per">کشور</foreign>
 region, climate, country.
+      </item>
+      <item>
+         
 I have suffered or
 
 drawn.
@@ -10956,9 +11115,13 @@ a. (pi. of Jjjf) the whole ;
 universal. The whole works.
 
 ^ little; defective; absent.
-Cj*jLs[+f to insert, place, com-
-mit : to loose, liberate.
-
+      </item>
+      <item>
+         <foreign xml:lang="per">گمشتن</foreign> to insert, place, commit : to loose, liberate.
+      </item>
+      <item>
+         
+         
 J\*Ta. perfection, accomplish-
 ment, finishing.
 
@@ -11300,7 +11463,9 @@ Guebres or worshippers of fire.
       </item>
       <item>
          
-         ^1^-oLoo cup-bearers.
+      </item>
+      <item>
+         <foreign xml:lang="per">مغپچگان</foreign> cup-bearers.
       </item>
       <item>
          <foreign xml:lang="per">مغز</foreign>
@@ -11321,10 +11486,14 @@ tone.
 a. quantity, space,
 
 number.
-
-a. intention, will, de-
-sire.
-
+      </item>
+      <item>
+         <foreign xml:lang="per">مقصود</foreign>
+a. intention, will, desire.
+      </item>
+      <item>
+        
+        
 a. a conductor, mover,
 
 disposer.
@@ -11423,9 +11592,18 @@ the negative imperative of (jrJszrr*\
 (ju-> thou sawest, second
 person present oj
 
-Sj\ya wine drinkeran
+
+      </item>
+      <item>
+         <foreign xml:lang="per">ميخواره</foreign>
+
+a wine drinker; an
 earthen drinking vessel.
 
+      </item>
+      <item>
+        
+        
 thou knowcst.
 jyc dying, from ^Syo
 \)JY° the son of a prince or
@@ -11509,9 +11687,25 @@ suddenly.
          
          jJSl) plaintive, complaining,
 to complain,
-a name, \yoti thy name,
-illustrious ; a hero,
-a book, history,
+a name.
+
+      </item>
+      <item>
+         <foreign xml:lang="per">نام</foreign>
+             thy name.
+      </item>
+      <item>
+        
+        
+illustrious ; a hero.
+      </item>
+      <item>
+         <foreign xml:lang="per">نامه</foreign>
+a book, history.
+      </item>
+      <item>
+         
+         
 bread.
 
 a. a viceroy, deputy,
@@ -11593,8 +11787,13 @@ Nazami, name of a
 
 poet.
 
-_Jj a. the sight, the eye.
-
+</item>
+      <item>
+         <foreign xml:lang="per">نظر</foreign>
+         a. the sight, the eye.
+</item>
+      <item>
+         <foreign xml:lang="per">نظرباز</foreign>
 rolling the eyes, ogling.
 
 </item>
@@ -11621,10 +11820,12 @@ a. music, harmony.
 
       </item>
       <item>
-         
-a. soul, self; breath; de-
-sire.
+         <foreign xml:lang="per">نفس</foreign>
+a. soul, self; breath; desire.
 
+      </item>
+      <item>
+         
 gain, utility.
 
 y
@@ -11708,7 +11909,13 @@ C^y a. a complaint.
 
 5y ninety.
 
-jy a. light, brightness.
+      </item>
+      <item>
+         <foreign xml:lang="per">نور</foreign> a. light, brightness.
+      </item>
+      <item>
+         
+         
 jjjy the first day of spring.
 *yy nineteen.
 
@@ -12021,13 +12228,15 @@ a hero, conqueror; incomparable; unequalled.
          <pb n="198"/>
 
          <foreign xml:lang="per">يکتاي</foreign>
+         
+precious, valuable, rare.
+      </item>
+      <item>
+         <foreign xml:lang="per">يکدانه</foreign>
+inestimable, rare.
       </item>
       <item>
          
-precious, valuable, rare.
-
-inestimable, rare.
-
 *
 
 one moment,
