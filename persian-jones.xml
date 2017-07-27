@@ -4692,10 +4692,10 @@ to try
 </item></list>
 
 <list>
-<item>Infin. <foreign xml:lang="per">رفسادن</foreign> <gloss>to send</gloss>
+<item>Infin. <foreign xml:lang="per">فرستادن</foreign> <gloss>to send</gloss>
 </item>
-<item>Imper. <foreign xml:lang="per">فرس</foreign> <gloss> send thou</gloss>
-   Aorist <foreign xml:lang="per">فرسم</foreign> <gloss>I may send</gloss>
+<item>Imper. <foreign xml:lang="per">فرست</foreign> <gloss> send thou</gloss>
+   Aorist <foreign xml:lang="per">فرستم</foreign> <gloss>I may send</gloss>
    
 </item></list>
 
@@ -7260,7 +7260,7 @@ long stroke of the reed. As the Persius always write their
 lines of an equal length, they are oliged to place the
 words in a very irregular manner: if tie line be too short,
 they lengthen it by a fine stroke of thireed; if too long,
-they write the words one above anothr. In the Persian
+they write the words one above another. In the Persian
 poems the transcribers place both members of a couplet on
 the same line, and not the first above thesecond, as we do:
 a Persian would write the following versts in this order,
@@ -7624,7 +7624,9 @@ Water, fountain: lustre.
       <item>
          upon: a cloud.
 
-         J\jj\ a. pi. ofj) the just.  colour, paint, comp, of c-A water and colour.  (JLA a. Absal, proper name.  a. Abufazal (father of virtue) proper name.  a. Abulays (father of the lion)proper name.  CA (annexed to words) thy. U*j\ fire. fiery. jr>\ a. a mark, impression, to plant.  a. pi. of*JtXaw the eyes.  A- PI- °fj*~ the noble, free a. or. care, grief. eA***aA a. a present, favour, benefit.	tX*^A a. Ahmad (most worthy of praise) a proper name.  \yaA a. pi of affairs, con- ditions; secrets.  Cf^\ to draw aswordfnifefrc. a. choice, liberty ; pru- dence.  ^A a. end,finally; another.  a. moderns; posterity. a. Adam; a man: a mes- senger.  VA a. when.  j\*\ the 9th Persian month; vernal.  JX fire.  a\a=*^A the province of Media. _j\ bringing, bring thou>from  . or\J\ adorning,
+         J\jj\ a. pi. ofj) the just.  colour, paint, comp, of c-A water and colour.  (JLA a. Absal, proper name.  a. Abufazal (father of virtue) proper name.  a. Abulays (father of the lion)proper name.  CA (annexed to words) thy. U*j\ fire. fiery. jr>\ a. a mark, impression, to plant.  a. pi. of*JtXaw the eyes.  A- PI- °fj*~ the noble, free a. or. care, grief. eA***aA 
+         
+         a. a present, favour, benefit.	tX*^A a. Ahmad (most worthy of praise) a proper name.  \yaA a. pi of affairs, con- ditions; secrets.  Cf^\ to draw aswordfnifefrc. a. choice, liberty ; pru- dence.  ^A a. end,finally; another.  a. moderns; posterity. a. Adam; a man: a mes- senger.  VA a. when.  j\*\ the 9th Persian month; vernal.  JX fire.  a\a=*^A the province of Media. _j\ bringing, bring thou>from  . or\J\ adorning,
 
 v o
 <pb n="156"/>
@@ -7779,7 +7781,14 @@ Alraslyab, proper
 
 name.
 
-(jr^jy\ to inflame.
+
+      </item>
+      <item><foreign xml:lang="per">افروختن</foreign>
+         to inflame.
+         
+      </item>
+      <item>
+         
 jjj*\ inflaming,from the above.
 to create,
 creating,/row. the above,
@@ -7946,7 +7955,14 @@ a. or stars.
 
 to throw, dart,
 throwing, from the above.
-within,
+      </item>
+      <item>
+         <foreign xml:lang="per">اندرون</foreign>
+within.
+      </item>
+      <item>
+         
+         
 little.
 
 to gain, gather
@@ -8038,9 +8054,14 @@ o hang.
 possessed of: people.
 
 wise.
-
+      </item>
+      <item>
+         <foreign xml:lang="per">غزال</foreign>
 a fawn.
-
+      </item>
+      <item>
+         
+         
 \ coming; come thou,from
 
       </item>
@@ -8125,7 +8146,15 @@ C/ib to weave: to tinge.  ^b
          a. the remainder; permanent.
       </item>
       <item>
-         fear, care.  C^jb pure, chaste, clean.	jb£b affectionate.  ^£b more pure.  (j-^c^b innocent, unblemished, beautiful, amiable, gentle, pure, lovely, jb awing: an arm.  Sb above, upwards.  ^j^Jb to strain. 
+         fear, care.  C^jb pure, chaste, clean.	jb£b affectionate.  ^£b more pure.  (j-^c^b innocent, unblemished, beautiful, amiable, gentle, pure, lovely, jb awing: an arm.  
+      </item>
+         <item>
+            <foreign xml:lang="per">بالا</foreign>
+         above, upwards. 
+         </item>    <item>
+                  
+                  
+                     ^j^Jb to strain. 
          
          Mowob in the morning.  
          *^j>b fifteen, t^-oib five hundred.  V  ^>b together.  \ * °  
@@ -8257,7 +8286,10 @@ Lf\jJ for, because.
 
 a ray, splendour.
 
-(to rise, arise.
+      </item>
+      <item>
+         <foreign xml:lang="per">برخاستن</foreign>
+to rise, arise.
       </item>
       <item>
          <foreign xml:lang="per">پرداختن</foreign>
@@ -8387,9 +8419,14 @@ say thou, from Cfisf
       <item>
          
 but.
-
+      </item>
+      <item>
+         <foreign xml:lang="per">بلا</foreign>
 a. misfortune; without,
-
+      </item>
+      <item>
+         
+         
 2>ij a. a country, region,
 a nightingale.
 <pb n="163"/>
@@ -8511,7 +8548,10 @@ the ancient Persian language.
       <item>
          
          
-^bU a desart: uncultivated.
+      </item>
+      <item>
+         <foreign xml:lang="per">بيابان</foreign>
+         a desart: uncultivated.
       </item>
       <item>
          <foreign xml:lang="per">بيابم</foreign>
@@ -8707,9 +8747,17 @@ a. consideration, specu-
 lation.
 
 let alone, leave, relinquish.
-a. a present ; rare, ele-
-gant.
 
+
+      </item>
+      <item>
+         <foreign xml:lang="per">تحفه</foreign>
+a. a present ; rare, elegant.
+
+      </item>
+      <item>
+        
+        
 a. prudence, advice;
 government; regulation.
 
@@ -9287,7 +9335,16 @@ earth, dust.
          
          a. ashamed, blushing;  envy.  
          
-         ClukaJs. a. a blush, shame.	friend of God, proper  name.  stately, pompous. a. murmured : fell from  intellect: small.  
+         ClukaJs. a. a blush, shame.	friend of God, proper  name.  
+         
+      </item>
+      <item>
+         <foreign xml:lang="per">خرامان</foreign>
+            stately, pompous. 
+      </item>
+      <item>
+      
+            a. murmured : fell from  intellect: small.  
       </item>
       <item>
          <foreign xml:lang="per">دقيقه</foreign>
@@ -9598,7 +9655,11 @@ the Persian language,
 bp the sea.
 
 Cnibp to understand.
-or alas!
+      </item>
+      <item>
+         <foreign xml:lang="per">دريغا</foreign>
+         or <foreign xml:lang="per">دريغ</foreign>
+         alas!
       </item>
       <item>
 <foreign xml:lang="per">دست</foreign> the hand,
@@ -9607,7 +9668,13 @@ or alas!
          
          an enemy.
 
-_j2> a register, journal; index.
+      </item>
+      <item>
+         <foreign xml:lang="per">دفتر</foreign> a register, journal; index.
+      </item>
+      <item>
+         
+         
 CJLJto a. minute; subtile,
 small; a subtilty; a minute.
 
@@ -9618,7 +9685,7 @@ fe 2 ________ __________
 
 it passes away.
 
-J* again: anotlier.
+J* again: anotjer.
       </item>
       <item>
          <foreign xml:lang="per">دل</foreign>the heart.
@@ -9751,10 +9818,21 @@ December; yesterday.
 habitations: a country.
 
 Oo3 he saw, from
-to see.
-sight,
+      </item>
+      <item>
+         <foreign xml:lang="per">ديدن</foreign>
+         to see.
+      </item>
+      <item>
+         <foreign xml:lang="per">ديدار</foreign>
+sight.
+      </item>
+      <item>
+         <foreign xml:lang="per">ديروز</foreign>
 yesterday.
-
+      </item>
+      <item>
+        
 J* another.	again.
 
 a collection of an author’s
@@ -9782,7 +9860,9 @@ J	,
 a secret, mystery.
       </item>
       <item>
-j a declivity, foot of a hill.
+
+         <foreign xml:lang="per">راغ</foreign>
+a declivity, foot of a hill.
 
       </item>
       <item>
@@ -9847,7 +9927,12 @@ a line, thread.
 a. Rashid (a conductor)
 proper name.
 
-L, a. tender, delicate, lovely,
+      </item>
+      <item>
+         <foreign xml:lang="per">رعنا</foreign> a. tender, delicate, lovely.
+      </item>
+      <item>
+         
 motion.
 <pb n="174"/>
  </item>        <item>
@@ -9955,9 +10040,17 @@ a road, way.
 
 herbs [ingeneral)pro-
 perlij sweet basil.
-
-to pour,
-pouring, dropping,
+      </item>
+      <item>
+         <foreign xml:lang="per">زيختن</foreign>
+to pour.
+      </item>
+      <item>
+         <foreign xml:lang="per">زير</foreign>
+pouring, dropping.
+      </item>
+      <item>
+         
 to buzz.
 
 J
@@ -10403,7 +10496,14 @@ a beautiful kind of red
 
 rose.
 
-jj~> inflaming, from
+      </item>
+      <item>
+         <foreign xml:lang="per">سوز</foreign> inflaming, from 
+         <ref xml:lang="per">سوختن</ref>
+         
+      </item>
+      <item>
+         
 an oath,
 towards; a place, part,
 
@@ -10940,8 +11040,14 @@ knowledge; a narrative-
 C~oJb-A. punishment, torment.
 ^ a. knowledge, science, art.
 Ia. (/?/. of learned men.
-a. life,	my life.
-
+      </item>
+      <item>
+         <foreign xml:lang="per">عمر</foreign>
+         a. life,	<foreign xml:lang="per">عمرم</foreign> my life.
+      </item>
+      <item>
+         
+         
 action, operation.
 a. amber, ambergris,
 t—a. a nightingale-
@@ -10989,7 +11095,9 @@ a. dust; a thick vapour.
 a. a stranger, foreigner;
 extraordinary. A poor man.
 
-(Ja. a fawn.
+      </item>
+      <item>
+         <foreign xml:lang="per">اهو</foreign> a fawn.
 
       </item>
       <item>
@@ -11053,16 +11161,28 @@ to-morrow.
 
 Fardosi (belonging to
 paradise) name of a poet.
-to send,
+
+      </item>
+      <item>
+         <foreign xml:lang="per">فرستادن</foreign>
+to send.
+
+      </item>
+      <item>
+        
+        
 an angel, messenger;
 
 fairy.
-
+      </item>
+      <item>
+         <foreign xml:lang="per">فراق</foreign>
 a. absence; a troop; a
 
 sect.
-
       </item>
+     
+    
       <item>
          <foreign xml:lang="per">فرمودن</foreign> to command:
       </item>
@@ -11081,10 +11201,15 @@ to sell:
 
 to descend;
 
-cSjjj3 (for	inflamed,
+      </item>
+      <item>
+         <foreign xml:lang="per">فروزي</foreign> 
+         (for <foreign xml:lang="per">افروزي</foreign>) inflamed,
 
-from
-
+from <ref xml:lang="per">افروختن</ref>.
+      </item>
+      <item>
+         
 (Jbjyi he sells, both from
 
       </item>
@@ -11283,9 +11408,12 @@ if: a performer, maker.
          
 \f whom; to whom? hire,
 rent.
-
+      </item>
+      <item>
+         <foreign xml:lang="per">گرازنده</foreign>
 sporting, skipping,
-
+      </item>
+      <item>
 strutting.
 
 though,
@@ -11337,9 +11465,13 @@ to weep.
          
          
 
-
->\jf to perform.
-
+      </item>
+      <item>
+         <foreign xml:lang="per"></foreign> to perform.
+      </item>
+      <item>
+        
+        
 to pass.
 
 to choose; to bite.
@@ -11588,8 +11720,11 @@ to smite.
       <item>
          
          <foreign xml:lang="per">گوناگون</foreign>
-various,many-coloured,
-a mountain,
+various,many-coloured.
+      </item>
+      <item>
+         <foreign xml:lang="per">کوه</foreign>
+a mountain.
       </item>
       <item>
          <foreign xml:lang="per">گوهر</foreign>
@@ -11640,8 +11775,13 @@ to move.
          
          u-3 a. the heart, pith, marrow,
 up to the brim,
-an army.
-
+      </item>
+      <item>
+         <foreign xml:lang="per">لشکر</foreign>
+            an army.
+      </item>
+      <item>
+         <foreign xml:lang="per">لشکر کش</foreign>
 a conquering army.
       </item>
       <item>
@@ -11752,8 +11892,12 @@ Muhammad (praise-
 worthy) proper name.
 
 a. affliction, disgrace.
-a. contracted; an epi-
-tome.
+
+
+      </item>
+      <item>
+         <foreign xml:lang="per">مختصر</foreign>
+a. contracted; an epitome.
 
       </item>
       <item>
@@ -11863,8 +12007,15 @@ a. attentive; attention.
     
             smell-
 
-ing of musk. csfjLso musky.
-
+ing of musk. 
+      </item>
+      <item>
+         <foreign xml:lang="per">مشکين</foreign>
+         musky.
+      </item>
+      <item>
+         
+         
 a. an hemistich;
 one half of a folding door.
       </item>
@@ -12110,9 +12261,10 @@ d°st thou gr°w? from
 is it becoming? <ref n="??"/>
       </item>
       <item>
-         
+         <foreign xml:lang="per">ميغ</foreign>
 a cloud, a fog.
-
+      </item>
+      <item>
 (jZ^jSLtso a seller of wine, comp,
 of (ye wine, and part of
 
@@ -12192,7 +12344,7 @@ a name.
              thy name.
       </item>
       <item>
-        
+         <foreign xml:lang="per">نامدار</foreign>    
         
 illustrious ; a hero.
       </item>
@@ -12380,18 +12532,27 @@ to show.
 
 {pi. of. l_u\j) viceroys,
 Sec.	»
-
-c/iAy to soothe.
-
+      </item>
+      <item>
+         <foreign xml:lang="per">نواختن</foreign>
+         to soothe.
+      </item>
+      <item>
 soothing, from the above.
 <pb n="195"/>
 
 
 
 (pi. oltf\y) a favour.
-jj\y soothing, warbling,
-from
 
+      </item>
+      <item>
+         <foreign xml:lang="per">نوازنده</foreign> soothing, warbling,
+         from <ref xml:lang="per">نواختن</ref>
+
+      </item>
+      <item>
+         
 !/n	^\y	a benefit.
 
 C-oy a. a turn, change, watch,
@@ -12418,10 +12579,17 @@ jjjy the first day of spring.
 
 (Jiy drinking, a drinker; any
 thing drinkable, from ^yy
-C~Jy or (jiJty to write.
-Lj~y write thou, from the
-above.
 
+      </item>
+      <item>
+         <foreign xml:lang="per">نوشت</foreign> or <foreign xml:lang="per">نوشتن</foreign> to write.
+      </item>
+      <item>
+         <foreign xml:lang="per">نويش</foreign>
+         write thou, from <foreign xml:lang="per">نوشتن</foreign>.
+      </item>
+      <item>
+         
 nine.
 
  placing,from
@@ -12441,13 +12609,33 @@ nine.
 €?
 
 a tree, shrub.
-eA^ hidden, from Lr'y
+
+      </item>
+      <item>
+         <foreign xml:lang="per">نهان</foreign>
+         hidden, from  <ref xml:lang="per">نهفتن</ref>.
+      </item>
+      <item>
 jy a. a river; flowing.
 
+         
+      </item>
+      <item>
+         <foreign xml:lang="per">نهفتن</foreign>           
 to hide, lie hid.
+      </item>
+      <item>
+         
+         
 ei a pipe, flute.
-
-even, also: again,
+      </item>
+      <item>
+         <foreign xml:lang="per">نيز</foreign>
+even, also: again.
+      </item>
+      <item>
+         
+         
 there is not.
 
 CA-t-J to write.
