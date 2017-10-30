@@ -1295,14 +1295,14 @@ the former, as well as the latter, has no difference of
 termination to mark the gender, either in substantives or
 adjectives: all inanimate things are neuter, and animals
 of different sexes either have different names, as
-      <foreign xml:lang="per"></foreign> <foreign xml:lang="per-lat">pisar</foreign>,
+      <foreign xml:lang="per">پسر</foreign> <foreign xml:lang="per-lat">pisar</foreign>,
       <gloss>a son</gloss>, <gloss>a boy</gloss>,
-      <foreign xml:lang="per"></foreign> <foreign xml:lang="per-lat">kanîz</foreign>, <gloss>a girl</gloss>, or are distinguished by
+      <foreign xml:lang="per">کنيز</foreign> <foreign xml:lang="per-lat">kanîz</foreign>, <gloss>a girl</gloss>, or are distinguished by
 the words
-      <foreign xml:lang="per"></foreign> <foreign xml:lang="per-lat">nar</foreign>, <gloss>male</gloss>, and 
-      <foreign xml:lang="per"></foreign> <foreign xml:lang="per-lat">mâdah</foreign>, <gloss>female</gloss>: as
-      <foreign xml:lang="per"></foreign> <foreign xml:lang="per-lat">shîri nar</foreign>, <gloss>a lion</gloss>,	
-      <foreign xml:lang="per"></foreign> <foreign xml:lang="per-lat">shîri mâdah</foreign>, <gloss>a lioness</gloss>.
+      <foreign xml:lang="per">نر</foreign> <foreign xml:lang="per-lat">nar</foreign>, <gloss>male</gloss>, and 
+      <foreign xml:lang="per">ماده</foreign> <foreign xml:lang="per-lat">mâdah</foreign>, <gloss>female</gloss>: as
+      <foreign xml:lang="per">شيري نر</foreign> <foreign xml:lang="per-lat">shîri nar</foreign>, <gloss>a lion</gloss>,	
+      <foreign xml:lang="per">شيري ماده</foreign> <foreign xml:lang="per-lat">shîri mâdah</foreign>, <gloss>a lioness</gloss>.
 
    <pb n="18"/>
 
@@ -1314,7 +1314,7 @@ the words
    <foreign xml:lang="per">معشوقه</foreign> <foreign xml:lang="per-lat">maεshûkah</foreign>, <gloss>a
       mistress</gloss>, <gloss xml:lang="lat">amica</gloss>, as in this verse:
 
-   <cit><bibl></bibl><quote>Flowers are in my bosom, ,wine in my hand; and my
+   <cit><bibl></bibl><quote>Flowers are in my bosom, wine in my hand; and my
 mistress yields to my desire.</quote></cit>
 
 But in general, when the Persians adopt an Arabic noun
@@ -2177,7 +2177,7 @@ the compound tenses of the active verbs.</p>
    <pb n="37"/>
    
    
-   <p><foreign xml:lang="per"></foreign> <foreign xml:lang="per-lat">bûdan</foreign>, <gloss>to be</gloss>.
+   <p><foreign xml:lang="per">بودن</foreign> <foreign xml:lang="per-lat">bûdan</foreign>, <gloss>to be</gloss>.
 
 The present tense of this verb is irregular, but very
 easy, and must be carefully remembered, as it is the model
@@ -2185,55 +2185,55 @@ for the variations of person in all tenses.
 
 <list><head>Present Indicative Active.</head>
 
-   <item><foreign xml:lang="per"></foreign> <foreign xml:lang="per-lat">am</foreign>, <gloss>I am</gloss>
-   </item><item>   <foreign xml:lang="per"></foreign> <foreign xml:lang="per-lat">î</foreign>, <gloss>thou art</gloss>
+   <item><foreign xml:lang="per">ام</foreign> <foreign xml:lang="per-lat">am</foreign>, <gloss>I am</gloss>
+   </item><item>   <foreign xml:lang="per">اي</foreign> <foreign xml:lang="per-lat">î</foreign>, <gloss>thou art</gloss>
          
-   </item><item>         <foreign xml:lang="per"></foreign> <foreign xml:lang="per-lat">ast</foreign>, <gloss>he is</gloss>
-   </item><item>    <foreign xml:lang="per"></foreign> <foreign xml:lang="per-lat">êm</foreign>, <gloss>I am</gloss>
-   </item><item>    <foreign xml:lang="per"></foreign> <foreign xml:lang="per-lat">êd</foreign>, <gloss>I am</gloss>
-   </item><item>    <foreign xml:lang="per"></foreign> <foreign xml:lang="per-lat">and</foreign>, <gloss>I am</gloss>
+   </item><item>         <foreign xml:lang="per">است</foreign> <foreign xml:lang="per-lat">ast</foreign>, <gloss>he is</gloss>
+   </item><item>    <foreign xml:lang="per">ايم</foreign> <foreign xml:lang="per-lat">êm</foreign>, <gloss>I am</gloss>
+   </item><item>    <foreign xml:lang="per">ايد</foreign> <foreign xml:lang="per-lat">êd</foreign>, <gloss>I am</gloss>
+   </item><item>    <foreign xml:lang="per">اند</foreign> <foreign xml:lang="per-lat">and</foreign>, <gloss>I am</gloss>
    
    </item>
 </list>
    
 This tense joined to nouns, pronouns, or adjectives, often
-coalesces with them, and loses the initial short \ alif; as
+coalesces with them, and loses the initial short <foreign xml:lang="per">ا</foreign> alif; as
 with pronouns,
 
    <list><head>Present Indicative Active.</head>
       
-      <item><foreign xml:lang="per"></foreign> <foreign xml:lang="per-lat">manam</foreign>, <gloss xml:lang="lat">ego sum</gloss>.
-      </item><item>   <foreign xml:lang="per"></foreign> <foreign xml:lang="per-lat">tô yî</foreign>, <gloss xml:lang="lat">tu es</gloss>.
-      </item><item>   <foreign xml:lang="per"></foreign> <foreign xml:lang="per-lat">ô ast,</foreign>, <gloss xml:lang="lat">ille est</gloss>.
+      <item><foreign xml:lang="per">منم</foreign> <foreign xml:lang="per-lat">manam</foreign>, <gloss xml:lang="lat">ego sum</gloss>.
+      </item><item>   <foreign xml:lang="per">تو يي</foreign> <foreign xml:lang="per-lat">tô yî</foreign>, <gloss xml:lang="lat">tu es</gloss>.
+      </item><item>   <foreign xml:lang="per">اواست</foreign> <foreign xml:lang="per-lat">ô ast,</foreign>, <gloss xml:lang="lat">ille est</gloss>.
 
-      </item><item>   <foreign xml:lang="per"></foreign> <foreign xml:lang="per-lat">mâ îm</foreign>, <gloss xml:lang="lat">nos sumus</gloss>.
-      </item><item>   <foreign xml:lang="per"></foreign> <foreign xml:lang="per-lat">shamâ-îd</foreign>, <gloss xml:lang="lat">vos estis</gloss>.
-      </item><item>   <foreign xml:lang="per"></foreign> <foreign xml:lang="per-lat">êshân and</foreign>, <gloss xml:lang="lat">illi sunt</gloss>.
+      </item><item>   <foreign xml:lang="per">مايم</foreign> <foreign xml:lang="per-lat">mâ îm</foreign>, <gloss xml:lang="lat">nos sumus</gloss>.
+      </item><item>   <foreign xml:lang="per">شمايد</foreign> <foreign xml:lang="per-lat">shamâ-îd</foreign>, <gloss xml:lang="lat">vos estis</gloss>.
+      </item><item>   <foreign xml:lang="per">ايشاند</foreign> <foreign xml:lang="per-lat">êshân and</foreign>, <gloss xml:lang="lat">illi sunt</gloss>.
       </item>
 </list>
    
    <list><head>Present Indicative Active with adjectives.</head>
       
 
-<item>   <foreign xml:lang="per"></foreign> <foreign xml:lang="per-lat">shad am</foreign>, <gloss>I am glad</gloss>.		
+<item>   <foreign xml:lang="per">شادم</foreign> <foreign xml:lang="per-lat">shad am</foreign>, <gloss>I am glad</gloss>.		
 
-</item><item>   <foreign xml:lang="per"></foreign> <foreign xml:lang="per-lat">shad î</foreign>, <gloss>thou art glad</gloss>.	
+</item><item>   <foreign xml:lang="per">شادي</foreign> <foreign xml:lang="per-lat">shad î</foreign>, <gloss>thou art glad</gloss>.	
 
-</item><item>   <foreign xml:lang="per"></foreign> <foreign xml:lang="per-lat">shad ast</foreign>, <gloss>he is glad</gloss>. 
-</item><item>   <foreign xml:lang="per"></foreign> <foreign xml:lang="per-lat">shad êm</foreign>, <gloss>we are glad</gloss>.
-</item><item>   <foreign xml:lang="per"></foreign> <foreign xml:lang="per-lat">shad êd</foreign>, <gloss>you are	glad</gloss>.
-</item><item>   <foreign xml:lang="per"></foreign> <foreign xml:lang="per-lat">shad and</foreign>, <gloss>they are glad</gloss>.
+</item><item>   <foreign xml:lang="per">شادست</foreign> <foreign xml:lang="per-lat">shad ast</foreign>, <gloss>he is glad</gloss>. 
+</item><item>   <foreign xml:lang="per">شاديم</foreign> <foreign xml:lang="per-lat">shad êm</foreign>, <gloss>we are glad</gloss>.
+</item><item>   <foreign xml:lang="per">شاديذ</foreign> <foreign xml:lang="per-lat">shad êd</foreign>, <gloss>you are	glad</gloss>.
+</item><item>   <foreign xml:lang="per">شادند</foreign> <foreign xml:lang="per-lat">shad and</foreign>, <gloss>they are glad</gloss>.
 
 </item></list>
    <pb n="38"/>
    
 
 </p><p>The negatives are formed by prefixing 
-   <foreign xml:lang="per"></foreign> <foreign xml:lang="per-lat">nah</foreign> or 
-   <foreign xml:lang="per"></foreign> <foreign xml:lang="per-lat">na</foreign>,
-   as <foreign xml:lang="per"></foreign> <gloss>I am not</gloss>, etc. but
-   is commonly written <foreign xml:lang="per"></foreign>
-   <foreign xml:lang="per"></foreign> <foreign xml:lang="per-lat">nêst</foreign>, 
+   <foreign xml:lang="per">نه</foreign> <foreign xml:lang="per-lat">nah</foreign> or 
+   <foreign xml:lang="per">ن</foreign> <foreign xml:lang="per-lat">na</foreign>,
+   as <foreign xml:lang="per">نه ام</foreign> <gloss>I am not</gloss>, etc. but
+   is commonly written <foreign xml:lang="per">نه است</foreign>
+   <foreign xml:lang="per">نيست</foreign> <foreign xml:lang="per-lat">nêst</foreign>, 
    <gloss>there is not</gloss>, as
 
 <cit><quote>The path of love is a path to which there is no end,
@@ -2241,40 +2241,40 @@ in which there is no remedy for lovers, but to give
 up their souls.</quote>	<bibl>Hafiz.</bibl></cit>
 
 Second Present from the defective
-   <foreign xml:lang="per"></foreign> <foreign xml:lang="per-lat">hastan</foreign>,	<gloss>to be</gloss>.
+   <foreign xml:lang="per">هستم</foreign> <foreign xml:lang="per-lat">hastan</foreign>,	<gloss>to be</gloss>.
 
 <list><head>Present Indicative active <gloss>to be 2</gloss></head>
-<item><foreign xml:lang="per"></foreign> <gloss>I am.	</gloss></item>
-<item><foreign xml:lang="per"></foreign> <gloss>thou art.</gloss></item>
-<item><foreign xml:lang="per"></foreign> <gloss>he is.</gloss></item>
-<item><foreign xml:lang="per"></foreign> <gloss>we are.</gloss></item>
+<item><foreign xml:lang="per">هستم</foreign> <gloss>I am.	</gloss></item>
+<item><foreign xml:lang="per">هستي</foreign> <gloss>thou art.</gloss></item>
+<item><foreign xml:lang="per">هست</foreign> <gloss>he is.</gloss></item>
+<item><foreign xml:lang="per">هستيم</foreign> <gloss>we are.</gloss></item>
 
-<item><foreign xml:lang="per"></foreign> <gloss>you are.</gloss></item>
-<item><foreign xml:lang="per"></foreign> <gloss>they are.</gloss></item>
+<item><foreign xml:lang="per">هستيد</foreign> <gloss>you are.</gloss></item>
+<item><foreign xml:lang="per">هستند</foreign> <gloss>they are.</gloss></item>
 </list>
 
    <list><head>Preterite Indicative Active.</head>
 
 
 
-<item><foreign xml:lang="per"></foreign> <gloss>I was.</gloss></item>
-<item><foreign xml:lang="per"></foreign> <gloss>thou wast.</gloss></item>
-<item><foreign xml:lang="per"></foreign> <gloss>he was.</gloss></item>
+<item><foreign xml:lang="per">بودم</foreign> <gloss>I was.</gloss></item>
+<item><foreign xml:lang="per">بودي</foreign> <gloss>thou wast.</gloss></item>
+<item><foreign xml:lang="per">بود</foreign> <gloss>he was.</gloss></item>
 
 
-<item><foreign xml:lang="per"></foreign> <gloss>we were.</gloss></item>
-<item><foreign xml:lang="per"></foreign> <gloss>you were.</gloss></item>
-<item><foreign xml:lang="per"></foreign> <gloss>they were.</gloss></item>
+<item><foreign xml:lang="per">بوديم</foreign> <gloss>we were.</gloss></item>
+<item><foreign xml:lang="per">بوديد</foreign> <gloss>you were.</gloss></item>
+<item><foreign xml:lang="per">بودند</foreign> <gloss>they were.</gloss></item>
    </list>
 
    <list><head>Preterite Imperfect Active<note n="grc">Jones does not try to provide a translation to illustrate the English meaning.
    I add one for now so that we have an English mnemonic (problematic as they may turn out to be).</note>.</head>
-<item><foreign xml:lang="per"></foreign> <gloss>I was being</gloss></item>
-<item><foreign xml:lang="per"></foreign> <gloss>thou wast being</gloss></item>
-<item><foreign xml:lang="per"></foreign> <gloss>he was being</gloss></item>
-<item><foreign xml:lang="per"></foreign> <gloss>we were being</gloss></item>
-<item><foreign xml:lang="per"></foreign> <gloss>you were being</gloss></item>
-<item><foreign xml:lang="per"></foreign> <gloss>they were being.</gloss></item>
+<item><foreign xml:lang="per">مي بودم</foreign> <gloss>I was being</gloss></item>
+<item><foreign xml:lang="per">مي بودي</foreign> <gloss>thou wast being</gloss></item>
+<item><foreign xml:lang="per">مي بود</foreign> <gloss>he was being</gloss></item>
+<item><foreign xml:lang="per">مي بوديم</foreign> <gloss>we were being</gloss></item>
+<item><foreign xml:lang="per">مي بوديد</foreign> <gloss>you were being</gloss></item>
+<item><foreign xml:lang="per">مي بودند</foreign> <gloss>they were being.</gloss></item>
 
    </list>
 <pb n="39"/>
